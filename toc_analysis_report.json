@@ -1,0 +1,1342 @@
+{
+  "processed_isbns": {
+    "978-3-12-316303-6": {
+      "isbn": "978-3-12-316303-6",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-316303-6_page_04_20250724_170638.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The heading 'Inhalt' indicates that this is a table of contents.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-316303-6_page_05_20250724_170643.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of headings like 'Inhaltsverzeichnis' and sequential numbering indicates that this is indeed a table of contents.",
+          "page_number": 5
+        },
+        {
+          "filename": "978-3-12-316303-6_page_06_20250724_170648.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential chapter numbering and headings that indicate the content of each section, which are typical indicators of a table of contents.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-316303-6_page_07_20250724_170654.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and headings that indicate a table of contents. The presence of sequential numbering and organized content supports this conclusion.",
+          "page_number": 7
+        },
+        {
+          "filename": "978-3-12-316303-6_page_10_20250724_170709.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, as well as headings indicating the content ('Inhalt'). This aligns with typical characteristics of a table of contents.",
+          "page_number": 10
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-316303-6_page_01_20250724_170623.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows a cover page of a book, which does not contain any elements typical of a table of contents such as chapter listings, page numbers, or structured content layout.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-316303-6_page_02_20250724_170628.png",
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not exhibit the typical structure of a table of contents. It lacks organized chapter listings with page numbers and does not have a clear hierarchical content structure. Instead, it appears to be a mix of instructional content and exercises.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-316303-6_page_03_20250724_170633.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a table of contents. It shows a title page and a list of contributors, which are not indicative of a TOC structure. There are no chapter listings, page numbers, or any of the typical TOC elements.",
+          "page_number": 3
+        },
+        {
+          "filename": "978-3-12-316303-6_page_08_20250724_170659.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed is part of a chapter with exercises and images, rather than a structured table of contents. There are no chapter listings with page numbers or a hierarchical structure typical of a TOC.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-316303-6_page_09_20250724_170704.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be part of a chapter or lesson, featuring numbered steps and instructional text rather than a structured table of contents. There are no chapter listings, page numbers, or typical TOC headings present.",
+          "page_number": 9
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows a cover page of a book, which does not contain any elements typical of a table of contents such as chapter listings, page numbers, or structured content layout.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_01_20250724_170623.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not exhibit the typical structure of a table of contents. It lacks organized chapter listings with page numbers and does not have a clear hierarchical content structure. Instead, it appears to be a mix of instructional content and exercises.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_02_20250724_170628.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a table of contents. It shows a title page and a list of contributors, which are not indicative of a TOC structure. There are no chapter listings, page numbers, or any of the typical TOC elements.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_03_20250724_170633.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The heading 'Inhalt' indicates that this is a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "'Inhalt' heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_04_20250724_170638.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of headings like 'Inhaltsverzeichnis' and sequential numbering indicates that this is indeed a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Inhaltsverzeichnis heading",
+            "Sequential chapter numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_05_20250724_170643.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential chapter numbering and headings that indicate the content of each section, which are typical indicators of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_06_20250724_170648.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and headings that indicate a table of contents. The presence of sequential numbering and organized content supports this conclusion.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Headings indicating table of contents",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_07_20250724_170654.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed is part of a chapter with exercises and images, rather than a structured table of contents. There are no chapter listings with page numbers or a hierarchical structure typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_08_20250724_170659.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be part of a chapter or lesson, featuring numbered steps and instructional text rather than a structured table of contents. There are no chapter listings, page numbers, or typical TOC headings present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_09_20250724_170704.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, as well as headings indicating the content ('Inhalt'). This aligns with typical characteristics of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "'Inhalt' heading",
+            "Sequential chapter numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316303-6_page_10_20250724_170709.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    },
+    "978-3-12-350550-8": {
+      "isbn": "978-3-12-350550-8",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-350550-8_page_04_20250724_171027.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential chapter numbering and headings that indicate it is a table of contents.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-350550-8_page_05_20250724_171032.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate it is a table of contents, such as 'Inhaltsverzeichnis' and lists of topics with page numbers.",
+          "page_number": 5
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-350550-8_page_01_20250724_171011.png",
+          "is_toc": false,
+          "confidence": 0.0,
+          "reasoning": "The screenshot provided does not display any elements typical of a table of contents, such as chapter listings, page numbers, or structured content. It appears to be the cover page of a book.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-350550-8_page_02_20250724_171017.png",
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not show a structured table of contents. Instead, it appears to be an introduction or overview of chapters, without specific chapter listings or page numbers typically found in a TOC.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-350550-8_page_03_20250724_171022.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features introductory pages and publication information rather than a structured list of chapters or sections with corresponding page numbers.",
+          "page_number": 3
+        },
+        {
+          "filename": "978-3-12-350550-8_page_06_20250724_171037.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content from a chapter, including images and text, but does not display a structured table of contents. There are no chapter listings with page numbers or any TOC indicators present.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-350550-8_page_07_20250724_171042.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content pages with text and diagrams related to a specific topic, rather than a structured table of contents. There are no chapter listings, page numbers, or TOC indicators present.",
+          "page_number": 7
+        },
+        {
+          "filename": "978-3-12-350550-8_page_08_20250724_171047.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot contains regular book content and exercises rather than a structured table of contents. There are no chapter listings, page numbers, or TOC indicators present.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-350550-8_page_09_20250724_171052.png",
+          "is_toc": false,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains regular book content and exercises rather than a structured table of contents. There are no chapter listings, page numbers, or TOC indicators present.",
+          "page_number": 9
+        },
+        {
+          "filename": "978-3-12-350550-8_page_10_20250724_171058.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot contains regular book content and does not display a structured table of contents. There are no chapter listings, page numbers, or typical TOC elements present.",
+          "page_number": 10
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.0,
+          "reasoning": "The screenshot provided does not display any elements typical of a table of contents, such as chapter listings, page numbers, or structured content. It appears to be the cover page of a book.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_01_20250724_171011.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not show a structured table of contents. Instead, it appears to be an introduction or overview of chapters, without specific chapter listings or page numbers typically found in a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_02_20250724_171017.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features introductory pages and publication information rather than a structured list of chapters or sections with corresponding page numbers.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_03_20250724_171022.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential chapter numbering and headings that indicate it is a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_04_20250724_171027.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate it is a table of contents, such as 'Inhaltsverzeichnis' and lists of topics with page numbers.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Inhaltsverzeichnis heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_05_20250724_171032.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content from a chapter, including images and text, but does not display a structured table of contents. There are no chapter listings with page numbers or any TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_06_20250724_171037.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content pages with text and diagrams related to a specific topic, rather than a structured table of contents. There are no chapter listings, page numbers, or TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_07_20250724_171042.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot contains regular book content and exercises rather than a structured table of contents. There are no chapter listings, page numbers, or TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_08_20250724_171047.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains regular book content and exercises rather than a structured table of contents. There are no chapter listings, page numbers, or TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_09_20250724_171052.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot contains regular book content and does not display a structured table of contents. There are no chapter listings, page numbers, or typical TOC elements present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350550-8_page_10_20250724_171058.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    },
+    "978-3-12-350552-2": {
+      "isbn": "978-3-12-350552-2",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-350552-2_page_04_20250724_171124.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential numbering and headings typical of a table of contents.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-350552-2_page_05_20250724_171129.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of hierarchical content structure and sequential numbering further supports this.",
+          "page_number": 5
+        },
+        {
+          "filename": "978-3-12-350552-2_page_06_20250724_171134.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a hierarchical content structure. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-350552-2_page_07_20250724_171139.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating a clear table of contents. The presence of sequential numbering and organized content supports this identification.",
+          "page_number": 7
+        },
+        {
+          "filename": "978-3-12-350552-2_page_08_20250724_171144.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of sequential numbering and organized content supports this conclusion.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-350552-2_page_09_20250724_171150.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of sequential chapter numbering and the headings suggest that this is a table of contents.",
+          "page_number": 9
+        },
+        {
+          "filename": "978-3-12-350552-2_page_10_20250724_171155.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of headings like 'Inhaltsverzeichnis' and organized hierarchical content supports this conclusion.",
+          "page_number": 10
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-350552-2_page_01_20250724_171108.png",
+          "is_toc": false,
+          "confidence": 0.0,
+          "reasoning": "The screenshot provided does not contain any visible elements that indicate a table of contents, such as chapter listings, page numbers, or structured content. It appears to be a cover page of a book.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-350552-2_page_02_20250724_171114.png",
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not show a structured table of contents. It appears to be an introduction or overview of chapters rather than a listing of chapters with corresponding page numbers. There are no clear indicators of a TOC such as chapter listings or a hierarchical structure.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-350552-2_page_03_20250724_171119.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features introductory pages and information about the book, but lacks any chapter listings, page numbers, or structured content typical of a TOC.",
+          "page_number": 3
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.0,
+          "reasoning": "The screenshot provided does not contain any visible elements that indicate a table of contents, such as chapter listings, page numbers, or structured content. It appears to be a cover page of a book.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_01_20250724_171108.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not show a structured table of contents. It appears to be an introduction or overview of chapters rather than a listing of chapters with corresponding page numbers. There are no clear indicators of a TOC such as chapter listings or a hierarchical structure.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_02_20250724_171114.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features introductory pages and information about the book, but lacks any chapter listings, page numbers, or structured content typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_03_20250724_171119.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential numbering and headings typical of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_04_20250724_171124.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of hierarchical content structure and sequential numbering further supports this.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_05_20250724_171129.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a hierarchical content structure. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_06_20250724_171134.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating a clear table of contents. The presence of sequential numbering and organized content supports this identification.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_07_20250724_171139.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of sequential numbering and organized content supports this conclusion.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_08_20250724_171144.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of sequential chapter numbering and the headings suggest that this is a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_09_20250724_171150.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of headings like 'Inhaltsverzeichnis' and organized hierarchical content supports this conclusion.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Inhaltsverzeichnis heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-350552-2_page_10_20250724_171155.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    },
+    "978-3-12-316304-3": {
+      "isbn": "978-3-12-316304-3",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-316304-3_page_04_20250724_170735.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which is the German term for 'Contents'. The content is organized hierarchically with sequential numbering, indicating it is a table of contents.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-316304-3_page_05_20250724_170741.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential numbering and headings that indicate sections and topics, which are typical elements of a table of contents.",
+          "page_number": 5
+        },
+        {
+          "filename": "978-3-12-316304-3_page_06_20250724_170746.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of sequential chapter numbering and headings indicates that this is a table of contents.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-316304-3_page_07_20250724_170751.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating a clear table of contents. The presence of headings and a hierarchical content structure further supports this identification.",
+          "page_number": 7
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-316304-3_page_01_20250724_170720.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows a cover page of a book titled 'Deutsch kompetent' and does not display any elements typical of a table of contents, such as chapter listings, page numbers, or structured content. It appears to be a regular book cover rather than a TOC.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-316304-3_page_02_20250724_170725.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a traditional table of contents. Instead, it contains various sections and topics related to the content of the book, but lacks a structured layout typical of a TOC, such as chapter listings with page numbers or a clear hierarchical structure.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-316304-3_page_03_20250724_170730.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a table of contents. Instead, it appears to show a title page or introductory page of a book, with author names and publication details. There are no chapter listings, page numbers, or structured content typical of a TOC.",
+          "page_number": 3
+        },
+        {
+          "filename": "978-3-12-316304-3_page_08_20250724_170756.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content pages from a book, including chapter titles and exercises, but does not display a structured table of contents. There are no clear indicators of a TOC such as a list of chapters with corresponding page numbers or a heading indicating a table of contents.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-316304-3_page_09_20250724_170801.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be from a chapter or lesson, as indicated by the presence of numbered sections and text discussing specific topics. There are no clear indicators of a table of contents, such as chapter listings with page numbers or a structured layout typical of a TOC.",
+          "page_number": 9
+        },
+        {
+          "filename": "978-3-12-316304-3_page_10_20250724_170806.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be part of a chapter or lesson, featuring exercises and discussions rather than a structured table of contents. There are no chapter listings with page numbers or a hierarchical content structure typical of a TOC.",
+          "page_number": 10
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows a cover page of a book titled 'Deutsch kompetent' and does not display any elements typical of a table of contents, such as chapter listings, page numbers, or structured content. It appears to be a regular book cover rather than a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_01_20250724_170720.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a traditional table of contents. Instead, it contains various sections and topics related to the content of the book, but lacks a structured layout typical of a TOC, such as chapter listings with page numbers or a clear hierarchical structure.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_02_20250724_170725.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a table of contents. Instead, it appears to show a title page or introductory page of a book, with author names and publication details. There are no chapter listings, page numbers, or structured content typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_03_20250724_170730.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which is the German term for 'Contents'. The content is organized hierarchically with sequential numbering, indicating it is a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "'Inhalt' heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_04_20250724_170735.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes sequential numbering and headings that indicate sections and topics, which are typical elements of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_05_20250724_170741.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of sequential chapter numbering and headings indicates that this is a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_06_20250724_170746.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating a clear table of contents. The presence of headings and a hierarchical content structure further supports this identification.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Contents heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_07_20250724_170751.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content pages from a book, including chapter titles and exercises, but does not display a structured table of contents. There are no clear indicators of a TOC such as a list of chapters with corresponding page numbers or a heading indicating a table of contents.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_08_20250724_170756.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be from a chapter or lesson, as indicated by the presence of numbered sections and text discussing specific topics. There are no clear indicators of a table of contents, such as chapter listings with page numbers or a structured layout typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_09_20250724_170801.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be part of a chapter or lesson, featuring exercises and discussions rather than a structured table of contents. There are no chapter listings with page numbers or a hierarchical content structure typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316304-3_page_10_20250724_170806.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    },
+    "978-3-12-316306-7": {
+      "isbn": "978-3-12-316306-7",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-316306-7_page_04_20250724_170930.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which indicates that it is a table of contents. The content is organized hierarchically with sequential numbering.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-316306-7_page_05_20250724_170935.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "page_number": 5
+        },
+        {
+          "filename": "978-3-12-316306-7_page_06_20250724_170940.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate it is a table of contents, such as 'Inhaltsverzeichnis' and lists of topics with page numbers.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-316306-7_page_07_20250724_170945.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. It includes headings and a hierarchical organization of topics.",
+          "page_number": 7
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-316306-7_page_01_20250724_170914.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot provided does not display any elements typical of a table of contents, such as chapter listings, page numbers, or a structured layout. It appears to be a cover page or introductory page of a book.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-316306-7_page_02_20250724_170920.png",
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The screenshot does not display a traditional table of contents. Instead, it shows various sections and topics without a clear hierarchical structure or page numbers typically found in a TOC. The content appears to be instructional rather than a listing of chapters or sections.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-316306-7_page_03_20250724_170925.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a table of contents. It appears to show a title page or introductory page with author information, rather than a structured listing of chapters or sections with corresponding page numbers.",
+          "page_number": 3
+        },
+        {
+          "filename": "978-3-12-316306-7_page_08_20250724_170950.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed in the screenshot appears to be from a chapter or lesson rather than a table of contents. It includes headings and materials related to a specific topic, but lacks the structured layout and indicators typical of a TOC, such as chapter listings with page numbers or a clear hierarchical structure.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-316306-7_page_09_20250724_170955.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be part of a chapter or lesson, rather than a table of contents. There are no chapter listings with page numbers, organized hierarchical content structure, or typical TOC headings present. The text seems to be instructional material rather than a structured overview of the book's contents.",
+          "page_number": 9
+        },
+        {
+          "filename": "978-3-12-316306-7_page_10_20250724_171001.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be regular text from the book rather than a structured table of contents. There are no chapter listings, page numbers, or any of the typical TOC indicators present.",
+          "page_number": 10
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot provided does not display any elements typical of a table of contents, such as chapter listings, page numbers, or a structured layout. It appears to be a cover page or introductory page of a book.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_01_20250724_170914.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The screenshot does not display a traditional table of contents. Instead, it shows various sections and topics without a clear hierarchical structure or page numbers typically found in a TOC. The content appears to be instructional rather than a listing of chapters or sections.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_02_20250724_170920.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not display a table of contents. It appears to show a title page or introductory page with author information, rather than a structured listing of chapters or sections with corresponding page numbers.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_03_20250724_170925.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which indicates that it is a table of contents. The content is organized hierarchically with sequential numbering.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Inhalt heading",
+            "Sequential chapter numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_04_20250724_170930.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_05_20250724_170935.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate it is a table of contents, such as 'Inhaltsverzeichnis' and lists of topics with page numbers.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Headings indicating table of contents",
+            "Sequential chapter numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_06_20250724_170940.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. It includes headings and a hierarchical organization of topics.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_07_20250724_170945.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed in the screenshot appears to be from a chapter or lesson rather than a table of contents. It includes headings and materials related to a specific topic, but lacks the structured layout and indicators typical of a TOC, such as chapter listings with page numbers or a clear hierarchical structure.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_08_20250724_170950.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be part of a chapter or lesson, rather than a table of contents. There are no chapter listings with page numbers, organized hierarchical content structure, or typical TOC headings present. The text seems to be instructional material rather than a structured overview of the book's contents.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_09_20250724_170955.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be regular text from the book rather than a structured table of contents. There are no chapter listings, page numbers, or any of the typical TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316306-7_page_10_20250724_171001.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    },
+    "978-3-12-316302-9": {
+      "isbn": "978-3-12-316302-9",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-316302-9_page_04_20250724_170541.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which indicates it is a table of contents. The content is organized hierarchically with sequential numbering.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-316302-9_page_05_20250724_170546.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate sections and subsections, which are typical features of a table of contents.",
+          "page_number": 5
+        },
+        {
+          "filename": "978-3-12-316302-9_page_06_20250724_170551.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of numbered sections and topics indicates that this is a table of contents.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-316302-9_page_07_20250724_170556.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. It includes headings and a hierarchical organization of topics.",
+          "page_number": 7
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-316302-9_page_01_20250724_170526.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows the cover page of a book, which does not contain any chapter listings, page numbers, or structured content typical of a table of contents. It lacks any TOC indicators such as headings or organized content structure.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-316302-9_page_02_20250724_170531.png",
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not exhibit the characteristics of a table of contents. It appears to be a collection of instructional pages or sections rather than a structured listing of chapters or topics with corresponding page numbers.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-316302-9_page_03_20250724_170536.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features a title page with author information and does not display any chapter listings, page numbers, or structured content typical of a TOC.",
+          "page_number": 3
+        },
+        {
+          "filename": "978-3-12-316302-9_page_08_20250724_170602.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content from a chapter, including exercises and text, rather than a structured table of contents. There are no chapter listings with page numbers or any TOC indicators present.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-316302-9_page_09_20250724_170607.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed in the screenshot appears to be from a chapter or lesson, featuring exercises and text rather than a structured table of contents. There are no chapter listings with page numbers or any typical TOC indicators present.",
+          "page_number": 9
+        },
+        {
+          "filename": "978-3-12-316302-9_page_10_20250724_170612.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed in the screenshot appears to be regular text and exercises rather than a structured table of contents. There are no chapter listings, page numbers, or typical TOC headings present.",
+          "page_number": 10
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows the cover page of a book, which does not contain any chapter listings, page numbers, or structured content typical of a table of contents. It lacks any TOC indicators such as headings or organized content structure.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_01_20250724_170526.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.85,
+          "reasoning": "The content displayed does not exhibit the characteristics of a table of contents. It appears to be a collection of instructional pages or sections rather than a structured listing of chapters or topics with corresponding page numbers.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_02_20250724_170531.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features a title page with author information and does not display any chapter listings, page numbers, or structured content typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_03_20250724_170536.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which indicates it is a table of contents. The content is organized hierarchically with sequential numbering.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "'Inhalt' heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_04_20250724_170541.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate sections and subsections, which are typical features of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_05_20250724_170546.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. The presence of numbered sections and topics indicates that this is a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_06_20250724_170551.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. It includes headings and a hierarchical organization of topics.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Contents heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_07_20250724_170556.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows content from a chapter, including exercises and text, rather than a structured table of contents. There are no chapter listings with page numbers or any TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_08_20250724_170602.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed in the screenshot appears to be from a chapter or lesson, featuring exercises and text rather than a structured table of contents. There are no chapter listings with page numbers or any typical TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_09_20250724_170607.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed in the screenshot appears to be regular text and exercises rather than a structured table of contents. There are no chapter listings, page numbers, or typical TOC headings present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316302-9_page_10_20250724_170612.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    },
+    "978-3-12-316305-0": {
+      "isbn": "978-3-12-316305-0",
+      "total_screenshots": 10,
+      "toc_pages": [
+        {
+          "filename": "978-3-12-316305-0_page_04_20250724_170833.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which indicates that it is a table of contents. The content is organized hierarchically with sequential numbering.",
+          "page_number": 4
+        },
+        {
+          "filename": "978-3-12-316305-0_page_05_20250724_170838.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "page_number": 5
+        },
+        {
+          "filename": "978-3-12-316305-0_page_06_20250724_170843.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and hierarchical content organization. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "page_number": 6
+        },
+        {
+          "filename": "978-3-12-316305-0_page_07_20250724_170848.png",
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of headings and a hierarchical organization further supports this.",
+          "page_number": 7
+        }
+      ],
+      "non_toc_pages": [
+        {
+          "filename": "978-3-12-316305-0_page_01_20250724_170817.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows a cover page of a book titled 'Deutsch kompetent' with an image of a person and some decorative elements. There are no indicators of a table of contents, such as chapter listings, page numbers, or structured content layout.",
+          "page_number": 1
+        },
+        {
+          "filename": "978-3-12-316305-0_page_02_20250724_170822.png",
+          "is_toc": false,
+          "confidence": 0.8,
+          "reasoning": "The screenshot does not display a traditional table of contents. Instead, it contains various sections and topics related to the content of the book, but lacks a clear hierarchical structure or chapter listings with page numbers typical of a TOC.",
+          "page_number": 2
+        },
+        {
+          "filename": "978-3-12-316305-0_page_03_20250724_170828.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features a title page with author information and does not display any chapter listings, page numbers, or structured content typical of a TOC.",
+          "page_number": 3
+        },
+        {
+          "filename": "978-3-12-316305-0_page_08_20250724_170853.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed appears to be from the main text of the book, featuring chapter titles and exercises rather than a structured table of contents. There are no clear indicators of a TOC such as a list of chapters with corresponding page numbers or a dedicated TOC heading.",
+          "page_number": 8
+        },
+        {
+          "filename": "978-3-12-316305-0_page_09_20250724_170858.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be from a chapter or lesson, rather than a table of contents. It includes text and exercises rather than a structured list of chapters or sections with page numbers.",
+          "page_number": 9
+        },
+        {
+          "filename": "978-3-12-316305-0_page_10_20250724_170904.png",
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows pages containing regular book content and text, rather than a structured table of contents. There are no chapter listings, page numbers, or any of the typical TOC indicators present.",
+          "page_number": 10
+        }
+      ],
+      "analysis_results": [
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows a cover page of a book titled 'Deutsch kompetent' with an image of a person and some decorative elements. There are no indicators of a table of contents, such as chapter listings, page numbers, or structured content layout.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_01_20250724_170817.png",
+          "page_number": 1
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.8,
+          "reasoning": "The screenshot does not display a traditional table of contents. Instead, it contains various sections and topics related to the content of the book, but lacks a clear hierarchical structure or chapter listings with page numbers typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_02_20250724_170822.png",
+          "page_number": 2
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot does not contain a table of contents. It features a title page with author information and does not display any chapter listings, page numbers, or structured content typical of a TOC.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_03_20250724_170828.png",
+          "page_number": 3
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear heading 'Inhalt', which indicates that it is a table of contents. The content is organized hierarchically with sequential numbering.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "'Inhalt' heading",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_04_20250724_170833.png",
+          "page_number": 4
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and a clear hierarchical content structure. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_05_20250724_170838.png",
+          "page_number": 5
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings, corresponding page numbers, and hierarchical content organization. It includes headings that indicate sections and subsections, which are typical elements of a table of contents.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_06_20250724_170843.png",
+          "page_number": 6
+        },
+        {
+          "is_toc": true,
+          "confidence": 0.95,
+          "reasoning": "The screenshot contains a structured layout with chapter listings and corresponding page numbers, indicating it is a table of contents. The presence of headings and a hierarchical organization further supports this.",
+          "toc_elements_found": [
+            "Chapter listings with page numbers",
+            "Organized hierarchical content structure",
+            "Sequential chapter/section numbering",
+            "Lists of topics with corresponding page numbers"
+          ],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_07_20250724_170848.png",
+          "page_number": 7
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content displayed appears to be from the main text of the book, featuring chapter titles and exercises rather than a structured table of contents. There are no clear indicators of a TOC such as a list of chapters with corresponding page numbers or a dedicated TOC heading.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_08_20250724_170853.png",
+          "page_number": 8
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The content in the screenshot appears to be from a chapter or lesson, rather than a table of contents. It includes text and exercises rather than a structured list of chapters or sections with page numbers.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_09_20250724_170858.png",
+          "page_number": 9
+        },
+        {
+          "is_toc": false,
+          "confidence": 0.9,
+          "reasoning": "The screenshot shows pages containing regular book content and text, rather than a structured table of contents. There are no chapter listings, page numbers, or any of the typical TOC indicators present.",
+          "toc_elements_found": [],
+          "language": "German",
+          "filename": "978-3-12-316305-0_page_10_20250724_170904.png",
+          "page_number": 10
+        }
+      ],
+      "confidence_threshold": 0.7
+    }
+  },
+  "summary": {
+    "total_books_processed": 7,
+    "total_screenshots_analyzed": 70,
+    "total_toc_pages_found": 30,
+    "total_non_toc_pages": 40,
+    "confidence_threshold": 0.7,
+    "estimated_cost": 0.010499999999999999
+  }
+}

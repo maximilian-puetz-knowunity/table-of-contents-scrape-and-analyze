@@ -1,0 +1,23 @@
+# Livebook Screenshot Tool Dependencies
+# ====================================
+
+# Core web automation dependencies
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# AI-powered TOC filtering
+openai>=1.0.0  # For GPT-4o mini TOC filtering
+python-dotenv>=1.0.0  # For loading .env files
+
+# Additional utilities (optional but recommended)
+Pillow>=10.0.0  # For image processing
+requests>=2.31.0  # For HTTP requests
+beautifulsoup4>=4.12.0  # For HTML parsing if needed
+
+# Development and testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipywidgets>=8.0.0 
