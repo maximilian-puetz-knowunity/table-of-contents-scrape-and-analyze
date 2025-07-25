@@ -545,6 +545,110 @@ class LivebookScreenshotTool:
         
         return batch_results
     
+    def screenshot_book_batch(self, book_list: list, base_url_template: str = "https://klettbib.livebook.de/{}/", 
+                             max_pages: int = 10, progress_callback=None) -> Dict[str, Any]:
+        """
+        Capture screenshots for a batch of books with metadata, each in its own directory.
+        
+        Args:
+            book_list (list): List of book dictionaries with keys: isbn, name, subject, grade
+            base_url_template (str): URL template with {} placeholder for ISBN
+            max_pages (int): Maximum pages per book (default: 10)
+            progress_callback (callable): Optional progress callback function
+            
+        Returns:
+            Dict[str, Any]: Results for each book
+        """
+        batch_results = {}
+        
+        for i, book in enumerate(book_list):
+            try:
+                # Validate book dictionary structure
+                required_keys = ['isbn', 'name', 'subject', 'grade']
+                if not all(key in book for key in required_keys):
+                    error_msg = f"Book missing required keys. Expected: {required_keys}, Got: {list(book.keys())}"
+                    self.logger.error(error_msg)
+                    batch_results[f"{book.get('name', 'unknown')}_{book.get('isbn', 'unknown')}"] = {
+                        'success': False,
+                        'error': error_msg,
+                        'captured_pages': []
+                    }
+                    continue
+                
+                if progress_callback:
+                    progress_callback(i, len(book_list), book)
+                
+                # Create URL from template
+                url = base_url_template.format(book['isbn'])
+                
+                # Create directory name: {subject}_{grade}_{name}_{isbn}
+                # Clean the values to make them filesystem-safe
+                subject = self._clean_filename(book['subject'])
+                grade = self._clean_filename(book['grade'])
+                name = self._clean_filename(book['name'])
+                isbn = self._clean_filename(book['isbn'])
+                
+                dir_name = f"{subject}_{grade}_{name}_{isbn}"
+                book_dir = f"screenshots/{dir_name}"
+                
+                self.logger.info(f"Processing book {book['name']} ({book['isbn']}) ({i+1}/{len(book_list)})")
+                self.logger.info(f"Target directory: {book_dir}")
+                
+                # Create base filename
+                base_filename = f"{subject}_{grade}_{name}_{isbn}"
+                
+                # Capture all pages for this book
+                results = self.screenshot_all_pages(
+                    url=url,
+                    base_filename=base_filename,
+                    max_pages=max_pages,
+                    output_dir=book_dir
+                )
+                
+                # Use book name and ISBN as key for clearer identification
+                book_key = f"{book['name']}_{book['isbn']}"
+                batch_results[book_key] = results
+                
+                if results['success']:
+                    self.logger.info(f"✅ {book['name']} ({book['isbn']}): {results['total_pages']} pages captured in {book_dir}")
+                else:
+                    self.logger.warning(f"❌ {book['name']} ({book['isbn']}): Failed - {results.get('error', 'Unknown error')}")
+                
+            except Exception as e:
+                error_msg = f"Failed to process book {book.get('name', 'unknown')} ({book.get('isbn', 'unknown')}): {str(e)}"
+                self.logger.error(error_msg)
+                book_key = f"{book.get('name', 'unknown')}_{book.get('isbn', 'unknown')}"
+                batch_results[book_key] = {
+                    'success': False,
+                    'error': error_msg,
+                    'captured_pages': []
+                }
+        
+        return batch_results
+    
+    def _clean_filename(self, text: str) -> str:
+        """
+        Clean text to be safe for use in filenames and directory names.
+        
+        Args:
+            text (str): Text to clean
+            
+        Returns:
+            str: Cleaned text safe for filesystem use
+        """
+        import re
+        
+        # Replace problematic characters with underscores
+        cleaned = re.sub(r'[<>:"/\\|?*\s]', '_', str(text))
+        
+        # Remove multiple consecutive underscores
+        cleaned = re.sub(r'_+', '_', cleaned)
+        
+        # Remove leading/trailing underscores
+        cleaned = cleaned.strip('_')
+        
+        return cleaned
+    
     def screenshot_all_pages(self, url: str, base_filename: str, max_pages: int = 10, output_dir: str = None) -> Dict[str, Any]:
         """
         Capture screenshots of all pages in a Livebook.

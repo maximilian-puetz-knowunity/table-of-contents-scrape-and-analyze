@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 """
-TOC Screenshot Filter using OpenAI GPT-4o mini
-==============================================
+TOC Screenshot Filter using OpenAI GPT-4o mini with Parallel Processing
+=======================================================================
 
 This script uses OpenAI's GPT-4o mini with vision capabilities to automatically
 analyze screenshots and filter out those that are not part of a book's table of contents.
 
 Features:
-- Analyzes screenshots using AI vision
+- Analyzes screenshots using AI vision with parallel processing
 - Identifies genuine TOC content vs other book pages
 - Organizes filtered results
 - Supports batch processing of multiple ISBN directories
 - Provides confidence scores and detailed analysis
+- Parallel workers for improved performance
+- Rate limiting to respect OpenAI API limits
 """
 
 import os
@@ -21,6 +23,9 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 import time
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from queue import Queue
 
 # Load environment variables from .env file
 try:
@@ -44,6 +49,38 @@ except ImportError:
     exit(1)
 
 
+class RateLimiter:
+    """Rate limiter to control API calls per minute."""
+    
+    def __init__(self, max_calls_per_minute: int = 30):
+        self.max_calls = max_calls_per_minute
+        self.calls = Queue()
+        self.lock = threading.Lock()
+    
+    def wait_if_needed(self):
+        """Wait if necessary to respect rate limits."""
+        with self.lock:
+            current_time = time.time()
+            
+            # Remove calls older than 1 minute
+            while not self.calls.empty():
+                if current_time - self.calls.queue[0] > 60:
+                    self.calls.get()
+                else:
+                    break
+            
+            # If we're at the limit, wait
+            if self.calls.qsize() >= self.max_calls:
+                sleep_time = 60 - (current_time - self.calls.queue[0])
+                if sleep_time > 0:
+                    time.sleep(sleep_time)
+                    # Remove the old call
+                    self.calls.get()
+            
+            # Record this call
+            self.calls.put(current_time)
+
+
 class TOCFilterError(Exception):
     """Custom exception for TOC filtering operations."""
     pass
@@ -51,18 +88,23 @@ class TOCFilterError(Exception):
 
 class TOCScreenshotFilter:
     """
-    AI-powered filter to identify table of contents screenshots.
+    AI-powered filter to identify table of contents screenshots with parallel processing.
     """
     
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o-mini"):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o-mini", 
+                 max_workers: int = 4, max_calls_per_minute: int = 30):
         """
         Initialize the TOC filter.
         
         Args:
             api_key: OpenAI API key (will try to get from environment if not provided)
             model: OpenAI model to use (default: gpt-4o-mini)
+            max_workers: Maximum number of parallel workers for processing
+            max_calls_per_minute: Maximum API calls per minute to respect rate limits
         """
         self.model = model
+        self.max_workers = max_workers
+        self.rate_limiter = RateLimiter(max_calls_per_minute)
         self.setup_logging()
         
         # Initialize OpenAI client
@@ -78,7 +120,7 @@ class TOCScreenshotFilter:
                 )
             self.client = OpenAI(api_key=api_key)
         
-        self.logger.info(f"Initialized TOC filter with model: {model}")
+        self.logger.info(f"Initialized TOC filter with model: {model}, max_workers: {max_workers}, rate_limit: {max_calls_per_minute}/min")
     
     def setup_logging(self):
         """Setup logging for the filter."""
@@ -137,6 +179,9 @@ class TOCScreenshotFilter:
         Returns:
             Dict with analysis results including is_toc, confidence, and reasoning
         """
+        # Apply rate limiting
+        self.rate_limiter.wait_if_needed()
+        
         self.logger.info(f"Analyzing screenshot: {image_path}")
         
         try:
@@ -244,7 +289,7 @@ class TOCScreenshotFilter:
     
     def filter_isbn_directory(self, isbn_dir: str, confidence_threshold: float = 0.7) -> Dict[str, Any]:
         """
-        Filter all screenshots in an ISBN directory to identify TOC pages.
+        Filter all screenshots in an ISBN directory to identify TOC pages using parallel processing.
         
         Args:
             isbn_dir: Path to the ISBN directory containing screenshots
@@ -275,41 +320,66 @@ class TOCScreenshotFilter:
         # Sort screenshots by page number
         screenshots.sort(key=lambda x: x.name)
         
-        self.logger.info(f"Found {len(screenshots)} screenshots to analyze")
+        self.logger.info(f"Found {len(screenshots)} screenshots to analyze with {self.max_workers} workers")
         
         analysis_results = []
         toc_pages = []
         non_toc_pages = []
         
-        for i, screenshot in enumerate(screenshots, 1):
-            self.logger.info(f"Analyzing page {i}/{len(screenshots)}: {screenshot.name}")
+        # Process screenshots in parallel
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            # Submit all analysis tasks
+            future_to_screenshot = {
+                executor.submit(self.analyze_screenshot, str(screenshot)): (screenshot, i)
+                for i, screenshot in enumerate(screenshots, 1)
+            }
             
-            # Analyze screenshot
-            result = self.analyze_screenshot(str(screenshot))
-            result['filename'] = screenshot.name
-            result['page_number'] = i
-            
-            analysis_results.append(result)
-            
-            # Categorize based on confidence threshold
-            if result.get('is_toc', False) and result.get('confidence', 0) >= confidence_threshold:
-                toc_pages.append({
-                    'filename': screenshot.name,
-                    'confidence': result['confidence'],
-                    'reasoning': result['reasoning'],
-                    'page_number': i
-                })
-            else:
-                non_toc_pages.append({
-                    'filename': screenshot.name,
-                    'is_toc': result.get('is_toc', False),
-                    'confidence': result.get('confidence', 0),
-                    'reasoning': result['reasoning'],
-                    'page_number': i
-                })
-            
-            # Small delay to avoid API rate limits
-            time.sleep(0.5)
+            # Collect results as they complete
+            for future in as_completed(future_to_screenshot):
+                screenshot, page_number = future_to_screenshot[future]
+                
+                try:
+                    result = future.result()
+                    result['filename'] = screenshot.name
+                    result['page_number'] = page_number
+                    
+                    analysis_results.append(result)
+                    
+                    # Categorize based on confidence threshold
+                    if result.get('is_toc', False) and result.get('confidence', 0) >= confidence_threshold:
+                        toc_pages.append({
+                            'filename': screenshot.name,
+                            'confidence': result['confidence'],
+                            'reasoning': result['reasoning'],
+                            'page_number': page_number
+                        })
+                        self.logger.info(f"✅ TOC page found: {screenshot.name} (confidence: {result['confidence']:.2f})")
+                    else:
+                        non_toc_pages.append({
+                            'filename': screenshot.name,
+                            'is_toc': result.get('is_toc', False),
+                            'confidence': result.get('confidence', 0),
+                            'reasoning': result['reasoning'],
+                            'page_number': page_number
+                        })
+                        self.logger.info(f"❌ Non-TOC page: {screenshot.name} (confidence: {result.get('confidence', 0):.2f})")
+                        
+                except Exception as e:
+                    self.logger.error(f"Failed to process {screenshot.name}: {e}")
+                    # Add error result
+                    analysis_results.append({
+                        'filename': screenshot.name,
+                        'page_number': page_number,
+                        'is_toc': False,
+                        'confidence': 0.0,
+                        'reasoning': f"Processing failed: {str(e)}",
+                        'error': str(e)
+                    })
+        
+        # Sort results by page number
+        analysis_results.sort(key=lambda x: x['page_number'])
+        toc_pages.sort(key=lambda x: x['page_number'])
+        non_toc_pages.sort(key=lambda x: x['page_number'])
         
         result_summary = {
             'isbn': isbn,
@@ -325,13 +395,15 @@ class TOCScreenshotFilter:
         return result_summary
     
     def filter_batch_directories(self, screenshots_dir: str = "screenshots", 
-                                confidence_threshold: float = 0.7) -> Dict[str, Any]:
+                                confidence_threshold: float = 0.7,
+                                parallel_books: bool = True) -> Dict[str, Any]:
         """
-        Filter screenshots in all ISBN directories.
+        Filter screenshots in all ISBN directories with optional parallel processing.
         
         Args:
             screenshots_dir: Base screenshots directory containing ISBN subdirectories
             confidence_threshold: Minimum confidence score to consider a page as TOC
+            parallel_books: If True, process multiple books in parallel (uses more API calls)
             
         Returns:
             Dict with results for all ISBNs processed
@@ -351,22 +423,54 @@ class TOCScreenshotFilter:
         self.logger.info(f"Found {len(isbn_dirs)} ISBN directories to process")
         
         batch_results = {}
+        start_time = time.time()
         
-        for isbn_dir in isbn_dirs:
-            try:
-                self.logger.info(f"Processing ISBN directory: {isbn_dir.name}")
-                result = self.filter_isbn_directory(str(isbn_dir), confidence_threshold)
-                batch_results[isbn_dir.name] = result
-                
-            except Exception as e:
-                self.logger.error(f"Failed to process {isbn_dir.name}: {e}")
-                batch_results[isbn_dir.name] = {
-                    'error': str(e),
-                    'isbn': isbn_dir.name,
-                    'total_screenshots': 0,
-                    'toc_pages': [],
-                    'non_toc_pages': []
+        if parallel_books and len(isbn_dirs) > 1:
+            # Process books in parallel (more aggressive parallelism)
+            self.logger.info(f"Processing {len(isbn_dirs)} books in parallel")
+            
+            with ThreadPoolExecutor(max_workers=min(len(isbn_dirs), 3)) as executor:  # Limit to 3 books at once
+                future_to_isbn = {
+                    executor.submit(self.filter_isbn_directory, str(isbn_dir), confidence_threshold): isbn_dir.name
+                    for isbn_dir in isbn_dirs
                 }
+                
+                for future in as_completed(future_to_isbn):
+                    isbn = future_to_isbn[future]
+                    try:
+                        result = future.result()
+                        batch_results[isbn] = result
+                        self.logger.info(f"✅ Completed processing: {isbn}")
+                    except Exception as e:
+                        self.logger.error(f"Failed to process {isbn}: {e}")
+                        batch_results[isbn] = {
+                            'error': str(e),
+                            'isbn': isbn,
+                            'total_screenshots': 0,
+                            'toc_pages': [],
+                            'non_toc_pages': []
+                        }
+        else:
+            # Process books sequentially (more conservative)
+            self.logger.info(f"Processing {len(isbn_dirs)} books sequentially")
+            
+            for isbn_dir in isbn_dirs:
+                try:
+                    self.logger.info(f"Processing ISBN directory: {isbn_dir.name}")
+                    result = self.filter_isbn_directory(str(isbn_dir), confidence_threshold)
+                    batch_results[isbn_dir.name] = result
+                    
+                except Exception as e:
+                    self.logger.error(f"Failed to process {isbn_dir.name}: {e}")
+                    batch_results[isbn_dir.name] = {
+                        'error': str(e),
+                        'isbn': isbn_dir.name,
+                        'total_screenshots': 0,
+                        'toc_pages': [],
+                        'non_toc_pages': []
+                    }
+        
+        processing_time = time.time() - start_time
         
         # Generate summary
         total_books = len(batch_results)
@@ -379,10 +483,13 @@ class TOCScreenshotFilter:
             'total_screenshots_analyzed': total_screenshots,
             'total_toc_pages_found': total_toc_pages,
             'total_non_toc_pages': total_non_toc_pages,
-            'confidence_threshold': confidence_threshold
+            'confidence_threshold': confidence_threshold,
+            'processing_time_seconds': round(processing_time, 2),
+            'parallel_processing': parallel_books,
+            'max_workers': self.max_workers
         }
         
-        self.logger.info(f"Batch filtering complete: {total_toc_pages} TOC pages found from {total_screenshots} screenshots across {total_books} books")
+        self.logger.info(f"Batch filtering complete: {total_toc_pages} TOC pages found from {total_screenshots} screenshots across {total_books} books in {processing_time:.1f}s")
         
         return {
             'processed_isbns': batch_results,
@@ -456,9 +563,9 @@ class TOCScreenshotFilter:
 
 
 def main():
-    """Main function to run TOC filtering."""
-    print("📚 TOC Screenshot Filter using OpenAI GPT-4o mini")
-    print("=" * 60)
+    """Main function to run TOC filtering with parallel processing."""
+    print("📚 TOC Screenshot Filter using OpenAI GPT-4o mini (Parallel Processing)")
+    print("=" * 75)
     print()
     
     # Check for OpenAI API key
@@ -470,16 +577,42 @@ def main():
         return
     
     try:
+        # Ask user about processing mode
+        print("🚀 Processing Options:")
+        print("1. Conservative (sequential books, parallel pages within books)")
+        print("2. Aggressive (parallel books + parallel pages - faster but more API usage)")
+        
+        mode = input("\nChoose processing mode (1/2, default=1): ").strip()
+        parallel_books = mode == "2"
+        
+        # Ask about worker count
+        workers = input(f"Number of parallel workers (1-8, default=4): ").strip()
+        try:
+            max_workers = max(1, min(8, int(workers)))
+        except ValueError:
+            max_workers = 4
+        
+        print(f"\n🔧 Configuration:")
+        print(f"   • Processing mode: {'Aggressive' if parallel_books else 'Conservative'}")
+        print(f"   • Max workers: {max_workers}")
+        print(f"   • Rate limit: 30 calls/minute")
+        print()
+        
         # Initialize filter
-        filter_tool = TOCScreenshotFilter()
+        filter_tool = TOCScreenshotFilter(max_workers=max_workers)
         
         # Filter all screenshots
         print("🔍 Analyzing all screenshots to identify TOC pages...")
-        results = filter_tool.filter_batch_directories(confidence_threshold=0.7)
+        start_time = time.time()
+        results = filter_tool.filter_batch_directories(
+            confidence_threshold=0.7, 
+            parallel_books=parallel_books
+        )
+        total_time = time.time() - start_time
         
         # Display results
-        print("\n📊 Analysis Results:")
-        print("-" * 50)
+        print(f"\n📊 Analysis Results (completed in {total_time:.1f}s):")
+        print("-" * 60)
         
         summary = results['summary']
         print(f"📚 Books processed: {summary['total_books_processed']}")
@@ -487,10 +620,16 @@ def main():
         print(f"✅ TOC pages found: {summary['total_toc_pages_found']}")
         print(f"❌ Non-TOC pages: {summary['total_non_toc_pages']}")
         print(f"🎯 Confidence threshold: {summary['confidence_threshold']}")
+        print(f"⚡ Processing time: {summary['processing_time_seconds']}s")
+        print(f"🔧 Workers used: {summary['max_workers']}")
+        
+        # Calculate estimated cost (rough estimate)
+        estimated_cost = summary['total_screenshots_analyzed'] * 0.0015  # Rough estimate
+        print(f"💰 Estimated cost: ${estimated_cost:.4f}")
         
         # Show details for each book
         print(f"\n📋 Detailed Results by ISBN:")
-        print("-" * 50)
+        print("-" * 60)
         
         for isbn, book_results in results['processed_isbns'].items():
             if 'error' in book_results:
@@ -506,9 +645,11 @@ def main():
             
             if toc_count > 0:
                 print("   📑 TOC pages found:")
-                for toc_page in book_results['toc_pages']:
+                for toc_page in book_results['toc_pages'][:3]:  # Show first 3
                     conf = toc_page['confidence']
                     print(f"      • {toc_page['filename']} (confidence: {conf:.2f})")
+                if toc_count > 3:
+                    print(f"      ... and {toc_count - 3} more")
         
         # Ask about organizing files
         print(f"\n🗂️ File Organization:")
