@@ -614,7 +614,7 @@ def organize_files_step(filter_results: Dict[str, Any]) -> None:
             filter_tool.organize_filtered_results(filter_results, organize_files=False)
         
         # Save detailed report
-        report_file = "toc_analysis_report.json"
+        report_file = "reports/toc_analysis_report.json"
         filter_tool.save_analysis_report(filter_results, report_file)
         print(f"💾 Detailed report saved: {report_file}")
         
@@ -698,7 +698,7 @@ def display_final_summary(screenshot_results, filter_results):
     
     print(f"\n📋 Next Steps:")
     print(f"   1. Review TOC pages in the toc_pages/ folders")
-    print(f"   2. Check the detailed report: toc_analysis_report.json")
+    print(f"   2. Check the detailed report: reports/toc_analysis_report.json")
     print(f"   3. Use the TOC screenshots for your project")
     
     print(f"\n💡 To run this workflow again:")
@@ -706,6 +706,39 @@ def display_final_summary(screenshot_results, filter_results):
     print(f"   2. Run: python run_complete_workflow.py")
     
     print(f"\n🎯 Perfect! You now have clean, AI-filtered TOC screenshots!")
+
+def confirm_before_analysis():
+    """
+    Ask user to check the Google Drive content before proceeding with analysis.
+    Returns True if user confirms, False if they cancel.
+    """
+    print("\n" + "="*60)
+    print("📋 IMPORTANT: Before Starting Analysis")
+    print("="*60)
+    print()
+    print("🔍 Please review the content and instructions at:")
+    print("🔗 https://drive.google.com/drive/folders/17xeeabkqmq1hABvsymUSPOusC-Aqbmes?usp=drive_link")
+    print()
+    print("📖 This contains important information about:")
+    print("   • Data collection guidelines")
+    print("   • Usage requirements") 
+    print("   • Best practices for analysis")
+    print("   • Legal and ethical considerations")
+    print()
+    print("⚠️  Please read through the content in the Google Drive before proceeding.")
+    print()
+    
+    while True:
+        response = input("✅ Have you reviewed the content and want to proceed with the analysis? (y/N): ").strip().lower()
+        
+        if response in ['y', 'yes']:
+            print("\n✅ Proceeding with analysis...")
+            return True
+        elif response in ['n', 'no', '']:
+            print("\n❌ Analysis cancelled. Please review the content and run again when ready.")
+            return False
+        else:
+            print("⚠️  Please enter 'y' for yes or 'n' for no.")
 
 def main():
     """
@@ -721,6 +754,10 @@ def main():
     # Display and check configuration
     if not display_configuration():
         print("❌ Configuration invalid. Please fix and try again.")
+        return
+    
+    # Ask user to confirm after reviewing Google Drive content
+    if not confirm_before_analysis():
         return
     
     print("\n" + "="*60)

@@ -41,7 +41,7 @@ CONFIDENCE_THRESHOLD = 0.7  # AI confidence threshold for TOC identification
 
 # Directory Configuration
 SCREENSHOTS_DIR = "screenshots"
-OUTPUT_REPORT = "toc_analysis_report.json"
+OUTPUT_REPORT = "reports/toc_analysis_report.json"
 
 # =============================================================================
 # WORKFLOW FUNCTIONS

@@ -9,6 +9,39 @@ This ensures we capture the complete table of contents wherever it appears.
 
 from livebook_screenshot_tool import LivebookScreenshotTool
 
+def confirm_before_analysis():
+    """
+    Ask user to check the Google Drive content before proceeding with analysis.
+    Returns True if user confirms, False if they cancel.
+    """
+    print("\n" + "="*60)
+    print("📋 IMPORTANT: Before Starting Test Capture")
+    print("="*60)
+    print()
+    print("🔍 Please review the content and instructions at:")
+    print("🔗 https://drive.google.com/drive/folders/17xeeabkqmq1hABvsymUSPOusC-Aqbmes?usp=drive_link")
+    print()
+    print("📖 This contains important information about:")
+    print("   • Data collection guidelines")
+    print("   • Usage requirements") 
+    print("   • Best practices for analysis")
+    print("   • Legal and ethical considerations")
+    print()
+    print("⚠️  Please read through the content in the Google Drive before proceeding.")
+    print()
+    
+    while True:
+        response = input("✅ Have you reviewed the content and want to proceed with test capture? (y/N): ").strip().lower()
+        
+        if response in ['y', 'yes']:
+            print("\n✅ Proceeding with test capture...")
+            return True
+        elif response in ['n', 'no', '']:
+            print("\n❌ Test capture cancelled. Please review the content and run again when ready.")
+            return False
+        else:
+            print("⚠️  Please enter 'y' for yes or 'n' for no.")
+
 def test_multi_page_capture():
     """Test capturing all pages from a Livebook."""
     
@@ -46,4 +79,6 @@ def test_multi_page_capture():
         print(f"❌ Test failed with error: {e}")
 
 if __name__ == "__main__":
-    test_multi_page_capture() 
+    # Ask user to confirm after reviewing Google Drive content
+    if confirm_before_analysis():
+        test_multi_page_capture() 

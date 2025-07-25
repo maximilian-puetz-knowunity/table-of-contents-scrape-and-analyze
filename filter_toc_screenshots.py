@@ -544,7 +544,7 @@ class TOCScreenshotFilter:
                     self.logger.info(f"Would move non-TOC page: {non_toc_page['filename']} -> non_toc_pages/")
     
     def save_analysis_report(self, batch_results: Dict[str, Any], 
-                           output_file: str = "toc_analysis_report.json") -> None:
+                           output_file: str = "reports/toc_analysis_report.json") -> None:
         """
         Save detailed analysis report to JSON file.
         
@@ -553,6 +553,10 @@ class TOCScreenshotFilter:
             output_file: Path to save the report
         """
         try:
+            # Ensure the reports directory exists
+            output_path = Path(output_file)
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(batch_results, f, indent=2, ensure_ascii=False)
             
@@ -665,7 +669,7 @@ def main():
         # Save report
         print("\n💾 Saving analysis report...")
         filter_tool.save_analysis_report(results)
-        print("✅ Report saved to: toc_analysis_report.json")
+        print("✅ Report saved to: reports/toc_analysis_report.json")
         
     except TOCFilterError as e:
         print(f"❌ TOC Filter Error: {e}")

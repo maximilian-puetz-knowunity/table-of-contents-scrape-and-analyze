@@ -168,9 +168,11 @@ demo_output/
 results/
 output/
 custom_output/
-screenshots/
 tocs/
 old/
+screenshots/
+reports/
+legacy/
 
 # Analysis reports
 *_analysis_report*.json

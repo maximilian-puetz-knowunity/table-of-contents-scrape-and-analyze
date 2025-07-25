@@ -375,8 +375,45 @@ class LivebookDebugTool(LivebookScreenshotTool):
             print("  ❌ No TOC element found")
 
 
+def confirm_before_analysis():
+    """
+    Ask user to check the Google Drive content before proceeding with analysis.
+    Returns True if user confirms, False if they cancel.
+    """
+    print("\n" + "="*60)
+    print("📋 IMPORTANT: Before Starting Debug Tool")
+    print("="*60)
+    print()
+    print("🔍 Please review the content and instructions at:")
+    print("🔗 https://drive.google.com/drive/folders/17xeeabkqmq1hABvsymUSPOusC-Aqbmes?usp=drive_link")
+    print()
+    print("📖 This contains important information about:")
+    print("   • Data collection guidelines")
+    print("   • Usage requirements") 
+    print("   • Best practices for analysis")
+    print("   • Legal and ethical considerations")
+    print()
+    print("⚠️  Please read through the content in the Google Drive before proceeding.")
+    print()
+    
+    while True:
+        response = input("✅ Have you reviewed the content and want to proceed with debug tool? (y/N): ").strip().lower()
+        
+        if response in ['y', 'yes']:
+            print("\n✅ Proceeding with debug tool...")
+            return True
+        elif response in ['n', 'no', '']:
+            print("\n❌ Debug tool cancelled. Please review the content and run again when ready.")
+            return False
+        else:
+            print("⚠️  Please enter 'y' for yes or 'n' for no.")
+
 def main():
     """Main function with different debugging modes."""
+    # Ask user to confirm after reviewing Google Drive content
+    if not confirm_before_analysis():
+        return
+    
     print("Livebook Debug Tool")
     print("=" * 50)
     print()
