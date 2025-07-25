@@ -1,21 +1,26 @@
-# Livebook Screenshot Tool
+# Table of Contents Scrape and Analyze
 
-A robust, production-ready Python tool for automatically capturing table of contents screenshots from Livebook educational platforms. This tool specializes in German-language content detection and provides comprehensive error handling for reliable automation.
+A comprehensive system for capturing table of contents from Livebook educational platforms and generating detailed educational taxonomies using AI analysis. This tool combines automated screenshot capture with GPT-4 vision analysis to create structured curricula data.
 
-## 🎯 Features
+## 🎯 Complete System Features
 
+### 📸 Screenshot Capture System
 - **Automatic ChromeDriver Management**: No manual driver installation required
-- **German Language TOC Detection**: Specialized selectors for "Inhaltsverzeichnis"
+- **German Language TOC Detection**: Specialized selectors for "Inhaltsverzeichnis"  
 - **Smart Screenshot Modes**: Full page (recommended) or element-specific capture
 - **Multi-Page Capture**: Automatically capture all pages from Livebooks
 - **ISBN Batch Processing**: Process multiple books with organized directory structure
 - **AI-Powered TOC Filtering**: Uses OpenAI GPT-4o mini to identify actual TOC pages
-- **Multiple Operation Modes**: Both headless and visible browser options
-- **Comprehensive Error Handling**: Robust retry mechanisms and graceful degradation
-- **Jupyter Integration**: Ready-to-use notebook examples with progress tracking
-- **Context Manager Support**: Automatic resource cleanup
-- **Extensive Logging**: Detailed logging for debugging and monitoring
-- **Cost-Effective**: AI filtering costs ~$0.0015 per book (10 pages)
+
+### 🧠 Taxonomy Analysis System
+- **GPT-4 Vision Analysis**: Intelligent analysis of TOC screenshots to extract educational content
+- **Hierarchical Taxonomy Generation**: Creates structured taxonomies with topics, subtopics, and keyterms
+- **Educational Content Focus**: Filters out non-educational content (tests, exercises, practice exams)
+- **Multi-Language Support**: Analyzes German content, outputs English taxonomies
+- **Student-Friendly Naming**: Adjusts topic names for student comprehension
+- **Flexible Processing**: Single book analysis or batch processing of entire collections
+- **Comprehensive Validation**: JSON structure validation and error recovery
+- **Command Line Interface**: Easy-to-use CLI for all operations
 
 ## 📋 Requirements
 
@@ -37,116 +42,252 @@ echo "OPENAI_API_KEY=your-actual-api-key-here" > .env
 
 The `.env` file keeps your API key secure and separate from your code.
 
-## 🚀 Quick Start
+## 🚀 Complete Workflow: From Livebook to Taxonomy
 
-### 1. Installation
+### Step 1: Get Table of Contents from Livebooks
+
+#### What are Livebooks?
+Livebooks are digital educational books hosted at URLs like:
+- `https://klettbib.livebook.de/978-3-12-316302-9/` (German textbooks)
+- Each book has a unique ISBN identifier in the URL
+- The books contain table of contents pages that show the curriculum structure
+
+#### Capturing TOC Screenshots
 
 ```bash
-# Clone or download the project
-git clone <repository-url>
-cd scrape_livebooks
-
-# Install dependencies
+# 1. Installation
+git clone https://github.com/maximilian-puetz-knowunity/table-of-contents-scrape-and-analyze.git
+cd table-of-contents-scrape-and-analyze
 pip install -r requirements.txt
+
+# 2. Set up your OpenAI API key
+echo "OPENAI_API_KEY=your-api-key-here" > .env
+
+# 3. Capture TOC screenshots from Livebooks
+python run_complete_workflow.py
 ```
 
-### 2. Basic Usage
+This will:
+1. **Capture** screenshots from Livebook URLs (up to 10 pages per book)
+2. **Filter** screenshots using AI to identify actual table of contents pages
+3. **Organize** results into `tocs/` directory with clean TOC images ready for analysis
 
-```python
-from livebook_screenshot_tool import LivebookScreenshotTool
-
-# Create tool instance
-tool = LivebookScreenshotTool(headless=True)
-
-# Capture full page screenshot (recommended)
-url = "https://klettbib.livebook.de/978-3-12-316302-9/"
-success = tool.screenshot_livebook_toc(url, "my_screenshot", full_page=True)
-
-if success:
-    print("✅ Screenshot captured successfully!")
-    print("📁 Check the 'screenshots' folder")
-
-# Clean up
-tool.close()
+#### Input: Livebook URLs
+```
+https://klettbib.livebook.de/978-3-12-316302-9/  # Math Grade 6
+https://klettbib.livebook.de/978-3-12-316303-6/  # Math Grade 7  
+https://klettbib.livebook.de/978-3-12-316304-3/  # Math Grade 8
 ```
 
-### 3. Context Manager (Recommended)
+#### Output: TOC Screenshots
+```
+tocs/
+├── toc_Deutsch_6_Deutsch_kompetent_6_978-3-12-316302-9/
+│   ├── page_01.png
+│   ├── page_02.png
+│   └── page_03.png
+├── toc_Mathematik_7_Lambacher_Schweizer_7_978-3-12-316303-6/
+│   ├── page_01.png
+│   └── page_02.png
+```
 
-```python
-from livebook_screenshot_tool import LivebookScreenshotTool
+### Step 2: Analyze TOC Screenshots and Generate Taxonomies
 
-url = "https://klettbib.livebook.de/978-3-12-316302-9/"
+#### What is Taxonomy Analysis?
+The system uses GPT-4 Vision to:
+1. **Read** the German text in TOC screenshots
+2. **Extract** educational topics, subtopics, and learning progression
+3. **Structure** content into hierarchical taxonomies
+4. **Generate** English output with student-friendly names
+5. **Add** relevant keyterms for each educational concept
 
-# Automatic cleanup with context manager
-with LivebookScreenshotTool(headless=True) as tool:
-    success = tool.screenshot_livebook_toc(url, "context_example", full_page=True)
-    print("✅ Screenshot captured!" if success else "❌ Failed!")
+#### Single Book Analysis
+
+```bash
+# Analyze a single book's table of contents
+python analyze_single_book.py tocs/toc_Mathematik_7_Lambacher_Schweizer_7_978-3-12-316303-6/
+
+# With custom options
+python analyze_single_book.py --tocs-dir tocs/toc_specific_book/ --output-dir my_results/ --max-depth 3
+```
+
+#### Batch Analysis (All Books)
+
+```bash
+# Analyze all TOC directories at once
+python run_taxonomy_analysis.py --tocs-dir tocs/ --output-dir taxonomies/
+
+# Non-interactive mode for automation
+python run_taxonomy_analysis.py --tocs-dir tocs/ --non-interactive
+```
+
+#### Interactive Demo
+
+```bash
+# Try the system with a guided demo
+python demo_single_taxonomy.py --tocs-dir tocs/
+```
+
+### Step 3: Understanding the Output
+
+#### Taxonomy JSON Structure
+Each analysis produces a structured JSON file with educational taxonomy:
+
+```json
+{
+    "country": "DE",
+    "grade": "7", 
+    "subject": "Mathematics",
+    "ISBN": "978-3-12-316303-6",
+    "taxonomy": [
+        {
+            "name": "Algebra",
+            "level": 0,
+            "keyterms": ["equations", "variables", "expressions", "solving", "coefficients"],
+            "children": [
+                {
+                    "name": "Linear Equations",
+                    "level": 1,
+                    "keyterms": ["slope", "y-intercept", "graphing", "solving methods"],
+                    "children": [
+                        {
+                            "name": "Solving One-Variable Equations",
+                            "level": 2,
+                            "keyterms": ["isolation", "inverse operations", "checking solutions"],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Geometry", 
+            "level": 0,
+            "keyterms": ["shapes", "area", "perimeter", "angles", "measurement"],
+            "children": [...]
+        }
+    ]
+}
+```
+
+#### What Each Field Means:
+- **name**: Student-friendly topic name (in English)
+- **level**: Hierarchy depth (0=main topics, 1=subtopics, 2=concepts)  
+- **keyterms**: 5-15 relevant terms students associate with the concept
+- **children**: Nested subtopics and concepts
+- **country/grade/subject/ISBN**: Metadata for organizing curricula
+
+### Step 4: Using the Results
+
+#### Educational Applications:
+1. **Curriculum Mapping**: Understand what's taught at each grade level
+2. **Learning Progression**: See how concepts build on each other
+3. **Content Alignment**: Compare curricula across different textbooks
+4. **Student Resources**: Use keyterms for study guides and search
+5. **Educational Technology**: Power adaptive learning systems
+
+#### Output Directory Structure:
+```
+taxonomies/
+├── taxonomy_Deutsch_6_Deutsch_kompetent_6_978-3-12-316302-9.json
+├── taxonomy_Mathematik_7_Lambacher_Schweizer_7_978-3-12-316303-6.json
+├── taxonomy_Erdkunde_8_Terra_Erdkunde_8_978-3-12-316304-3.json
+└── analysis_report.json  # Summary of all processed books
 ```
 
 ## 📚 Documentation
 
 ### Core Components
 
+#### Screenshot Capture System
 | File | Description |
 |------|-------------|
-| `livebook_screenshot_tool.py` | Main tool implementation |
-| `usage_examples.py` | Comprehensive usage examples |
-| `jupyter_example.ipynb` | Jupyter notebook integration |
-| `error_handling_guide.md` | Detailed error handling guide |
+| `livebook_screenshot_tool.py` | Main screenshot capture tool |
+| `filter_toc_screenshots.py` | AI-powered TOC page filtering |
+| `run_complete_workflow.py` | Complete screenshot workflow |
+
+#### Taxonomy Analysis System
+| File | Description |
+|------|-------------|
+| `toc_taxonomy_analyzer.py` | Core GPT-4 vision analysis engine |
+| `analyze_single_book.py` | Single book taxonomy analysis |
+| `run_taxonomy_analysis.py` | Batch taxonomy processing |
+| `demo_single_taxonomy.py` | Interactive taxonomy demo |
+
+#### Configuration & Documentation
+| File | Description |
+|------|-------------|
+| `REQUIREMENTS.md` | JSON input/output specifications |
+| `TAXONOMY_ANALYSIS_README.md` | Detailed taxonomy system documentation |
+| `error_handling_guide.md` | Error handling and troubleshooting |
 | `requirements.txt` | Python dependencies |
 
 ### API Reference
 
-#### LivebookScreenshotTool Class
+#### TocTaxonomyAnalyzer Class
 
 ```python
-class LivebookScreenshotTool:
-    def __init__(self, headless=True, window_size=(1920, 1080)):
+class TocTaxonomyAnalyzer:
+    def __init__(self, api_key: str = None, model: str = "gpt-4-turbo"):
         """
-        Initialize the screenshot tool.
+        Initialize the taxonomy analyzer.
         
         Args:
-            headless (bool): Run browser in headless mode
-            window_size (tuple): Browser window size (width, height)
+            api_key: OpenAI API key (reads from environment if not provided)
+            model: OpenAI model for vision analysis
         """
     
-    def screenshot_livebook_toc(self, url: str, filename: str, retry_count: int = 3, full_page: bool = True) -> bool:
+    def analyze_toc_images(self, images: list, metadata: BookMetadata, max_depth: int = 3) -> dict:
         """
-        Capture screenshot from Livebook URL.
+        Analyze TOC images and generate educational taxonomy.
         
         Args:
-            url: Target Livebook URL
-            filename: Output filename (without extension)
-            retry_count: Number of retry attempts
-            full_page: If True (default), capture full page; if False, try to find TOC element
+            images: List of image file paths
+            metadata: Book metadata (country, grade, subject, ISBN)
+            max_depth: Maximum hierarchy depth for taxonomy
             
         Returns:
-            bool: True if successful, False otherwise
+            dict: Complete taxonomy structure with metadata
         """
     
-    def screenshot_multiple_urls(self, url_filename_pairs: list, progress_callback=None) -> dict:
+    def process_all_toc_directories(self, tocs_dir: str, output_dir: str = "taxonomies", max_depth: int = 3) -> dict:
         """
-        Process multiple URLs with optional progress tracking.
+        Process all TOC directories in batch.
         
         Args:
-            url_filename_pairs: List of (url, filename) tuples
-            progress_callback: Optional callback function
+            tocs_dir: Directory containing TOC subdirectories
+            output_dir: Output directory for taxonomy JSON files
+            max_depth: Maximum taxonomy depth
             
         Returns:
-            dict: Results for each URL
-        """
-    
-    def get_page_info(self, url: str) -> dict:
-        """
-        Analyze page structure for debugging.
-        
-        Args:
-            url: URL to analyze
-            
-        Returns:
-            dict: Page information and element detection results
+            dict: Processing results and statistics
         """
 ```
+
+#### Command Line Tools
+
+```bash
+# Single book analysis
+python analyze_single_book.py [toc_directory] [options]
+
+# Batch processing
+python run_taxonomy_analysis.py --tocs-dir [directory] [options]
+
+# Interactive demo
+python demo_single_taxonomy.py --tocs-dir [directory]
+
+# Complete workflow (screenshots + analysis)
+python run_complete_workflow.py
+```
+
+#### Available Options
+
+| Option | Description | Default |
+|--------|-------------|---------|
+| `--tocs-dir` | Directory containing TOC images | Required |
+| `--output-dir` | Output directory for results | `taxonomies/` |
+| `--max-depth` | Maximum taxonomy hierarchy depth | `3` |
+| `--non-interactive` | Run without user prompts | `False` |
 
 ## 🛠️ Configuration Options
 
@@ -180,122 +321,102 @@ driver = tool.driver
 
 ## 📖 Usage Examples
 
-### Example 1: Basic Screenshot
+### Example 1: Complete Workflow (Recommended)
 
-```python
-from livebook_screenshot_tool import LivebookScreenshotTool
+```bash
+# One command to do everything:
+# 1. Capture screenshots from Livebook URLs
+# 2. Filter and identify TOC pages  
+# 3. Analyze TOC content with GPT-4 Vision
+# 4. Generate structured educational taxonomies
 
-with LivebookScreenshotTool() as tool:
-    url = "https://klettbib.livebook.de/978-3-12-756141-8/"
-    success = tool.screenshot_livebook_toc(url, "basic_example")
-    print("✅ Success!" if success else "❌ Failed!")
+python run_complete_workflow.py
 ```
 
-### Example 2: Batch Processing
+### Example 2: Analyze Single Book
 
-```python
-from livebook_screenshot_tool import LivebookScreenshotTool
+```bash
+# Analyze taxonomy for one specific book
+python analyze_single_book.py tocs/toc_Mathematik_7_Lambacher_Schweizer_7_978-3-12-316303-6/
 
-urls_and_files = [
-    ("https://klettbib.livebook.de/book1/", "book1_toc"),
-    ("https://klettbib.livebook.de/book2/", "book2_toc"),
-]
-
-def progress(current, total, url):
-    print(f"Progress: {current+1}/{total} - {url}")
-
-with LivebookScreenshotTool() as tool:
-    results = tool.screenshot_multiple_urls(urls_and_files, progress)
-    
-    successful = sum(results.values())
-    print(f"✅ Completed: {successful}/{len(results)} screenshots")
+# Custom output directory and depth
+python analyze_single_book.py \
+    --tocs-dir tocs/toc_Deutsch_6_Deutsch_kompetent_6_978-3-12-316302-9/ \
+    --output-dir my_analysis/ \
+    --max-depth 4
 ```
 
-### Example 3: Error Handling
+### Example 3: Batch Taxonomy Analysis
 
-```python
-from livebook_screenshot_tool import LivebookScreenshotTool, LivebookScreenshotError
+```bash
+# Analyze all TOC directories at once
+python run_taxonomy_analysis.py --tocs-dir tocs/ --output-dir taxonomies/
 
-with LivebookScreenshotTool() as tool:
-    try:
-        success = tool.screenshot_livebook_toc(url, "error_example")
-        if success:
-            print("✅ Screenshot captured successfully!")
-        else:
-            print("⚠️ Screenshot failed but no exception raised")
-            
-    except LivebookScreenshotError as e:
-        print(f"❌ Livebook Error: {e}")
-        # Handle specific error cases
-        
-    except Exception as e:
-        print(f"❌ Unexpected Error: {e}")
-        # Handle general errors
+# Non-interactive mode for automation
+python run_taxonomy_analysis.py --tocs-dir tocs/ --non-interactive --max-depth 3
 ```
 
-### Example 4: ISBN Batch Processing
+### Example 4: Interactive Demo
 
-```python
-from livebook_screenshot_tool import LivebookScreenshotTool
+```bash
+# Try the system with guided walkthrough
+python demo_single_taxonomy.py --tocs-dir tocs/
 
-# List of ISBNs to process
-isbn_list = [
-    "978-3-12-316302-9",
-    "978-3-12-123456-7",
-    "978-3-12-789012-3"
-]
-
-with LivebookScreenshotTool() as tool:
-    # Process all ISBNs, max 10 pages per book
-    results = tool.screenshot_isbn_batch(
-        isbn_list=isbn_list,
-        max_pages=10
-    )
-    
-    # Results organized in directories:
-    # screenshots/978-3-12-316302-9/
-    # screenshots/978-3-12-123456-7/
-    # screenshots/978-3-12-789012-3/
+# Non-interactive demo
+python demo_single_taxonomy.py --tocs-dir tocs/ --non-interactive
 ```
 
-### Example 5: All Pages Capture
+### Example 5: Using the Python API
 
 ```python
-from livebook_screenshot_tool import LivebookScreenshotTool
+from toc_taxonomy_analyzer import TocTaxonomyAnalyzer
 
-with LivebookScreenshotTool() as tool:
-    url = "https://klettbib.livebook.de/978-3-12-316302-9/"
-    
-    # Capture all pages (up to 10 by default)
-    results = tool.screenshot_all_pages(
-        url=url,
-        base_filename="complete_book",
-        max_pages=10,
-        output_dir="my_custom_directory"
-    )
-    
-    print(f"Captured {results['total_pages']} pages")
+# Initialize analyzer
+analyzer = TocTaxonomyAnalyzer()
+
+# Process single TOC directory
+toc_dir = "tocs/toc_Mathematik_7_Lambacher_Schweizer_7_978-3-12-316303-6/"
+results = analyzer.process_single_directory(toc_dir, max_depth=3)
+
+if results['success']:
+    print(f"✅ Generated taxonomy with {len(results['taxonomy']['taxonomy'])} main topics")
+    print(f"📁 Saved to: {results['output_file']}")
+else:
+    print(f"❌ Analysis failed: {results.get('error', 'Unknown error')}")
 ```
 
-### Example 6: AI-Powered TOC Filtering
+### Example 6: Working with Results
 
 ```python
-from filter_toc_screenshots import TOCScreenshotFilter
+import json
 
-# OpenAI API key is automatically loaded from .env file
-# Just make sure you have: OPENAI_API_KEY=your-key in .env
+# Load generated taxonomy
+with open('taxonomies/taxonomy_Mathematik_7_Lambacher_Schweizer_7_978-3-12-316303-6.json') as f:
+    taxonomy = json.load(f)
 
-# Filter all screenshots to identify TOC pages
-filter_tool = TOCScreenshotFilter()
-results = filter_tool.filter_batch_directories(
-    screenshots_dir="screenshots",
-    confidence_threshold=0.7
-)
+# Extract all topics and subtopics
+def extract_all_topics(taxonomy_items, level=0):
+    topics = []
+    for item in taxonomy_items:
+        topics.append({
+            'name': item['name'],
+            'level': item['level'],
+            'keyterms': item['keyterms']
+        })
+        if item['children']:
+            topics.extend(extract_all_topics(item['children'], level+1))
+    return topics
 
-# Organize files into toc_pages/ and non_toc_pages/ folders
-filter_tool.organize_filtered_results(results, organize_files=True)
+all_topics = extract_all_topics(taxonomy['taxonomy'])
+print(f"Total educational concepts found: {len(all_topics)}")
 
-print(f"Found {results['summary']['total_toc_pages_found']} TOC pages")
+# Find all keyterms for the subject
+all_keyterms = []
+for topic in all_topics:
+    all_keyterms.extend(topic['keyterms'])
+
+unique_keyterms = list(set(all_keyterms))
+print(f"Unique educational terms: {len(unique_keyterms)}")
 ```
 
 ## 🚀 Complete Workflow
@@ -368,55 +489,106 @@ jupyter notebook
 
 ### Common Issues
 
+#### Screenshot Capture Issues
 | Issue | Solution |
 |-------|----------|
 | ChromeDriver not found | Check internet connection, clear `~/.wdm/drivers/` |
-| TOC element not found | Use `get_page_info()` to analyze page structure |
-| Permission denied | Check file permissions, try different output directory |
 | Page load timeout | Increase timeout, check network connection |
+| Permission denied | Check file permissions, try different output directory |
 | Memory issues | Use headless mode, restart browser periodically |
+
+#### Taxonomy Analysis Issues  
+| Issue | Solution |
+|-------|----------|
+| OpenAI API key error | Check `.env` file has `OPENAI_API_KEY=your-key` |
+| JSON parsing error | Check log files, use `--max-depth 2` for simpler output |
+| No TOC images found | Verify TOC directory structure and image files |
+| GPT-4 analysis fails | Check API quota, try again later, verify model availability |
+| Malformed taxonomy output | Use built-in JSON repair mechanisms, check input images |
 
 ### Debug Mode
 
+#### Screenshot Debugging
 ```python
 # Enable debug logging
 import logging
 logging.basicConfig(level=logging.DEBUG)
 
 # Use visible browser for inspection
+from livebook_screenshot_tool import LivebookScreenshotTool
 tool = LivebookScreenshotTool(headless=False)
+```
 
-# Analyze page structure
-info = tool.get_page_info(url)
-print(info)
+#### Taxonomy Analysis Debugging
+```python
+# Enable detailed logging for taxonomy analysis
+from toc_taxonomy_analyzer import TocTaxonomyAnalyzer
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
+analyzer = TocTaxonomyAnalyzer()
+
+# Test with single directory
+results = analyzer.process_single_directory("tocs/test_directory/")
+print(f"Debug info: {results}")
 ```
 
 ### Getting Help
 
-1. **Check Error Handling Guide**: See `error_handling_guide.md` for detailed troubleshooting
+1. **Check Documentation**: 
+   - `TAXONOMY_ANALYSIS_README.md` for taxonomy system details
+   - `error_handling_guide.md` for detailed troubleshooting
 2. **Enable Debug Logging**: Set logging level to DEBUG for detailed output
-3. **Use Page Analysis**: `get_page_info()` provides insights into page structure
-4. **Try Visible Mode**: `headless=False` allows manual inspection
+3. **Test Components Separately**: 
+   - Test screenshot capture first with `run_complete_workflow.py`
+   - Then test taxonomy analysis with `demo_single_taxonomy.py`
+4. **Verify API Access**: Ensure your OpenAI API key has GPT-4 vision access
 
 ## 📁 Project Structure
 
 ```
-scrape_livebooks/
-├── livebook_screenshot_tool.py    # Main tool implementation
-├── filter_toc_screenshots.py      # AI-powered TOC filtering using GPT-4o mini
-├── run_complete_workflow.py       # Complete workflow script (capture + filter)
-├── usage_examples.py              # Comprehensive examples
-├── jupyter_example.ipynb          # Jupyter integration with AI filtering
-├── test_isbn_batch.py             # Test script for ISBN batch processing
-├── test_toc_filter.py             # Test script for AI TOC filtering
-├── config_example.py              # Complete workflow configuration
-├── error_handling_guide.md        # Error handling documentation
-├── requirements.txt               # Python dependencies (includes OpenAI)
-├── README.md                      # This file
-└── screenshots/                   # Output directory (auto-created)
-    └── [ISBN]/                    # Organized by ISBN
-        ├── toc_pages/             # AI-identified TOC pages
-        └── non_toc_pages/         # Other pages
+table-of-contents-scrape-and-analyze/
+├── 📸 Screenshot Capture System
+│   ├── livebook_screenshot_tool.py     # Main screenshot capture tool
+│   ├── filter_toc_screenshots.py       # AI-powered TOC page filtering
+│   ├── run_complete_workflow.py        # Complete screenshot workflow
+│   └── copy_toc_pages.py               # Utility for organizing TOC files
+│
+├── 🧠 Taxonomy Analysis System  
+│   ├── toc_taxonomy_analyzer.py        # Core GPT-4 vision analysis engine
+│   ├── analyze_single_book.py          # Single book taxonomy analysis
+│   ├── run_taxonomy_analysis.py        # Batch taxonomy processing
+│   ├── demo_single_taxonomy.py         # Interactive taxonomy demo
+│   └── test_taxonomy_parser.py         # Testing and validation tools
+│
+├── 📋 Configuration & Documentation
+│   ├── REQUIREMENTS.md                 # JSON input/output specifications
+│   ├── TAXONOMY_ANALYSIS_README.md     # Detailed taxonomy documentation
+│   ├── error_handling_guide.md         # Error handling and troubleshooting
+│   ├── requirements.txt                # Python dependencies
+│   ├── .gitignore                      # Git ignore rules
+│   └── README.md                       # This file (complete overview)
+│
+├── 📂 Data Directories (auto-created)
+│   ├── screenshots/                    # Raw screenshots from Livebooks
+│   │   └── [ISBN]/                     # Organized by book ISBN
+│   │       ├── toc_pages/              # AI-identified TOC pages
+│   │       └── non_toc_pages/          # Other content pages
+│   ├── tocs/                           # Clean TOC images ready for analysis
+│   │   └── toc_[Subject]_[Grade]_[Title]_[ISBN]/
+│   │       ├── page_01.png
+│   │       ├── page_02.png
+│   │       └── ...
+│   └── taxonomies/                     # Generated educational taxonomies
+│       ├── taxonomy_[Subject]_[Grade]_[Title]_[ISBN].json
+│       └── analysis_report.json       # Summary of all processed books
+│
+└── 🗂️ Legacy Files (screenshot system only)
+    ├── usage_examples.py               # Old screenshot examples
+    ├── jupyter_example.ipynb           # Jupyter screenshot integration
+    ├── test_isbn_batch.py              # Screenshot batch testing
+    ├── test_toc_filter.py              # TOC filtering tests
+    └── config_example.py               # Old configuration system
 ```
 
 ## 🔧 Development
@@ -513,19 +685,38 @@ For issues, questions, or contributions:
 
 ## 🎉 Acknowledgments
 
-- **Selenium WebDriver**: Browser automation framework
+### Core Technologies
+- **OpenAI GPT-4 Vision**: Advanced image analysis and content extraction
+- **Selenium WebDriver**: Browser automation framework for screenshot capture
 - **webdriver-manager**: Automatic ChromeDriver management
 - **Chrome Browser**: Reliable web rendering engine
-- **Python Community**: Excellent libraries and documentation
+
+### Educational Domain
+- **Klett Publishers**: Educational content and Livebook platform
+- **German Educational System**: Rich curriculum structure for analysis
+- **Educational Technology Community**: Inspiration for taxonomic approaches
+
+### Development Support
+- **Python Community**: Excellent libraries and comprehensive documentation
+- **Open Source Contributors**: Foundation libraries and best practices
 
 ## 📈 Roadmap
 
-Future enhancements being considered:
+### Short-term Enhancements
+- [ ] **Enhanced Language Support**: Multi-language content analysis (French, Spanish textbooks)
+- [ ] **Improved Accuracy**: Fine-tuned prompts for specific educational domains
+- [ ] **Performance Optimization**: Caching and parallel processing for large datasets
+- [ ] **Quality Assurance**: Automated validation of taxonomy structures
 
-- [ ] Support for additional browsers (Firefox, Edge)
-- [ ] Multi-language TOC detection
-- [ ] Advanced screenshot post-processing
-- [ ] REST API interface
-- [ ] Docker containerization
-- [ ] Cloud deployment options
-- [ ] Performance monitoring and metrics 
+### Medium-term Features
+- [ ] **REST API Interface**: Web service for taxonomy generation
+- [ ] **Curriculum Comparison**: Cross-publisher and cross-regional analysis
+- [ ] **Learning Progression Mapping**: Automatic prerequisite detection
+- [ ] **Educational Standards Alignment**: Common Core, IB, A-Level mapping
+
+### Long-term Vision
+- [ ] **Adaptive Learning Integration**: Power personalized learning systems
+- [ ] **Docker Containerization**: Simplified deployment and scaling
+- [ ] **Cloud Deployment**: Serverless architecture for high availability
+- [ ] **Real-time Monitoring**: Performance metrics and usage analytics
+- [ ] **Educational Data Mining**: Advanced analytics on curriculum patterns 
