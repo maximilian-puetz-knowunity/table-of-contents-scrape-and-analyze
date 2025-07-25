@@ -1,0 +1,606 @@
+{
+  "country": "DE",
+  "grade": "1_Fremdsprache_4",
+  "subject": "French",
+  "ISBN": "978-3-12-624041-3",
+  "taxonomy": [
+    {
+      "name": "Vues sur le Québec",
+      "level": 0,
+      "keyterms": [
+        "Québec",
+        "francophonie",
+        "Canada",
+        "hockey",
+        "légende",
+        "voyage",
+        "identité",
+        "passé composé",
+        "plus-que-parfait",
+        "vocabulaire régional",
+        "questionnaire",
+        "présentation",
+        "interview",
+        "histoire",
+        "français parlé"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Le Québec et la francophonie",
+          "level": 1,
+          "keyterms": [
+            "Québec",
+            "francophonie",
+            "questions",
+            "information",
+            "stratégie",
+            "vocabulaire",
+            "Le Québec",
+            "lequel",
+            "relatif",
+            "répondre",
+            "présenter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Les coups de cœur de Colette",
+          "level": 1,
+          "keyterms": [
+            "préférences",
+            "coup de cœur",
+            "présentation",
+            "parler",
+            "activités",
+            "passé composé",
+            "accord",
+            "description",
+            "personnalité",
+            "goûts"
+          ],
+          "children": []
+        },
+        {
+          "name": "Une légende du hockey",
+          "level": 1,
+          "keyterms": [
+            "hockey",
+            "légende",
+            "personnalité",
+            "présenter",
+            "interview",
+            "biographie",
+            "passé",
+            "récit",
+            "sport",
+            "histoire"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le Québec, c'est toute une histoire !",
+          "level": 1,
+          "keyterms": [
+            "histoire",
+            "événements",
+            "compréhension",
+            "plus-que-parfait",
+            "chronologie",
+            "récit",
+            "faits",
+            "passé",
+            "francophonie",
+            "culture"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Accord des temps et structures",
+          "level": 1,
+          "keyterms": [
+            "grammaire",
+            "passé composé",
+            "plus-que-parfait",
+            "accord",
+            "verbes",
+            "temps",
+            "structure",
+            "exercices",
+            "règles",
+            "conjugaison"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zoom 1: Français parlé",
+          "level": 1,
+          "keyterms": [
+            "français parlé",
+            "compréhension orale",
+            "expressions",
+            "prononciation",
+            "intonation",
+            "dialogue",
+            "écoute",
+            "communication",
+            "langue vivante",
+            "usage quotidien"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Nous, Européens…",
+      "level": 0,
+      "keyterms": [
+        "Europe",
+        "Union européenne",
+        "relations franco-allemandes",
+        "statistiques",
+        "projets",
+        "coopération",
+        "conditionnel",
+        "propositions",
+        "voyage",
+        "échange",
+        "identité européenne",
+        "pourcentages",
+        "quantités",
+        "médiation",
+        "présentation"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: L'Europe et l'Union européenne",
+          "level": 1,
+          "keyterms": [
+            "Europe",
+            "Union européenne",
+            "pays",
+            "statistiques",
+            "vocabulaire",
+            "quantités",
+            "pourcentages",
+            "coopération",
+            "identité",
+            "présenter"
+          ],
+          "children": []
+        },
+        {
+          "name": "L'amitié franco-allemande en 7 dates",
+          "level": 1,
+          "keyterms": [
+            "franco-allemand",
+            "amitié",
+            "histoire",
+            "dates",
+            "événements",
+            "relations",
+            "coopération",
+            "dialogue",
+            "compréhension",
+            "médiation"
+          ],
+          "children": []
+        },
+        {
+          "name": "L'Europe, c'est génial !",
+          "level": 1,
+          "keyterms": [
+            "Europe",
+            "projets",
+            "voyages",
+            "opportunités",
+            "mobilité",
+            "présenter",
+            "idées",
+            "conditionnel",
+            "propositions",
+            "avenir"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Conditionnel présent",
+          "level": 1,
+          "keyterms": [
+            "conditionnel",
+            "présent",
+            "verbes",
+            "conjugaison",
+            "structure",
+            "exercices",
+            "règles",
+            "hypothèse",
+            "proposition",
+            "usage"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zoom 2: Améliorer la compréhension écrite",
+          "level": 1,
+          "keyterms": [
+            "compréhension écrite",
+            "lecture",
+            "stratégies",
+            "texte",
+            "analyse",
+            "vocabulaire",
+            "structure",
+            "amélioration",
+            "expression écrite",
+            "communication"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Viens faire un tour…",
+      "level": 0,
+      "keyterms": [
+        "Pays basque",
+        "régions françaises",
+        "géographie",
+        "culture",
+        "montagne",
+        "océan",
+        "émigration",
+        "indirect speech",
+        "passé simple",
+        "impératif",
+        "reportage",
+        "sentiments",
+        "découverte",
+        "voyage",
+        "description"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Les régions françaises",
+          "level": 1,
+          "keyterms": [
+            "régions",
+            "France",
+            "Pays basque",
+            "géographie",
+            "culture",
+            "vocabulaire",
+            "description",
+            "présenter",
+            "identité régionale",
+            "traditions"
+          ],
+          "children": []
+        },
+        {
+          "name": "L'océan à la montagne",
+          "level": 1,
+          "keyterms": [
+            "océan",
+            "montagne",
+            "aspects géographiques",
+            "culture",
+            "jeunes",
+            "témoignages",
+            "compréhension orale",
+            "description",
+            "voyage",
+            "région"
+          ],
+          "children": []
+        },
+        {
+          "name": "Jeune au pays basque",
+          "level": 1,
+          "keyterms": [
+            "jeunesse",
+            "Pays basque",
+            "émigration",
+            "témoignage",
+            "récit",
+            "indirect speech",
+            "passé simple",
+            "sentiments",
+            "expérience",
+            "reportage"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tout quitter",
+          "level": 1,
+          "keyterms": [
+            "émigration",
+            "départ",
+            "choix",
+            "reportage",
+            "récit",
+            "impératif",
+            "pronoms",
+            "sentiments",
+            "expérience",
+            "décision"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Discours indirect, passé simple, impératif",
+          "level": 1,
+          "keyterms": [
+            "discours indirect",
+            "passé simple",
+            "impératif",
+            "pronoms",
+            "conjugaison",
+            "structure",
+            "exercices",
+            "règles",
+            "usage",
+            "temps du passé"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zoom 2: Améliorer l'expression écrite",
+          "level": 1,
+          "keyterms": [
+            "expression écrite",
+            "amélioration",
+            "rédaction",
+            "vocabulaire",
+            "structure",
+            "stratégies",
+            "texte",
+            "communication",
+            "écriture",
+            "style"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ce qui compte pour moi…",
+      "level": 0,
+      "keyterms": [
+        "valeurs",
+        "priorités",
+        "environnement",
+        "engagement",
+        "avenir",
+        "opinion",
+        "subjonctif",
+        "projets",
+        "discussion",
+        "protection",
+        "vie quotidienne",
+        "écologie",
+        "climat",
+        "réfugiés",
+        "documentaire"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Environnement et engagement",
+          "level": 1,
+          "keyterms": [
+            "environnement",
+            "engagement",
+            "France",
+            "avenir",
+            "vocabulaire",
+            "valeurs",
+            "priorités",
+            "protection",
+            "écologie",
+            "discussion"
+          ],
+          "children": []
+        },
+        {
+          "name": "La fin de l'or blanc",
+          "level": 1,
+          "keyterms": [
+            "changement climatique",
+            "neige",
+            "hiver",
+            "sports d'hiver",
+            "discussion",
+            "subjonctif",
+            "protection",
+            "avenir",
+            "valeurs",
+            "priorités"
+          ],
+          "children": []
+        },
+        {
+          "name": "La vie en vert",
+          "level": 1,
+          "keyterms": [
+            "écologie",
+            "projets",
+            "protection",
+            "environnement",
+            "discussion",
+            "subjonctif",
+            "actions",
+            "quotidien",
+            "engagement",
+            "valeurs"
+          ],
+          "children": []
+        },
+        {
+          "name": "Réfugiés climatiques et castagnettes",
+          "level": 1,
+          "keyterms": [
+            "réfugiés",
+            "climat",
+            "migration",
+            "documentaire",
+            "récit",
+            "discussion",
+            "extrait",
+            "film",
+            "protection",
+            "avenir"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Subjonctif, verbes en -ir",
+          "level": 1,
+          "keyterms": [
+            "subjonctif",
+            "verbes en -ir",
+            "conjugaison",
+            "structure",
+            "exercices",
+            "règles",
+            "usage",
+            "expression de l'opinion",
+            "propositions",
+            "valeurs"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Coups de cœur de lecture…",
+      "level": 0,
+      "keyterms": [
+        "lecture",
+        "livres",
+        "roman",
+        "analyse",
+        "compréhension",
+        "vocabulaire littéraire",
+        "extraits",
+        "stratégies de lecture",
+        "parallèles",
+        "symboles",
+        "thèmes",
+        "auteurs",
+        "francophonie",
+        "Québec",
+        "France"
+      ],
+      "children": [
+        {
+          "name": "Dis-moi ce que tu lis…",
+          "level": 1,
+          "keyterms": [
+            "lecture",
+            "livres",
+            "roman",
+            "analyse",
+            "compréhension",
+            "vocabulaire littéraire",
+            "extraits",
+            "auteurs",
+            "thèmes",
+            "discussion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stratégies de lecture et différenciation",
+          "level": 1,
+          "keyterms": [
+            "stratégies",
+            "lecture",
+            "compréhension",
+            "parallèles",
+            "symboles",
+            "analyse",
+            "thèmes",
+            "exercices",
+            "différenciation",
+            "interprétation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vocabulaire littéraire et outils",
+          "level": 1,
+          "keyterms": [
+            "vocabulaire",
+            "littéraire",
+            "prononciation",
+            "symboles",
+            "lexique",
+            "outils",
+            "conjugaison",
+            "tableaux",
+            "expressions",
+            "analyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Révisions: France, Québec, Francophonie",
+          "level": 1,
+          "keyterms": [
+            "France",
+            "Québec",
+            "francophonie",
+            "révision",
+            "carte",
+            "culture",
+            "identité",
+            "langue",
+            "pays",
+            "régions"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "En avant, la musique !",
+      "level": 0,
+      "keyterms": [
+        "musique",
+        "chansons",
+        "clips",
+        "paroles",
+        "analyse",
+        "vocabulaire musical",
+        "passif",
+        "expression",
+        "culture",
+        "art",
+        "écoute",
+        "discussion",
+        "genres musicaux",
+        "artistes",
+        "interprétation"
+      ],
+      "children": [
+        {
+          "name": "Jamais sans la musique !",
+          "level": 1,
+          "keyterms": [
+            "musique",
+            "chansons",
+            "clips",
+            "paroles",
+            "analyse",
+            "vocabulaire musical",
+            "passif",
+            "écoute",
+            "discussion",
+            "expression"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

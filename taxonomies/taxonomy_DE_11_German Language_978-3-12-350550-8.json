@@ -1,0 +1,746 @@
+{
+  "country": "DE",
+  "grade": "11",
+  "subject": "German Language",
+  "ISBN": "978-3-12-350550-8",
+  "taxonomy": [
+    {
+      "name": "Kommunikation untersuchen – Miteinander reden",
+      "level": 0,
+      "keyterms": [
+        "Kommunikationsmodelle",
+        "Kommunikationsstörungen",
+        "Alltagsgespräche",
+        "Gesprächsanalyse",
+        "Sachtextanalyse",
+        "Sprache",
+        "Stil",
+        "Reflexion",
+        "Literarische Gespräche",
+        "Kommunikationssituationen"
+      ],
+      "children": [
+        {
+          "name": "Alltagsgespräche mithilfe von Kommunikationsmodellen reflektieren",
+          "level": 1,
+          "keyterms": [
+            "Alltagskommunikation",
+            "Kommunikationsmodelle",
+            "Reflexion",
+            "Gesprächsverhalten",
+            "Missverständnisse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gespräche in literarischen Texten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Literarische Gespräche",
+            "Dialoganalyse",
+            "Textinterpretation",
+            "Gesprächsstruktur",
+            "Charakterdarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kommunikationsmodelle und Kommunikationsstörungen",
+          "level": 1,
+          "keyterms": [
+            "Sender-Empfänger-Modell",
+            "Störungen",
+            "Missverständnisse",
+            "Kommunikationsprozess",
+            "Feedback"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachtext analysieren: Sprache und Stil eines Sachtextes untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Sprachanalyse",
+            "Stilanalyse",
+            "Argumentationsstruktur",
+            "Textsorten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Erzählende Texte interpretieren – In die weite Welt hinein",
+      "level": 0,
+      "keyterms": [
+        "Erzähltexte",
+        "Romananalyse",
+        "Erzählperspektive",
+        "Literaturinterpretation",
+        "Erzählverhalten",
+        "Handlung",
+        "Charaktere",
+        "Textgestaltung",
+        "Erzählformen",
+        "Erzählzeit"
+      ],
+      "children": [
+        {
+          "name": "Kurze Erzähltexte interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Kurzgeschichte",
+            "Interpretation",
+            "Handlungsanalyse",
+            "Erzählstruktur",
+            "Themenerschließung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Roman auszugsweise untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Roman",
+            "Textauszug",
+            "Charakterisierung",
+            "Handlungsverlauf",
+            "Erzähltechnik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Verhältnis von Literatur und Verfilmung betrachten",
+          "level": 1,
+          "keyterms": [
+            "Literaturverfilmung",
+            "Vergleich",
+            "Adaption",
+            "Film",
+            "Buch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Merkmale von erzählenden und literarischen Texten",
+          "level": 1,
+          "keyterms": [
+            "Erzähltext",
+            "Literarischer Text",
+            "Merkmale",
+            "Gattungen",
+            "Erzählweise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Erzähltext interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Erzähltext",
+            "Textanalyse",
+            "Deutung",
+            "Schreibtraining"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Text kreativ gestalten",
+          "level": 1,
+          "keyterms": [
+            "Kreatives Schreiben",
+            "Textgestaltung",
+            "Perspektivwechsel",
+            "Fortsetzung",
+            "Umgestaltung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gedichte interpretieren und vergleichen – Von Minne bis Liebesort",
+      "level": 0,
+      "keyterms": [
+        "Lyrik",
+        "Gedichtinterpretation",
+        "Epochenvergleich",
+        "Liebeslyrik",
+        "Bildlichkeit",
+        "Vergleich",
+        "Stilmittel",
+        "Motiv",
+        "Themen",
+        "Gedichtanalyse"
+      ],
+      "children": [
+        {
+          "name": "Liebesgedicht aus verschiedenen Epochen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Liebeslyrik",
+            "Epochen",
+            "Vergleich",
+            "Motiv",
+            "Stilmittel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Liebeslyrik vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Vergleich",
+            "Liebesgedichte",
+            "Interpretation",
+            "Unterschiede",
+            "Gemeinsamkeiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bildlichkeit in Gedichten entschlüsseln",
+          "level": 1,
+          "keyterms": [
+            "Metapher",
+            "Symbol",
+            "Vergleich",
+            "Bildsprache",
+            "Interpretation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dramatische Texte untersuchen und interpretieren – Emilia Galotti",
+      "level": 0,
+      "keyterms": [
+        "Drama",
+        "Dramenanalyse",
+        "Figurenkonstellation",
+        "Konfliktanalyse",
+        "historischer Kontext",
+        "bürgerliches Trauerspiel",
+        "Familie",
+        "Interpretation",
+        "Bühneninszenierung",
+        "Aufgabenstellung"
+      ],
+      "children": [
+        {
+          "name": "Dramenszenen erschließen: Information, Motiv, Verführung",
+          "level": 1,
+          "keyterms": [
+            "Dramenszene",
+            "Motiv",
+            "Verführung",
+            "Informationsvermittlung",
+            "Szenenanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Den dramatischen Konflikt analysieren",
+          "level": 1,
+          "keyterms": [
+            "Konflikt",
+            "Drama",
+            "Analyse",
+            "Handlung",
+            "Spannung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der historische Kontext des Dramas betrachten: Die bürgerliche Familie und das bürgerliche Trauerspiel",
+          "level": 1,
+          "keyterms": [
+            "historischer Kontext",
+            "bürgerliche Familie",
+            "bürgerliches Trauerspiel",
+            "Gesellschaft",
+            "Epoche"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dramatische Texte",
+          "level": 1,
+          "keyterms": [
+            "Drama",
+            "Textanalyse",
+            "Gattung",
+            "Merkmale",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Aufgabenstellung bei der Dramenanalyse",
+          "level": 1,
+          "keyterms": [
+            "Aufgabenstellung",
+            "Analyse",
+            "Drama",
+            "Interpretation",
+            "Schreibtraining"
+          ],
+          "children": []
+        },
+        {
+          "name": "Möglichkeiten des szenisch-, spielerisch- oder per Bühneninszenierung als Interpretationsform",
+          "level": 1,
+          "keyterms": [
+            "Inszenierung",
+            "szenisches Spiel",
+            "Interpretation",
+            "Bühne",
+            "Dramenanalyse"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf Materialbasis eine literarische Epoche informieren – Im Licht der Aufklärung",
+      "level": 0,
+      "keyterms": [
+        "Literaturepoche",
+        "Aufklärung",
+        "Materialsammlung",
+        "Informationssammlung",
+        "Toleranz",
+        "Präsentation",
+        "Jugendbewegung",
+        "Epoche",
+        "Sachtext",
+        "Informationsverarbeitung"
+      ],
+      "children": [
+        {
+          "name": "Informationen aus einer Materialsammlung erschließen: Vernunft und Toleranz",
+          "level": 1,
+          "keyterms": [
+            "Materialsammlung",
+            "Informationserschließung",
+            "Vernunft",
+            "Toleranz",
+            "Epoche"
+          ],
+          "children": []
+        },
+        {
+          "name": "Informationen aufbereiten und präsentieren: Die Jugendaufklärer",
+          "level": 1,
+          "keyterms": [
+            "Präsentation",
+            "Informationsaufbereitung",
+            "Jugendaufklärer",
+            "Epoche",
+            "Materialauswertung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Informationen erschließen, bewerten und präsentieren",
+          "level": 1,
+          "keyterms": [
+            "Informationserschließung",
+            "Bewertung",
+            "Präsentation",
+            "Materialauswertung",
+            "Epoche"
+          ],
+          "children": []
+        },
+        {
+          "name": "Materialgestütztes informierendes Schreiben",
+          "level": 1,
+          "keyterms": [
+            "informierendes Schreiben",
+            "Materialauswertung",
+            "Textproduktion",
+            "Informationsverarbeitung",
+            "Schreibtraining"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine literarische Jugendbewegung kennenlernen",
+          "level": 1,
+          "keyterms": [
+            "Jugendbewegung",
+            "Literatur",
+            "Epoche",
+            "Aufklärung",
+            "Geschichte"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Möglichkeiten und Risiken digitaler Partizipation erörtern – Posten, liken, teilen, kommentieren",
+      "level": 0,
+      "keyterms": [
+        "digitale Partizipation",
+        "Soziale Medien",
+        "Informationskompetenz",
+        "Manipulation",
+        "Desinformation",
+        "Diskriminierung",
+        "Empörung",
+        "Engagement",
+        "Jugendpartizipation",
+        "Debattenkultur"
+      ],
+      "children": [
+        {
+          "name": "Information und Manipulation unterscheiden: Was kann man im Netz noch glauben?",
+          "level": 1,
+          "keyterms": [
+            "Informationskompetenz",
+            "Manipulation",
+            "Faktencheck",
+            "Desinformation",
+            "Internet"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verantwortung im digitalen Raum wahrnehmen: Zwischen Empörung und Engagement",
+          "level": 1,
+          "keyterms": [
+            "Verantwortung",
+            "digitaler Raum",
+            "Empörung",
+            "Engagement",
+            "Grenzen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Information und Partizipation im digitalen Zeitalter",
+          "level": 1,
+          "keyterms": [
+            "Partizipation",
+            "Information",
+            "digitales Zeitalter",
+            "Mitbestimmung",
+            "Soziale Netzwerke"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Sachtext erörtern",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Erörterung",
+            "Argumentation",
+            "Schreibtraining",
+            "Textanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sich mit Formen digitaler Jugendpartizipation auseinandersetzen",
+          "level": 1,
+          "keyterms": [
+            "Jugendpartizipation",
+            "digitale Formen",
+            "Engagement",
+            "Mitbestimmung",
+            "Soziale Medien"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf Materialbasis zu aktuellen Sprachentwicklungen argumentieren – Deutsch: vielseitig und wandelbar oder dem Verfall geweiht?",
+      "level": 0,
+      "keyterms": [
+        "Sprachentwicklung",
+        "Sprachwandel",
+        "Sprachverfall",
+        "Sprachdebatte",
+        "Sprachvielfalt",
+        "Argumentation",
+        "politisch korrekte Sprache",
+        "Sprachstruktur",
+        "Sprachfunktion",
+        "Schreibtraining"
+      ],
+      "children": [
+        {
+          "name": "Eine Sprache, viele Beschreibungen: Der Gebrauch und die Debatte um die geschlechtergerechte Sprache",
+          "level": 1,
+          "keyterms": [
+            "geschlechtergerechte Sprache",
+            "Sprachgebrauch",
+            "Debatte",
+            "Sprachbeschreibung",
+            "Vielfalt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Strukturen und Funktionen verschiedener Sprachvarianten beurteilen: Die Vielfalt unserer Sprache",
+          "level": 1,
+          "keyterms": [
+            "Sprachvarianten",
+            "Struktur",
+            "Funktion",
+            "Vielfalt",
+            "Beurteilung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprache im Wandel",
+          "level": 1,
+          "keyterms": [
+            "Sprachwandel",
+            "Entwicklung",
+            "Veränderung",
+            "Sprachgeschichte",
+            "Sprachgebrauch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Materialgestütztes argumentierendes Schreiben",
+          "level": 1,
+          "keyterms": [
+            "argumentierendes Schreiben",
+            "Materialauswertung",
+            "Argumentation",
+            "Schreibtraining",
+            "Textproduktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Den Einfluss politisch korrekter Sprache bewerten",
+          "level": 1,
+          "keyterms": [
+            "politisch korrekte Sprache",
+            "Bewertung",
+            "Sprachgebrauch",
+            "Debatte",
+            "Gesellschaft"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Häufige Fehler beim Schreiben vermeiden – Alles eine Frage des Stils",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Grammatik",
+        "Stil",
+        "Fehlervermeidung",
+        "Regeln",
+        "Stilbewusstsein",
+        "Schreibkompetenz",
+        "Ausdruck",
+        "Satzbau",
+        "Sprachrichtigkeit"
+      ],
+      "children": [
+        {
+          "name": "Regeln und Strategien der Rechtschreibung anwenden",
+          "level": 1,
+          "keyterms": [
+            "Rechtschreibregeln",
+            "Strategien",
+            "Fehlervermeidung",
+            "Schreibtraining",
+            "Regelkenntnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Typische Grammatikfehler vermeiden",
+          "level": 1,
+          "keyterms": [
+            "Grammatikfehler",
+            "Fehlerquellen",
+            "Korrektur",
+            "Grammatikregeln",
+            "Schreibkompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ausdruck und Stil verbessern: Stilbewusst schreiben",
+          "level": 1,
+          "keyterms": [
+            "Stil",
+            "Ausdruck",
+            "Stilbewusstsein",
+            "Schreibstil",
+            "Verbesserung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Selbstlernen",
+      "level": 0,
+      "keyterms": [
+        "Epochenlexikon",
+        "Gattungslexikon",
+        "Lexikon Medien",
+        "Lexikon Sprache",
+        "Schreibformen",
+        "Lesetechniken",
+        "Präsentation",
+        "Interpretation",
+        "Textsorten",
+        "Medienkompetenz"
+      ],
+      "children": [
+        {
+          "name": "Epochenlexikon",
+          "level": 1,
+          "keyterms": [
+            "Aufklärung",
+            "Empfindsamkeit",
+            "Sturm und Drang",
+            "Literaturepochen",
+            "Merkmale"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gattungslexikon",
+          "level": 1,
+          "keyterms": [
+            "Epik",
+            "Drama",
+            "Lyrik",
+            "Gattungsmerkmale",
+            "Kommentar"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lexikon Medien",
+          "level": 1,
+          "keyterms": [
+            "Medien",
+            "Informationsquellen",
+            "Medienkompetenz",
+            "Digitale Medien",
+            "Medienanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lexikon Sprache",
+          "level": 1,
+          "keyterms": [
+            "Sprachbegriffe",
+            "Sprachgeschichte",
+            "Sprachwandel",
+            "Sprachstruktur",
+            "Sprachgebrauch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schreibformen",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Erörterung",
+            "Kommentar",
+            "Zusammenfassung",
+            "Textsorten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lesetechniken",
+          "level": 1,
+          "keyterms": [
+            "Lesestrategien",
+            "Quellenkritik",
+            "Informationsentnahme",
+            "Textverständnis",
+            "Lesekompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Präsentationstechniken",
+          "level": 1,
+          "keyterms": [
+            "Präsentation",
+            "Referat",
+            "Ausarbeitung",
+            "Vortrag",
+            "Visualisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprechen und Zuhören",
+          "level": 1,
+          "keyterms": [
+            "Gesprächsführung",
+            "Diskussion",
+            "Argumentation",
+            "Zuhörkompetenz",
+            "Kommunikation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Autorenverzeichnis",
+          "level": 1,
+          "keyterms": [
+            "Autoren",
+            "Literatur",
+            "Biografien",
+            "Werke",
+            "Lexikon"
+          ],
+          "children": []
+        },
+        {
+          "name": "Textsortenverzeichnis",
+          "level": 1,
+          "keyterms": [
+            "Textsorten",
+            "Gattungen",
+            "Merkmale",
+            "Beispiele",
+            "Verzeichnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Medien zum Schulbuch",
+          "level": 1,
+          "keyterms": [
+            "Schulbuch",
+            "Medien",
+            "Ergänzung",
+            "Materialien",
+            "Digitale Angebote"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "country": "DE",
+  "grade": "6",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-746812-0",
+  "taxonomy": [
+    {
+      "name": "Teilbarkeit",
+      "level": 0,
+      "keyterms": [
+        "Vielfache",
+        "Teiler",
+        "Primzahlen",
+        "ggT",
+        "kgV",
+        "Primfaktorzerlegung",
+        "Teilbarkeitsregeln",
+        "Zahlenmengen",
+        "Zahlzerlegung",
+        "Zahlensystem",
+        "Zahleneigenschaften",
+        "Zahlbeziehungen",
+        "Teilermenge",
+        "Vielfachenmenge",
+        "Zahlzerlegung"
+      ],
+      "children": [
+        {
+          "name": "Vielfache bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Vielfache",
+            "Vielfachenmenge",
+            "Multiplikation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kleinstes gemeinsames Vielfaches (kgV) bestimmen",
+          "level": 1,
+          "keyterms": [
+            "kgV",
+            "Vielfache",
+            "Zahlbeziehungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Teiler bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Teiler",
+            "Teilermenge",
+            "Division"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größten gemeinsamen Teiler (ggT) bestimmen",
+          "level": 1,
+          "keyterms": [
+            "ggT",
+            "Teiler",
+            "Zahlbeziehungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Teilbarkeit über die Quersumme bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Quersumme",
+            "Teilbarkeitsregeln",
+            "Zahleneigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Teilbarkeit über die Endziffer bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Endziffer",
+            "Teilbarkeitsregeln",
+            "Zahleneigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Primzahlen bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Primzahlen",
+            "Teiler",
+            "Zahleneigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlen in Primfaktoren zerlegen",
+          "level": 1,
+          "keyterms": [
+            "Primfaktorzerlegung",
+            "Faktoren",
+            "Zahlzerlegung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Winkel und Kreise",
+      "level": 0,
+      "keyterms": [
+        "Winkel",
+        "Kreise",
+        "Winkelarten",
+        "Winkel messen",
+        "Winkel zeichnen",
+        "Kreisumfang",
+        "Kreisdurchmesser",
+        "Kreismittelpunkt",
+        "Kreisradius",
+        "Geometrie",
+        "Geodreieck",
+        "Zirkel",
+        "Gradmaß",
+        "Kreisabschnitt",
+        "Kreisbogen"
+      ],
+      "children": [
+        {
+          "name": "Winkelarten",
+          "level": 1,
+          "keyterms": [
+            "spitzer Winkel",
+            "rechter Winkel",
+            "stumpfer Winkel",
+            "gestreckter Winkel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Winkel messen",
+          "level": 1,
+          "keyterms": [
+            "Winkelmesser",
+            "Gradmaß",
+            "Geodreieck"
+          ],
+          "children": []
+        },
+        {
+          "name": "Winkel zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Geodreieck",
+            "Winkelkonstruktion",
+            "Gradmaß"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kreise zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Zirkel",
+            "Kreismittelpunkt",
+            "Radius",
+            "Kreisumfang"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Brüche bestimmen",
+      "level": 0,
+      "keyterms": [
+        "Brüche",
+        "Zähler",
+        "Nenner",
+        "Bruchzahlen",
+        "Bruchteile",
+        "Bruchdarstellung",
+        "Bruchwert",
+        "Bruchschreibweise",
+        "Bruchrechnen",
+        "Bruchvergleich",
+        "Bruchumwandlung",
+        "Bruchstreifen",
+        "Bruchdiagramm",
+        "Bruchgleichheit",
+        "Bruchzerlegung"
+      ],
+      "children": [
+        {
+          "name": "Bruchteile bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Bruchteile",
+            "Bruchwert",
+            "Bruchdarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Bruchvergleich",
+            "Zähler",
+            "Nenner"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche ordnen",
+          "level": 1,
+          "keyterms": [
+            "Bruchreihenfolge",
+            "Bruchvergleich",
+            "Bruchwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche kürzen",
+          "level": 1,
+          "keyterms": [
+            "Kürzen",
+            "ggT",
+            "Bruchvereinfachung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche erweitern",
+          "level": 1,
+          "keyterms": [
+            "Erweitern",
+            "Multiplikation",
+            "Bruchumwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gemischte Zahlen",
+          "level": 1,
+          "keyterms": [
+            "Gemischte Zahl",
+            "Bruchdarstellung",
+            "Umwandlung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Brüche addieren und subtrahieren",
+      "level": 0,
+      "keyterms": [
+        "Bruchaddition",
+        "Bruchsubtraktion",
+        "Gleichnamige Brüche",
+        "Ungleichnamige Brüche",
+        "Hauptnenner",
+        "Bruchrechnung",
+        "Bruchumwandlung",
+        "Zähler",
+        "Nenner",
+        "Bruchwert",
+        "Bruchrechnen",
+        "Bruchsumme",
+        "Bruchdifferenz",
+        "Bruchgleichung",
+        "Bruchterm"
+      ],
+      "children": [
+        {
+          "name": "Gleichnamige Brüche addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Gleichnamige Brüche",
+            "Addition",
+            "Subtraktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ungleichnamige Brüche addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Ungleichnamige Brüche",
+            "Hauptnenner",
+            "Addition",
+            "Subtraktion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Brüche multiplizieren und dividieren",
+      "level": 0,
+      "keyterms": [
+        "Bruchmultiplikation",
+        "Bruchdivision",
+        "Kehrwert",
+        "Bruchterm",
+        "Bruchprodukt",
+        "Bruchquotient",
+        "Multiplikation",
+        "Division",
+        "Zähler",
+        "Nenner",
+        "Bruchrechnen",
+        "Bruchregel",
+        "Bruchumwandlung",
+        "Bruchwert",
+        "Bruchrechnung"
+      ],
+      "children": [
+        {
+          "name": "Brüche multiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Bruchprodukt",
+            "Zähler",
+            "Nenner"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche dividieren",
+          "level": 1,
+          "keyterms": [
+            "Division",
+            "Kehrwert",
+            "Bruchquotient"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Symmetrie und Abbildungen",
+      "level": 0,
+      "keyterms": [
+        "Symmetrie",
+        "Achsensymmetrie",
+        "Spiegelung",
+        "Verschiebung",
+        "Drehung",
+        "Abbildungen",
+        "Symmetrieachse",
+        "Symmetrische Figuren",
+        "Geometrie",
+        "Symmetrieeigenschaften",
+        "Symmetriepunkt",
+        "Symmetrieabbildung",
+        "Figuren",
+        "Transformation",
+        "Geometrische Abbildung"
+      ],
+      "children": [
+        {
+          "name": "Achsensymmetrische Figuren",
+          "level": 1,
+          "keyterms": [
+            "Achsensymmetrie",
+            "Symmetrieachse",
+            "Figuren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Achsenspiegelung durchführen",
+          "level": 1,
+          "keyterms": [
+            "Spiegelung",
+            "Symmetrieachse",
+            "Abbildung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verschiebungen durchführen",
+          "level": 1,
+          "keyterms": [
+            "Verschiebung",
+            "Translation",
+            "Abbildung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dezimalzahlen",
+      "level": 0,
+      "keyterms": [
+        "Dezimalzahlen",
+        "Zehnerschritte",
+        "Dezimalbruch",
+        "Dezimalstellen",
+        "Runden",
+        "Dezimalpunkt",
+        "Dezimaltrennzeichen",
+        "Zehnerpotenzen",
+        "Dezimaldarstellung",
+        "Dezimalwert",
+        "Dezimalzahlvergleich",
+        "Dezimalstellenwert",
+        "Dezimalbruchumwandlung",
+        "Dezimalstellen",
+        "Dezimalstellenwert"
+      ],
+      "children": [
+        {
+          "name": "Zehnerschritte als Dezimalzahlen schreiben",
+          "level": 1,
+          "keyterms": [
+            "Zehnerschritte",
+            "Dezimalzahlen",
+            "Dezimalbruch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche in Dezimalzahlen umwandeln",
+          "level": 1,
+          "keyterms": [
+            "Bruchumwandlung",
+            "Dezimalbruch",
+            "Dezimaldarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen ablesen und darstellen",
+          "level": 1,
+          "keyterms": [
+            "Dezimalzahlen",
+            "Dezimalstellen",
+            "Zahlendarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Dezimalzahlvergleich",
+            "Größenvergleich",
+            "Dezimalstellen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen runden",
+          "level": 1,
+          "keyterms": [
+            "Runden",
+            "Dezimalstellen",
+            "Zahlennähe"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dezimalzahlen addieren und subtrahieren",
+      "level": 0,
+      "keyterms": [
+        "Dezimaladdition",
+        "Dezimalsubtraktion",
+        "Dezimalstellen",
+        "Stellenwert",
+        "Dezimalrechnung",
+        "Zehnerübergang",
+        "Dezimalwert",
+        "Dezimalstellenwert",
+        "Dezimalbruch",
+        "Addition",
+        "Subtraktion",
+        "Dezimalstellen",
+        "Dezimalstellenwert",
+        "Dezimalstellenwertsystem",
+        "Dezimalstellenwert"
+      ],
+      "children": [
+        {
+          "name": "Dezimalzahlen addieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Dezimalstellen",
+            "Stellenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Subtraktion",
+            "Dezimalstellen",
+            "Stellenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche und Dezimalzahlen addieren",
+          "level": 1,
+          "keyterms": [
+            "Bruchaddition",
+            "Dezimalzahlen",
+            "Umwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche und Dezimalzahlen subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Bruchsubtraktion",
+            "Dezimalzahlen",
+            "Umwandlung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dezimalzahlen multiplizieren und dividieren",
+      "level": 0,
+      "keyterms": [
+        "Dezimalmultiplikation",
+        "Dezimaldivision",
+        "Multiplikation",
+        "Division",
+        "Dezimalstellen",
+        "Stellenwert",
+        "Dezimalbruch",
+        "Dezimalwert",
+        "Dezimalstellenwert",
+        "Dezimalstellenwertsystem",
+        "Dezimalstellenwert",
+        "Dezimalstellenwert",
+        "Dezimalstellenwert"
+      ],
+      "children": [
+        {
+          "name": "Dezimalzahlen multiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Dezimalstellen",
+            "Stellenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen dividieren",
+          "level": 1,
+          "keyterms": [
+            "Division",
+            "Dezimalstellen",
+            "Stellenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche und Dezimalzahlen multiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Bruchmultiplikation",
+            "Dezimalzahlen",
+            "Umwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche und Dezimalzahlen dividieren",
+          "level": 1,
+          "keyterms": [
+            "Bruchdivision",
+            "Dezimalzahlen",
+            "Umwandlung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dezimalzahlen und Größen",
+      "level": 0,
+      "keyterms": [
+        "Größen",
+        "Dezimalzahlen",
+        "Maßeinheiten",
+        "Umrechnen",
+        "Maßstab",
+        "Vergrößern",
+        "Verkleinern",
+        "Maßeinheit",
+        "Längenmaß",
+        "Flächenmaß",
+        "Volumenmaß",
+        "Gewichtsmaß",
+        "Maßumrechnung",
+        "Maßstabrechnung",
+        "Maßstabsverhältnis"
+      ],
+      "children": [
+        {
+          "name": "Größen mit Dezimalzahlen schreiben",
+          "level": 1,
+          "keyterms": [
+            "Größen",
+            "Dezimalzahlen",
+            "Maßeinheiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen umrechnen",
+          "level": 1,
+          "keyterms": [
+            "Maßumrechnung",
+            "Maßeinheiten",
+            "Dezimalzahlen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Größen",
+            "Dezimalzahlen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Größen",
+            "Dezimalzahlen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Maßstab rechnen – Verkleinern",
+          "level": 1,
+          "keyterms": [
+            "Maßstab",
+            "Verkleinern",
+            "Maßstabsverhältnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Maßstab rechnen – Vergrößern",
+          "level": 1,
+          "keyterms": [
+            "Maßstab",
+            "Vergrößern",
+            "Maßstabsverhältnis"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Flächen- und Rauminhalte",
+      "level": 0,
+      "keyterms": [
+        "Flächeninhalt",
+        "Rauminhalt",
+        "Rechteck",
+        "Quadrat",
+        "Flächenberechnung",
+        "Volumenberechnung",
+        "Einheiten",
+        "Maßeinheiten",
+        "Längenmaß",
+        "Flächenmaß",
+        "Volumenmaß",
+        "Umrechnen",
+        "Geometrie",
+        "Formeln",
+        "Maßstabsberechnung"
+      ],
+      "children": [
+        {
+          "name": "Flächeninhalt von Rechtecken berechnen",
+          "level": 1,
+          "keyterms": [
+            "Flächeninhalt",
+            "Rechteck",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt von Quadraten berechnen",
+          "level": 1,
+          "keyterms": [
+            "Flächeninhalt",
+            "Quadrat",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt umrechnen",
+          "level": 1,
+          "keyterms": [
+            "Flächenmaß",
+            "Umrechnen",
+            "Maßeinheiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rauminhalt von Quadern berechnen",
+          "level": 1,
+          "keyterms": [
+            "Rauminhalt",
+            "Quader",
+            "Volumenberechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rauminhalt umrechnen",
+          "level": 1,
+          "keyterms": [
+            "Volumenmaß",
+            "Umrechnen",
+            "Maßeinheiten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Zufall",
+      "level": 0,
+      "keyterms": [
+        "Daten",
+        "Zufall",
+        "Diagramme",
+        "Kreisdiagramm",
+        "Säulendiagramm",
+        "Mittelwert",
+        "Häufigkeit",
+        "Wahrscheinlichkeit",
+        "Datenanalyse",
+        "Dateninterpretation",
+        "Zufallsexperiment",
+        "Daten darstellen",
+        "Daten auswerten",
+        "Statistik",
+        "Daten sammeln"
+      ],
+      "children": [
+        {
+          "name": "Daten ablesen und darstellen",
+          "level": 1,
+          "keyterms": [
+            "Daten",
+            "Diagramme",
+            "Ablesen",
+            "Darstellen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten im Kreisdiagramm darstellen",
+          "level": 1,
+          "keyterms": [
+            "Kreisdiagramm",
+            "Daten",
+            "Darstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten im Säulendiagramm darstellen",
+          "level": 1,
+          "keyterms": [
+            "Säulendiagramm",
+            "Daten",
+            "Darstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mittelwert und Zentralwert bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Mittelwert",
+            "Zentralwert",
+            "Datenanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeiten bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Wahrscheinlichkeit",
+            "Zufall",
+            "Zufallsexperiment"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

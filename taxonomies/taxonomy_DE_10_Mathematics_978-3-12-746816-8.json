@@ -1,0 +1,954 @@
+{
+  "country": "DE",
+  "grade": "10",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-746816-8",
+  "taxonomy": [
+    {
+      "name": "Basiswissen",
+      "level": 0,
+      "keyterms": [
+        "Zahlenbereiche",
+        "Größen",
+        "Runden",
+        "Brüche",
+        "Prozentrechnung",
+        "Dreisatz",
+        "Flächeninhalt",
+        "Pythagoras",
+        "Funktionen",
+        "Formeln",
+        "Maße"
+      ],
+      "children": [
+        {
+          "name": "Zahlenbereiche",
+          "level": 1,
+          "keyterms": [
+            "natürliche Zahlen",
+            "ganze Zahlen",
+            "rationale Zahlen",
+            "reelle Zahlen",
+            "Zahlenmengen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grundrechenarten von Größen",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Multiplikation",
+            "Division",
+            "Maßeinheiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen umrechnen",
+          "level": 1,
+          "keyterms": [
+            "Längeneinheiten",
+            "Flächeneinheiten",
+            "Volumeneinheiten",
+            "Umrechnungsfaktoren",
+            "Maßstab"
+          ],
+          "children": []
+        },
+        {
+          "name": "Runden",
+          "level": 1,
+          "keyterms": [
+            "Dezimalstellen",
+            "Signifikante Stellen",
+            "Kaufmännisches Runden",
+            "Überschlagsrechnung",
+            "Genauigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lösungen prüfen",
+          "level": 1,
+          "keyterms": [
+            "Probe",
+            "Rückrechnung",
+            "Plausibilitätsprüfung",
+            "Fehlerkontrolle",
+            "Ergebnisüberprüfung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Brüchen rechnen",
+          "level": 1,
+          "keyterms": [
+            "Bruchrechnung",
+            "Kürzen",
+            "Erweitern",
+            "Addition von Brüchen",
+            "Subtraktion von Brüchen",
+            "Multiplikation von Brüchen",
+            "Division von Brüchen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Anwendungsumformung",
+          "level": 1,
+          "keyterms": [
+            "Umstellen von Gleichungen",
+            "Formelumstellung",
+            "Variablen",
+            "Lösungsweg",
+            "Äquivalenzumformung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dreisatz",
+          "level": 1,
+          "keyterms": [
+            "Proportionalität",
+            "Antiproportionalität",
+            "Verhältnis",
+            "Berechnung",
+            "Anwendungsaufgaben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Prozent- und Zinsrechnung",
+          "level": 1,
+          "keyterms": [
+            "Prozentwert",
+            "Prozentsatz",
+            "Grundwert",
+            "Zinsen",
+            "Zinssatz",
+            "Zinsformel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt berechnen",
+          "level": 1,
+          "keyterms": [
+            "Quadrat",
+            "Rechteck",
+            "Dreieck",
+            "Parallelogramm",
+            "Trapez",
+            "Kreis",
+            "Formeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Satz des Pythagoras",
+          "level": 1,
+          "keyterms": [
+            "rechtwinkliges Dreieck",
+            "Hypotenuse",
+            "Katheten",
+            "Längenberechnung",
+            "Anwendungsaufgaben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Funktionen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Funktionsgraph",
+            "Koordinatensystem",
+            "Funktionsgleichung",
+            "Wertetabelle",
+            "Lineare Funktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bedeutende Formeln",
+          "level": 1,
+          "keyterms": [
+            "Mathematische Formeln",
+            "Umformung",
+            "Anwendung",
+            "Berechnung",
+            "Formelzeichen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Maße",
+          "level": 1,
+          "keyterms": [
+            "Längenmaße",
+            "Flächenmaße",
+            "Volumenmaße",
+            "Gewichtsmaße",
+            "Umrechnung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lineare Gleichungssysteme",
+      "level": 0,
+      "keyterms": [
+        "Gleichungssystem",
+        "Lösungsverfahren",
+        "Substitution",
+        "Additionsverfahren",
+        "Gleichsetzungsverfahren",
+        "Lösungsmenge",
+        "Anwendungsaufgaben",
+        "Graphische Lösung",
+        "Lineare Gleichungen"
+      ],
+      "children": [
+        {
+          "name": "Lineare Gleichungssysteme – lösen mit dem Gleichsetzungsverfahren",
+          "level": 1,
+          "keyterms": [
+            "Gleichsetzungsverfahren",
+            "Gleichungen",
+            "Lösungsmenge",
+            "Umformung",
+            "Variablen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineare Gleichungssysteme – lösen mit dem Additionsverfahren",
+          "level": 1,
+          "keyterms": [
+            "Additionsverfahren",
+            "Addition",
+            "Elimination",
+            "Lösungsmenge",
+            "Gleichungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineare Gleichungssysteme – lösen mit dem Einsetzungsverfahren",
+          "level": 1,
+          "keyterms": [
+            "Einsetzungsverfahren",
+            "Substitution",
+            "Lösungsmenge",
+            "Gleichungen",
+            "Variablen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineare Gleichungssysteme grafisch lösen",
+          "level": 1,
+          "keyterms": [
+            "Graphische Lösung",
+            "Koordinatensystem",
+            "Schnittpunkt",
+            "Funktionsgraph",
+            "Lösungsmenge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineare Gleichungssysteme anwenden",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Anwendungsaufgaben",
+            "Modellierung",
+            "Lösungsweg",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sonderfälle bei linearen Gleichungssystemen",
+          "level": 1,
+          "keyterms": [
+            "Keine Lösung",
+            "Unendlich viele Lösungen",
+            "Widerspruch",
+            "Identität",
+            "Sonderfall"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Quadratische Gleichungen und Funktionen",
+      "level": 0,
+      "keyterms": [
+        "Quadratische Gleichung",
+        "Lösungsverfahren",
+        "Mitternachtsformel",
+        "pq-Formel",
+        "Quadratische Funktion",
+        "Parabel",
+        "Nullstellen",
+        "Scheitelpunkt",
+        "Graph",
+        "Faktorisierung"
+      ],
+      "children": [
+        {
+          "name": "Gleichungen der Form ax² + c = 0",
+          "level": 1,
+          "keyterms": [
+            "Quadratische Gleichung",
+            "Lösungsverfahren",
+            "Wurzelziehen",
+            "Nullstellen",
+            "Lösungsmenge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Gleichungen mit pq-Formel lösen",
+          "level": 1,
+          "keyterms": [
+            "pq-Formel",
+            "Lösungsverfahren",
+            "Nullstellen",
+            "Quadratische Gleichung",
+            "Lösungsmenge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Gleichungen mit Mitternachtsformel lösen",
+          "level": 1,
+          "keyterms": [
+            "Mitternachtsformel",
+            "Lösungsverfahren",
+            "Diskriminante",
+            "Nullstellen",
+            "Quadratische Gleichung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Gleichungen durch Faktorisieren lösen",
+          "level": 1,
+          "keyterms": [
+            "Faktorisierung",
+            "Nullstellen",
+            "Lösungsverfahren",
+            "Produkt",
+            "Quadratische Gleichung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Parabel",
+            "Funktionsgleichung",
+            "Scheitelpunkt",
+            "Graph",
+            "Nullstellen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Graphen quadratischer Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Parabel",
+            "Scheitelpunktform",
+            "Normalform",
+            "Streckung",
+            "Verschiebung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Funktionen anwenden",
+          "level": 1,
+          "keyterms": [
+            "Anwendungsaufgaben",
+            "Modellierung",
+            "Textaufgaben",
+            "Parabel",
+            "Lösungsweg"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Potenzgesetze",
+      "level": 0,
+      "keyterms": [
+        "Potenz",
+        "Exponent",
+        "Basis",
+        "Potenzgesetze",
+        "Multiplikation",
+        "Division",
+        "Potenzieren",
+        "Wurzeln",
+        "Negative Exponenten",
+        "Natürliche Exponenten"
+      ],
+      "children": [
+        {
+          "name": "Potenz mit ganzem Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Ganzzahliger Exponent",
+            "Potenz",
+            "Multiplikation",
+            "Division",
+            "Potenzieren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenz mit negativen Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Negativer Exponent",
+            "Kehrwert",
+            "Potenz",
+            "Division",
+            "Umkehrung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzgesetze anwenden",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation von Potenzen",
+            "Division von Potenzen",
+            "Potenzieren von Potenzen",
+            "Potenzgesetze",
+            "Vereinfachung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wurzeln und Potenzen",
+          "level": 1,
+          "keyterms": [
+            "Quadratwurzel",
+            "Kubikwurzel",
+            "Wurzelgesetze",
+            "Potenzschreibweise",
+            "Radizieren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenz mit natürlichen Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Natürlicher Exponent",
+            "Potenz",
+            "Multiplikation",
+            "Exponentiation",
+            "Basis"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Trigonometrie",
+      "level": 0,
+      "keyterms": [
+        "Sinus",
+        "Kosinus",
+        "Tangens",
+        "Winkelfunktionen",
+        "Rechtwinkliges Dreieck",
+        "Hypotenuse",
+        "Ankathete",
+        "Gegenkathete",
+        "Sinussatz",
+        "Kosinussatz",
+        "Winkelberechnung"
+      ],
+      "children": [
+        {
+          "name": "Sinus",
+          "level": 1,
+          "keyterms": [
+            "Sinusfunktion",
+            "Winkel",
+            "Gegenkathete",
+            "Hypotenuse",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kosinus",
+          "level": 1,
+          "keyterms": [
+            "Kosinusfunktion",
+            "Winkel",
+            "Ankathete",
+            "Hypotenuse",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sinus, Kosinus und Tangens",
+          "level": 1,
+          "keyterms": [
+            "Sinus",
+            "Kosinus",
+            "Tangens",
+            "Winkelfunktionen",
+            "Rechtwinkliges Dreieck"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sinus, Kosinus und Tangens anwenden",
+          "level": 1,
+          "keyterms": [
+            "Anwendungsaufgaben",
+            "Winkelberechnung",
+            "Seitenberechnung",
+            "Trigonometrische Funktionen",
+            "Dreiecksberechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sinussatz",
+          "level": 1,
+          "keyterms": [
+            "Sinussatz",
+            "Beliebiges Dreieck",
+            "Seitenverhältnis",
+            "Winkel",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kosinussatz",
+          "level": 1,
+          "keyterms": [
+            "Kosinussatz",
+            "Beliebiges Dreieck",
+            "Seitenberechnung",
+            "Winkelberechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sinusfunktion y = sin x",
+          "level": 1,
+          "keyterms": [
+            "Sinusfunktion",
+            "Graph",
+            "Periodizität",
+            "Amplitude",
+            "Funktion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Körper",
+      "level": 0,
+      "keyterms": [
+        "Körper",
+        "Prisma",
+        "Zylinder",
+        "Pyramide",
+        "Kegel",
+        "Volumen",
+        "Oberfläche",
+        "Netz",
+        "Berechnung",
+        "Raumgeometrie"
+      ],
+      "children": [
+        {
+          "name": "Schrägbilder von Körpern",
+          "level": 1,
+          "keyterms": [
+            "Schrägbild",
+            "Körperdarstellung",
+            "Raumgeometrie",
+            "Perspektive",
+            "Zeichnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Netze von Körpern",
+          "level": 1,
+          "keyterms": [
+            "Netz",
+            "Körper",
+            "Flächen",
+            "Zusammensetzung",
+            "Darstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Volumen von Prismen und Zylindern berechnen",
+          "level": 1,
+          "keyterms": [
+            "Volumen",
+            "Prisma",
+            "Zylinder",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Oberflächeninhalt von Prismen und Zylindern berechnen",
+          "level": 1,
+          "keyterms": [
+            "Oberfläche",
+            "Prisma",
+            "Zylinder",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Volumen von Pyramiden und Kegeln berechnen",
+          "level": 1,
+          "keyterms": [
+            "Volumen",
+            "Pyramide",
+            "Kegel",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Oberflächeninhalt von Pyramiden und Kegeln berechnen",
+          "level": 1,
+          "keyterms": [
+            "Oberfläche",
+            "Pyramide",
+            "Kegel",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Volumen und Oberflächeninhalt von Kugeln berechnen",
+          "level": 1,
+          "keyterms": [
+            "Volumen",
+            "Oberfläche",
+            "Kugel",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Raumgeometrische Körpernummern",
+          "level": 1,
+          "keyterms": [
+            "Körpernummer",
+            "Raumgeometrie",
+            "Klassifikation",
+            "Bezeichnung",
+            "Identifikation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wachstum",
+      "level": 0,
+      "keyterms": [
+        "Exponentielles Wachstum",
+        "Lineares Wachstum",
+        "Zunahme",
+        "Abnahme",
+        "Wachstumsfaktor",
+        "Halbwertszeit",
+        "Verdopplungszeit",
+        "Prozentuale Veränderung",
+        "Wachstumsformel"
+      ],
+      "children": [
+        {
+          "name": "Exponentielles Wachstum",
+          "level": 1,
+          "keyterms": [
+            "Exponentielles Wachstum",
+            "Wachstumsfaktor",
+            "Prozentuale Zunahme",
+            "Formel",
+            "Anwendungsaufgaben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineares Wachstum",
+          "level": 1,
+          "keyterms": [
+            "Lineares Wachstum",
+            "Konstante Zunahme",
+            "Formel",
+            "Graph",
+            "Anwendungsaufgaben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Halbwertszeit, Verdopplungszeit",
+          "level": 1,
+          "keyterms": [
+            "Halbwertszeit",
+            "Verdopplungszeit",
+            "Exponentielles Wachstum",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wachstumsarten unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Wachstumsarten",
+            "Vergleich",
+            "Exponentiell",
+            "Linear",
+            "Unterscheidung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Funktionen",
+      "level": 0,
+      "keyterms": [
+        "Funktion",
+        "Graph",
+        "Funktionsgleichung",
+        "Nullstelle",
+        "Schnittpunkt",
+        "Definitionsbereich",
+        "Wertebereich",
+        "Monotonie",
+        "Schnittpunktberechnung"
+      ],
+      "children": [
+        {
+          "name": "Lineare Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Lineare Funktion",
+            "Steigung",
+            "y-Achsenabschnitt",
+            "Graph",
+            "Funktionsgleichung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Quadratische Funktion",
+            "Parabel",
+            "Scheitelpunkt",
+            "Graph",
+            "Funktionsgleichung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzfunktionen mit positiven ganzzahligen Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Potenzfunktion",
+            "Exponent",
+            "Graph",
+            "Funktionsgleichung",
+            "Eigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzfunktionen mit negativen ganzzahligen Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Potenzfunktion",
+            "Negativer Exponent",
+            "Graph",
+            "Asymptote",
+            "Eigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schnittpunktfunktionen",
+          "level": 1,
+          "keyterms": [
+            "Schnittpunkt",
+            "Graphen",
+            "Gleichungssystem",
+            "Berechnung",
+            "Koordinaten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nullstellen und Schnittpunkte berechnen",
+          "level": 1,
+          "keyterms": [
+            "Nullstelle",
+            "Schnittpunkt",
+            "Berechnung",
+            "Funktionsgleichung",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Funktionen erkennen und unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Funktionstypen",
+            "Vergleich",
+            "Eigenschaften",
+            "Graphen",
+            "Unterscheidung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Zufall",
+      "level": 0,
+      "keyterms": [
+        "Diagramm",
+        "Daten",
+        "Statistik",
+        "Wahrscheinlichkeit",
+        "Vierfeldertafel",
+        "Erwartungswert",
+        "Zufallsexperiment",
+        "Baumdiagramm",
+        "Absolute Häufigkeit",
+        "Relative Häufigkeit"
+      ],
+      "children": [
+        {
+          "name": "Daten in Diagrammen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Balkendiagramm",
+            "Kreisdiagramm",
+            "Säulendiagramm",
+            "Darstellung",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten aus Diagrammen entnehmen",
+          "level": 1,
+          "keyterms": [
+            "Ablesen",
+            "Interpretation",
+            "Diagramm",
+            "Datenanalyse",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten bewerten",
+          "level": 1,
+          "keyterms": [
+            "Bewertung",
+            "Interpretation",
+            "Statistik",
+            "Datenanalyse",
+            "Schlussfolgerung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeit in Vierfeldertafel",
+          "level": 1,
+          "keyterms": [
+            "Vierfeldertafel",
+            "Wahrscheinlichkeit",
+            "Bedingte Wahrscheinlichkeit",
+            "Datenanordnung",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Absolute und relative Häufigkeit",
+          "level": 1,
+          "keyterms": [
+            "Absolute Häufigkeit",
+            "Relative Häufigkeit",
+            "Berechnung",
+            "Statistik",
+            "Daten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeiten zweistufiger Zufallsversuche",
+          "level": 1,
+          "keyterms": [
+            "Zweistufiger Zufallsversuch",
+            "Baumdiagramm",
+            "Wahrscheinlichkeit",
+            "Pfadregel",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Erwartungswert",
+          "level": 1,
+          "keyterms": [
+            "Erwartungswert",
+            "Wahrscheinlichkeit",
+            "Mittelwert",
+            "Berechnung",
+            "Zufallsversuch"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

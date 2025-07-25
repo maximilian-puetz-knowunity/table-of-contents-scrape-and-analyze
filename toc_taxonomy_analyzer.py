@@ -149,16 +149,16 @@ class TocTaxonomyAnalyzer:
         # Extract grade (second part, but handle complex grade patterns)
         grade = parts[1]
         
-        # Handle complex grade patterns like "5_6", "12_13", "11_(G9)", "1._Fremdsprache", etc.
+        # Handle complex grade patterns like "5_6", "12_13", "11_G9", "1_Fremdsprache", etc.
         grade_parts = [parts[1]]
         next_idx = 2
         
         # Check if next parts are also part of the grade
         while next_idx < isbn_index and len(parts[next_idx]) <= 15:  # Increased limit for "Fremdsprache"
             part = parts[next_idx]
-            # Include if it's a grade pattern
+            # Include if it's a grade pattern (updated for cleaned directory names)
             if (any(char.isdigit() for char in part) or 
-                part in ['(G8)', '(G9)'] or 
+                part in ['G8', 'G9'] or  # Cleaned format without parentheses
                 'Fremdsprache' in part or
                 part in ['Berufliche', 'Schulen', 'Oberstufe']):
                 grade_parts.append(part)
@@ -290,28 +290,44 @@ class TocTaxonomyAnalyzer:
         try:
             self.logger.info(f"Sending {len(encoded_images)} images to GPT-4 for taxonomy analysis...")
             
-            # Try with higher token limit first
+            # Allow full output generation without token restrictions
             try:
                 response = self.client.chat.completions.create(
                     model=self.model,
                     messages=messages,
-                    max_tokens=4096,  # Increased for complex taxonomies
-                    temperature=0.1  # Low temperature for consistent taxonomies
+                    # No max_tokens limit - let the model generate complete taxonomies
+                    temperature=0.0  # Low temperature for consistent taxonomies
                 )
             except Exception as e:
                 if "maximum context length" in str(e).lower():
-                    # Retry with lower token limit
-                    self.logger.warning("Retrying with reduced token limit due to context length")
+                    # If context is too large, try with fewer images or smaller detail
+                    self.logger.warning("Context length exceeded - retrying with reduced detail")
+                    # Retry with standard detail instead of high detail
+                    messages[0]["content"] = [
+                        {"type": "text", "text": prompt}
+                    ] + [
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/png;base64,{img['data']}",
+                                "detail": "low"  # Reduced detail to save context
+                            }
+                        } for img in encoded_images
+                    ]
                     response = self.client.chat.completions.create(
                         model=self.model,
                         messages=messages,
-                        max_tokens=4000,
-                        temperature=0.1
+                        temperature=0.0
                     )
                 else:
                     raise
             
             content = response.choices[0].message.content.strip()
+            
+            # Log response details to detect potential truncation
+            self.logger.info(f"Received response: {len(content)} characters")
+            if response.choices[0].finish_reason != "stop":
+                self.logger.warning(f"Response may be truncated - finish_reason: {response.choices[0].finish_reason}")
             
             # Parse the JSON response with enhanced error handling
             try:
@@ -323,7 +339,8 @@ class TocTaxonomyAnalyzer:
                 # Validate the structure
                 self._validate_taxonomy_structure(taxonomy_data)
                 
-                self.logger.info(f"Successfully analyzed taxonomy with {len(taxonomy_data.get('taxonomy', []))} top-level topics")
+                topic_count = self._count_topics(taxonomy_data.get('taxonomy', []))
+                self.logger.info(f"Successfully analyzed taxonomy with {len(taxonomy_data.get('taxonomy', []))} top-level topics, {topic_count} total topics")
                 return taxonomy_data
                 
             except (json.JSONDecodeError, ValueError) as e:
@@ -346,7 +363,9 @@ class TocTaxonomyAnalyzer:
     def _create_analysis_prompt(self, metadata: BookMetadata, max_depth: int) -> str:
         """Create detailed analysis prompt for GPT-4."""
         return f"""
-You are an educational taxonomy generator. Analyze table of contents images and extract a hierarchical educational taxonomy.
+You are an educational taxonomy generator. Analyze table of contents images and extract a COMPLETE hierarchical educational taxonomy.
+
+**CRITICAL**: Generate the FULL taxonomy without truncation. Include ALL topics and subtopics from the TOC images.
 
 **TASK**: Create a JSON taxonomy reflecting the actual curriculum structure for {metadata.subject}, Grade {metadata.grade}, {metadata.country}.
 
@@ -357,15 +376,18 @@ You are an educational taxonomy generator. Analyze table of contents images and 
 4. Structure into hierarchy (max {max_depth} levels: 0=main topics, 1=subtopics, etc.)
 
 **REQUIREMENTS**:
+- Generate COMPLETE taxonomy - do NOT truncate or compress output
 - Extract educational content only (exclude "Practice Exam", "Tests", "Exercises")
-- Output in English
+- Output in the language of the source material
 - Maintain educational sequence from source material
 - Use exact JSON format below
 - Depth should be so that the lowest level is something like "product rule" or "integration by parts" which is an isolated concept
 - Names of the Topics and Subtopics should be adjusted so that students can understand them
+- Dont include preambles like "Review", "Summary" etc. or non topispecific terminology like "Practice Exam" or "Tests"
 - Include 5-15 relevant keyterms for each topic that students would associate with that concept (these don't have to appear in the TOC)
+- Try to avoid using verbs
 
-**OUTPUT FORMAT** (JSON only, no explanations):
+**OUTPUT FORMAT** (JSON only, no explanations, COMPLETE taxonomy):
 ```json
 {{
     "country": "{metadata.country}",
@@ -587,13 +609,13 @@ You are an educational taxonomy generator. Analyze table of contents images and 
                 elif in_item:
                     current_item += char
                 
-                # Stop if we have enough items or hit length limit
-                if len(items) >= 5 or i > len(content) - 100:
+                # Stop if we hit length limit but try to get as many complete items as possible
+                if i > len(content) - 50:  # Only stop near the very end
                     break
             
             if items:
-                # Create minimal valid taxonomy with keyterms
-                for item in items[:5]:
+                # Create taxonomy with all recovered items, add missing keyterms
+                for item in items:
                     if 'keyterms' not in item:
                         item['keyterms'] = []
                 
@@ -602,7 +624,7 @@ You are an educational taxonomy generator. Analyze table of contents images and 
                     "grade": metadata.grade,
                     "subject": metadata.subject,
                     "ISBN": metadata.isbn,
-                    "taxonomy": items[:5]  # Limit to first 5 items
+                    "taxonomy": items  # Include ALL recovered items, not just first 5
                 }
         
         except Exception as e:
@@ -653,7 +675,7 @@ def main():
             max_depth = 3
         
         print(f"\n📊 Configuration:")
-        print(f"   • Model: GPT-4 Turbo")
+        print(f"   • Model: {analyzer.model}")
         print(f"   • Max depth: {max_depth} levels")
         print(f"   • Output: taxonomies/ directory")
         print()

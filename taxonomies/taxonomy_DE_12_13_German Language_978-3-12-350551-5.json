@@ -1,0 +1,735 @@
+{
+  "country": "DE",
+  "grade": "12_13",
+  "subject": "German Language",
+  "ISBN": "978-3-12-350551-5",
+  "taxonomy": [
+    {
+      "name": "Kommunikation und Reden untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Kommunikationsmodelle",
+        "Kommunikationsfunktionen",
+        "digitale Kommunikation",
+        "Öffentlichkeit",
+        "Privatheit",
+        "Debattenkultur",
+        "pragmatische Texte",
+        "Reden",
+        "Argumentation",
+        "Schreibauftrag",
+        "Redeanalyse",
+        "politische Rede",
+        "Textanalyse"
+      ],
+      "children": [
+        {
+          "name": "Aspekte der Kommunikation untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Kommunikationsmodelle",
+            "Kommunikationsfunktionen",
+            "digitale Kommunikation",
+            "Öffentlichkeit",
+            "Privatheit",
+            "Gesprächsanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kontroversen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Debattenkultur",
+            "pragmatische Texte",
+            "Kontroversen",
+            "Argumentation",
+            "Reden",
+            "Diskussion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kommunikation in literarischen Texten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "literarische Kommunikation",
+            "Reden in Literatur",
+            "Textinterpretation",
+            "Dialog",
+            "Monolog"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mit Medien umgehen",
+      "level": 0,
+      "keyterms": [
+        "Medienvielfalt",
+        "digitale Medien",
+        "Medienreflexion",
+        "Medienkritik",
+        "Desinformation",
+        "digitale Öffentlichkeit",
+        "politische Willensbildung",
+        "Medienanalyse",
+        "Medienkompetenz",
+        "Medienethik",
+        "Medienwirkung"
+      ],
+      "children": [
+        {
+          "name": "Die Vielfalt von Medien nutzen und reflektieren",
+          "level": 1,
+          "keyterms": [
+            "Medienvielfalt",
+            "Mediennutzung",
+            "Medienreflexion",
+            "gesellschaftliche Bedeutung",
+            "Medienkritik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die digitale Öffentlichkeit als Chance und Herausforderung",
+          "level": 1,
+          "keyterms": [
+            "digitale Öffentlichkeit",
+            "Desinformation",
+            "politische Willensbildung",
+            "digitale Medien",
+            "Macht der Medien",
+            "Medienethik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Multimodal erzählt – Mit allen Sinnen",
+      "level": 0,
+      "keyterms": [
+        "Filminterpretation",
+        "Filmanalyse",
+        "literarische Vorlage",
+        "Verfilmung",
+        "Kunstwerke",
+        "multimodales Erzählen",
+        "Graphik Novel",
+        "Hörspiel",
+        "Text-Bild-Kombination",
+        "Erzähltechniken",
+        "Sinneseindrücke"
+      ],
+      "children": [
+        {
+          "name": "Einen Film erschließen und interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Filmanalyse",
+            "Filminterpretation",
+            "Figurenkonstellation",
+            "Filmszenen",
+            "Deutungshypothese",
+            "filmische Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Verhältnis von literarischer Vorlage und Verfilmung untersuchen",
+          "level": 1,
+          "keyterms": [
+            "literarische Vorlage",
+            "Verfilmung",
+            "Kunstwerke",
+            "Vergleich",
+            "Adaption"
+          ],
+          "children": []
+        },
+        {
+          "name": "Multimodale Erzählweisen nutzen: Sehen, staunen, zuhören",
+          "level": 1,
+          "keyterms": [
+            "multimodales Erzählen",
+            "Graphik Novel",
+            "Hörspiel",
+            "Text-Bild-Kombination",
+            "Erzähltechniken"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Barock (1600–1720) – Vergänglichkeit und Lebensfreude",
+      "level": 0,
+      "keyterms": [
+        "Barock",
+        "lyrische Texte",
+        "Emblematik",
+        "Vergänglichkeit",
+        "Lebensfreude",
+        "epische Texte",
+        "Interpretation",
+        "Barockdichtung",
+        "Symbolik",
+        "Motivik",
+        "Epik"
+      ],
+      "children": [
+        {
+          "name": "Das Motiv im lyrischen Text untersuchen",
+          "level": 1,
+          "keyterms": [
+            "lyrische Texte",
+            "Emblematik",
+            "Vergänglichkeit",
+            "Lebensfreude",
+            "Symbolik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Epische Texte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "epische Texte",
+            "Barockdichtung",
+            "Interpretation",
+            "Erzählstruktur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aufklärung (1720–1785) – Erziehung zur Vernunft",
+      "level": 0,
+      "keyterms": [
+        "Aufklärung",
+        "epische Äußerungen",
+        "Tugend",
+        "Toleranz",
+        "Lehrhafte Texte",
+        "Programmatik",
+        "Dramenanalyse",
+        "Menschlichkeit",
+        "Vernunft",
+        "Utopie",
+        "Rezension"
+      ],
+      "children": [
+        {
+          "name": "Formen epischer Äußerungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "epische Äußerungen",
+            "Tugend",
+            "Toleranz",
+            "Lehrhafte Texte",
+            "Programmatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dramen analysieren",
+          "level": 1,
+          "keyterms": [
+            "Dramenanalyse",
+            "Menschlichkeit",
+            "Toleranz",
+            "Vernunft",
+            "Theaterrezension"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Empfindsamkeit und Sturm und Drang (1740–1785) – Leidenschaft und Rebellion",
+      "level": 0,
+      "keyterms": [
+        "Empfindsamkeit",
+        "Sturm und Drang",
+        "lyrische Texte",
+        "Rebellion",
+        "Gefühle",
+        "epische Texte",
+        "Dramenanalyse",
+        "Standards",
+        "Kritik",
+        "Werther",
+        "digitale Projekte"
+      ],
+      "children": [
+        {
+          "name": "Formen lyrischen Sprechens untersuchen",
+          "level": 1,
+          "keyterms": [
+            "lyrische Texte",
+            "Empfindsamkeit",
+            "Gefühle",
+            "Rebellion",
+            "Ausdrucksformen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Epische Texte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "epische Texte",
+            "Sturm und Drang",
+            "Werther",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dramen analysieren",
+          "level": 1,
+          "keyterms": [
+            "Dramenanalyse",
+            "Standards",
+            "Kritik",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Klassik (1786–1805) – Humanität und Harmonie",
+      "level": 0,
+      "keyterms": [
+        "Klassik",
+        "Gedichte",
+        "Vergleich",
+        "Goethe",
+        "Schiller",
+        "Menschlichkeit",
+        "Anmut",
+        "Würde",
+        "Dramenanalyse",
+        "Faust",
+        "Interpretation"
+      ],
+      "children": [
+        {
+          "name": "Gedichte thematisch untersuchen und vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Gedichte",
+            "Vergleich",
+            "Goethe",
+            "Schiller",
+            "Menschlichkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Den Konflikt in verschiedenen Dramen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Dramenanalyse",
+            "Konflikt",
+            "Anmut",
+            "Würde",
+            "Faust"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Romantik (1795–1840) – Welt der Wunder",
+      "level": 0,
+      "keyterms": [
+        "Romantik",
+        "Gedichte",
+        "Schwellen",
+        "lyrische Texte",
+        "Motive",
+        "Erzähltexte",
+        "Wundermärchen",
+        "Sagen",
+        "Symbolik",
+        "Märchen",
+        "Interpretation"
+      ],
+      "children": [
+        {
+          "name": "Gedichte der Epoche untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Romantik",
+            "Gedichte",
+            "lyrische Texte",
+            "Schwellen",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Romantische Motive und Motive in Erzähltexten verstehen",
+          "level": 1,
+          "keyterms": [
+            "Motive",
+            "Erzähltexte",
+            "Wundermärchen",
+            "Sagen",
+            "Symbolik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Realistische literarische Strömungen im 19. Jahrhundert (1815–1900) – Wirklich?",
+      "level": 0,
+      "keyterms": [
+        "Vormärz",
+        "Biedermeier",
+        "Realismus",
+        "Naturalismus",
+        "Barrikadenkampf",
+        "Rückzug",
+        "Büchner",
+        "politische Lyrik",
+        "Romananalyse",
+        "Figurencharakteristik",
+        "Textkonzepte",
+        "Wirklichkeit"
+      ],
+      "children": [
+        {
+          "name": "Vormärz und Biedermeier (1815–1848)",
+          "level": 1,
+          "keyterms": [
+            "Vormärz",
+            "Biedermeier",
+            "Barrikadenkampf",
+            "Rückzug",
+            "Büchner",
+            "politische Lyrik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Poetischer Realismus (1848–1890)",
+          "level": 1,
+          "keyterms": [
+            "Poetischer Realismus",
+            "Romananalyse",
+            "Figurencharakteristik",
+            "Wirklichkeit",
+            "Textkonzepte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Naturalismus (1880–1900)",
+          "level": 1,
+          "keyterms": [
+            "Naturalismus",
+            "Wirklichkeit",
+            "Romananalyse",
+            "Textkonzepte"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Literatur um 1900 – Krisenerfahrungen",
+      "level": 0,
+      "keyterms": [
+        "Jahrhundertwende",
+        "Lyrik",
+        "Sprachskepsis",
+        "Sprachnot",
+        "lyrischer Ausdruck",
+        "Expressionismus",
+        "Untergang",
+        "Gedichtanalyse",
+        "Krisen",
+        "Themen der Lyrik"
+      ],
+      "children": [
+        {
+          "name": "Lyrik der Jahrhundertwende (1890–1910)",
+          "level": 1,
+          "keyterms": [
+            "Jahrhundertwende",
+            "Lyrik",
+            "Sprachskepsis",
+            "Sprachnot",
+            "lyrischer Ausdruck"
+          ],
+          "children": []
+        },
+        {
+          "name": "Expressionismus (1910–1923)",
+          "level": 1,
+          "keyterms": [
+            "Expressionismus",
+            "Untergang",
+            "Gedichtanalyse",
+            "Krisen",
+            "Themen der Lyrik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Moderne (1910–1945)",
+      "level": 0,
+      "keyterms": [
+        "Weimarer Republik",
+        "Alltag",
+        "Großstadtlyrik",
+        "Brecht",
+        "episches Theater",
+        "Weltwahrnehmung",
+        "Exilliteratur",
+        "Heimatverlust",
+        "Dada",
+        "Kunst",
+        "Revolte"
+      ],
+      "children": [
+        {
+          "name": "Literatur der Weimarer Republik (1919–1933)",
+          "level": 1,
+          "keyterms": [
+            "Weimarer Republik",
+            "Alltag",
+            "Großstadtlyrik",
+            "Brecht",
+            "episches Theater"
+          ],
+          "children": []
+        },
+        {
+          "name": "Exilliteratur (1933–1945)",
+          "level": 1,
+          "keyterms": [
+            "Exilliteratur",
+            "Heimatverlust",
+            "Weltwahrnehmung",
+            "Dada",
+            "Kunst"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gegenwartsliteratur – Umbrüche",
+      "level": 0,
+      "keyterms": [
+        "Nachkriegsliteratur",
+        "lyrische Texte",
+        "geteiltes Deutschland",
+        "Erzähltexte",
+        "Bundesrepublik",
+        "DDR",
+        "Zeitgenössische Literatur",
+        "Mündlichkeit",
+        "Erzähltechniken",
+        "Romananalyse",
+        "Gegenwart"
+      ],
+      "children": [
+        {
+          "name": "Nachkrieg",
+          "level": 1,
+          "keyterms": [
+            "Nachkriegsliteratur",
+            "lyrische Texte",
+            "1945",
+            "Vergangenheitsbewältigung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Leben im geteilten Deutschland",
+          "level": 1,
+          "keyterms": [
+            "geteiltes Deutschland",
+            "Erzähltexte",
+            "Bundesrepublik",
+            "DDR",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zeitgenössische Literatur",
+          "level": 1,
+          "keyterms": [
+            "Zeitgenössische Literatur",
+            "Mündlichkeit",
+            "Erzähltechniken",
+            "Romananalyse",
+            "Gegenwart"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Literarische Texte und Konzepte aus verschiedenen Zeiten untersuchen",
+      "level": 0,
+      "keyterms": [
+        "themenzentrierte Lyrik",
+        "Natur",
+        "Heimat",
+        "Vergleich",
+        "Interpretation",
+        "Theaterkonzepte",
+        "Antike",
+        "20. Jahrhundert",
+        "Textanalyse",
+        "Ausstellung",
+        "Motiv"
+      ],
+      "children": [
+        {
+          "name": "Merkmale themenzentrierter Lyrik untersuchen",
+          "level": 1,
+          "keyterms": [
+            "themenzentrierte Lyrik",
+            "Natur",
+            "Heimat",
+            "Vergleich",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Theaterkonzepte erfassen und vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Theaterkonzepte",
+            "Antike",
+            "20. Jahrhundert",
+            "Vergleich",
+            "Textanalyse"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sprache heute denken – Die Sprache zur Sprache bringen",
+      "level": 0,
+      "keyterms": [
+        "Sprachwandel",
+        "Mehrsprachigkeit",
+        "Sprachtheorien",
+        "Sprachgebrauch",
+        "Sprachreflexion",
+        "Sprachmodelle",
+        "informierende Texte",
+        "Sprachvergleich",
+        "Sprachentwicklung",
+        "Sprachkritik"
+      ],
+      "children": [
+        {
+          "name": "Sprache, 'werth', innere und äußere Mehrsprachigkeit reflektieren",
+          "level": 1,
+          "keyterms": [
+            "Mehrsprachigkeit",
+            "Sprachtheorien",
+            "Sprachgebrauch",
+            "Sprachreflexion",
+            "Sprachentwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprachtheoretische Modelle vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Sprachmodelle",
+            "Sprachvergleich",
+            "Sprachtheorien",
+            "Sprachkritik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Den gegenwärtigen Sprachgebrauch reflektieren",
+          "level": 1,
+          "keyterms": [
+            "Sprachwandel",
+            "Sprachgebrauch",
+            "Sprachreflexion",
+            "Sprachentwicklung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rechtschreibung, Grammatik, Stil – Gewusst, wie ...!",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Grammatik",
+        "Stil",
+        "Zusammenhänge",
+        "Buchsprache",
+        "sprachliche Mittel",
+        "Stilmittel",
+        "Poetry Slam",
+        "Kommunikationsform",
+        "Fehleranalyse",
+        "Grammatikregeln"
+      ],
+      "children": [
+        {
+          "name": "Zusammenhänge verdeutlichen",
+          "level": 1,
+          "keyterms": [
+            "Zusammenhänge",
+            "Buchsprache",
+            "Sprachstruktur",
+            "Textkohärenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprachlich-stilistische Mittel gezielt einsetzen",
+          "level": 1,
+          "keyterms": [
+            "sprachliche Mittel",
+            "Stilmittel",
+            "Poetry Slam",
+            "Kommunikationsform",
+            "Stil"
+          ],
+          "children": []
+        },
+        {
+          "name": "Fehler in Rechtschreibung und Grammatik vermeiden",
+          "level": 1,
+          "keyterms": [
+            "Fehleranalyse",
+            "Rechtschreibung",
+            "Grammatikregeln",
+            "Korrektur",
+            "Sprachrichtigkeit"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

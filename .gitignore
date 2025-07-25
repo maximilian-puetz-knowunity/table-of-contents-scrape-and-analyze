@@ -163,7 +163,7 @@ cython_debug/
 # Project-specific ignores
 
 # Generated output directories
-taxonomies/
+#taxonomies/
 demo_output/
 results/
 output/
@@ -173,6 +173,8 @@ old/
 screenshots/
 reports/
 legacy/
+not_for_these/
+
 
 # Analysis reports
 *_analysis_report*.json

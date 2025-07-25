@@ -1,0 +1,706 @@
+{
+  "country": "DE",
+  "grade": "5_6",
+  "subject": "History",
+  "ISBN": "978-3-12-443015-1",
+  "taxonomy": [
+    {
+      "name": "Der Mensch und seine Geschichte",
+      "level": 0,
+      "keyterms": [
+        "Geschichte",
+        "Vergangenheit",
+        "Zeitstrahl",
+        "Quellen",
+        "Archäologie",
+        "Neandertaler",
+        "Homo sapiens",
+        "Höhlenmalerei",
+        "Jäger und Sammler",
+        "Steinzeit",
+        "Bronzezeit",
+        "Eisenzeit",
+        "Revolution",
+        "Frühmenschen",
+        "Forschung"
+      ],
+      "children": [
+        {
+          "name": "Was ist eigentlich Geschichte?",
+          "level": 1,
+          "keyterms": [
+            "Definition",
+            "Vergangenheit",
+            "Historiker",
+            "Ereignisse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie findet man etwas über die Vergangenheit heraus?",
+          "level": 1,
+          "keyterms": [
+            "Quellen",
+            "Funde",
+            "Ausgrabungen",
+            "Beweise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Quellen auswerten",
+          "level": 1,
+          "keyterms": [
+            "Quellenanalyse",
+            "Interpretation",
+            "Beobachtung",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Geschichte auf der Spur",
+          "level": 1,
+          "keyterms": [
+            "Archäologie",
+            "Forschung",
+            "Entdeckungen",
+            "Spuren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie kam der Mensch auf die Welt?",
+          "level": 1,
+          "keyterms": [
+            "Evolution",
+            "Frühmenschen",
+            "Homo sapiens",
+            "Neandertaler"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geschichte begegnen: Die Neandertaler",
+          "level": 1,
+          "keyterms": [
+            "Neandertaler",
+            "Lebensweise",
+            "Werkzeuge",
+            "Jagd"
+          ],
+          "children": []
+        },
+        {
+          "name": "Waren die Menschen früher Jäger, Sammler oder Künstler?",
+          "level": 1,
+          "keyterms": [
+            "Jäger und Sammler",
+            "Höhlenmalerei",
+            "Kunst",
+            "Steinzeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Höhlenmalereien untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Höhlenmalerei",
+            "Analyse",
+            "Interpretation",
+            "Kunstgeschichte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Revolution in der Jungsteinzeit",
+          "level": 1,
+          "keyterms": [
+            "Jungsteinzeit",
+            "Ackerbau",
+            "Viehzucht",
+            "Sesshaftigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Handel in früher und Bronzezeit",
+          "level": 1,
+          "keyterms": [
+            "Handel",
+            "Bronzezeit",
+            "Tauschhandel",
+            "Waren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wiederholen und Anwenden",
+          "level": 1,
+          "keyterms": [
+            "Zusammenfassung",
+            "Wiederholung",
+            "Anwendung",
+            "Reflexion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Leben in frühen Hochkulturen – das Beispiel Ägypten",
+      "level": 0,
+      "keyterms": [
+        "Ägypten",
+        "Nil",
+        "Pharao",
+        "Pyramiden",
+        "Hieroglyphen",
+        "Götter",
+        "Alltag",
+        "Gesellschaft",
+        "Handwerk",
+        "Schrift",
+        "Religion",
+        "Kultur",
+        "Bauwerke",
+        "Herrschaft",
+        "Forschung"
+      ],
+      "children": [
+        {
+          "name": "Ist der Nil ein Geschenk des Nils?",
+          "level": 1,
+          "keyterms": [
+            "Nil",
+            "Überschwemmung",
+            "Fruchtbarkeit",
+            "Landwirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Geschichtskarten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Karten",
+            "Geografie",
+            "Analyse",
+            "Orientierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Pharao – Mensch oder Gott?",
+          "level": 1,
+          "keyterms": [
+            "Pharao",
+            "Herrscher",
+            "Götterglaube",
+            "Macht"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die geheimnisvollen Pyramiden",
+          "level": 1,
+          "keyterms": [
+            "Pyramiden",
+            "Bauwerke",
+            "Architektur",
+            "Grabstätten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie sah der Alltag der Ägypter aus?",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Berufe",
+            "Handwerk",
+            "Familie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Schulbilder untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Bildanalyse",
+            "Darstellungen",
+            "Interpretation",
+            "Schule"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wiederholen und Anwenden",
+          "level": 1,
+          "keyterms": [
+            "Zusammenfassung",
+            "Wiederholung",
+            "Anwendung",
+            "Reflexion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Griechische Wurzeln Europas",
+      "level": 0,
+      "keyterms": [
+        "Griechenland",
+        "Polis",
+        "Demokratie",
+        "Olympische Spiele",
+        "Götter",
+        "Mythologie",
+        "Athen",
+        "Sparta",
+        "Philosophie",
+        "Kunst",
+        "Staat",
+        "Gesellschaft",
+        "Wissenschaft",
+        "Handel",
+        "Kultur"
+      ],
+      "children": [
+        {
+          "name": "Die Griechen: Ein Volk ohne gemeinsamen Staat",
+          "level": 1,
+          "keyterms": [
+            "Polis",
+            "Stadtstaaten",
+            "Unabhängigkeit",
+            "Gemeinschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Spielen die Götter verehren?",
+          "level": 1,
+          "keyterms": [
+            "Olympische Spiele",
+            "Religion",
+            "Wettkämpfe",
+            "Götter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geschichte begegnen: Die Olympischen Spiele der Neuzeit",
+          "level": 1,
+          "keyterms": [
+            "Olympische Spiele",
+            "Sport",
+            "Tradition",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Athen – wo die Demokratie entstand",
+          "level": 1,
+          "keyterms": [
+            "Athen",
+            "Demokratie",
+            "Bürger",
+            "Mitbestimmung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Informationen im Internet recherchieren",
+          "level": 1,
+          "keyterms": [
+            "Recherche",
+            "Internet",
+            "Informationssuche",
+            "Quellenbewertung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine antike Demokratie – ein Vorbild für uns?",
+          "level": 1,
+          "keyterms": [
+            "Demokratie",
+            "Vergleich",
+            "Mitbestimmung",
+            "Vorbild"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Schul- und Werturteile formulieren",
+          "level": 1,
+          "keyterms": [
+            "Urteil",
+            "Bewertung",
+            "Argumentation",
+            "Meinung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mikon – ein Haushalt in Athen",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Familie",
+            "Haushalt",
+            "Athen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sparta – ein Leben für den Staat",
+          "level": 1,
+          "keyterms": [
+            "Sparta",
+            "Militär",
+            "Erziehung",
+            "Staat"
+          ],
+          "children": []
+        },
+        {
+          "name": "Griechenland – die Wiege unserer Kultur?",
+          "level": 1,
+          "keyterms": [
+            "Kultur",
+            "Wissenschaft",
+            "Philosophie",
+            "Kunst"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wiederholen und Anwenden",
+          "level": 1,
+          "keyterms": [
+            "Zusammenfassung",
+            "Wiederholung",
+            "Anwendung",
+            "Reflexion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vom Dorf zum Weltreich – Menschen im Römischen Reich",
+      "level": 0,
+      "keyterms": [
+        "Rom",
+        "Römisches Reich",
+        "Republik",
+        "Kaiser",
+        "Familie",
+        "Militär",
+        "Provinzen",
+        "Handel",
+        "Alltag",
+        "Germanen",
+        "China",
+        "Religion",
+        "Untergang",
+        "Herrschaft",
+        "Gesellschaft"
+      ],
+      "children": [
+        {
+          "name": "Rom – wie wurde eine Stadt entstanden?",
+          "level": 1,
+          "keyterms": [
+            "Gründung",
+            "Romulus und Remus",
+            "Legende",
+            "Stadtentwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Republik – wie wurde die Volksherrschaft eingeführt?",
+          "level": 1,
+          "keyterms": [
+            "Republik",
+            "Senat",
+            "Volksversammlung",
+            "Demokratie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die römische Familie – eine römische Familie?",
+          "level": 1,
+          "keyterms": [
+            "Familie",
+            "Haus",
+            "Rollenverteilung",
+            "Kinder"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie wurde Rom zur Großmacht?",
+          "level": 1,
+          "keyterms": [
+            "Expansion",
+            "Militär",
+            "Eroberungen",
+            "Macht"
+          ],
+          "children": []
+        },
+        {
+          "name": "War Krieg nur fern der Heimat oder in der Krise?",
+          "level": 1,
+          "keyterms": [
+            "Krieg",
+            "Feldzüge",
+            "Krisen",
+            "Verteidigung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wer schaffte Ordnung?",
+          "level": 1,
+          "keyterms": [
+            "Gesetze",
+            "Verwaltung",
+            "Ordnung",
+            "Recht"
+          ],
+          "children": []
+        },
+        {
+          "name": "Alltag in einer römischen Stadt",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Stadtleben",
+            "Berufe",
+            "Freizeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Römische Herrschaft – Unterdrücker der Provinzbewohner?",
+          "level": 1,
+          "keyterms": [
+            "Provinzen",
+            "Herrschaft",
+            "Verwaltung",
+            "Kulturkontakt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geschichte begegnen: Germanen und Römer",
+          "level": 1,
+          "keyterms": [
+            "Germanen",
+            "Römer",
+            "Konflikte",
+            "Kulturkontakt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Römer und Germanen – unversöhnliche Nachbarn?",
+          "level": 1,
+          "keyterms": [
+            "Nachbarn",
+            "Konflikte",
+            "Frieden",
+            "Grenzen"
+          ],
+          "children": []
+        },
+        {
+          "name": "China – ein Großreich im Fernen Osten",
+          "level": 1,
+          "keyterms": [
+            "China",
+            "Handel",
+            "Seidenstraße",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Christen – Feinde des römischen Staates?",
+          "level": 1,
+          "keyterms": [
+            "Christentum",
+            "Religion",
+            "Verfolgung",
+            "Toleranz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Roms Untergang – eine Folge seiner Größe?",
+          "level": 1,
+          "keyterms": [
+            "Untergang",
+            "Krisen",
+            "Teilung",
+            "Völkerwanderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wiederholen und Anwenden",
+          "level": 1,
+          "keyterms": [
+            "Zusammenfassung",
+            "Wiederholung",
+            "Anwendung",
+            "Reflexion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Herrschaft und Gesellschaft im mittelalterlichen Europa",
+      "level": 0,
+      "keyterms": [
+        "Mittelalter",
+        "Franken",
+        "König",
+        "Kaiser",
+        "Papst",
+        "Adel",
+        "Bauern",
+        "Ständeordnung",
+        "Lehnssystem",
+        "Kirche",
+        "Markt",
+        "Stadt",
+        "Gesellschaft",
+        "Herrschaft",
+        "Arbeit"
+      ],
+      "children": [
+        {
+          "name": "Mit den Franken ins Mittelalter – ein Neubeginn?",
+          "level": 1,
+          "keyterms": [
+            "Franken",
+            "Mittelalter",
+            "Neubeginn",
+            "Reichsgründung"
+          ],
+          "children": []
+        },
+        {
+          "name": "König und Kaiser Karl – ein Großer?",
+          "level": 1,
+          "keyterms": [
+            "Karl der Große",
+            "Kaiser",
+            "Herrschaft",
+            "Reformen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wer erhob Könige und Kaiser ihrer Macht?",
+          "level": 1,
+          "keyterms": [
+            "Krönung",
+            "Papst",
+            "Kirche",
+            "Macht"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kompetenztraining: Bildquellen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Bildquellen",
+            "Analyse",
+            "Interpretation",
+            "Darstellungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Machtkampf zwischen König und Papst – oder wer bestimmt die Welt?",
+          "level": 1,
+          "keyterms": [
+            "Investiturstreit",
+            "Papst",
+            "König",
+            "Machtkampf"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wer betet? Wer schützt? Wer arbeitet?",
+          "level": 1,
+          "keyterms": [
+            "Ständeordnung",
+            "Gesellschaft",
+            "Adel",
+            "Bauern"
+          ],
+          "children": []
+        },
+        {
+          "name": "Immer nur arbeiten? – Das Leben der Bauern",
+          "level": 1,
+          "keyterms": [
+            "Bauern",
+            "Arbeit",
+            "Alltag",
+            "Landwirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadtluft macht frei? – Die Adel",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Freiheit",
+            "Adel",
+            "Bürger"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geschichte begegnen: Markttag im Mittelalter",
+          "level": 1,
+          "keyterms": [
+            "Markt",
+            "Handel",
+            "Stadtleben",
+            "Waren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wiederholen und Anwenden",
+          "level": 1,
+          "keyterms": [
+            "Zusammenfassung",
+            "Wiederholung",
+            "Anwendung",
+            "Reflexion"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

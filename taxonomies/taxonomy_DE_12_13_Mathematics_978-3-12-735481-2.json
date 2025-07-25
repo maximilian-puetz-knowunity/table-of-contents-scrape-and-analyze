@@ -1,0 +1,938 @@
+{
+  "country": "DE",
+  "grade": "12_13",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-735481-2",
+  "taxonomy": [
+    {
+      "name": "Fortsetzung der Differenzialrechnung",
+      "level": 0,
+      "keyterms": [
+        "Funktionen",
+        "Substitution",
+        "Extremwertprobleme",
+        "Nebenbedingungen",
+        "Ganzrationale Funktionen",
+        "Parameter",
+        "Wurzelfunktionen",
+        "Polarfunktionen",
+        "Ableitung",
+        "Kurvendiskussion",
+        "Tangente",
+        "Monotonie",
+        "Krümmung",
+        "Nullstellen",
+        "Differentialquotient"
+      ],
+      "children": [
+        {
+          "name": "Funktionen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Funktionsuntersuchung",
+            "Ableitung",
+            "Kurvendiskussion",
+            "Nullstellen",
+            "Monotonie",
+            "Krümmung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Substitution",
+          "level": 1,
+          "keyterms": [
+            "Substitution",
+            "Variablenersetzung",
+            "Funktionsumformung",
+            "Kettenregel",
+            "Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Extremwertprobleme mit Nebenbedingungen",
+          "level": 1,
+          "keyterms": [
+            "Extremwert",
+            "Nebenbedingung",
+            "Optimierung",
+            "Lagrange-Multiplikatoren",
+            "Maximum",
+            "Minimum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ganzrationale Funktionen bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Ganzrationale Funktion",
+            "Polynom",
+            "Grad",
+            "Nullstellen",
+            "Symmetrie",
+            "Extrempunkte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Funktionen mit Parametern untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Parameter",
+            "Funktionsschar",
+            "Ableitung",
+            "Kurvendiskussion",
+            "Verhalten",
+            "Schnittpunkte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wurzelfunktionen und Umkehrfunktionen",
+          "level": 1,
+          "keyterms": [
+            "Wurzelfunktion",
+            "Umkehrfunktion",
+            "Definitionsbereich",
+            "Ableitung",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Polarfunktionen ableiten",
+          "level": 1,
+          "keyterms": [
+            "Polarkoordinaten",
+            "Polarfunktion",
+            "Ableitung",
+            "Kurvendiskussion",
+            "Tangente"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Integralrechnung",
+      "level": 0,
+      "keyterms": [
+        "Integral",
+        "Flächenberechnung",
+        "Stammfunktion",
+        "Hauptsatz der Differential- und Integralrechnung",
+        "Volumen",
+        "Unbestimmtes Integral",
+        "Bestimmtes Integral",
+        "Rekonstruktion",
+        "Regel",
+        "Flächeninhalt",
+        "Integrationsregeln",
+        "Integrationsmethoden",
+        "Grenzwerte",
+        "Kurvenintegral"
+      ],
+      "children": [
+        {
+          "name": "Rekonstruktion einer Größe",
+          "level": 1,
+          "keyterms": [
+            "Rekonstruktion",
+            "Größen",
+            "Stammfunktion",
+            "Integration",
+            "Anwendungsaufgaben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Integral",
+          "level": 1,
+          "keyterms": [
+            "Integral",
+            "Flächenberechnung",
+            "Bestimmtes Integral",
+            "Unbestimmtes Integral",
+            "Grenzwerte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hauptsatz der Differential- und Integralrechnung",
+          "level": 1,
+          "keyterms": [
+            "Hauptsatz",
+            "Differentialrechnung",
+            "Integralrechnung",
+            "Stammfunktion",
+            "Fundamentalsatz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Regeln zur Stammfunktion",
+          "level": 1,
+          "keyterms": [
+            "Stammfunktion",
+            "Integrationsregeln",
+            "Summenregel",
+            "Faktorregel",
+            "Potenzregel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Integral und Flächeninhalt",
+          "level": 1,
+          "keyterms": [
+            "Flächeninhalt",
+            "Integral",
+            "Berechnung",
+            "Graph",
+            "x-Achse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Unbegrenzte Flächeninhalte",
+          "level": 1,
+          "keyterms": [
+            "Unbegrenzte Fläche",
+            "Integral",
+            "Unendlichkeit",
+            "Grenzwerte",
+            "Improperes Integral"
+          ],
+          "children": []
+        },
+        {
+          "name": "Volumen",
+          "level": 1,
+          "keyterms": [
+            "Volumen",
+            "Rotationskörper",
+            "Integral",
+            "Körper",
+            "Rotationsachse"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Exponentialfunktionen",
+      "level": 0,
+      "keyterms": [
+        "Exponentialfunktion",
+        "Wachstum",
+        "Zerfall",
+        "Logarithmusfunktion",
+        "Parameter",
+        "Differentialgleichung",
+        "Basis",
+        "Exponent",
+        "Graph",
+        "Anwendungen",
+        "Zinsrechnung",
+        "Halbwertszeit",
+        "Verdopplungszeit",
+        "e-Funktion",
+        "Logarithmus"
+      ],
+      "children": [
+        {
+          "name": "Wiederholung: Exponentialfunktionen",
+          "level": 1,
+          "keyterms": [
+            "Exponentialfunktion",
+            "Wachstum",
+            "Zerfall",
+            "Graph",
+            "Parameter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Natürliche Exponentialfunktion",
+          "level": 1,
+          "keyterms": [
+            "e-Funktion",
+            "Basis e",
+            "Natürlicher Logarithmus",
+            "Graph",
+            "Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Parameterform der Exponentialfunktion",
+          "level": 1,
+          "keyterms": [
+            "Parameterform",
+            "Exponentialfunktion",
+            "Anpassung",
+            "Modellierung",
+            "Parameter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Exponentialgleichungen",
+          "level": 1,
+          "keyterms": [
+            "Exponentialgleichung",
+            "Lösen",
+            "Logarithmus",
+            "Umformung",
+            "Anwendungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wachstum und Zerfall",
+          "level": 1,
+          "keyterms": [
+            "Wachstum",
+            "Zerfall",
+            "Exponentielles Wachstum",
+            "Exponentieller Zerfall",
+            "Halbwertszeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Logarithmusfunktion als Umkehrfunktion",
+          "level": 1,
+          "keyterms": [
+            "Logarithmusfunktion",
+            "Umkehrfunktion",
+            "Exponentialfunktion",
+            "Logarithmengesetze",
+            "Graph"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Weitere Funktionen",
+      "level": 0,
+      "keyterms": [
+        "Sinusfunktion",
+        "Kosinusfunktion",
+        "Trigonometrie",
+        "Periodizität",
+        "Amplitude",
+        "Phasenverschiebung",
+        "Potenzen",
+        "Zusammengesetzte Funktionen",
+        "Funktionstypen",
+        "Graph",
+        "Transformation",
+        "Funktionenschar",
+        "Parameter",
+        "Periodenlänge",
+        "Funktionenkombination"
+      ],
+      "children": [
+        {
+          "name": "Ableitung der Sinus- und Kosinusfunktion",
+          "level": 1,
+          "keyterms": [
+            "Sinusfunktion",
+            "Kosinusfunktion",
+            "Ableitung",
+            "Trigonometrie",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umkehrung von Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Umkehrfunktion",
+            "Funktion",
+            "Graph",
+            "Definitionsbereich",
+            "Wertebereich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzen",
+          "level": 1,
+          "keyterms": [
+            "Potenzfunktion",
+            "Exponent",
+            "Basis",
+            "Graph",
+            "Eigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zusammengesetzte Funktionen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Zusammengesetzte Funktion",
+            "Funktionsverkettung",
+            "Kettenregel",
+            "Graph",
+            "Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zusammengesetzte Funktionen im Kontext",
+          "level": 1,
+          "keyterms": [
+            "Anwendungsaufgaben",
+            "Zusammengesetzte Funktion",
+            "Modellierung",
+            "Kontext",
+            "Graph"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vektoren, Geraden und Winkel",
+      "level": 0,
+      "keyterms": [
+        "Vektor",
+        "Gerade",
+        "Winkel",
+        "Skalarprodukt",
+        "Vektorprodukt",
+        "Schnittwinkel",
+        "Orthogonalität",
+        "Richtungsvektor",
+        "Ortsvektor",
+        "Koordinaten",
+        "Lagebeziehung",
+        "Schnittpunkt",
+        "Normierung",
+        "Betrag",
+        "Richtung"
+      ],
+      "children": [
+        {
+          "name": "Vektoren und Lagen im Raum",
+          "level": 1,
+          "keyterms": [
+            "Vektor",
+            "Raum",
+            "Lage",
+            "Ortsvektor",
+            "Richtungsvektor"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zueinander orthogonale Vektoren",
+          "level": 1,
+          "keyterms": [
+            "Orthogonalität",
+            "Vektor",
+            "Skalarprodukt",
+            "Rechtwinkligkeit",
+            "Nullprodukt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Winkel und Schnittwinkel",
+          "level": 1,
+          "keyterms": [
+            "Winkel",
+            "Schnittwinkel",
+            "Vektor",
+            "Gerade",
+            "Skalarprodukt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ebenen",
+      "level": 0,
+      "keyterms": [
+        "Ebene",
+        "Gleichung",
+        "Koordinaten",
+        "Normalenvektor",
+        "Parameterform",
+        "Schnittpunkt",
+        "Lagebeziehung",
+        "Raum",
+        "Vektorrechnung",
+        "Schnittgerade",
+        "Abstand",
+        "Projektion",
+        "Schreibbilder",
+        "Darstellung",
+        "Geometrie"
+      ],
+      "children": [
+        {
+          "name": "Gauss-Algorithmus",
+          "level": 1,
+          "keyterms": [
+            "Gauss-Algorithmus",
+            "Gleichungssystem",
+            "Lösungsverfahren",
+            "Matrix",
+            "Lineare Algebra"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lösungen linearer Gleichungssysteme",
+          "level": 1,
+          "keyterms": [
+            "Lineares Gleichungssystem",
+            "Lösung",
+            "Matrix",
+            "Vektoren",
+            "Unbekannte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ebenengleichungen – die Parameterform",
+          "level": 1,
+          "keyterms": [
+            "Ebenengleichung",
+            "Parameterform",
+            "Vektor",
+            "Koordinaten",
+            "Raum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Koordinaten- und Normalenvektor",
+          "level": 1,
+          "keyterms": [
+            "Koordinaten",
+            "Normalenvektor",
+            "Ebene",
+            "Vektor",
+            "Orthogonalität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schnittpunkte und Schnittgeraden",
+          "level": 1,
+          "keyterms": [
+            "Schnittpunkt",
+            "Schnittgerade",
+            "Ebene",
+            "Gerade",
+            "Lagebeziehung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abstände von Objekten im Raum",
+          "level": 1,
+          "keyterms": [
+            "Abstand",
+            "Objekt",
+            "Raum",
+            "Ebene",
+            "Gerade"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schreibbilder – Eine Darstellung räumlicher Objekte in einer Ebene (Projektion)",
+          "level": 1,
+          "keyterms": [
+            "Schreibbild",
+            "Projektion",
+            "Darstellung",
+            "Ebene",
+            "Raum"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lagebeziehungen und Abstände",
+      "level": 0,
+      "keyterms": [
+        "Lagebeziehung",
+        "Abstand",
+        "Gerade",
+        "Ebene",
+        "Punkt",
+        "Raum",
+        "Abstandsberechnung",
+        "Kontext",
+        "Geometrie",
+        "Schnittpunkt",
+        "Orthogonalität",
+        "Vektorrechnung",
+        "Schnittgerade",
+        "Parallelität",
+        "Senkrecht"
+      ],
+      "children": [
+        {
+          "name": "Lagebeziehungen von Geraden und Ebenen",
+          "level": 1,
+          "keyterms": [
+            "Lagebeziehung",
+            "Gerade",
+            "Ebene",
+            "Schnittpunkt",
+            "Parallelität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abstand eines Punktes von einer Ebene",
+          "level": 1,
+          "keyterms": [
+            "Abstand",
+            "Punkt",
+            "Ebene",
+            "Lot",
+            "Normalenvektor"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abstand eines Punktes von einer Geraden",
+          "level": 1,
+          "keyterms": [
+            "Abstand",
+            "Punkt",
+            "Gerade",
+            "Lot",
+            "Vektor"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abstand zwischen Geraden",
+          "level": 1,
+          "keyterms": [
+            "Abstand",
+            "Gerade",
+            "Raum",
+            "Vektorrechnung",
+            "Senkrecht"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abstandsberechnungen in Kontexten",
+          "level": 1,
+          "keyterms": [
+            "Abstandsberechnung",
+            "Kontext",
+            "Anwendungsaufgabe",
+            "Geometrie",
+            "Raum"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Wahrscheinlichkeit",
+      "level": 0,
+      "keyterms": [
+        "Wahrscheinlichkeit",
+        "Daten",
+        "Ereignis",
+        "Bedingte Wahrscheinlichkeit",
+        "Unabhängigkeit",
+        "Simulation",
+        "Zufallsgröße",
+        "Erwartungswert",
+        "Standardabweichung",
+        "Stochastik",
+        "Verteilung",
+        "Baumdiagramm",
+        "Laplace-Experiment",
+        "Statistik",
+        "Stichprobe"
+      ],
+      "children": [
+        {
+          "name": "Wahrscheinlichkeit",
+          "level": 1,
+          "keyterms": [
+            "Wahrscheinlichkeit",
+            "Ereignis",
+            "Laplace",
+            "Baumdiagramm",
+            "Grundbegriffe"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verknüpfen von Ereignissen",
+          "level": 1,
+          "keyterms": [
+            "Ereignis",
+            "Verknüpfung",
+            "Schnitt",
+            "Vereinigung",
+            "Gegenereignis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bedingte Wahrscheinlichkeit und stochastische Unabhängigkeit",
+          "level": 1,
+          "keyterms": [
+            "Bedingte Wahrscheinlichkeit",
+            "Unabhängigkeit",
+            "Multiplikationsregel",
+            "Bedingung",
+            "Stochastik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Simulationen",
+          "level": 1,
+          "keyterms": [
+            "Simulation",
+            "Zufallsexperiment",
+            "Modellierung",
+            "Stichprobe",
+            "Daten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten erheben und mit Kenngrößen beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Daten",
+            "Erhebung",
+            "Kenngröße",
+            "Mittelwert",
+            "Median"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zufallsgrößen, Erwartungswert und Standardabweichung",
+          "level": 1,
+          "keyterms": [
+            "Zufallsgröße",
+            "Erwartungswert",
+            "Standardabweichung",
+            "Varianz",
+            "Verteilung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Binomialverteilung",
+      "level": 0,
+      "keyterms": [
+        "Binomialverteilung",
+        "Bernoulli-Experiment",
+        "Wahrscheinlichkeit",
+        "Erwartungswert",
+        "Histogramm",
+        "Standardabweichung",
+        "Stochastik",
+        "n",
+        "p",
+        "Verteilung",
+        "Zufallsgröße",
+        "Kombinatorik",
+        "Optimalentscheidung",
+        "Wahrscheinlichkeitsfunktion",
+        "Verteilungsfunktion",
+        "Problemlösung"
+      ],
+      "children": [
+        {
+          "name": "Bernoulli-Experimente, Binomialverteilung",
+          "level": 1,
+          "keyterms": [
+            "Bernoulli-Experiment",
+            "Binomialverteilung",
+            "n",
+            "p",
+            "Wahrscheinlichkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Binomialkoeffizienten",
+          "level": 1,
+          "keyterms": [
+            "Binomialkoeffizient",
+            "Kombinatorik",
+            "n über k",
+            "Formel",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Erwartungswert und Histogramm",
+          "level": 1,
+          "keyterms": [
+            "Erwartungswert",
+            "Histogramm",
+            "Verteilung",
+            "Zufallsgröße",
+            "Stochastik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kumulierte Wahrscheinlichkeit",
+          "level": 1,
+          "keyterms": [
+            "Kumulierte Wahrscheinlichkeit",
+            "Verteilungsfunktion",
+            "Summenwahrscheinlichkeit",
+            "Binomialverteilung",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Standardabweichung",
+          "level": 1,
+          "keyterms": [
+            "Standardabweichung",
+            "Varianz",
+            "Streuung",
+            "Binomialverteilung",
+            "Zufallsgröße"
+          ],
+          "children": []
+        },
+        {
+          "name": "Probleme lösen mit der Binomialverteilung",
+          "level": 1,
+          "keyterms": [
+            "Problemlösung",
+            "Anwendung",
+            "Binomialverteilung",
+            "Stochastik",
+            "Modellierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Prognose- und Konfidenzintervalle",
+      "level": 0,
+      "keyterms": [
+        "Prognoseintervall",
+        "Konfidenzintervall",
+        "Häufigkeit",
+        "Schätzung",
+        "Stichprobe",
+        "Normalverteilung",
+        "Standardabweichung",
+        "Mittelwert",
+        "Statistik",
+        "Unsicherheit",
+        "Signifikanz",
+        "Schätzverfahren",
+        "Intervall",
+        "Quantil",
+        "Normal-Quantil-Plot"
+      ],
+      "children": [
+        {
+          "name": "Prognoseintervalle für absolute Häufigkeiten",
+          "level": 1,
+          "keyterms": [
+            "Prognoseintervall",
+            "Absolute Häufigkeit",
+            "Schätzung",
+            "Stichprobe",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Prognoseintervalle für relative Häufigkeiten",
+          "level": 1,
+          "keyterms": [
+            "Prognoseintervall",
+            "Relative Häufigkeit",
+            "Schätzung",
+            "Stichprobe",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Konfidenzintervalle",
+          "level": 1,
+          "keyterms": [
+            "Konfidenzintervall",
+            "Schätzverfahren",
+            "Unsicherheit",
+            "Signifikanz",
+            "Intervall"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stichprobenumfang schätzen",
+          "level": 1,
+          "keyterms": [
+            "Stichprobenumfang",
+            "Schätzung",
+            "Statistik",
+            "Fehler",
+            "Signifikanz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Normalverteilung",
+          "level": 1,
+          "keyterms": [
+            "Normalverteilung",
+            "Glockenkurve",
+            "Mittelwert",
+            "Standardabweichung",
+            "Quantil"
+          ],
+          "children": []
+        },
+        {
+          "name": "Normal-Quantil-Plot",
+          "level": 1,
+          "keyterms": [
+            "Normal-Quantil-Plot",
+            "Normalverteilung",
+            "Quantil",
+            "Statistik",
+            "Visualisierung"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

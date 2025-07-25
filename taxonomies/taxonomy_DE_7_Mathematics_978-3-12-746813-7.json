@@ -1,0 +1,1056 @@
+{
+  "country": "DE",
+  "grade": "7",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-746813-7",
+  "taxonomy": [
+    {
+      "name": "Brüche und Dezimalzahlen",
+      "level": 0,
+      "keyterms": [
+        "Bruch",
+        "Dezimalzahl",
+        "Erweitern",
+        "Kürzen",
+        "Vergleichen",
+        "Addieren",
+        "Subtrahieren",
+        "Multiplizieren",
+        "Dividieren",
+        "Umwandlung",
+        "Zähler",
+        "Nenner",
+        "Kommazahl",
+        "Bruchstrich",
+        "Rechenregeln"
+      ],
+      "children": [
+        {
+          "name": "Brüche bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Bruch",
+            "Zähler",
+            "Nenner",
+            "Bruchstrich",
+            "Bestimmung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche erweitern, kürzen und vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Erweitern",
+            "Kürzen",
+            "Vergleichen",
+            "Bruchgleichheit",
+            "Hauptnenner"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Gleichnamig machen",
+            "Hauptnenner",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Kehrwert",
+            "Rechenregeln",
+            "Kürzen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche und Dezimalzahlen",
+          "level": 1,
+          "keyterms": [
+            "Umwandlung",
+            "Dezimalbruch",
+            "Kommazahl",
+            "Bruchdarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Kommazahlen",
+            "Stellenwert",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dezimalzahlen multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Kommazahlen",
+            "Stellenwert",
+            "Rechenregeln"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ganze Zahlen",
+      "level": 0,
+      "keyterms": [
+        "Ganze Zahl",
+        "Negativ",
+        "Positiv",
+        "Vorzeichen",
+        "Addition",
+        "Subtraktion",
+        "Multiplikation",
+        "Division",
+        "Zahlenstrahl",
+        "Vergleichen",
+        "Ordnen",
+        "Rechenregeln",
+        "Betrag",
+        "Minus",
+        "Plus"
+      ],
+      "children": [
+        {
+          "name": "Ganze Zahlen ablesen und notieren",
+          "level": 1,
+          "keyterms": [
+            "Zahlenstrahl",
+            "Ablesen",
+            "Notieren",
+            "Vorzeichen",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ganze Zahlen vergleichen und ordnen",
+          "level": 1,
+          "keyterms": [
+            "Vergleichen",
+            "Ordnen",
+            "Größer",
+            "Kleiner",
+            "Zahlenstrahl"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ganze Zahlen addieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Vorzeichen",
+            "Rechenregeln",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ganze Zahlen subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Subtraktion",
+            "Vorzeichen",
+            "Rechenregeln",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ganze Zahlen multiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Vorzeichenregel",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ganze Zahlen dividieren",
+          "level": 1,
+          "keyterms": [
+            "Division",
+            "Vorzeichenregel",
+            "Rechenregeln"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rationale Zahlen",
+      "level": 0,
+      "keyterms": [
+        "Rationale Zahl",
+        "Bruch",
+        "Dezimalzahl",
+        "Vorzeichen",
+        "Addition",
+        "Subtraktion",
+        "Multiplikation",
+        "Division",
+        "Zahlenstrahl",
+        "Vergleichen",
+        "Ordnen",
+        "Rechenregeln",
+        "Betrag",
+        "Negative Zahlen",
+        "Positive Zahlen"
+      ],
+      "children": [
+        {
+          "name": "Rationale Zahlen ablesen und notieren",
+          "level": 1,
+          "keyterms": [
+            "Zahlenstrahl",
+            "Ablesen",
+            "Notieren",
+            "Vorzeichen",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rationale Zahlen vergleichen und ordnen",
+          "level": 1,
+          "keyterms": [
+            "Vergleichen",
+            "Ordnen",
+            "Größer",
+            "Kleiner",
+            "Zahlenstrahl"
+          ],
+          "children": []
+        },
+        {
+          "name": "Punkte im Koordinatensystem",
+          "level": 1,
+          "keyterms": [
+            "Koordinatensystem",
+            "Punkte",
+            "Achsen",
+            "Ablesen",
+            "Eintragen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rationale Zahlen addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Vorzeichen",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rationale Zahlen multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Vorzeichenregel",
+            "Rechenregeln"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dreiecke und Vierecke",
+      "level": 0,
+      "keyterms": [
+        "Dreieck",
+        "Viereck",
+        "Winkel",
+        "Seiten",
+        "Innenwinkel",
+        "Außenwinkel",
+        "Trapez",
+        "Parallelogramm",
+        "Rechteck",
+        "Quadrat",
+        "Raute",
+        "Eigenschaften",
+        "Berechnung",
+        "Symmetrie",
+        "Geometrie"
+      ],
+      "children": [
+        {
+          "name": "Winkel messen und zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Winkel",
+            "Messen",
+            "Zeichnen",
+            "Geodreieck",
+            "Grad"
+          ],
+          "children": []
+        },
+        {
+          "name": "Winkel im Schnittpunkt von Geraden",
+          "level": 1,
+          "keyterms": [
+            "Schnittpunkt",
+            "Geraden",
+            "Winkelarten",
+            "Nebenwinkel",
+            "Scheitelwinkel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dreiecke nach Winkeln und Seiten",
+          "level": 1,
+          "keyterms": [
+            "Dreiecksarten",
+            "Winkel",
+            "Seiten",
+            "Gleichseitig",
+            "Gleichschenklig",
+            "Ungleichseitig"
+          ],
+          "children": []
+        },
+        {
+          "name": "Innenwinkelsumme im Dreieck",
+          "level": 1,
+          "keyterms": [
+            "Innenwinkel",
+            "Winkelsumme",
+            "Dreieck",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vierecke und ihre Eigenschaften",
+          "level": 1,
+          "keyterms": [
+            "Viereck",
+            "Eigenschaften",
+            "Seiten",
+            "Winkel",
+            "Symmetrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Besondere Vierecke: Trapez, Parallelogramm, Rechteck, Quadrat, Raute",
+          "level": 1,
+          "keyterms": [
+            "Trapez",
+            "Parallelogramm",
+            "Rechteck",
+            "Quadrat",
+            "Raute",
+            "Eigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umfang von Dreiecken und Vierecken berechnen",
+          "level": 1,
+          "keyterms": [
+            "Umfang",
+            "Berechnung",
+            "Dreieck",
+            "Viereck",
+            "Formel"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Geometrische Grundkonstruktionen",
+      "level": 0,
+      "keyterms": [
+        "Konstruktion",
+        "Mittelsenkrechte",
+        "Umkreis",
+        "Höhe",
+        "Inkreis",
+        "Winkelhalbierende",
+        "Dreieck",
+        "Kreis",
+        "Geodreieck",
+        "Zirkel",
+        "Schnittpunkt",
+        "Geometrie",
+        "Konstruktionsschritte",
+        "Symmetrie",
+        "Konstruktionsregeln"
+      ],
+      "children": [
+        {
+          "name": "Mittelsenkrechte und Umkreis",
+          "level": 1,
+          "keyterms": [
+            "Mittelsenkrechte",
+            "Umkreis",
+            "Dreieck",
+            "Konstruktion",
+            "Schnittpunkt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Höhen und Inkreis",
+          "level": 1,
+          "keyterms": [
+            "Höhe",
+            "Inkreis",
+            "Dreieck",
+            "Konstruktion",
+            "Schnittpunkt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Winkelhalbierende und Umkreis",
+          "level": 1,
+          "keyterms": [
+            "Winkelhalbierende",
+            "Umkreis",
+            "Dreieck",
+            "Konstruktion",
+            "Schnittpunkt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dreiecke und Vierecke konstruieren",
+      "level": 0,
+      "keyterms": [
+        "Konstruktion",
+        "Dreieck",
+        "Viereck",
+        "SSS",
+        "SWS",
+        "WSW",
+        "Kreis",
+        "Raute",
+        "Trapez",
+        "Konstruktionsschritte",
+        "Geodreieck",
+        "Zirkel",
+        "Seitenlänge",
+        "Winkel",
+        "Eigenschaften",
+        "Geometrie"
+      ],
+      "children": [
+        {
+          "name": "Dreiecke konstruieren (SSS)",
+          "level": 1,
+          "keyterms": [
+            "SSS",
+            "Dreieck",
+            "Konstruktion",
+            "Seitenlänge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dreiecke konstruieren (SWS)",
+          "level": 1,
+          "keyterms": [
+            "SWS",
+            "Dreieck",
+            "Konstruktion",
+            "Seitenlänge",
+            "Winkel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dreiecke konstruieren (WSW)",
+          "level": 1,
+          "keyterms": [
+            "WSW",
+            "Dreieck",
+            "Konstruktion",
+            "Winkel",
+            "Seitenlänge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vierecke, Parallelogramme und Rauten konstruieren",
+          "level": 1,
+          "keyterms": [
+            "Viereck",
+            "Parallelogramm",
+            "Raute",
+            "Konstruktion",
+            "Eigenschaften"
+          ],
+          "children": []
+        },
+        {
+          "name": "Trapeze konstruieren",
+          "level": 1,
+          "keyterms": [
+            "Trapez",
+            "Konstruktion",
+            "Eigenschaften"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zuordnungen",
+      "level": 0,
+      "keyterms": [
+        "Zuordnung",
+        "Proportionalität",
+        "Dreisatz",
+        "Diagramm",
+        "Tabelle",
+        "Maßstab",
+        "Antiproportionalität",
+        "Vergleich",
+        "Berechnung",
+        "Verhältnis",
+        "Abbildung",
+        "Funktion",
+        "Wertepaare",
+        "Darstellung",
+        "Rechenweg"
+      ],
+      "children": [
+        {
+          "name": "Zuordnungen",
+          "level": 1,
+          "keyterms": [
+            "Zuordnung",
+            "Wertepaare",
+            "Tabelle",
+            "Diagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Proportionale Zuordnungen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Proportionalität",
+            "Berechnung",
+            "Dreisatz",
+            "Verhältnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Proportionale Zuordnungen mit dem Dreisatz berechnen",
+          "level": 1,
+          "keyterms": [
+            "Dreisatz",
+            "Proportionalität",
+            "Berechnung",
+            "Verhältnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Antiproportionale Zuordnungen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Antiproportionalität",
+            "Berechnung",
+            "Verhältnis",
+            "Umkehrung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Antiproportionale Zuordnungen mit dem Dreisatz berechnen",
+          "level": 1,
+          "keyterms": [
+            "Dreisatz",
+            "Antiproportionalität",
+            "Berechnung",
+            "Verhältnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zuordnungen prüfen",
+          "level": 1,
+          "keyterms": [
+            "Prüfung",
+            "Zuordnung",
+            "Vergleich",
+            "Richtigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Zuordnungen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgabe",
+            "Zuordnung",
+            "Anwendung",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Maßstab zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Maßstab",
+            "Zeichnung",
+            "Verkleinerung",
+            "Vergrößerung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zuordnungen darstellen",
+      "level": 0,
+      "keyterms": [
+        "Zuordnung",
+        "Koordinatensystem",
+        "Diagramm",
+        "Darstellung",
+        "Tabelle",
+        "Graph",
+        "Wertepaare",
+        "Abbildung",
+        "Funktion",
+        "Vergleich",
+        "Visualisierung",
+        "Achsen",
+        "Punkte",
+        "Skalierung",
+        "Interpretation"
+      ],
+      "children": [
+        {
+          "name": "Zuordnungen im Koordinatensystem",
+          "level": 1,
+          "keyterms": [
+            "Koordinatensystem",
+            "Zuordnung",
+            "Wertepaare",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Proportionale Zuordnungen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Proportionalität",
+            "Darstellung",
+            "Graph",
+            "Koordinatensystem"
+          ],
+          "children": []
+        },
+        {
+          "name": "Antiproportionale Zuordnungen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Antiproportionalität",
+            "Darstellung",
+            "Graph",
+            "Koordinatensystem"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Zuordnungen und Diagrammen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgabe",
+            "Zuordnung",
+            "Diagramm",
+            "Anwendung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Terme",
+      "level": 0,
+      "keyterms": [
+        "Term",
+        "Variable",
+        "Ausdruck",
+        "Klammern",
+        "Vereinfachung",
+        "Rechengesetze",
+        "Multiplikation",
+        "Addition",
+        "Subtraktion",
+        "Division",
+        "Ausmultiplizieren",
+        "Faktorisieren",
+        "Koeffizient",
+        "Summand",
+        "Produkt"
+      ],
+      "children": [
+        {
+          "name": "Terme bilden",
+          "level": 1,
+          "keyterms": [
+            "Term",
+            "Bildung",
+            "Variable",
+            "Ausdruck"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme mit Klammern berechnen",
+          "level": 1,
+          "keyterms": [
+            "Klammern",
+            "Berechnung",
+            "Reihenfolge",
+            "Klammerregel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme mit Klammern vereinfachen",
+          "level": 1,
+          "keyterms": [
+            "Vereinfachung",
+            "Klammern",
+            "Ausmultiplizieren",
+            "Faktorisieren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme mit Variablen aufstellen und berechnen",
+          "level": 1,
+          "keyterms": [
+            "Variable",
+            "Term",
+            "Berechnung",
+            "Aufstellung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gleichungen",
+      "level": 0,
+      "keyterms": [
+        "Gleichung",
+        "Lösung",
+        "Umformen",
+        "Variable",
+        "Äquivalenzumformung",
+        "Probe",
+        "Lösungsweg",
+        "Gleichsetzungsverfahren",
+        "Einsetzungsverfahren",
+        "Rechenregeln",
+        "Unbekannte",
+        "Lösungsmenge",
+        "Äquivalenz",
+        "Gleichheitszeichen",
+        "Umformung"
+      ],
+      "children": [
+        {
+          "name": "Gleichungen durch Probieren lösen",
+          "level": 1,
+          "keyterms": [
+            "Probieren",
+            "Lösung",
+            "Gleichung",
+            "Testen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gleichungen durch Umformen lösen",
+          "level": 1,
+          "keyterms": [
+            "Umformen",
+            "Äquivalenzumformung",
+            "Lösung",
+            "Gleichung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gleichungen mit Klammern lösen",
+          "level": 1,
+          "keyterms": [
+            "Klammern",
+            "Gleichung",
+            "Lösung",
+            "Ausmultiplizieren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Gleichungen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgabe",
+            "Gleichung",
+            "Anwendung",
+            "Lösung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Prozentrechnung",
+      "level": 0,
+      "keyterms": [
+        "Prozent",
+        "Prozentsatz",
+        "Prozentwert",
+        "Grundwert",
+        "Berechnung",
+        "Diagramm",
+        "Anteil",
+        "Hundertstel",
+        "Prozentformel",
+        "Prozentuale Veränderung",
+        "Zuwachs",
+        "Abnahme",
+        "Prozentangabe",
+        "Prozentrechnung",
+        "Prozentdiagramm"
+      ],
+      "children": [
+        {
+          "name": "Prozente bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Prozent",
+            "Bestimmung",
+            "Anteil",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Prozentwerte berechnen",
+          "level": 1,
+          "keyterms": [
+            "Prozentwert",
+            "Berechnung",
+            "Prozentformel",
+            "Grundwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grundwerte berechnen",
+          "level": 1,
+          "keyterms": [
+            "Grundwert",
+            "Berechnung",
+            "Prozentformel",
+            "Prozentwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zur Prozentrechnung",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgabe",
+            "Prozentrechnung",
+            "Anwendung",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Prozentsätze in Diagrammen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Prozentsatz",
+            "Diagramm",
+            "Darstellung",
+            "Visualisierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zinsrechnung",
+      "level": 0,
+      "keyterms": [
+        "Zins",
+        "Zinssatz",
+        "Zinsrechnung",
+        "Kapital",
+        "Zinsen",
+        "Berechnung",
+        "Jahreszins",
+        "Monatszins",
+        "Prozent",
+        "Zinsformel",
+        "Zinsperiode",
+        "Zinseszins",
+        "Zinsbetrag",
+        "Zinsrechnung",
+        "Finanzmathematik"
+      ],
+      "children": [
+        {
+          "name": "Grundbegriffe der Zinsrechnung",
+          "level": 1,
+          "keyterms": [
+            "Zins",
+            "Zinssatz",
+            "Kapital",
+            "Grundbegriffe"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zinsen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Zinsen",
+            "Berechnung",
+            "Zinsformel",
+            "Kapital"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zur Zinsrechnung",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgabe",
+            "Zinsrechnung",
+            "Anwendung",
+            "Berechnung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Zufall",
+      "level": 0,
+      "keyterms": [
+        "Daten",
+        "Auswertung",
+        "Diagramm",
+        "Häufigkeit",
+        "absolute Häufigkeit",
+        "relative Häufigkeit",
+        "Boxplot",
+        "Wahrscheinlichkeit",
+        "Zufall",
+        "Statistik",
+        "Mittelwert",
+        "Median",
+        "Streudiagramm",
+        "Datenanalyse",
+        "Darstellung"
+      ],
+      "children": [
+        {
+          "name": "Daten auswerten",
+          "level": 1,
+          "keyterms": [
+            "Daten",
+            "Auswertung",
+            "Analyse",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten darstellen",
+          "level": 1,
+          "keyterms": [
+            "Darstellung",
+            "Diagramm",
+            "Tabelle",
+            "Visualisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten in Boxplots darstellen",
+          "level": 1,
+          "keyterms": [
+            "Boxplot",
+            "Darstellung",
+            "Daten",
+            "Visualisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Absolute und relative Häufigkeiten",
+          "level": 1,
+          "keyterms": [
+            "absolute Häufigkeit",
+            "relative Häufigkeit",
+            "Berechnung",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeiten bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Wahrscheinlichkeit",
+            "Bestimmung",
+            "Zufall",
+            "Berechnung"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1197 @@
+{
+  "country": "DE",
+  "grade": "5_6",
+  "subject": "Geographie",
+  "ISBN": "978-3-12-105201-1",
+  "taxonomy": [
+    {
+      "name": "Erdkunde – dein neues Fach",
+      "level": 0,
+      "keyterms": [
+        "Planet Erde",
+        "Erde",
+        "Mensch",
+        "Geographie",
+        "Erforschung",
+        "Nachhaltigkeit",
+        "Lebensraum",
+        "Umwelt",
+        "Natur",
+        "Ressourcen",
+        "Klimawandel",
+        "Bevölkerung",
+        "Lebensbedingungen",
+        "Globale Herausforderungen",
+        "Zukunft"
+      ],
+      "children": [
+        {
+          "name": "Planet Erde",
+          "level": 1,
+          "keyterms": [
+            "Erde",
+            "Weltall",
+            "Sonnensystem",
+            "Kontinente",
+            "Ozeane",
+            "Naturphänomene",
+            "Lebensräume",
+            "Klima",
+            "Geosphäre",
+            "Biosphäre"
+          ],
+          "children": []
+        },
+        {
+          "name": "Unser einzigartiger Planet",
+          "level": 1,
+          "keyterms": [
+            "Einzigartigkeit",
+            "Lebensbedingungen",
+            "Vielfalt",
+            "Natur",
+            "Ökosysteme",
+            "Biodiversität",
+            "Schutz",
+            "Erhaltung",
+            "Nachhaltigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "… und was der Mensch daraus macht",
+          "level": 1,
+          "keyterms": [
+            "Mensch",
+            "Nutzung",
+            "Veränderung",
+            "Umwelt",
+            "Ressourcen",
+            "Siedlungen",
+            "Technik",
+            "Kultur",
+            "Wirtschaft",
+            "Konflikte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geographie – die Erde erforschen",
+          "level": 1,
+          "keyterms": [
+            "Geographie",
+            "Forschung",
+            "Methoden",
+            "Karten",
+            "Beobachtung",
+            "Analyse",
+            "Raum",
+            "Regionen",
+            "Vergleich",
+            "Daten"
+          ],
+          "children": []
+        },
+        {
+          "name": "… und nachhaltig gestalten",
+          "level": 1,
+          "keyterms": [
+            "Nachhaltigkeit",
+            "Zukunft",
+            "Umweltschutz",
+            "Ressourcenschonung",
+            "Verantwortung",
+            "Handeln",
+            "Klimaschutz",
+            "Globale Ziele",
+            "Agenda 2030"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sich orientieren",
+      "level": 0,
+      "keyterms": [
+        "Orientierung",
+        "Wahrnehmung",
+        "Lebensraum",
+        "Stadt",
+        "Dorf",
+        "Karten",
+        "Atlas",
+        "Himmelsrichtungen",
+        "Maßstab",
+        "Google Earth",
+        "Deutschland",
+        "Europa",
+        "Gelände",
+        "Navigation",
+        "Raumwahrnehmung",
+        "Geodaten"
+      ],
+      "children": [
+        {
+          "name": "Auf die Wahrnehmung kommt es an",
+          "level": 1,
+          "keyterms": [
+            "Wahrnehmung",
+            "Sinne",
+            "Raum",
+            "Umgebung",
+            "Beobachtung",
+            "Erfahrung",
+            "Orientierung",
+            "Subjektivität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wo ich lebe und lerne",
+          "level": 1,
+          "keyterms": [
+            "Wohnort",
+            "Schule",
+            "Alltag",
+            "Umgebung",
+            "Nachbarschaft",
+            "Lebensraum",
+            "Stadt",
+            "Dorf"
+          ],
+          "children": []
+        },
+        {
+          "name": "So passt die Stadt auf uns auf",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Sicherheit",
+            "Infrastruktur",
+            "Verkehr",
+            "Überwachung",
+            "Ordnung",
+            "Stadtplanung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Karten lesen – Hilfsmittel zum Verstehen",
+          "level": 1,
+          "keyterms": [
+            "Karten",
+            "Lesen",
+            "Symbole",
+            "Legende",
+            "Maßstab",
+            "Orientierung",
+            "Raumdarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die ganze Welt in einem Buch",
+          "level": 1,
+          "keyterms": [
+            "Atlas",
+            "Weltkarten",
+            "Länder",
+            "Kontinente",
+            "Informationen",
+            "Vergleich",
+            "Geographie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie du mit dem Atlas arbeitest",
+          "level": 1,
+          "keyterms": [
+            "Atlas",
+            "Arbeiten",
+            "Suchen",
+            "Register",
+            "Kartenarten",
+            "Informationen",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sich orientieren im Gelände",
+          "level": 1,
+          "keyterms": [
+            "Gelände",
+            "Orientierung",
+            "Himmelsrichtungen",
+            "Kompass",
+            "Landschaft",
+            "Wegfindung",
+            "Navigation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Google Earth die Erde erkunden",
+          "level": 1,
+          "keyterms": [
+            "Google Earth",
+            "Satellitenbilder",
+            "Virtuelle Erkundung",
+            "3D-Ansicht",
+            "Orte",
+            "Navigation",
+            "Geodaten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Routen suchen und finden mit Google Earth",
+          "level": 1,
+          "keyterms": [
+            "Routen",
+            "Navigation",
+            "Google Earth",
+            "Entfernungen",
+            "Wege",
+            "Planung",
+            "Orientierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orientieren an der Karte",
+          "level": 1,
+          "keyterms": [
+            "Karte",
+            "Orientierung",
+            "Maßstab",
+            "Legende",
+            "Symbole",
+            "Raumdarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orientieren in Deutschland und Europa",
+          "level": 1,
+          "keyterms": [
+            "Deutschland",
+            "Europa",
+            "Länder",
+            "Regionen",
+            "Karten",
+            "Orientierung",
+            "Geographie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bilder auswerten",
+          "level": 1,
+          "keyterms": [
+            "Bilder",
+            "Analyse",
+            "Interpretation",
+            "Fotografien",
+            "Satellitenbilder",
+            "Informationen",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Leben auf dem Land, Leben in der Stadt",
+      "level": 0,
+      "keyterms": [
+        "Lebensräume",
+        "Stadt",
+        "Land",
+        "Dorf",
+        "Stadtentwicklung",
+        "Infrastruktur",
+        "Wohnformen",
+        "Zukunft",
+        "Nachhaltigkeit",
+        "Abgekopplte Dörfer",
+        "Altenberge",
+        "Münster",
+        "Stadt der Zukunft",
+        "Dorf der Zukunft",
+        "Magnetstadt",
+        "Lebensqualität"
+      ],
+      "children": [
+        {
+          "name": "Lebensräume",
+          "level": 1,
+          "keyterms": [
+            "Lebensraum",
+            "Stadt",
+            "Land",
+            "Dorf",
+            "Wohnort",
+            "Umgebung",
+            "Vielfalt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abgekopplte Dörfer",
+          "level": 1,
+          "keyterms": [
+            "Dorf",
+            "Abgelegenheit",
+            "Infrastruktur",
+            "Verkehr",
+            "Versorgung",
+            "Lebensbedingungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Neu in Altenberge",
+          "level": 1,
+          "keyterms": [
+            "Altenberge",
+            "Umzug",
+            "Integration",
+            "Dorfleben",
+            "Gemeinschaft",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Noch ein Dorf?",
+          "level": 1,
+          "keyterms": [
+            "Dorf",
+            "Vergleich",
+            "Struktur",
+            "Unterschiede",
+            "Gemeinschaft",
+            "Entwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Soll Altenberge weiter wachsen?",
+          "level": 1,
+          "keyterms": [
+            "Wachstum",
+            "Dorf",
+            "Entwicklung",
+            "Bevölkerung",
+            "Infrastruktur",
+            "Zukunft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Magnetstadt Münster – eine Stadt hat viele Gesichter",
+          "level": 1,
+          "keyterms": [
+            "Münster",
+            "Stadt",
+            "Vielfalt",
+            "Attraktivität",
+            "Zuzug",
+            "Lebensqualität",
+            "Stadtentwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lebensnutzung in einer Innenstadt kartieren",
+          "level": 1,
+          "keyterms": [
+            "Innenstadt",
+            "Nutzung",
+            "Karte",
+            "Funktionen",
+            "Stadtplanung",
+            "Kartierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lebenswerte Stadt der Zukunft",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Zukunft",
+            "Nachhaltigkeit",
+            "Lebensqualität",
+            "Stadtentwicklung",
+            "Innovation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lebenswertes Dorf der Zukunft",
+          "level": 1,
+          "keyterms": [
+            "Dorf",
+            "Zukunft",
+            "Nachhaltigkeit",
+            "Lebensqualität",
+            "Dorfentwicklung",
+            "Innovation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Mindmap erstellen: nachhaltige Stadtentwicklung",
+          "level": 1,
+          "keyterms": [
+            "Mindmap",
+            "Stadtentwicklung",
+            "Nachhaltigkeit",
+            "Planung",
+            "Ideen",
+            "Zukunft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadtentwicklung",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Entwicklung",
+            "Wachstum",
+            "Struktur",
+            "Planung",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadt und Land",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Land",
+            "Vergleich",
+            "Unterschiede",
+            "Lebensbedingungen",
+            "Infrastruktur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Der Natur auf der Spur",
+      "level": 0,
+      "keyterms": [
+        "Natur",
+        "Sinne",
+        "Boden",
+        "Bach",
+        "Wetter",
+        "Klima",
+        "Beobachtung",
+        "Messung",
+        "Umwelt",
+        "Ökosystem",
+        "Lebensräume",
+        "Klimadiagramm",
+        "Naturerlebnis",
+        "Umweltschutz",
+        "Naturbeschreibung"
+      ],
+      "children": [
+        {
+          "name": "Natur mit allen Sinnen erleben",
+          "level": 1,
+          "keyterms": [
+            "Natur",
+            "Sinne",
+            "Erlebnis",
+            "Wahrnehmung",
+            "Beobachtung",
+            "Umwelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Boden untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Boden",
+            "Untersuchung",
+            "Bodenarten",
+            "Eigenschaften",
+            "Bodenschutz",
+            "Bodenleben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Bach erkunden",
+          "level": 1,
+          "keyterms": [
+            "Bach",
+            "Gewässer",
+            "Untersuchung",
+            "Lebensraum",
+            "Wasserqualität",
+            "Ökosystem"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wetter beobachten und messen",
+          "level": 1,
+          "keyterms": [
+            "Wetter",
+            "Beobachtung",
+            "Messung",
+            "Temperatur",
+            "Niederschlag",
+            "Wind",
+            "Wetterstation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klimadiagramme beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Klimadiagramm",
+            "Klima",
+            "Auswertung",
+            "Vergleich",
+            "Temperatur",
+            "Niederschlag"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Landwirte versorgen uns",
+      "level": 0,
+      "keyterms": [
+        "Landwirtschaft",
+        "Ernährung",
+        "Getreide",
+        "Zucker",
+        "Boden",
+        "Fleisch",
+        "Milch",
+        "Salat",
+        "Betrieb",
+        "Erzeugung",
+        "Landwirtschaftsgebiete",
+        "Ernährungswirtschaft",
+        "Nachhaltigkeit",
+        "Ernährungsgewohnheiten",
+        "Landwirtschaftliche Produkte"
+      ],
+      "children": [
+        {
+          "name": "Was wir essen",
+          "level": 1,
+          "keyterms": [
+            "Ernährung",
+            "Lebensmittel",
+            "Nahrungsmittel",
+            "Essgewohnheiten",
+            "Vielfalt",
+            "Produkte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Getreide und Zucker aus der Börde",
+          "level": 1,
+          "keyterms": [
+            "Getreide",
+            "Zucker",
+            "Börde",
+            "Anbau",
+            "Ernte",
+            "Verarbeitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Landwirtschaft heute – ein Nutzpflanzenpuzzle",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Nutzpflanzen",
+            "Vielfalt",
+            "Anbau",
+            "Ernte",
+            "Produktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Viel Fleisch für wenig Geld",
+          "level": 1,
+          "keyterms": [
+            "Fleisch",
+            "Produktion",
+            "Preis",
+            "Massentierhaltung",
+            "Konsum",
+            "Ernährung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Milch frisch ins Haus",
+          "level": 1,
+          "keyterms": [
+            "Milch",
+            "Produktion",
+            "Verarbeitung",
+            "Transport",
+            "Milchwirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Salat aus dem Treibhaus",
+          "level": 1,
+          "keyterms": [
+            "Salat",
+            "Treibhaus",
+            "Anbau",
+            "Ernte",
+            "Gewächshaus",
+            "Produktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kollum: moderne Landwirtschaft",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Modernisierung",
+            "Technik",
+            "Innovation",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ökologische Landwirtschaft",
+          "level": 1,
+          "keyterms": [
+            "Ökologie",
+            "Landwirtschaft",
+            "Bio",
+            "Nachhaltigkeit",
+            "Umweltschutz",
+            "Produktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Erntezeit – jede Jahreszeit",
+          "level": 1,
+          "keyterms": [
+            "Ernte",
+            "Jahreszeiten",
+            "Anbau",
+            "Saison",
+            "Produktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Darf ich das sagen? Mit Argumenten eine Entscheidung treffen",
+          "level": 1,
+          "keyterms": [
+            "Argumente",
+            "Entscheidung",
+            "Diskussion",
+            "Meinung",
+            "Landwirtschaft",
+            "Ernährung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Soll ich in der Heimat Energiewirt werden?",
+          "level": 1,
+          "keyterms": [
+            "Energie",
+            "Landwirtschaft",
+            "Beruf",
+            "Zukunft",
+            "Erneuerbare Energien",
+            "Entscheidung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Betrieb erkunden",
+          "level": 1,
+          "keyterms": [
+            "Betrieb",
+            "Landwirtschaft",
+            "Erkundung",
+            "Abläufe",
+            "Produktion",
+            "Betriebsführung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Landwirtschaftsgebiete in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaftsgebiete",
+            "Deutschland",
+            "Regionen",
+            "Anbau",
+            "Produktion",
+            "Karten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf den Standort kommt es an",
+      "level": 0,
+      "keyterms": [
+        "Standort",
+        "Wirtschaft",
+        "Industrie",
+        "Rohstoffe",
+        "Chemie",
+        "Strukturwandel",
+        "Handel",
+        "Ruhrgebiet",
+        "UPS",
+        "BASF",
+        "Kohle",
+        "Arbeitsplätze",
+        "Transport",
+        "Globalisierung",
+        "Deutschland"
+      ],
+      "children": [
+        {
+          "name": "Wirtschaft – mit verteilten Rollen",
+          "level": 1,
+          "keyterms": [
+            "Wirtschaft",
+            "Rollen",
+            "Arbeitsteilung",
+            "Produktion",
+            "Dienstleistung",
+            "Handel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Warum hier und nicht woanders?",
+          "level": 1,
+          "keyterms": [
+            "Standortfaktoren",
+            "Entscheidung",
+            "Wirtschaft",
+            "Lage",
+            "Rohstoffe",
+            "Arbeitskräfte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das „braune Gold“",
+          "level": 1,
+          "keyterms": [
+            "Braunkohle",
+            "Rohstoff",
+            "Energie",
+            "Abbau",
+            "Industrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "BASF – Europas größtes Chemiewerk",
+          "level": 1,
+          "keyterms": [
+            "BASF",
+            "Chemie",
+            "Industrie",
+            "Produktion",
+            "Standort",
+            "Europa"
+          ],
+          "children": []
+        },
+        {
+          "name": "Von Köln in die ganze Welt – UPS",
+          "level": 1,
+          "keyterms": [
+            "UPS",
+            "Logistik",
+            "Transport",
+            "Köln",
+            "Globalisierung",
+            "Versand"
+          ],
+          "children": []
+        },
+        {
+          "name": "Allein? Besser links?",
+          "level": 1,
+          "keyterms": [
+            "Entscheidung",
+            "Standort",
+            "Vergleich",
+            "Wirtschaft",
+            "Faktoren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auf der Suche nach dem besten Standort",
+          "level": 1,
+          "keyterms": [
+            "Standortsuche",
+            "Vergleich",
+            "Kriterien",
+            "Wirtschaft",
+            "Entscheidung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Kohle, Kohle machen?",
+          "level": 1,
+          "keyterms": [
+            "Kohle",
+            "Industrie",
+            "Wirtschaft",
+            "Arbeitsplätze",
+            "Energie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Strukturwandel im Ruhrgebiet",
+          "level": 1,
+          "keyterms": [
+            "Strukturwandel",
+            "Ruhrgebiet",
+            "Industrie",
+            "Veränderung",
+            "Arbeitsplätze",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Handeln im Wandel: Shop erstellen",
+          "level": 1,
+          "keyterms": [
+            "Handel",
+            "Wandel",
+            "Shop",
+            "Onlinehandel",
+            "Veränderung",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Shopper weltweit: Beispiel T-Shirt",
+          "level": 1,
+          "keyterms": [
+            "Globalisierung",
+            "Handel",
+            "Produktion",
+            "Transport",
+            "T-Shirt",
+            "Weltmarkt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wirtschaftsstandorte in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Wirtschaftsstandorte",
+            "Deutschland",
+            "Regionen",
+            "Industrie",
+            "Karten",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wohin in Ferien und Freizeit",
+      "level": 0,
+      "keyterms": [
+        "Ferien",
+        "Freizeit",
+        "Reisen",
+        "Tourismus",
+        "Meer",
+        "Nationalpark",
+        "Wattenmeer",
+        "Urlaub",
+        "Gebirge",
+        "Hotel",
+        "Venedig",
+        "Tourismusmanagement",
+        "Berlin",
+        "Sehenswürdigkeiten",
+        "Europa",
+        "Fremdenverkehr"
+      ],
+      "children": [
+        {
+          "name": "Wohin es Sie zieht",
+          "level": 1,
+          "keyterms": [
+            "Reiseziele",
+            "Ferien",
+            "Freizeit",
+            "Entscheidung",
+            "Vorlieben",
+            "Planung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Meer",
+          "level": 1,
+          "keyterms": [
+            "Meer",
+            "Küste",
+            "Strand",
+            "Wasser",
+            "Urlaub",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen Ebbe und Flut",
+          "level": 1,
+          "keyterms": [
+            "Ebbe",
+            "Flut",
+            "Gezeiten",
+            "Wattenmeer",
+            "Natur",
+            "Küste"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nationalpark Wattenmeer",
+          "level": 1,
+          "keyterms": [
+            "Nationalpark",
+            "Wattenmeer",
+            "Schutz",
+            "Natur",
+            "Lebensraum",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Urlaub im Zauberland",
+          "level": 1,
+          "keyterms": [
+            "Urlaub",
+            "Zauberland",
+            "Erlebnis",
+            "Freizeit",
+            "Reise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lust auf Gebirge",
+          "level": 1,
+          "keyterms": [
+            "Gebirge",
+            "Berge",
+            "Wandern",
+            "Natur",
+            "Freizeit",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ferien am Mittelmeer",
+          "level": 1,
+          "keyterms": [
+            "Mittelmeer",
+            "Urlaub",
+            "Küste",
+            "Sonne",
+            "Tourismus",
+            "Reise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Immer höher hinaus?",
+          "level": 1,
+          "keyterms": [
+            "Höhe",
+            "Berge",
+            "Gebirge",
+            "Wandern",
+            "Abenteuer",
+            "Freizeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit dem Schiff in Venedig",
+          "level": 1,
+          "keyterms": [
+            "Schiff",
+            "Venedig",
+            "Reise",
+            "Stadt",
+            "Wasser",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Im Hotel Seeblick am Meer",
+          "level": 1,
+          "keyterms": [
+            "Hotel",
+            "Meer",
+            "Unterkunft",
+            "Tourismus",
+            "Service",
+            "Freizeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tabellen lesen und auswerten",
+          "level": 1,
+          "keyterms": [
+            "Tabellen",
+            "Daten",
+            "Auswertung",
+            "Informationen",
+            "Vergleich",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Künstliche Freizeitwelten",
+          "level": 1,
+          "keyterms": [
+            "Freizeitwelten",
+            "Künstlich",
+            "Freizeitparks",
+            "Erlebnis",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Apps auf Reisen – sich orientieren und informieren",
+          "level": 1,
+          "keyterms": [
+            "Apps",
+            "Reisen",
+            "Orientierung",
+            "Informationen",
+            "Navigation",
+            "Technik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Berlin – ein Tourismusmagnet",
+          "level": 1,
+          "keyterms": [
+            "Berlin",
+            "Tourismus",
+            "Stadt",
+            "Sehenswürdigkeiten",
+            "Reise",
+            "Attraktionen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Diagramme zeichnen und auswerten",
+          "level": 1,
+          "keyterms": [
+            "Diagramme",
+            "Zeichnen",
+            "Auswertung",
+            "Daten",
+            "Statistik",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Befragung durchführen",
+          "level": 1,
+          "keyterms": [
+            "Befragung",
+            "Umfrage",
+            "Daten",
+            "Erhebung",
+            "Auswertung",
+            "Meinung"
+          ],
+          "children": []
+        },
+        {
+          "name": "„Schön Sie zu Sehen“",
+          "level": 1,
+          "keyterms": [
+            "Sehenswürdigkeiten",
+            "Tourismus",
+            "Attraktionen",
+            "Reise",
+            "Erlebnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Feriengebiete in Europa",
+          "level": 1,
+          "keyterms": [
+            "Feriengebiete",
+            "Europa",
+            "Reiseziele",
+            "Tourismus",
+            "Karten",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

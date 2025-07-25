@@ -1,0 +1,707 @@
+{
+  "country": "DE",
+  "grade": "9",
+  "subject": "German Language",
+  "ISBN": "978-3-12-316305-0",
+  "taxonomy": [
+    {
+      "name": "Heute schon an morgen denken – Sich und andere informieren",
+      "level": 0,
+      "keyterms": [
+        "Sachtext",
+        "Referat",
+        "Recherche",
+        "Präsentation",
+        "Informationsauswahl",
+        "Gesundheit",
+        "Textanalyse",
+        "Schreiben",
+        "Überarbeiten",
+        "Planung",
+        "Materialauswahl",
+        "Struktur",
+        "Argumentation",
+        "Informationsvermittlung"
+      ],
+      "children": [
+        {
+          "name": "Sachtexte für ein Referat nutzen",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Referat",
+            "Informationsauswahl",
+            "Struktur",
+            "Präsentation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Material recherchieren, auswählen und in einem Referat präsentieren",
+          "level": 1,
+          "keyterms": [
+            "Recherche",
+            "Materialauswahl",
+            "Präsentation",
+            "Informationsvermittlung",
+            "Quellenbewertung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Sachtext schriftlich analysieren",
+          "level": 1,
+          "keyterms": [
+            "Sachtextanalyse",
+            "Textstruktur",
+            "Argumentation",
+            "Schreiben",
+            "Überarbeiten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kommunikation ist alles – Sprachlicher Umgang mit anderen",
+      "level": 0,
+      "keyterms": [
+        "Kommunikation",
+        "Digitale Kommunikation",
+        "Netzwerke",
+        "Sprachgebrauch",
+        "Standpunkt",
+        "Argumentation",
+        "Rhetorik",
+        "Soziale Medien",
+        "Diskussion",
+        "Meinungsbildung",
+        "Sprachliche Mittel",
+        "Dialog",
+        "Online-Kommunikation"
+      ],
+      "children": [
+        {
+          "name": "Kommunikationsformen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Kommunikationsformen",
+            "Dialog",
+            "Gesprächsanalyse",
+            "Sprachgebrauch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Digitale Kommunikation untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Digitale Medien",
+            "Netzwerke",
+            "Chancen",
+            "Risiken",
+            "Schule",
+            "Datenschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit dem rhetorischen Fünfsatz einen Standpunkt begründen",
+          "level": 1,
+          "keyterms": [
+            "Rhetorik",
+            "Fünfsatz",
+            "Argumentation",
+            "Standpunkt",
+            "Begründung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gewusst wie – Sich für ein Praktikum bewerben",
+      "level": 0,
+      "keyterms": [
+        "Bewerbung",
+        "Praktikum",
+        "Berufsfelder",
+        "Lebenslauf",
+        "Bewerbungsschreiben",
+        "Vorstellungsgespräch",
+        "Selbstdarstellung",
+        "Berufswahl",
+        "Kompetenzen",
+        "Stärken",
+        "Berufsorientierung",
+        "Motivation",
+        "Bewerbungsmappe"
+      ],
+      "children": [
+        {
+          "name": "Berufsfelder informieren",
+          "level": 1,
+          "keyterms": [
+            "Berufsfelder",
+            "Informationen",
+            "Berufswahl",
+            "Kompetenzen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bewerbungsschreiben und Lebenslauf verfassen",
+          "level": 1,
+          "keyterms": [
+            "Bewerbungsschreiben",
+            "Lebenslauf",
+            "Struktur",
+            "Selbstdarstellung",
+            "Formalia"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sich auf ein Bewerbungsgespräch vorbereiten",
+          "level": 1,
+          "keyterms": [
+            "Vorstellungsgespräch",
+            "Selbstpräsentation",
+            "Fragen",
+            "Antworten",
+            "Vorbereitung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Heute Mensch, morgen Maschine? – Auf Materialbasis einen informierenden Text schreiben",
+      "level": 0,
+      "keyterms": [
+        "Materialgestütztes Schreiben",
+        "Informierender Text",
+        "Künstliche Intelligenz",
+        "Digitalisierung",
+        "Arbeitswelt",
+        "Medizin",
+        "Pflege",
+        "Roboter",
+        "Informationsauswertung",
+        "Textaufbau",
+        "Materialauswahl",
+        "Struktur",
+        "Schreiben",
+        "Überarbeiten"
+      ],
+      "children": [
+        {
+          "name": "Auf Materialbasis einen informierenden Text planen",
+          "level": 1,
+          "keyterms": [
+            "Materialauswertung",
+            "Textplanung",
+            "Struktur",
+            "Informationsauswahl"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auf Materialbasis einen informierenden Text schreiben und überarbeiten",
+          "level": 1,
+          "keyterms": [
+            "Schreiben",
+            "Überarbeiten",
+            "Materialnutzung",
+            "Informationsvermittlung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Die Jugend von heute ...! – Schriftlich argumentieren",
+      "level": 0,
+      "keyterms": [
+        "Argumentation",
+        "Pro-und-Kontra-Erörterung",
+        "Textsorten",
+        "Argumente",
+        "Begründung",
+        "Struktur",
+        "Jugend",
+        "Eltern",
+        "Adressatenbezug",
+        "Textaufbau",
+        "Schreiben",
+        "Ordnen",
+        "Planung",
+        "Erörterung"
+      ],
+      "children": [
+        {
+          "name": "Argumente sammeln, auswählen und ordnen",
+          "level": 1,
+          "keyterms": [
+            "Argumente",
+            "Ordnung",
+            "Struktur",
+            "Begründung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Pro-und-Kontra-Erörterung verfassen",
+          "level": 1,
+          "keyterms": [
+            "Erörterung",
+            "Pro-Argumente",
+            "Kontra-Argumente",
+            "Schreiben",
+            "Struktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verschiedene Textsorten nutzen, um Adressaten zu erreichen",
+          "level": 1,
+          "keyterms": [
+            "Textsorten",
+            "Adressatenbezug",
+            "Kommunikation",
+            "Zielgruppen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Spurensuche – Erzählende Texte untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Erzählende Texte",
+        "Interpretation",
+        "Zusammenfassen",
+        "Handlung",
+        "Figuren",
+        "Perspektive",
+        "Comic",
+        "Textgestaltung",
+        "Analyse",
+        "Erzählstruktur",
+        "Erzählperspektive",
+        "Textverständnis",
+        "Literatur",
+        "Erzähltechnik"
+      ],
+      "children": [
+        {
+          "name": "Die Auf- und innere Handlung zusammenfassen",
+          "level": 1,
+          "keyterms": [
+            "Handlung",
+            "Zusammenfassung",
+            "Erzählstruktur",
+            "Textverständnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Erzählende Texte interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Analyse",
+            "Erzähltechnik",
+            "Textbedeutung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit erzählenden Texten produktiv umgehen",
+          "level": 1,
+          "keyterms": [
+            "Perspektive",
+            "Comic",
+            "Gestaltung",
+            "Kreativität"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mensch 2.0 – Fiktion oder Zukunft? – Einen Roman und Filme untersuchen und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Roman",
+        "Film",
+        "Figurendarstellung",
+        "Charakterisierung",
+        "Fiktion",
+        "Zukunftsvision",
+        "Literarische Figuren",
+        "Analyse",
+        "Interpretation",
+        "Handlung",
+        "Science-Fiction",
+        "Menschliche Maschinen",
+        "Medienvergleich",
+        "Erzähltechnik"
+      ],
+      "children": [
+        {
+          "name": "Die Figurendarstellung in einem Roman untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Figurendarstellung",
+            "Charakterisierung",
+            "Roman",
+            "Analyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine literarische Figur schriftlich charakterisieren",
+          "level": 1,
+          "keyterms": [
+            "Charakterisierung",
+            "Schriftliche Darstellung",
+            "Figurenanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Fiktionalität untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Fiktion",
+            "Zukunftsvision",
+            "Literatur",
+            "Science-Fiction"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Figurendarstellung in Filmen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Film",
+            "Figurendarstellung",
+            "Medienvergleich",
+            "Analyse"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wege und Umwege – Gedichte untersuchen, interpretieren und medial gestalten",
+      "level": 0,
+      "keyterms": [
+        "Gedicht",
+        "Interpretation",
+        "Vergleich",
+        "Abzweigungen",
+        "Abkürzungen",
+        "Sprache",
+        "Mediale Gestaltung",
+        "Lyrik",
+        "Gedichtanalyse",
+        "Reim",
+        "Stilmittel",
+        "Versmaß",
+        "Sprachebene",
+        "Symbolik",
+        "Textgestaltung"
+      ],
+      "children": [
+        {
+          "name": "Gedichte vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Vergleich",
+            "Gedicht",
+            "Themen",
+            "Stilmittel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gedichte interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Lyrik",
+            "Symbolik",
+            "Sprachebene"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Gedicht medial gestalten",
+          "level": 1,
+          "keyterms": [
+            "Mediale Gestaltung",
+            "Präsentation",
+            "Kreativität",
+            "Textgestaltung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Was für ein Kaiser?! – Ein Drama untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Drama",
+        "Dramenanalyse",
+        "Interpretation",
+        "Handlungsverlauf",
+        "Figurenkonstellation",
+        "Dramenszene",
+        "Tragik",
+        "Komik",
+        "Hintergrundinformationen",
+        "Textverständnis",
+        "Szenenanalyse",
+        "Dramenstruktur",
+        "Literatur",
+        "Theater"
+      ],
+      "children": [
+        {
+          "name": "Die Ausgangssituation und den Handlungsverlauf untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Ausgangssituation",
+            "Handlungsverlauf",
+            "Dramenstruktur",
+            "Analyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Dramenfigur untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Figurenanalyse",
+            "Charakterisierung",
+            "Drama"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Drameninterpretation planen und schreiben",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Planung",
+            "Schreiben",
+            "Dramenanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hintergrundinformationen nutzen",
+          "level": 1,
+          "keyterms": [
+            "Hintergrund",
+            "Kontext",
+            "Literaturgeschichte",
+            "Drama"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Meinungsmacht? – Medienformate und mediale Prozesse der Meinungsbildung untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Medienformate",
+        "Meinungsbildung",
+        "Information",
+        "Nachrichten",
+        "Falschmeldungen",
+        "Manipulation",
+        "Medienkompetenz",
+        "Informationsvermittlung",
+        "Medienanalyse",
+        "Fake News",
+        "Präsentation",
+        "Vergleich",
+        "Medienkritik",
+        "Informationsquellen"
+      ],
+      "children": [
+        {
+          "name": "Informationen in Medienformaten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Medienformate",
+            "Information",
+            "Nachrichten",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Meinungsbildung und Manipulation in Medien untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Meinungsbildung",
+            "Manipulation",
+            "Fake News",
+            "Falschmeldungen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Eine Sprache, viele Möglichkeiten – Sprache betrachten",
+      "level": 0,
+      "keyterms": [
+        "Sprache",
+        "Sprachvarietäten",
+        "Mehrsprachigkeit",
+        "Jugendsprache",
+        "Sprachwandel",
+        "Ausdrucksweise",
+        "Sprachentwicklung",
+        "Gegenwartssprache",
+        "Sprachgebrauch",
+        "Sprachvergleich",
+        "Sprachbewusstsein",
+        "Sprachgeschichte",
+        "Dialekte",
+        "Sprachliche Vielfalt"
+      ],
+      "children": [
+        {
+          "name": "Sprachvarietäten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sprachvarietäten",
+            "Mehrsprachigkeit",
+            "Dialekte",
+            "Jugendsprache"
+          ],
+          "children": []
+        },
+        {
+          "name": "Entwicklungsdaten der Gegenwartssprache untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sprachwandel",
+            "Ausdrucksweise",
+            "Sprachentwicklung",
+            "Gegenwartssprache"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gefährliche Tiere – gefährdete Tiere – Wortarten und Satzteile verwenden, Satzzeichen setzen",
+      "level": 0,
+      "keyterms": [
+        "Wortarten",
+        "Satzteile",
+        "Satzzeichen",
+        "Grammatik",
+        "Nominalisierung",
+        "Adverbialsätze",
+        "Satzstruktur",
+        "Kommaregeln",
+        "Satzbau",
+        "Satzgliedbestimmung",
+        "Satzanalyse",
+        "Satzverbindung",
+        "Satzzeichenregeln",
+        "Grammatikregeln"
+      ],
+      "children": [
+        {
+          "name": "Bestandteile von Sätzen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Satzteile",
+            "Satzglieder",
+            "Satzbau",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nominalisierung und Adverbialsätze verwenden",
+          "level": 1,
+          "keyterms": [
+            "Nominalisierung",
+            "Adverbialsätze",
+            "Grammatik",
+            "Satzstruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Satzstrukturen verdeutlichen, Adverbialsätze verwenden",
+          "level": 1,
+          "keyterms": [
+            "Satzstruktur",
+            "Adverbialsätze",
+            "Kommaregeln",
+            "Satzzeichen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aushängeschilder – Regeln und Strategien der Rechtschreibung anwenden",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Fehleranalyse",
+        "Wörterbücher",
+        "Digitale Rechtschreibhilfen",
+        "Fehlerquellen",
+        "Rechtschreibregeln",
+        "Strategien",
+        "Korrektur",
+        "Schreibkompetenz",
+        "Orthografie",
+        "Fehlerbeseitigung",
+        "Selbstkontrolle",
+        "Lernstrategien",
+        "Wortschatz"
+      ],
+      "children": [
+        {
+          "name": "Eigene Fehlerschwerpunkte erkennen und üben",
+          "level": 1,
+          "keyterms": [
+            "Fehleranalyse",
+            "Fehlerschwerpunkte",
+            "Korrektur",
+            "Übung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wörterbücher und digitale Rechtschreibhilfen nutzen",
+          "level": 1,
+          "keyterms": [
+            "Wörterbuch",
+            "Digitale Hilfen",
+            "Rechtschreibung",
+            "Nachschlagen"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

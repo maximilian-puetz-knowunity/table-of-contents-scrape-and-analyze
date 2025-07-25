@@ -1,0 +1,808 @@
+{
+  "country": "DE",
+  "grade": "9",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-746815-1",
+  "taxonomy": [
+    {
+      "name": "Zahlen, Größen und Zuordnungen",
+      "level": 0,
+      "keyterms": [
+        "rationale Zahlen",
+        "Zahlenmengen",
+        "Zahlenstrahl",
+        "Vergleich",
+        "Ordnen",
+        "Betrag",
+        "Dezimalzahlen",
+        "Brüche",
+        "Proportionalität",
+        "Zuordnung",
+        "Funktionen",
+        "Graphen",
+        "Tabellen",
+        "Funktionsgleichung",
+        "Lineare Funktionen"
+      ],
+      "children": [
+        {
+          "name": "Mit rationalen Zahlen rechnen",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Multiplikation",
+            "Division",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlenmengen",
+          "level": 1,
+          "keyterms": [
+            "natürliche Zahlen",
+            "ganze Zahlen",
+            "rationale Zahlen",
+            "Mengenlehre"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlenstrahl",
+          "level": 1,
+          "keyterms": [
+            "Darstellung",
+            "Vergleich",
+            "Abstand",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größenordnungen mit Dezimalzahlen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Dezimalzahlen",
+            "Größen",
+            "Vergleich",
+            "Umrechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineare Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Funktionsgleichung",
+            "Graph",
+            "Steigung",
+            "y-Achsenabschnitt",
+            "Proportionalität"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Prozent- und Zinsrechnung",
+      "level": 0,
+      "keyterms": [
+        "Prozent",
+        "Prozentsatz",
+        "Grundwert",
+        "Prozentwert",
+        "Zinsen",
+        "Zinssatz",
+        "Zinsrechnung",
+        "Kapital",
+        "Zinsformel",
+        "Zinseszins",
+        "Anwendung",
+        "Diagramm",
+        "Vergleich",
+        "Berechnung",
+        "Verzinsung"
+      ],
+      "children": [
+        {
+          "name": "Grundlagen der Prozentrechnung",
+          "level": 1,
+          "keyterms": [
+            "Prozent",
+            "Prozentsatz",
+            "Grundwert",
+            "Prozentwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umwandeln und anwenden: Grundwert berechnen",
+          "level": 1,
+          "keyterms": [
+            "Grundwert",
+            "Berechnung",
+            "Umwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umwandeln und anwenden: Prozentsatz berechnen",
+          "level": 1,
+          "keyterms": [
+            "Prozentsatz",
+            "Berechnung",
+            "Umwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umwandeln und anwenden: Prozentwert berechnen",
+          "level": 1,
+          "keyterms": [
+            "Prozentwert",
+            "Berechnung",
+            "Umwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zinsrechnung",
+          "level": 1,
+          "keyterms": [
+            "Zinsen",
+            "Zinssatz",
+            "Kapital",
+            "Zinsformel",
+            "Zinseszins"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Reelle Zahlen",
+      "level": 0,
+      "keyterms": [
+        "Quadratwurzel",
+        "Wurzelziehen",
+        "Quadratzahlen",
+        "Irrationale Zahlen",
+        "Reelle Zahlen",
+        "Zahlenstrahl",
+        "Kombination",
+        "Kubikwurzel",
+        "Kubikzahlen",
+        "Darstellung",
+        "Vergleich",
+        "Mengen",
+        "Zahlenmengen",
+        "Wurzeln",
+        "Radizieren"
+      ],
+      "children": [
+        {
+          "name": "Quadratwurzeln",
+          "level": 1,
+          "keyterms": [
+            "Quadratwurzel",
+            "Wurzelziehen",
+            "Quadratzahlen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratzahlen und Wurzeln bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Quadratzahlen",
+            "Wurzeln",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Reelle Zahlen",
+          "level": 1,
+          "keyterms": [
+            "reelle Zahlen",
+            "Zahlenstrahl",
+            "Darstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Irrationale Zahlen",
+          "level": 1,
+          "keyterms": [
+            "irrationale Zahlen",
+            "Zahlenmengen",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kubikwurzel und Kubikzahlen",
+          "level": 1,
+          "keyterms": [
+            "Kubikwurzel",
+            "Kubikzahlen",
+            "Radizieren"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Potenzen",
+      "level": 0,
+      "keyterms": [
+        "Potenz",
+        "Basis",
+        "Exponent",
+        "Potenzgesetze",
+        "Multiplikation",
+        "Division",
+        "Potenzieren",
+        "Zehnerpotenzen",
+        "Wissenschaftliche Schreibweise",
+        "Rechengesetze",
+        "Negativer Exponent",
+        "Nullte Potenz",
+        "Anwendung",
+        "Vereinfachung",
+        "Rechnen mit Potenzen"
+      ],
+      "children": [
+        {
+          "name": "Potenzen",
+          "level": 1,
+          "keyterms": [
+            "Potenz",
+            "Basis",
+            "Exponent"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzen mit gleicher Basis multiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "gleiche Basis",
+            "Potenzgesetze"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzen mit gleicher Basis dividieren",
+          "level": 1,
+          "keyterms": [
+            "Division",
+            "gleiche Basis",
+            "Potenzgesetze"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzieren von Potenzen",
+          "level": 1,
+          "keyterms": [
+            "Potenzieren",
+            "Potenzgesetze",
+            "Exponent"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zehnerpotenzen und wissenschaftliche Schreibweise",
+          "level": 1,
+          "keyterms": [
+            "Zehnerpotenzen",
+            "wissenschaftliche Schreibweise",
+            "Anwendung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Flächensätze",
+      "level": 0,
+      "keyterms": [
+        "Satz des Pythagoras",
+        "Katheten",
+        "Hypotenuse",
+        "Rechtwinkliges Dreieck",
+        "Flächenberechnung",
+        "Anwendung",
+        "Geometrie",
+        "Satz des Thales",
+        "Satz des Euklid",
+        "Beweis",
+        "Streckenberechnung",
+        "Quadrat",
+        "Dreieck",
+        "Rechteck",
+        "Kreis"
+      ],
+      "children": [
+        {
+          "name": "Satz des Pythagoras",
+          "level": 1,
+          "keyterms": [
+            "Satz des Pythagoras",
+            "Katheten",
+            "Hypotenuse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Satz des Thales",
+          "level": 1,
+          "keyterms": [
+            "Satz des Thales",
+            "Kreis",
+            "Durchmesser"
+          ],
+          "children": []
+        },
+        {
+          "name": "Satz des Euklid",
+          "level": 1,
+          "keyterms": [
+            "Satz des Euklid",
+            "Streckenberechnung",
+            "rechtwinkliges Dreieck"
+          ],
+          "children": []
+        },
+        {
+          "name": "Anwendungen der Flächensätze",
+          "level": 1,
+          "keyterms": [
+            "Anwendung",
+            "Geometrie",
+            "Flächenberechnung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lineare Gleichungssysteme",
+      "level": 0,
+      "keyterms": [
+        "Gleichungssystem",
+        "lineare Gleichung",
+        "Lösungsverfahren",
+        "Einsetzungsverfahren",
+        "Additionsverfahren",
+        "Gleichsetzungsverfahren",
+        "Lösungsmenge",
+        "Darstellung",
+        "Anwendung",
+        "Graphische Lösung",
+        "Unbekannte",
+        "Variablen",
+        "Lösbarkeit",
+        "Gleichungen",
+        "Systeme"
+      ],
+      "children": [
+        {
+          "name": "Lineare Gleichungssysteme zeichnerisch lösen",
+          "level": 1,
+          "keyterms": [
+            "graphische Lösung",
+            "Koordinatensystem",
+            "Schnittpunkt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gleichsetzungsverfahren",
+          "level": 1,
+          "keyterms": [
+            "Gleichsetzungsverfahren",
+            "Umformung",
+            "Lösung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einsetzungsverfahren",
+          "level": 1,
+          "keyterms": [
+            "Einsetzungsverfahren",
+            "Substitution",
+            "Lösung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Additionsverfahren",
+          "level": 1,
+          "keyterms": [
+            "Additionsverfahren",
+            "Addition",
+            "Lösung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Anwendungen von Gleichungssystemen",
+          "level": 1,
+          "keyterms": [
+            "Anwendung",
+            "Sachaufgaben",
+            "Modellierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Flächenberechnungen",
+      "level": 0,
+      "keyterms": [
+        "Fläche",
+        "Umfang",
+        "Zusammengesetzte Figuren",
+        "Berechnung",
+        "Geometrie",
+        "Rechteck",
+        "Dreieck",
+        "Parallelogramm",
+        "Trapez",
+        "Kreis",
+        "Formeln",
+        "Anwendung",
+        "Sachaufgaben",
+        "Maßeinheiten",
+        "Zusammensetzung"
+      ],
+      "children": [
+        {
+          "name": "Flächeninhalt und Umfang zusammengesetzter Figuren berechnen",
+          "level": 1,
+          "keyterms": [
+            "Flächeninhalt",
+            "Umfang",
+            "Zusammensetzung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Flächenberechnungen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Anwendung",
+            "Berechnung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Körper",
+      "level": 0,
+      "keyterms": [
+        "Körper",
+        "Prisma",
+        "Zylinder",
+        "Kegel",
+        "Volumen",
+        "Oberfläche",
+        "Berechnung",
+        "Geometrie",
+        "Netz",
+        "Querschnitt",
+        "Grundfläche",
+        "Höhe",
+        "Formeln",
+        "Sachaufgaben",
+        "Zusammengesetzte Körper"
+      ],
+      "children": [
+        {
+          "name": "Schrägbilder von Prismen zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Schrägbild",
+            "Prisma",
+            "Zeichnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Volumen und Oberfläche von Zylindern und Kegeln berechnen",
+          "level": 1,
+          "keyterms": [
+            "Volumen",
+            "Oberfläche",
+            "Zylinder",
+            "Kegel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Volumen und Oberfläche von Prismen und Kegeln berechnen",
+          "level": 1,
+          "keyterms": [
+            "Volumen",
+            "Oberfläche",
+            "Prisma",
+            "Kegel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zusammengesetzte Körper berechnen",
+          "level": 1,
+          "keyterms": [
+            "Zusammengesetzte Körper",
+            "Berechnung",
+            "Geometrie"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Quadratische Funktionen",
+      "level": 0,
+      "keyterms": [
+        "quadratische Funktion",
+        "Parabel",
+        "Scheitelpunkt",
+        "Funktionsgleichung",
+        "Graph",
+        "Streckung",
+        "Verschiebung",
+        "Öffnung",
+        "Scheitelpunktform",
+        "Normalform",
+        "Nullstellen",
+        "Symmetrie",
+        "y-Achsenabschnitt",
+        "Parameter",
+        "Darstellung"
+      ],
+      "children": [
+        {
+          "name": "Quadratische Funktionen",
+          "level": 1,
+          "keyterms": [
+            "quadratische Funktion",
+            "Funktionsgleichung",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Scheitelpunktform und Normalform",
+          "level": 1,
+          "keyterms": [
+            "Scheitelpunktform",
+            "Normalform",
+            "Umwandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Scheitelpunkt und Nullstellen bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Scheitelpunkt",
+            "Nullstellen",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Graphen quadratischer Funktionen zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Graph",
+            "Parabel",
+            "Zeichnung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Quadratische Gleichungen",
+      "level": 0,
+      "keyterms": [
+        "quadratische Gleichung",
+        "Lösungsverfahren",
+        "Mitternachtsformel",
+        "Quadratische Ergänzung",
+        "Nullstellen",
+        "Lösungsmenge",
+        "Faktorisierung",
+        "Graphische Lösung",
+        "Anwendung",
+        "Gleichung",
+        "Variable",
+        "Parabel",
+        "Diskriminante",
+        "Wurzeln",
+        "Lösbarkeit"
+      ],
+      "children": [
+        {
+          "name": "Quadratische Gleichungen ax² + bx + c = 0 lösen",
+          "level": 1,
+          "keyterms": [
+            "quadratische Gleichung",
+            "Lösung",
+            "Mitternachtsformel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadratische Gleichungen mit der quadratischen Ergänzung lösen",
+          "level": 1,
+          "keyterms": [
+            "quadratische Ergänzung",
+            "Lösung",
+            "Umformung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben mit quadratischen Gleichungen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Anwendung",
+            "Modellierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Abbildungen",
+      "level": 0,
+      "keyterms": [
+        "Abbildung",
+        "Kongruenzabbildung",
+        "Spiegelung",
+        "Drehung",
+        "Verschiebung",
+        "Streckung",
+        "Symmetrie",
+        "Achse",
+        "Punktspiegelung",
+        "Geradenspiegelung",
+        "Geometrie",
+        "Transformation",
+        "Koordinatensystem",
+        "Abbildungsgesetze",
+        "Streckfaktor"
+      ],
+      "children": [
+        {
+          "name": "Kongruenzabbildungen",
+          "level": 1,
+          "keyterms": [
+            "Kongruenzabbildung",
+            "Spiegelung",
+            "Drehung",
+            "Verschiebung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eigenschaften von Kongruenzabbildungen",
+          "level": 1,
+          "keyterms": [
+            "Eigenschaften",
+            "Kongruenz",
+            "Abbildung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zentrische Streckung",
+          "level": 1,
+          "keyterms": [
+            "zentrische Streckung",
+            "Streckfaktor",
+            "Zentrum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abbildungen und Strahlensätze",
+          "level": 1,
+          "keyterms": [
+            "Strahlensatz",
+            "Abbildung",
+            "Verhältnis"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Zufall",
+      "level": 0,
+      "keyterms": [
+        "Daten",
+        "Diagramm",
+        "Statistik",
+        "Bewertung",
+        "Zufall",
+        "Wahrscheinlichkeit",
+        "Zufallsexperiment",
+        "Ergebnis",
+        "Ereignis",
+        "Baumdiagramm",
+        "Laplace-Experiment",
+        "absolute Häufigkeit",
+        "relative Häufigkeit",
+        "Zufallsvariable",
+        "Zufallsversuch"
+      ],
+      "children": [
+        {
+          "name": "Daten auswerten",
+          "level": 1,
+          "keyterms": [
+            "Daten",
+            "Auswertung",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten in Diagrammen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Diagramm",
+            "Darstellung",
+            "Balkendiagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeit bei zweistufiger Zufallsexperimenten",
+          "level": 1,
+          "keyterms": [
+            "Wahrscheinlichkeit",
+            "zweistufiges Zufallsexperiment",
+            "Baumdiagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeit berechnen",
+          "level": 1,
+          "keyterms": [
+            "Berechnung",
+            "Laplace-Experiment",
+            "absolute Häufigkeit",
+            "relative Häufigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeit zwischen zweistufiger Zufallsexperimenten vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Vergleich",
+            "Wahrscheinlichkeit",
+            "Zufallsexperiment"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "country": "DE",
+  "grade": "1_Fremdsprache_5",
+  "subject": "French",
+  "ISBN": "978-3-12-624051-2",
+  "taxonomy": [
+    {
+      "name": "Se débrouiller à Paris",
+      "level": 0,
+      "keyterms": [
+        "quartier",
+        "logement",
+        "métro",
+        "magasins",
+        "restauration rapide",
+        "vocabulaire touristique",
+        "phrases utiles",
+        "interview",
+        "annonce",
+        "dialogue",
+        "achat",
+        "transports",
+        "snacks",
+        "blog de voyage",
+        "culture parisienne"
+      ],
+      "children": [
+        {
+          "name": "Bienvenue dans le quartier Oberkampf",
+          "level": 1,
+          "keyterms": [
+            "quartier",
+            "photos",
+            "émission de radio",
+            "interview",
+            "présentation",
+            "lieux",
+            "habitants"
+          ],
+          "children": []
+        },
+        {
+          "name": "Un logement à Oberkampf",
+          "level": 1,
+          "keyterms": [
+            "logement",
+            "appartement",
+            "annonce",
+            "vocabulaire de l’habitat",
+            "questions",
+            "description",
+            "recherche"
+          ],
+          "children": []
+        },
+        {
+          "name": "Se débrouiller dans le métro",
+          "level": 1,
+          "keyterms": [
+            "métro",
+            "reportage",
+            "dialogue",
+            "itinéraire",
+            "billet",
+            "station",
+            "transports en commun"
+          ],
+          "children": []
+        },
+        {
+          "name": "Faire les magasins",
+          "level": 1,
+          "keyterms": [
+            "magasins",
+            "dialogue",
+            "achat",
+            "prix",
+            "vêtements",
+            "vendeur",
+            "client"
+          ],
+          "children": []
+        },
+        {
+          "name": "Manger sur le pouce",
+          "level": 1,
+          "keyterms": [
+            "restauration rapide",
+            "snacks",
+            "article",
+            "blog",
+            "menu",
+            "commande",
+            "restaurant"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vocabulaire touristique",
+          "level": 1,
+          "keyterms": [
+            "destination touristique",
+            "logement",
+            "transports",
+            "snacks",
+            "repas",
+            "expressions utiles"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire de base",
+          "level": 1,
+          "keyterms": [
+            "relier des phrases",
+            "répétitions",
+            "gérondif",
+            "pronom relatif lequel",
+            "pronoms démonstratifs"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mayotte",
+      "level": 0,
+      "keyterms": [
+        "Mayotte",
+        "océan Indien",
+        "documentaire",
+        "témoignage",
+        "podcast",
+        "violence",
+        "roman",
+        "personnages",
+        "analyse de texte",
+        "interprétation",
+        "sentiments",
+        "monologue",
+        "portrait",
+        "extraits"
+      ],
+      "children": [
+        {
+          "name": "Un département de l’océan Indien",
+          "level": 1,
+          "keyterms": [
+            "Mayotte",
+            "film documentaire",
+            "photos",
+            "présentation",
+            "interview",
+            "île",
+            "culture"
+          ],
+          "children": []
+        },
+        {
+          "name": "Etre jeune à Mayotte",
+          "level": 1,
+          "keyterms": [
+            "jeunesse",
+            "Mayotte",
+            "podcast",
+            "article",
+            "témoignages",
+            "expériences",
+            "quotidien"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tropique de la violence",
+          "level": 1,
+          "keyterms": [
+            "violence",
+            "roman",
+            "extrait",
+            "analyse",
+            "monologue intérieur",
+            "personnage",
+            "sentiments"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vocabulaire des personnes humaines",
+          "level": 1,
+          "keyterms": [
+            "personnes humaines",
+            "relations",
+            "âge",
+            "rôle",
+            "description"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire de la langue écrite",
+          "level": 1,
+          "keyterms": [
+            "utiliser le passé",
+            "utiliser le passif",
+            "interrogation indirecte",
+            "interrogation complexe",
+            "expression écrite"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Entrons au Panthéon !",
+      "level": 0,
+      "keyterms": [
+        "Panthéon",
+        "biographie",
+        "Marie Curie",
+        "Joséphine Baker",
+        "Simone Veil",
+        "bande dessinée",
+        "installation artistique",
+        "interview",
+        "commentaire personnel",
+        "opinion",
+        "relations",
+        "politique",
+        "art",
+        "sciences"
+      ],
+      "children": [
+        {
+          "name": "Les visages du Panthéon",
+          "level": 1,
+          "keyterms": [
+            "Panthéon",
+            "photos",
+            "citations",
+            "textes informatifs",
+            "installation artistique"
+          ],
+          "children": []
+        },
+        {
+          "name": "Marie Curie : une vie pour la science",
+          "level": 1,
+          "keyterms": [
+            "Marie Curie",
+            "biographie",
+            "bande dessinée",
+            "science",
+            "femme scientifique"
+          ],
+          "children": []
+        },
+        {
+          "name": "Les mille vies de Joséphine Baker",
+          "level": 1,
+          "keyterms": [
+            "Joséphine Baker",
+            "biographie",
+            "photos",
+            "bande dessinée",
+            "artiste"
+          ],
+          "children": []
+        },
+        {
+          "name": "Simone Veil : le parcours d’une rescapée",
+          "level": 1,
+          "keyterms": [
+            "Simone Veil",
+            "biographie",
+            "bande dessinée",
+            "survivante",
+            "témoignage"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vocabulaire de la politique, de l’art et de la science",
+          "level": 1,
+          "keyterms": [
+            "politique",
+            "art",
+            "science",
+            "personnalité",
+            "qualités",
+            "vocabulaire thématique"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire pour exprimer une opinion",
+          "level": 1,
+          "keyterms": [
+            "exprimer une opinion",
+            "exprimer des relations",
+            "subjonctif",
+            "possibilité",
+            "condition"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vivre les différences",
+      "level": 0,
+      "keyterms": [
+        "différences",
+        "société",
+        "théâtre",
+        "comportement",
+        "dialogue",
+        "scènes",
+        "monologue",
+        "reproches",
+        "contraintes",
+        "relations",
+        "personnages",
+        "conditions",
+        "passé",
+        "interprétation"
+      ],
+      "children": [
+        {
+          "name": "Vivre en société",
+          "level": 1,
+          "keyterms": [
+            "société",
+            "illustration",
+            "chanson",
+            "impressions",
+            "paroles"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bienvenue en classe",
+          "level": 1,
+          "keyterms": [
+            "classe",
+            "théâtre",
+            "scène",
+            "dialogue",
+            "rôles"
+          ],
+          "children": []
+        },
+        {
+          "name": "Comment se comporter ? Que dire ?",
+          "level": 1,
+          "keyterms": [
+            "comportement",
+            "théâtre",
+            "scène",
+            "hypothèses",
+            "indications"
+          ],
+          "children": []
+        },
+        {
+          "name": "Une question d’attitude",
+          "level": 1,
+          "keyterms": [
+            "attitude",
+            "théâtre",
+            "scène",
+            "monologue intérieur",
+            "portrait"
+          ],
+          "children": []
+        },
+        {
+          "name": "Des reproches et des contraintes",
+          "level": 1,
+          "keyterms": [
+            "reproches",
+            "contraintes",
+            "scènes",
+            "monologue",
+            "passé",
+            "dialogue"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vocabulaire du théâtre et des relations",
+          "level": 1,
+          "keyterms": [
+            "théâtre",
+            "caractère",
+            "comportement",
+            "personnages",
+            "relations",
+            "émotions",
+            "actions"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire pour exprimer des conditions",
+          "level": 1,
+          "keyterms": [
+            "relier des phrases",
+            "exprimer des conditions",
+            "pronom relatif dont",
+            "pronoms relatifs ce qui et ce que",
+            "phrases conditionnelles",
+            "conditionnel II",
+            "conditionnel III"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Grammaire approfondie",
+      "level": 0,
+      "keyterms": [
+        "gérondif",
+        "pronom relatif lequel",
+        "pronoms démonstratifs",
+        "passif",
+        "voix passive",
+        "participe passé",
+        "interrogation complexe",
+        "subjonctif après les conjonctions",
+        "subjonctif après vouloir",
+        "pronoms possessifs",
+        "pronoms relatifs",
+        "pronoms personnels",
+        "conditionnel",
+        "phrases conditionnelles"
+      ],
+      "children": [
+        {
+          "name": "Le gérondif",
+          "level": 1,
+          "keyterms": [
+            "gérondif",
+            "forme verbale",
+            "simultanéité",
+            "action en cours",
+            "expression de la manière"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le pronom relatif lequel",
+          "level": 1,
+          "keyterms": [
+            "pronom relatif",
+            "lequel",
+            "remplacement",
+            "antécédent",
+            "préposition"
+          ],
+          "children": []
+        },
+        {
+          "name": "Les pronoms démonstratifs",
+          "level": 1,
+          "keyterms": [
+            "pronoms démonstratifs",
+            "celui",
+            "celle",
+            "ceux",
+            "celles",
+            "désignation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le passif / la voix passive",
+          "level": 1,
+          "keyterms": [
+            "passif",
+            "voix passive",
+            "être",
+            "participe passé",
+            "agent"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le participe passé",
+          "level": 1,
+          "keyterms": [
+            "participe passé",
+            "accord",
+            "auxiliaire",
+            "formation",
+            "emploi"
+          ],
+          "children": []
+        },
+        {
+          "name": "L’interrogation complexe",
+          "level": 1,
+          "keyterms": [
+            "interrogation",
+            "question complexe",
+            "structure",
+            "intonation",
+            "inversion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le subjonctif après les conjonctions",
+          "level": 1,
+          "keyterms": [
+            "subjonctif",
+            "conjonctions",
+            "expression de la condition",
+            "expression du but",
+            "expression du temps"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le subjonctif après vouloir",
+          "level": 1,
+          "keyterms": [
+            "subjonctif",
+            "vouloir",
+            "expression du souhait",
+            "expression de la volonté",
+            "subordination"
+          ],
+          "children": []
+        },
+        {
+          "name": "Les pronoms possessifs",
+          "level": 1,
+          "keyterms": [
+            "pronoms possessifs",
+            "appartenance",
+            "accord",
+            "emploi",
+            "remplacement"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le pronom relatif dont",
+          "level": 1,
+          "keyterms": [
+            "pronom relatif",
+            "dont",
+            "complément",
+            "antécédent",
+            "relation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Les pronoms personnels",
+          "level": 1,
+          "keyterms": [
+            "pronoms personnels",
+            "sujet",
+            "objet",
+            "emploi",
+            "forme"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le conditionnel",
+          "level": 1,
+          "keyterms": [
+            "conditionnel",
+            "hypothèse",
+            "politesse",
+            "souhait",
+            "formation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Les phrases conditionnelles",
+          "level": 1,
+          "keyterms": [
+            "phrases conditionnelles",
+            "si",
+            "condition",
+            "réalité",
+            "irréalité"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vocabulaire thématique",
+      "level": 0,
+      "keyterms": [
+        "vocabulaire",
+        "thèmes",
+        "mots-clés",
+        "expressions",
+        "lexique",
+        "synonymes",
+        "antonymes",
+        "famille de mots",
+        "registre de langue",
+        "usage",
+        "traduction",
+        "contexte",
+        "exemples"
+      ],
+      "children": [
+        {
+          "name": "Vocabulaire par module",
+          "level": 1,
+          "keyterms": [
+            "vocabulaire",
+            "module",
+            "thématique",
+            "lexique",
+            "révision"
+          ],
+          "children": []
+        },
+        {
+          "name": "Liste des mots (français-allemand)",
+          "level": 1,
+          "keyterms": [
+            "liste de mots",
+            "français",
+            "allemand",
+            "traduction",
+            "apprentissage"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lexique (alphabétique)",
+          "level": 1,
+          "keyterms": [
+            "lexique",
+            "ordre alphabétique",
+            "vocabulaire",
+            "recherche",
+            "référence"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

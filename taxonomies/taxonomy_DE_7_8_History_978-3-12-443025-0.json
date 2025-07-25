@@ -1,0 +1,721 @@
+{
+  "country": "DE",
+  "grade": "7_8",
+  "subject": "History",
+  "ISBN": "978-3-12-443025-0",
+  "taxonomy": [
+    {
+      "name": "Städte und Handel im Mittelalter",
+      "level": 0,
+      "keyterms": [
+        "Stadtentstehung",
+        "Handel",
+        "Handwerk",
+        "Stadtgesellschaft",
+        "Frauen im Mittelalter",
+        "Stadtluft",
+        "Stadtrecht",
+        "Markt",
+        "Zünfte",
+        "Hanse",
+        "Kaufleute",
+        "Stadtherrschaft",
+        "Stadtmauer",
+        "Stadtentwicklung",
+        "Kulturbegegnung"
+      ],
+      "children": [
+        {
+          "name": "Leben im Schutz der Mauer – Städte entstehen",
+          "level": 1,
+          "keyterms": [
+            "Stadtgründung",
+            "Stadtmauer",
+            "Bürgerrechte",
+            "Stadtbevölkerung",
+            "Stadtentwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen Handel und Handwerk – wie lebten Bürger in den Städten?",
+          "level": 1,
+          "keyterms": [
+            "Handel",
+            "Handwerk",
+            "Zünfte",
+            "Kaufleute",
+            "Stadtgesellschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Frauen in der Stadt",
+          "level": 1,
+          "keyterms": [
+            "Frauenrechte",
+            "Berufe",
+            "Familie",
+            "Stadtleben",
+            "Soziale Rolle"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Hanse – ein Bund der Kaufleute und ihrer Städte",
+          "level": 1,
+          "keyterms": [
+            "Hanse",
+            "Kaufleute",
+            "Handelsnetzwerk",
+            "Städtebund",
+            "Ostseehandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Handel und Kulturbegegnung auf der Seidenstraße",
+          "level": 1,
+          "keyterms": [
+            "Seidenstraße",
+            "Kulturaustausch",
+            "Handelswege",
+            "Waren",
+            "Begegnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "König und Unfrieden: Zwei Städte geraten aneinander",
+          "level": 1,
+          "keyterms": [
+            "Stadtkonflikte",
+            "König",
+            "Machtverhältnisse",
+            "Stadtpolitik",
+            "Unfrieden"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Menschen begegnen einander – Religion und Kultur im Mittelalter",
+      "level": 0,
+      "keyterms": [
+        "Religion",
+        "Kultur",
+        "Christentum",
+        "Islam",
+        "Judentum",
+        "Kreuzzüge",
+        "Heiliges Land",
+        "Glaube",
+        "Toleranz",
+        "Zusammenleben",
+        "Pilgerfahrt",
+        "Kloster",
+        "Kirche",
+        "Religiöse Konflikte",
+        "Kulturelle Vielfalt"
+      ],
+      "children": [
+        {
+          "name": "Die christliche und islamische Welt",
+          "level": 1,
+          "keyterms": [
+            "Christentum",
+            "Islam",
+            "Kulturkontakt",
+            "Glaubensvorstellungen",
+            "Mittelalter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Jüdisches Leben im Mittelalter",
+          "level": 1,
+          "keyterms": [
+            "Judentum",
+            "Gemeinde",
+            "Alltag",
+            "Verfolgung",
+            "Integration"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ist neuer Glaube ein verbreiteter Glaube?",
+          "level": 1,
+          "keyterms": [
+            "Glaubensverbreitung",
+            "Missionierung",
+            "Religionswechsel",
+            "Konflikte",
+            "Akzeptanz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Aufruf zum Kreuzzug – Krieg im Namen Gottes?",
+          "level": 1,
+          "keyterms": [
+            "Kreuzzüge",
+            "Papst",
+            "Heiliges Land",
+            "Krieg",
+            "Religiöse Motivation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zusammenleben im 'Heiligen Land'",
+          "level": 1,
+          "keyterms": [
+            "Heiliges Land",
+            "Kulturelle Begegnung",
+            "Zusammenleben",
+            "Konflikte",
+            "Toleranz"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aufbruch in eine neue Zeit",
+      "level": 0,
+      "keyterms": [
+        "Renaissance",
+        "Humanismus",
+        "Reformation",
+        "Entdeckungen",
+        "Kolumbus",
+        "Weltbild",
+        "Glaube",
+        "Buchdruck",
+        "Handel",
+        "Kaufleute",
+        "Indienfahrt",
+        "Neue Welt",
+        "Globalisierung",
+        "Kulturwandel",
+        "Wissenschaft"
+      ],
+      "children": [
+        {
+          "name": "Renaissance und Humanismus – ein neues Zeitalter?",
+          "level": 1,
+          "keyterms": [
+            "Renaissance",
+            "Humanismus",
+            "Kunst",
+            "Bildung",
+            "Weltbild"
+          ],
+          "children": []
+        },
+        {
+          "name": "Erfahrung und Tradition: Vernunft oder Glaube?",
+          "level": 1,
+          "keyterms": [
+            "Vernunft",
+            "Glaube",
+            "Tradition",
+            "Wissenschaft",
+            "Philosophie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Buchdruck – Beginn eines neuen Zeitalters?",
+          "level": 1,
+          "keyterms": [
+            "Buchdruck",
+            "Gutenberg",
+            "Medienrevolution",
+            "Verbreitung von Wissen",
+            "Kommunikation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Banken, Handel, Kaufleute – prägend bis heute?",
+          "level": 1,
+          "keyterms": [
+            "Bankwesen",
+            "Handel",
+            "Kaufleute",
+            "Wirtschaft",
+            "Finanzwesen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Kolumbus nach Indien",
+          "level": 1,
+          "keyterms": [
+            "Kolumbus",
+            "Entdeckungsfahrten",
+            "Seeweg nach Indien",
+            "Schifffahrt",
+            "Navigation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Für Gold, Gott und Gewürze – die Eroberung der 'Neuen Welt'",
+          "level": 1,
+          "keyterms": [
+            "Eroberung",
+            "Kolonialismus",
+            "Gold",
+            "Missionierung",
+            "Gewürzhandel"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Reformation und Glaubenskonflikte in Europa",
+      "level": 0,
+      "keyterms": [
+        "Reformation",
+        "Martin Luther",
+        "Kirchenkritik",
+        "Bauernkrieg",
+        "Glaubensspaltung",
+        "Protestantismus",
+        "Katholizismus",
+        "30-jähriger Krieg",
+        "Religionsfrieden",
+        "Konfessionen",
+        "Glaubensfreiheit",
+        "Kirche",
+        "Glaubenskonflikt",
+        "Europa",
+        "Frühneuzeit"
+      ],
+      "children": [
+        {
+          "name": "Ein Mönch kritisiert die Kirche – und trifft den Nerv der Zeit",
+          "level": 1,
+          "keyterms": [
+            "Martin Luther",
+            "Thesenanschlag",
+            "Kirchenkritik",
+            "Ablasshandel",
+            "Reformbewegung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Bauernkrieg – ein berechtigter Aufstand?",
+          "level": 1,
+          "keyterms": [
+            "Bauernkrieg",
+            "Soziale Ungleichheit",
+            "Aufstand",
+            "Forderungen",
+            "Konflikt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Was ändert sich durch die Reformation?",
+          "level": 1,
+          "keyterms": [
+            "Reformation",
+            "Kirchenspaltung",
+            "Protestantismus",
+            "Katholizismus",
+            "Gesellschaftlicher Wandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Last exit Strozzi: Spaltung bleibt bestehen?",
+          "level": 1,
+          "keyterms": [
+            "Konfessionen",
+            "Spaltung",
+            "Religiöse Konflikte",
+            "Toleranz",
+            "Friedensverträge"
+          ],
+          "children": []
+        },
+        {
+          "name": "30 Jahre Krieg – aus Glaubensgründen oder Machtkalkül?",
+          "level": 1,
+          "keyterms": [
+            "Dreißigjähriger Krieg",
+            "Glaubenskrieg",
+            "Machtpolitik",
+            "Europa",
+            "Friedensschluss"
+          ],
+          "children": []
+        },
+        {
+          "name": "Heerwerbungen im 16. und 17. Jahrhundert",
+          "level": 1,
+          "keyterms": [
+            "Heerwerbung",
+            "Söldner",
+            "Militär",
+            "Kriegführung",
+            "Frühneuzeit"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Die Französische Revolution",
+      "level": 0,
+      "keyterms": [
+        "Französische Revolution",
+        "Absolutismus",
+        "Ludwig XVI.",
+        "Aufklärung",
+        "Menschenrechte",
+        "Freiheit",
+        "Gleichheit",
+        "Brüderlichkeit",
+        "Bastille",
+        "Nationalversammlung",
+        "Republik",
+        "Terrorherrschaft",
+        "Napoleon",
+        "Europa",
+        "Revolution"
+      ],
+      "children": [
+        {
+          "name": "Macht und Pracht im Absolutismus – das Vorbild Ludwig XIV.",
+          "level": 1,
+          "keyterms": [
+            "Absolutismus",
+            "Ludwig XIV.",
+            "Hofstaat",
+            "Machtstrukturen",
+            "Frankreich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Frankreich in der Krise",
+          "level": 1,
+          "keyterms": [
+            "Wirtschaftskrise",
+            "Staatsverschuldung",
+            "Soziale Ungleichheit",
+            "Steuern",
+            "Unzufriedenheit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Freiheit, Gleichheit, Brüderlichkeit – die Menschenrechte",
+          "level": 1,
+          "keyterms": [
+            "Menschenrechte",
+            "Freiheit",
+            "Gleichheit",
+            "Brüderlichkeit",
+            "Erklärung der Menschenrechte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Spaltung der Gesellschaft",
+          "level": 1,
+          "keyterms": [
+            "Ständeordnung",
+            "Gesellschaft",
+            "Adel",
+            "Bürgertum",
+            "Bauern"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der König wird gestürzt – die Republik entsteht",
+          "level": 1,
+          "keyterms": [
+            "König",
+            "Sturz",
+            "Republik",
+            "Revolution",
+            "Nationalversammlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Napoleon beendet die Revolution und strebt die Monarchie an",
+          "level": 1,
+          "keyterms": [
+            "Napoleon",
+            "Konsulat",
+            "Kaiserkrönung",
+            "Ende der Revolution",
+            "Frankreich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wiener Kongress – dauerhafte Neuordnung Europas?",
+          "level": 1,
+          "keyterms": [
+            "Wiener Kongress",
+            "Neuordnung",
+            "Europa",
+            "Restauration",
+            "Heilige Allianz"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf dem Weg zum deutschen Nationalstaat",
+      "level": 0,
+      "keyterms": [
+        "Nationalstaat",
+        "Deutsche Einheit",
+        "Freiheit",
+        "Revolution 1848",
+        "Parlament",
+        "Reichsgründung",
+        "Militarismus",
+        "Judentum",
+        "Minderheiten",
+        "Kaiserreich",
+        "Verfassung",
+        "Bundesstaat",
+        "Demokratie",
+        "Bismarck",
+        "Industrialisierung"
+      ],
+      "children": [
+        {
+          "name": "Länger fordern Einheit und Freiheit",
+          "level": 1,
+          "keyterms": [
+            "Einheitsbewegung",
+            "Freiheitsbewegung",
+            "Nationalismus",
+            "Bürger",
+            "Forderungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Revolution in Deutschland: Kommt es zum Umsturz?",
+          "level": 1,
+          "keyterms": [
+            "Revolution 1848",
+            "Barrikadenkämpfe",
+            "Frankfurter Nationalversammlung",
+            "Umsturz",
+            "Demokratiebewegung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das erste deutsche Parlament",
+          "level": 1,
+          "keyterms": [
+            "Frankfurter Nationalversammlung",
+            "Parlament",
+            "Verfassung",
+            "Demokratie",
+            "Abgeordnete"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Ende der Revolution",
+          "level": 1,
+          "keyterms": [
+            "Scheitern",
+            "Repression",
+            "Restauration",
+            "Revolution",
+            "Folgen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Reichsgründung von oben – endlich Einheit und Freiheit?",
+          "level": 1,
+          "keyterms": [
+            "Reichsgründung",
+            "Deutsches Kaiserreich",
+            "Bismarck",
+            "Einheit",
+            "Freiheit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie wurde das Deutsche Kaiserreich regiert?",
+          "level": 1,
+          "keyterms": [
+            "Kaiser",
+            "Reichstag",
+            "Bundesrat",
+            "Verfassung",
+            "Regierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nationalismus und Militarismus",
+          "level": 1,
+          "keyterms": [
+            "Nationalismus",
+            "Militarismus",
+            "Kaiserreich",
+            "Gesellschaft",
+            "Politik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Jüdisches Leben in Bewegung",
+          "level": 1,
+          "keyterms": [
+            "Judentum",
+            "Emanzipation",
+            "Integration",
+            "Diskriminierung",
+            "Gesellschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Umgang mit Andersdenkenden und Minderheiten",
+          "level": 1,
+          "keyterms": [
+            "Minderheiten",
+            "Toleranz",
+            "Diskriminierung",
+            "Gesellschaft",
+            "Rechte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Beginn im Kaiserreich: Moderne neue Zeit?",
+          "level": 1,
+          "keyterms": [
+            "Industrialisierung",
+            "Kaiserreich",
+            "Wirtschaft",
+            "Gesellschaftlicher Wandel",
+            "Technik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Industrialisierung und soziale Frage",
+      "level": 0,
+      "keyterms": [
+        "Industrialisierung",
+        "Soziale Frage",
+        "England",
+        "Deutschland",
+        "Fabriken",
+        "Arbeiter",
+        "Krupp",
+        "Statistik",
+        "Fotografie",
+        "Alltag",
+        "Kinderarbeit",
+        "Wohnverhältnisse",
+        "Sozialgesetzgebung",
+        "Kulturwandel",
+        "Technischer Fortschritt"
+      ],
+      "children": [
+        {
+          "name": "Warum beginnt die Industrialisierung in England?",
+          "level": 1,
+          "keyterms": [
+            "England",
+            "Industrialisierung",
+            "Rohstoffe",
+            "Erfindungen",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verspäteter Aufbruch in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Deutschland",
+            "Industrialisierung",
+            "Nachzügler",
+            "Wirtschaft",
+            "Technik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Krupp – der Weg zum Industrieimperium",
+          "level": 1,
+          "keyterms": [
+            "Krupp",
+            "Industrie",
+            "Familienunternehmen",
+            "Stahlproduktion",
+            "Wirtschaftsmacht"
+          ],
+          "children": []
+        },
+        {
+          "name": "Leben und Arbeiten im Alltag der Industrialisierung",
+          "level": 1,
+          "keyterms": [
+            "Arbeiter",
+            "Arbeitsbedingungen",
+            "Wohnverhältnisse",
+            "Kinderarbeit",
+            "Alltag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die soziale Frage: Wie verändert die Industrialisierung die Gesellschaft?",
+          "level": 1,
+          "keyterms": [
+            "Soziale Frage",
+            "Armut",
+            "Sozialgesetzgebung",
+            "Gewerkschaften",
+            "Gesellschaftlicher Wandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Fabrik als Weltkulturerbe",
+          "level": 1,
+          "keyterms": [
+            "Fabrik",
+            "Weltkulturerbe",
+            "Industriekultur",
+            "Denkmal",
+            "Geschichte"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

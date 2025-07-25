@@ -1,0 +1,796 @@
+{
+  "country": "DE",
+  "grade": "8",
+  "subject": "German Language",
+  "ISBN": "978-3-12-316304-3",
+  "taxonomy": [
+    {
+      "name": "Science-Fiction: Auf in neue Welten – Sich und andere informieren",
+      "level": 0,
+      "keyterms": [
+        "Science-Fiction",
+        "Sachtext",
+        "Funktionen",
+        "Präsentation",
+        "Medien",
+        "Zukunft",
+        "Raum und Zeit",
+        "schriftliche Wiedergabe",
+        "Referat",
+        "Informationsentnahme",
+        "Textsorten",
+        "Textanalyse",
+        "Präsentationsgestaltung",
+        "Medienunterstützung",
+        "Themenerschließung"
+      ],
+      "children": [
+        {
+          "name": "Ein Blick in die Zukunft – Funktionen von Sachtexten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Funktion",
+            "Informationsentnahme",
+            "Textanalyse",
+            "Zukunftsvision",
+            "Textverständnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Reise durch Raum und Zeit – Einen Sachtext untersuchen und schriftlich wiedergeben",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Raum",
+            "Zeit",
+            "schriftliche Wiedergabe",
+            "Zusammenfassung",
+            "Textstruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zurück in die Zukunft? – Ein Referat vorbereiten und mediengestützt präsentieren",
+          "level": 1,
+          "keyterms": [
+            "Referat",
+            "Vorbereitung",
+            "Präsentation",
+            "Medien",
+            "Präsentationsgestaltung",
+            "Themenerschließung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mode um jeden Preis? – Sprachlicher Umgang mit anderen",
+      "level": 0,
+      "keyterms": [
+        "Mode",
+        "Debatte",
+        "Kleiderkauf",
+        "Protokoll",
+        "sprachlicher Umgang",
+        "Argumentation",
+        "Meinung",
+        "Diskussion",
+        "Kommunikation",
+        "Protokoll verfassen",
+        "Gesprächsregeln",
+        "Standpunkte",
+        "Alltagskommunikation"
+      ],
+      "children": [
+        {
+          "name": "Augen auf beim Kleiderkauf! – Debatten führen",
+          "level": 1,
+          "keyterms": [
+            "Debatte",
+            "Kleiderkauf",
+            "Argumente",
+            "Meinung",
+            "Diskussion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Protokollieren ist ... – Ein Protokoll verfassen",
+          "level": 1,
+          "keyterms": [
+            "Protokoll",
+            "Verfassen",
+            "Gesprächsverlauf",
+            "Dokumentation",
+            "Struktur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alles unter Kontrolle?! – Schriftlich argumentieren",
+      "level": 0,
+      "keyterms": [
+        "Argumentation",
+        "schriftlich",
+        "Meinung",
+        "Begründung",
+        "Überzeugung",
+        "Leserbriefe",
+        "Onlinepetition",
+        "Textsorten",
+        "Argumentationsstruktur",
+        "Gegenargument",
+        "Schlussfolgerung",
+        "Überzeugungskraft",
+        "Medienkritik"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s – Argumente sammeln und auswählen",
+          "level": 1,
+          "keyterms": [
+            "Argumente",
+            "Sammeln",
+            "Auswahl",
+            "Begründung",
+            "Meinung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Komplett kontrolliert – gut geschützt?! – Eine schriftliche Argumentation verfassen",
+          "level": 1,
+          "keyterms": [
+            "schriftliche Argumentation",
+            "Textaufbau",
+            "Begründung",
+            "Gegenargument",
+            "Schluss"
+          ],
+          "children": []
+        },
+        {
+          "name": "Videobewertung in der Schule? – Verschiedene Textsorten nutzen, um Adressaten zu überzeugen",
+          "level": 1,
+          "keyterms": [
+            "Leserbrief",
+            "Onlinepetition",
+            "Adressaten",
+            "Überzeugung",
+            "Textsorten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf ins neue Leben – Auf Materialbasis einen informierenden Text schreiben",
+      "level": 0,
+      "keyterms": [
+        "informierender Text",
+        "Materialauswertung",
+        "Textplanung",
+        "Überarbeitung",
+        "Informationsentnahme",
+        "Quellen",
+        "Struktur",
+        "Schreibprozess",
+        "Materialgestütztes Schreiben",
+        "Textüberarbeitung",
+        "Informationsauswahl",
+        "Textproduktion"
+      ],
+      "children": [
+        {
+          "name": "Neue Sprache, neues Leben – Auf Materialbasis einen informierenden Text planen",
+          "level": 1,
+          "keyterms": [
+            "Textplanung",
+            "Materialauswertung",
+            "Informationsentnahme",
+            "Quellen",
+            "Struktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gekommen, um zu schreiben – Auf Materialbasis einen informierenden Text schreiben und überarbeiten",
+          "level": 1,
+          "keyterms": [
+            "Text schreiben",
+            "Überarbeitung",
+            "Informationsauswahl",
+            "Schreibprozess",
+            "Materialgestütztes Schreiben"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Unerwartete Begebenheiten – Erzählende Texte untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "erzählender Text",
+        "Interpretation",
+        "Inhaltsangabe",
+        "Glücksmomente",
+        "Figurenperspektive",
+        "Parallelerzählung",
+        "Novelle",
+        "Handlungsverlauf",
+        "Textgestaltung",
+        "Erzählstruktur",
+        "Erzählperspektive",
+        "Kurzgeschichte"
+      ],
+      "children": [
+        {
+          "name": "Standhalten – Eine erweiterte Inhaltsangabe zu einem literarischen Text schreiben",
+          "level": 1,
+          "keyterms": [
+            "Inhaltsangabe",
+            "literarischer Text",
+            "Zusammenfassung",
+            "Textverständnis",
+            "Struktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Glücksmomente – Erzählende Texte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Glücksmoment",
+            "Erzähltext",
+            "Handlungsverlauf",
+            "Textanalyse",
+            "Erzählstruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auf der Suche – Erzählende Texte interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Erzähltext",
+            "Deutung",
+            "Textverständnis",
+            "Analyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Randerscheinungen? – Mit erzählenden Texten produktiv umgehen",
+          "level": 1,
+          "keyterms": [
+            "Parallelerzählung",
+            "Figurenperspektive",
+            "Produktives Schreiben",
+            "Erzählperspektive",
+            "Handlungsverlauf"
+          ],
+          "children": []
+        },
+        {
+          "name": "Unsichtbar – Eine Novelle untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Novelle",
+            "Untersuchung",
+            "Textanalyse",
+            "Handlung",
+            "Figuren"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Unzertrennlich – Jugendliteratur und Filme untersuchen und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Jugendliteratur",
+        "Film",
+        "Handlung",
+        "Figuren",
+        "Szenenanalyse",
+        "Mise en Scène",
+        "Textgestaltung",
+        "Filmanalyse",
+        "Jugendbuch",
+        "Szeneninterpretation",
+        "Produktionsorientierung"
+      ],
+      "children": [
+        {
+          "name": "Einfach, Tschick!? – Jugendbuchausschnitte untersuchen und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Jugendbuch",
+            "Handlung",
+            "Figuren",
+            "Textanalyse",
+            "Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein ideales Paar – Die Mise en Scène untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Mise en Scène",
+            "Szenenanalyse",
+            "Film",
+            "Gestaltung",
+            "Interpretation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gemeinsam statt einsam – Gedichte untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Gedicht",
+        "Interpretation",
+        "Bildersprache",
+        "Gefühle",
+        "historische Aspekte",
+        "Inhalt",
+        "Form",
+        "Sprache",
+        "Stilmittel",
+        "Lyrik",
+        "Gedichtanalyse",
+        "Vergleich",
+        "Deutung"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s – Das lyrische Ich und Sprache Bilder untersuchen",
+          "level": 1,
+          "keyterms": [
+            "lyrisches Ich",
+            "Bildersprache",
+            "Sprache",
+            "Gedicht",
+            "Stilmittel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Du und ich – Mit Gedichten produktiv umgehen",
+          "level": 1,
+          "keyterms": [
+            "Gedicht",
+            "Produktives Schreiben",
+            "Inhalt",
+            "Form",
+            "Sprache"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gefühlsherzen – Gedichte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Gefühle",
+            "Gedichtanalyse",
+            "historische Aspekte",
+            "Vergleich",
+            "Deutung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Seite an Seite – Gedichte interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Gedicht",
+            "Deutung",
+            "Vergleich",
+            "Stilmittel"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Fremde, Feinde, Freunde? – Ein Theaterstück untersuchen und Szenen spielen",
+      "level": 0,
+      "keyterms": [
+        "Theaterstück",
+        "Szenenanalyse",
+        "Exposition",
+        "Figurenbeziehung",
+        "Dramatik",
+        "Handlungsverlauf",
+        "Szenengestaltung",
+        "Rollenverständnis",
+        "Dramatische Gestaltung",
+        "Textinterpretation"
+      ],
+      "children": [
+        {
+          "name": "Überall eine Begegnung – Die Funktion der Exposition untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Exposition",
+            "Funktion",
+            "Theaterstück",
+            "Handlungsbeginn",
+            "Szenenanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Freundschaft ist Freundschaft – Die Entwicklung von Figurenbeziehungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Figurenbeziehung",
+            "Entwicklung",
+            "Theaterstück",
+            "Handlungsverlauf",
+            "Szenengestaltung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Was die Welt bewegt – Zeitungen untersuchen und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Zeitung",
+        "Printmedien",
+        "Onlineausgaben",
+        "Textsorten",
+        "Reportage",
+        "Meinungsbildung",
+        "Medienkritik",
+        "Informationsentnahme",
+        "Darstellung",
+        "Medientexte",
+        "Textanalyse"
+      ],
+      "children": [
+        {
+          "name": "Die Welt auf einen B/Klick – Den Aufbau von Print- und Onlineausgaben untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Printmedien",
+            "Onlineausgaben",
+            "Aufbau",
+            "Vergleich",
+            "Medienanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Neue Welten? – Textsorten in Zeitungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Textsorten",
+            "Zeitung",
+            "Informationsentnahme",
+            "Meinungsbildung",
+            "Textanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen den Welten – Eine Reportage schreiben",
+          "level": 1,
+          "keyterms": [
+            "Reportage",
+            "Schreiben",
+            "Informationsauswahl",
+            "Struktur",
+            "Textproduktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Welt – viele Darstellungen – Mit Zeitungstexten kritisch umgehen",
+          "level": 1,
+          "keyterms": [
+            "Zeitungstexte",
+            "Kritik",
+            "Medienkritik",
+            "Darstellung",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "In vielen Sprachen zu Hause – Sprache betrachten",
+      "level": 0,
+      "keyterms": [
+        "Mehrsprachigkeit",
+        "Dialekte",
+        "Jugendsprache",
+        "Fachsprache",
+        "Bildungssprache",
+        "Sprachvergleich",
+        "Sprachgebrauch",
+        "Sprachuntersuchung",
+        "Sprachvielfalt",
+        "Sprachidentität"
+      ],
+      "children": [
+        {
+          "name": "Mensch ist mehrsprachig – Äußere und innere Mehrsprachigkeit unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Mehrsprachigkeit",
+            "äußere Mehrsprachigkeit",
+            "innere Mehrsprachigkeit",
+            "Sprachgebrauch",
+            "Sprachidentität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wat hättste da jesagt? – Dialekte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Dialekte",
+            "Sprachvergleich",
+            "Regionalsprache",
+            "Sprachgebrauch",
+            "Unterschiede"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nur wir verstehen uns!? – Jugendsprache untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Jugendsprache",
+            "Sprachgebrauch",
+            "Sprachwandel",
+            "Gruppensprache",
+            "Untersuchung"
+          ],
+          "children": []
+        },
+        {
+          "name": "… und das heißt!? – Fach- und Bildungssprache untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Fachsprache",
+            "Bildungssprache",
+            "Sprachvergleich",
+            "Unterschiede",
+            "Sprachgebrauch"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wasserwelten – Wortarten unterscheiden, Modus verwenden",
+      "level": 0,
+      "keyterms": [
+        "Wortarten",
+        "Tempus",
+        "Passiv",
+        "Konjunktiv",
+        "Modus",
+        "Infinitiv",
+        "Präpositionen",
+        "Konnektoren",
+        "Satzbau",
+        "Grammatik",
+        "Satzstruktur"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s – Tempus und Passivformen bilden und verwenden",
+          "level": 1,
+          "keyterms": [
+            "Tempus",
+            "Passiv",
+            "Bildung",
+            "Verwendung",
+            "Zeitformen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Unter Wasser nach Amerika – Möglichkeiten und Wünsche mit dem Konjunktiv I und II unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Konjunktiv I",
+            "Konjunktiv II",
+            "Möglichkeiten",
+            "Wünsche",
+            "Modus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Für Schiffreisende gewappnet – Äußerungen anderer mit dem Konjunktiv I wiedergeben",
+          "level": 1,
+          "keyterms": [
+            "Konjunktiv I",
+            "indirekte Rede",
+            "Wiedergabe",
+            "Äußerungen",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rettet die Meere! – Bitten und Aufforderungen mit dem Imperativ ausdrücken",
+          "level": 1,
+          "keyterms": [
+            "Imperativ",
+            "Bitten",
+            "Aufforderungen",
+            "Satzstruktur",
+            "Handlungsanweisung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eintauchen in die Unterwasserwelt – Sätze mit Präpositionen und Konnektoren verwenden",
+          "level": 1,
+          "keyterms": [
+            "Präpositionen",
+            "Konnektoren",
+            "Satzbau",
+            "Verbindung",
+            "Grammatik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Außergewöhnliche Persönlichkeiten – Satzglieder verwenden und Satzzeichen setzen",
+      "level": 0,
+      "keyterms": [
+        "Satzglieder",
+        "Satzzeichen",
+        "Kommasetzung",
+        "Adverbialsbestimmungen",
+        "Attribute",
+        "Klammern",
+        "Gedankenstrich",
+        "Semikolon",
+        "Doppelpunkt",
+        "Satzbau",
+        "Grammatik"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s – Satzstrukturen erkennen",
+          "level": 1,
+          "keyterms": [
+            "Satzstruktur",
+            "Satzglieder",
+            "Erkennung",
+            "Grammatik",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einfach Komma! – Mit Kommas Satzstrukturen gliedern",
+          "level": 1,
+          "keyterms": [
+            "Kommasetzung",
+            "Satzstruktur",
+            "Gliederung",
+            "Grammatik",
+            "Satzzeichen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Denken ohne Grenzen – Adverbialsbestimmungen und Attribute verwenden",
+          "level": 1,
+          "keyterms": [
+            "Adverbialsbestimmung",
+            "Attribute",
+            "Verwendung",
+            "Satzbau",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Format – Klammern, Gedankenstrich, Semikolon und Doppelpunkt verwenden",
+          "level": 1,
+          "keyterms": [
+            "Klammern",
+            "Gedankenstrich",
+            "Semikolon",
+            "Doppelpunkt",
+            "Satzzeichen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Last-Minute-Tipps – Regeln und Strategien der Rechtschreibung anwenden",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Fehlerquellen",
+        "Fremdwörter",
+        "Eigennamen",
+        "Ableitungen",
+        "Abkürzungen",
+        "Kurzformen",
+        "Schreibstrategien",
+        "Fehlererkennung",
+        "Regeln",
+        "Schreibweise"
+      ],
+      "children": [
+        {
+          "name": "Lassen Sie Ihr Gebäck nicht unbeaufsichtigt! – Eigene Fehlerschwerpunkte erkennen und beheben",
+          "level": 1,
+          "keyterms": [
+            "Fehlerschwerpunkte",
+            "Fehlererkennung",
+            "Fehlerbehebung",
+            "Rechtschreibregeln",
+            "Schreibstrategien"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tourismusmanagement – Fremdwörter verwenden und schreiben",
+          "level": 1,
+          "keyterms": [
+            "Fremdwörter",
+            "Verwendung",
+            "Schreibweise",
+            "Rechtschreibung",
+            "Wortschatz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abgefahren! – Eigennamen und Ableitungen von Eigennamen schreiben",
+          "level": 1,
+          "keyterms": [
+            "Eigennamen",
+            "Ableitungen",
+            "Schreibweise",
+            "Rechtschreibung",
+            "Namen"
+          ],
+          "children": []
+        },
+        {
+          "name": "C u l8er! – Abkürzungen und Kurzwörter verwenden und schreiben",
+          "level": 1,
+          "keyterms": [
+            "Abkürzungen",
+            "Kurzwörter",
+            "Verwendung",
+            "Schreibweise",
+            "Rechtschreibung"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

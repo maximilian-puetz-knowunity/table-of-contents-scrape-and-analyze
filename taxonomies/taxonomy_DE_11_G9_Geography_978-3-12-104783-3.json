@@ -1,0 +1,281 @@
+{
+  "country": "DE",
+  "grade": "11_G9",
+  "subject": "Geography",
+  "ISBN": "978-3-12-104783-3",
+  "taxonomy": [
+    {
+      "name": "Landschaftszonen als Lebensräume und ihre Gefährdungen",
+      "level": 0,
+      "keyterms": [
+        "Landschaftszonen",
+        "Lebensräume",
+        "Gefährdungen",
+        "Klimadiagramme",
+        "Tropen",
+        "Regenwald",
+        "Savanne",
+        "Wüsten",
+        "Vegetation",
+        "Landnutzung",
+        "Boden",
+        "Ökosysteme",
+        "Klimawandel",
+        "Desertifikation",
+        "Landwirtschaft"
+      ],
+      "children": [
+        {
+          "name": "Landschaft und Landschaftszonen",
+          "level": 1,
+          "keyterms": [
+            "Landschaft",
+            "Landschaftszonen",
+            "Klimadiagramm",
+            "Vegetation",
+            "Klima",
+            "Boden",
+            "Ökologie"
+          ],
+          "children": [
+            {
+              "name": "Klimadiagramme auswerten",
+              "level": 2,
+              "keyterms": [
+                "Klimadiagramm",
+                "Temperatur",
+                "Niederschlag",
+                "Klimadaten",
+                "Jahresverlauf"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Tropische Regenwälder",
+          "level": 1,
+          "keyterms": [
+            "Tropen",
+            "Regenwald",
+            "Stockwerkbau",
+            "Nährstoffkreislauf",
+            "Biodiversität",
+            "Ökosystem",
+            "Klimawandel",
+            "Abholzung"
+          ],
+          "children": [
+            {
+              "name": "Stockwerkbau und Nährstoffkreislauf im tropischen Regenwald",
+              "level": 2,
+              "keyterms": [
+                "Stockwerkbau",
+                "Baumschicht",
+                "Strauchschicht",
+                "Krautschicht",
+                "Nährstoffkreislauf",
+                "Boden",
+                "Zersetzung"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Savannen: die wechselfeuchten Tropen",
+          "level": 1,
+          "keyterms": [
+            "Savanne",
+            "Wechselfeuchte Tropen",
+            "Trockenzeit",
+            "Regenzeit",
+            "Vegetation",
+            "Landwirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wüsten: die immer trockenen Tropen",
+          "level": 1,
+          "keyterms": [
+            "Wüste",
+            "Trockene Tropen",
+            "Niederschlag",
+            "Vegetation",
+            "Anpassung",
+            "Dünen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zone vom borealen Nadelwald bis zur Eiswüste",
+          "level": 1,
+          "keyterms": [
+            "Borealer Nadelwald",
+            "Taiga",
+            "Tundra",
+            "Eiswüste",
+            "Kälte",
+            "Vegetation",
+            "Permafrost"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lebenserwartung und Umgestaltung",
+          "level": 1,
+          "keyterms": [
+            "Lebenserwartung",
+            "Umgestaltung",
+            "Landnutzung",
+            "Ökosysteme",
+            "Mensch-Umwelt-Beziehung"
+          ],
+          "children": [
+            {
+              "name": "Regenwald gerodet und wir – Beispiel Ölpalmenanbau in Indonesien und Malaysia",
+              "level": 2,
+              "keyterms": [
+                "Regenwaldrodung",
+                "Ölpalme",
+                "Indonesien",
+                "Malaysia",
+                "Landwirtschaft",
+                "Monokultur",
+                "Biodiversität"
+              ],
+              "children": []
+            },
+            {
+              "name": "Desertifikation in der Sahelzone",
+              "level": 2,
+              "keyterms": [
+                "Desertifikation",
+                "Sahelzone",
+                "Klimawandel",
+                "Überweidung",
+                "Bodenerosion",
+                "Dürre"
+              ],
+              "children": []
+            },
+            {
+              "name": "Wüstenwachstum an anderen Räumen – Beispiel Las Vegas",
+              "level": 2,
+              "keyterms": [
+                "Wüstenwachstum",
+                "Las Vegas",
+                "Stadtentwicklung",
+                "Wasserknappheit",
+                "Urbanisierung"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Grönland im Spannungsfeld zwischen ökologischen, wirtschaftlichen Möglichkeiten und politischen Interessen",
+          "level": 1,
+          "keyterms": [
+            "Grönland",
+            "Ökologie",
+            "Wirtschaft",
+            "Politik",
+            "Rohstoffe",
+            "Klimawandel",
+            "Eis"
+          ],
+          "children": [
+            {
+              "name": "Thematische Karten erstellen und auswerten",
+              "level": 2,
+              "keyterms": [
+                "Thematische Karte",
+                "Kartographie",
+                "Datenvisualisierung",
+                "Analyse",
+                "Geoinformation"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Lebenserwartung an der Grenze der Belastbarkeit",
+          "level": 1,
+          "keyterms": [
+            "Belastbarkeit",
+            "Lebensbedingungen",
+            "Grenzen",
+            "Anpassung",
+            "Überleben"
+          ],
+          "children": [
+            {
+              "name": "Erde – ein endlicher Planet",
+              "level": 2,
+              "keyterms": [
+                "Endlichkeit",
+                "Ressourcen",
+                "Bevölkerung",
+                "Umwelt",
+                "Nachhaltigkeit"
+              ],
+              "children": []
+            },
+            {
+              "name": "Atmosphäre – die Erde unter Einfluss des Menschen",
+              "level": 2,
+              "keyterms": [
+                "Atmosphäre",
+                "Klimawandel",
+                "Treibhausgase",
+                "Luftverschmutzung",
+                "Anthropogener Einfluss"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Globales Handeln notwendig und möglich",
+          "level": 1,
+          "keyterms": [
+            "Globalisierung",
+            "Handeln",
+            "Nachhaltigkeit",
+            "Klimaschutz",
+            "Internationale Zusammenarbeit"
+          ],
+          "children": [
+            {
+              "name": "Wissen: Weltklimarat und Weltklimakonferenzen",
+              "level": 2,
+              "keyterms": [
+                "Weltklimarat",
+                "IPCC",
+                "Klimakonferenz",
+                "UNFCCC",
+                "Klimapolitik"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wissen: Karten lesen, Bau und Lokalisieren",
+          "level": 1,
+          "keyterms": [
+            "Kartenlesen",
+            "Kartographie",
+            "Orientierung",
+            "Maßstab",
+            "Geographie"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

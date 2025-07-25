@@ -1,0 +1,1180 @@
+{
+  "country": "DE",
+  "grade": "5",
+  "subject": "German Language",
+  "ISBN": "978-3-12-316301-2",
+  "taxonomy": [
+    {
+      "name": "Ich – du – wir: Sich und andere informieren",
+      "level": 0,
+      "keyterms": [
+        "Informationen",
+        "Präsentation",
+        "Interview",
+        "Brief",
+        "Plakat",
+        "Textverständnis",
+        "Wortschatz",
+        "Lesestrategien",
+        "Sprachen",
+        "Sachtext",
+        "Fragen stellen",
+        "Unbekannte Wörter",
+        "Textgliederung",
+        "Textinhalt",
+        "Schulwechsel"
+      ],
+      "children": [
+        {
+          "name": "Unsere neue Schule – Informationen sammeln, ordnen und präsentieren",
+          "level": 1,
+          "keyterms": [
+            "Interview",
+            "Schulvorstellung",
+            "Plakat",
+            "persönlicher Brief",
+            "Informationen sammeln",
+            "Präsentation",
+            "Schulalltag",
+            "Fragen",
+            "Schulwechsel",
+            "Textgliederung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kinder in anderen Ländern – Sachtexte lesen und verstehen",
+          "level": 1,
+          "keyterms": [
+            "Überblick",
+            "Fragen zum Text",
+            "Unbekannte Wörter",
+            "Schlüsselwörter",
+            "Abschnittsüberschriften",
+            "Textinhalt",
+            "Sachtext",
+            "Lesestrategien",
+            "Markieren",
+            "Zusammenfassen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Anders lernen – Gezielte Nachforschungen anstellen",
+          "level": 1,
+          "keyterms": [
+            "Recherche",
+            "Informationsquellen",
+            "Nachforschung",
+            "Themenfindung",
+            "Informationsauswertung",
+            "Präsentation",
+            "Schulprojekte",
+            "Bibliothek",
+            "Internetrecherche",
+            "Quellenbewertung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Meine Welt – viele Sprachen",
+          "level": 1,
+          "keyterms": [
+            "Sprachen",
+            "Mehrsprachigkeit",
+            "Sprachvergleich",
+            "Sprachvielfalt",
+            "Wortschatz",
+            "Sprachgebrauch",
+            "Kommunikation",
+            "Sprachidentität",
+            "Sprachbiografie",
+            "Sprachporträt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Jetzt verstehe ich dich: Sprachbewusster Umgang mit anderen",
+      "level": 0,
+      "keyterms": [
+        "Gesprächsregeln",
+        "Meinung",
+        "Rollenspiel",
+        "Formelle E-Mail",
+        "Begründung",
+        "Auffordern",
+        "Bitten",
+        "Entschuldigung",
+        "Gesprächsführung",
+        "Argumente",
+        "Höflichkeit",
+        "Kommunikation",
+        "Dialog",
+        "Feedback",
+        "Streitkultur"
+      ],
+      "children": [
+        {
+          "name": "Vorsicht, Lage bitte! – Gesprächsregeln anwenden in Gesprächen",
+          "level": 1,
+          "keyterms": [
+            "Gesprächsregeln",
+            "Gesprächsführung",
+            "Höflichkeit",
+            "Zuhören",
+            "Feedback",
+            "Dialog",
+            "Kommunikation",
+            "Gesprächsverhalten",
+            "Respekt",
+            "Meinungsaustausch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Den guten Ton treffen – Auffordern, Bitten, Entschuldigen",
+          "level": 1,
+          "keyterms": [
+            "Aufforderung",
+            "Bitte",
+            "Entschuldigung",
+            "Formulierungen",
+            "Höflichkeit",
+            "Sprachgebrauch",
+            "Kommunikation",
+            "Sozialverhalten",
+            "Umgangsformen",
+            "Konfliktlösung"
+          ],
+          "children": []
+        },
+        {
+          "name": "So sehe ich das! – Sich in Figuren versetzen und Meinungen schriftlich begründen",
+          "level": 1,
+          "keyterms": [
+            "Meinung",
+            "Begründung",
+            "Rollenspiel",
+            "Figurenverständnis",
+            "Argumente",
+            "Formelle E-Mail",
+            "Schriftliche Kommunikation",
+            "Perspektivwechsel",
+            "Empathie",
+            "Standpunkt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Erlebt – erdacht – erzählt: Mündlich und schriftlich erzählen",
+      "level": 0,
+      "keyterms": [
+        "Erzählung",
+        "Erlebnisbericht",
+        "Erzählperspektive",
+        "Fantastische Geschichte",
+        "Bildgeschichte",
+        "Erzählplan",
+        "Spannungsbogen",
+        "Erzählstruktur",
+        "Mündliches Erzählen",
+        "Schriftliches Erzählen",
+        "Erzählabsicht",
+        "Erzählform",
+        "Handlung",
+        "Figuren",
+        "Erzählzeit"
+      ],
+      "children": [
+        {
+          "name": "Wenn Ohren zu Augen werden – Erzähltypus kennenlernen",
+          "level": 1,
+          "keyterms": [
+            "Erzähltypus",
+            "Erzählform",
+            "Erzählperspektive",
+            "Erzählstruktur",
+            "Erzählabsicht",
+            "Erzählzeit",
+            "Erzählhaltung",
+            "Erzählweise",
+            "Erzähltechnik",
+            "Erzählstil"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zauberzungen – Mündlich erzählen",
+          "level": 1,
+          "keyterms": [
+            "Mündliches Erzählen",
+            "Erzählung",
+            "Sprachgestaltung",
+            "Erzählfluss",
+            "Erzählabsicht",
+            "Erzählstruktur",
+            "Erzähltechnik",
+            "Erzählstil",
+            "Erzählperspektive",
+            "Erzählzeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Was ist denn hier passiert? – Eine Erlebniserzählung schriftlich erzählen",
+          "level": 1,
+          "keyterms": [
+            "Erlebniserzählung",
+            "Erzählplan",
+            "Erzählstruktur",
+            "Spannungsbogen",
+            "Handlung",
+            "Figuren",
+            "Erzählzeit",
+            "Erzählperspektive",
+            "Erzählabsicht",
+            "Schriftliches Erzählen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hummelreiter, Felsenfieber & Co. – Eine Fantasiegeschichte schreiben",
+          "level": 1,
+          "keyterms": [
+            "Fantasiegeschichte",
+            "Erzählstruktur",
+            "Handlung",
+            "Figuren",
+            "Spannungsbogen",
+            "Erzählzeit",
+            "Erzählperspektive",
+            "Erzählabsicht",
+            "Schriftliches Erzählen",
+            "Kreativität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Plötzlich verschwunden! – Eine Bildergeschichte schriftlich erzählen",
+          "level": 1,
+          "keyterms": [
+            "Bildergeschichte",
+            "Erzählstruktur",
+            "Handlung",
+            "Figuren",
+            "Spannungsbogen",
+            "Erzählzeit",
+            "Erzählperspektive",
+            "Erzählabsicht",
+            "Schriftliches Erzählen",
+            "Bildinterpretation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Oke, ni, Nasenbär & Co.: Tiere, Gegenstände und Wege beschreiben",
+      "level": 0,
+      "keyterms": [
+        "Tierbeschreibung",
+        "Gegenstandsbeschreibung",
+        "Wegbeschreibung",
+        "Merkmale",
+        "Beobachtung",
+        "Adjektive",
+        "Struktur",
+        "Vergleich",
+        "Beschreibung",
+        "Wortschatz",
+        "Sinneseindrücke",
+        "Präzision",
+        "Sachtext",
+        "Gliederung",
+        "Beschreibungsform"
+      ],
+      "children": [
+        {
+          "name": "Tierisch gut – Tiere genau beobachten und beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Tierbeschreibung",
+            "Merkmale",
+            "Beobachtung",
+            "Adjektive",
+            "Struktur",
+            "Vergleich",
+            "Beschreibung",
+            "Sinneseindrücke",
+            "Präzision",
+            "Sachtext"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zeig mal, was ihr seht! – Gegenstände beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Gegenstandsbeschreibung",
+            "Merkmale",
+            "Beobachtung",
+            "Adjektive",
+            "Struktur",
+            "Vergleich",
+            "Beschreibung",
+            "Sinneseindrücke",
+            "Präzision",
+            "Sachtext"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hier geht’s lang! – Wege beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Wegbeschreibung",
+            "Richtungsangaben",
+            "Ortsangaben",
+            "Struktur",
+            "Beschreibung",
+            "Präzision",
+            "Orientierung",
+            "Wegweiser",
+            "Sachtext",
+            "Gliederung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tausend Worte, tausend Bilder: Jugendbücher und ihre filmische Umsetzung entdecken",
+      "level": 0,
+      "keyterms": [
+        "Jugendbuch",
+        "Buchvorstellung",
+        "Autor",
+        "Figuren",
+        "Handlung",
+        "Spannungsaufbau",
+        "Film",
+        "Regisseur",
+        "Kameraperspektive",
+        "Einstellungsgrößen",
+        "Filmanalyse",
+        "Buchverfilmung",
+        "Vergleich",
+        "Literatur",
+        "Filmtechnik"
+      ],
+      "children": [
+        {
+          "name": "Wer liest, gewinnt – Jugendbücher entdecken",
+          "level": 1,
+          "keyterms": [
+            "Jugendbuch",
+            "Buchvorstellung",
+            "Bücher",
+            "Lesen",
+            "Buchauswahl",
+            "Buchpräsentation",
+            "Literatur",
+            "Lesemotivation",
+            "Buchweitergabe",
+            "Buchbesprechung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kopfkino – Jugendbücher verstehen",
+          "level": 1,
+          "keyterms": [
+            "Autor",
+            "Figuren",
+            "Handlung",
+            "Spannungsaufbau",
+            "Lesestrategien",
+            "Buchanalyse",
+            "Charakterisierung",
+            "Handlungsverlauf",
+            "Buchinterpretation",
+            "Literatur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kamera ab! – Filme untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Film",
+            "Regisseur",
+            "Kameraperspektive",
+            "Einstellungsgrößen",
+            "Filmanalyse",
+            "Buchverfilmung",
+            "Filmtechnik",
+            "Filmsprache",
+            "Szenenanalyse",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Von Wünschen und Zaubern: Märchen und Erzählwelten entdecken",
+      "level": 0,
+      "keyterms": [
+        "Märchen",
+        "Erzählwelt",
+        "Märchenstruktur",
+        "Merkmale",
+        "Moderne Märchen",
+        "Märchenfiguren",
+        "Handlung",
+        "Erzählaufbau",
+        "Erzählabsicht",
+        "Märchenanalyse",
+        "Erzählung",
+        "Vergleich",
+        "Schreiben",
+        "Kreativität",
+        "Märchenmotive"
+      ],
+      "children": [
+        {
+          "name": "Märchen! – Märchen untersuchen und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Märchen",
+            "Märchenstruktur",
+            "Merkmale",
+            "Handlung",
+            "Erzählaufbau",
+            "Märchenfiguren",
+            "Märchenmotive",
+            "Vergleich",
+            "Analyse",
+            "Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klar, fabelhaft! – Den Inhalt märchenhafter Erzählungen erfassen",
+          "level": 1,
+          "keyterms": [
+            "Märcheninhalt",
+            "Erzählung",
+            "Handlung",
+            "Zusammenfassung",
+            "Analyse",
+            "Erzählstruktur",
+            "Märchenmotive",
+            "Schreiben",
+            "Kreativität",
+            "Erzählabsicht"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sommerhitze – Flockenwirbel: Gedichte entdecken",
+      "level": 0,
+      "keyterms": [
+        "Gedicht",
+        "Lyrik",
+        "Stimmung",
+        "Wetter",
+        "Jahreszeiten",
+        "Sprachbilder",
+        "Reim",
+        "Versmaß",
+        "Gedichtanalyse",
+        "Gedichtgestaltung",
+        "Wortwahl",
+        "Klang",
+        "Metapher",
+        "Vergleich",
+        "Interpretation"
+      ],
+      "children": [
+        {
+          "name": "Wind und Wetter – Die Form erkunden",
+          "level": 1,
+          "keyterms": [
+            "Gedichtform",
+            "Versmaß",
+            "Reim",
+            "Strophe",
+            "Lyrik",
+            "Formanalyse",
+            "Gedichtstruktur",
+            "Klang",
+            "Wortwahl",
+            "Gedichtaufbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bunte Zeiten – Den Inhalt und die Stimmung erfassen",
+          "level": 1,
+          "keyterms": [
+            "Stimmung",
+            "Inhalt",
+            "Gedichtinterpretation",
+            "Lyrik",
+            "Gefühle",
+            "Wortwahl",
+            "Klang",
+            "Metapher",
+            "Vergleich",
+            "Gedichtanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wenn Wörter Malen – Sprachbilder in Gedichten entdecken",
+          "level": 1,
+          "keyterms": [
+            "Sprachbilder",
+            "Metapher",
+            "Vergleich",
+            "Symbol",
+            "Lyrik",
+            "Wortwahl",
+            "Bildsprache",
+            "Gedichtinterpretation",
+            "Kreativität",
+            "Gedichtgestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Blitze zucken, Donner krachen – Gedichte vortragen und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Gedichtvortrag",
+            "Gestaltung",
+            "Lyrik",
+            "Klang",
+            "Stimme",
+            "Betonung",
+            "Rhythmus",
+            "Gedichtinterpretation",
+            "Präsentation",
+            "Gedichtgestaltung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Freche Typen: Szenisch spielen",
+      "level": 0,
+      "keyterms": [
+        "Szenisches Spiel",
+        "Dialog",
+        "Rollen",
+        "Pantomime",
+        "Theater",
+        "Figuren",
+        "Szenenanalyse",
+        "Improvisation",
+        "Bühne",
+        "Körpersprache",
+        "Mimik",
+        "Gestik",
+        "Skript",
+        "Aufführung",
+        "Rollenspiel"
+      ],
+      "children": [
+        {
+          "name": "Till Eulenspiegel – Eine pantomimische Szene spielen",
+          "level": 1,
+          "keyterms": [
+            "Pantomime",
+            "Szenisches Spiel",
+            "Körpersprache",
+            "Mimik",
+            "Gestik",
+            "Theater",
+            "Figuren",
+            "Improvisation",
+            "Bühne",
+            "Aufführung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Pippi Langstrumpf in der Schule – Einen Sketch spielen",
+          "level": 1,
+          "keyterms": [
+            "Sketch",
+            "Szenisches Spiel",
+            "Dialog",
+            "Rollen",
+            "Theater",
+            "Figuren",
+            "Improvisation",
+            "Bühne",
+            "Skript",
+            "Aufführung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Heldenbilder: Mediennutzung und Figuren­darstellung in verschiedenen Medien erkunden",
+      "level": 0,
+      "keyterms": [
+        "Medien",
+        "Mediennutzung",
+        "Figurendarstellung",
+        "Medienkompetenz",
+        "Virtuelle Welten",
+        "Medienvergleich",
+        "Medienkritik",
+        "Mediengestaltung",
+        "Medienanalyse",
+        "Medienwirkung",
+        "Medienreflexion",
+        "Medieninhalte",
+        "Medienfiguren",
+        "Medienethik",
+        "Medienpräsentation"
+      ],
+      "children": [
+        {
+          "name": "Was guckst du? – Den eigenen Umgang mit Medien untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Mediennutzung",
+            "Medienverhalten",
+            "Medienkompetenz",
+            "Medienkritik",
+            "Medienreflexion",
+            "Medienanalyse",
+            "Medienwirkung",
+            "Medienethik",
+            "Medieninhalte",
+            "Medienpräsentation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Alles Superman! – Die Darstellung einer Figur in verschiedenen Medien untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Figurendarstellung",
+            "Medienvergleich",
+            "Medienanalyse",
+            "Mediengestaltung",
+            "Medieninhalte",
+            "Medienfiguren",
+            "Virtuelle Welten",
+            "Medienkritik",
+            "Medienwirkung",
+            "Medienpräsentation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sprachakrobatik: Wörter bilden, Wörter erkunden",
+      "level": 0,
+      "keyterms": [
+        "Wortbildung",
+        "Zusammensetzung",
+        "Ableitung",
+        "Präfix",
+        "Suffix",
+        "Wortstamm",
+        "Wortfamilie",
+        "Wortfelder",
+        "Wortarten",
+        "Sprachstruktur",
+        "Wortschatz",
+        "Sprachspiel",
+        "Wortbedeutung",
+        "Wortanalyse",
+        "Sprachbewusstsein"
+      ],
+      "children": [
+        {
+          "name": "Sprache verändern – Wortbildungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Wortbildung",
+            "Zusammensetzung",
+            "Ableitung",
+            "Präfix",
+            "Suffix",
+            "Wortstamm",
+            "Wortfamilie",
+            "Wortarten",
+            "Sprachstruktur",
+            "Wortschatz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sag es treffender! – Wortfelder nutzen",
+          "level": 1,
+          "keyterms": [
+            "Wortfelder",
+            "Wortbedeutung",
+            "Synonyme",
+            "Wortschatz",
+            "Sprachspiel",
+            "Wortauswahl",
+            "Sprachbewusstsein",
+            "Wortanalyse",
+            "Sprachgestaltung",
+            "Wortfamilie"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Segeln im Meer der Wörter: Wortarten unterscheiden und verwenden",
+      "level": 0,
+      "keyterms": [
+        "Wortarten",
+        "Nomen",
+        "Pronomen",
+        "Artikel",
+        "Adjektive",
+        "Verben",
+        "Tempusformen",
+        "Präpositionen",
+        "Kasus",
+        "Genus",
+        "Satzglieder",
+        "Wortartenvergleich",
+        "Grammatik",
+        "Wortstruktur",
+        "Sprachbewusstsein"
+      ],
+      "children": [
+        {
+          "name": "Das endlose Meer – Nomen untersuchen und verwenden",
+          "level": 1,
+          "keyterms": [
+            "Nomen",
+            "Kasus",
+            "Genus",
+            "Numerus",
+            "Nomen erkennen",
+            "Nomen verwenden",
+            "Nomenbildung",
+            "Nomenstruktur",
+            "Grammatik",
+            "Wortarten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kleine, feine Zwerge – Pronomen und Artikel verwenden",
+          "level": 1,
+          "keyterms": [
+            "Pronomen",
+            "Artikel",
+            "Begleiter",
+            "Nomen",
+            "Pronomenarten",
+            "Artikelarten",
+            "Grammatik",
+            "Wortarten",
+            "Satzbau",
+            "Sprachstruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kleiner als die Zwerge – Mit Adjektiven beschreiben und vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Adjektive",
+            "Vergleich",
+            "Steigerung",
+            "Beschreibung",
+            "Adjektivformen",
+            "Grammatik",
+            "Wortarten",
+            "Satzbau",
+            "Sprachstruktur",
+            "Wortschatz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Fleißige Geschichten – Verben: Tempusformen bilden und verwenden",
+          "level": 1,
+          "keyterms": [
+            "Verben",
+            "Tempus",
+            "Gegenwart",
+            "Vergangenheit",
+            "Zukunft",
+            "Konjugation",
+            "Verbformen",
+            "Grammatik",
+            "Wortarten",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Störtebeker – Mit Präpositionen Beziehungen herstellen",
+          "level": 1,
+          "keyterms": [
+            "Präpositionen",
+            "Beziehungen",
+            "Satzbau",
+            "Grammatik",
+            "Wortarten",
+            "Präpositionalobjekt",
+            "Präpositionalergänzung",
+            "Sprachstruktur",
+            "Wortschatz",
+            "Satzglieder"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wolkenkratzer und Pyramiden: Satzglieder untersuchen und verwenden",
+      "level": 0,
+      "keyterms": [
+        "Satzglieder",
+        "Prädikat",
+        "Subjekt",
+        "Objekt",
+        "Satzstruktur",
+        "Satzanalyse",
+        "Satzbau",
+        "Dativ",
+        "Akkusativ",
+        "Adverbialbestimmung",
+        "Satzgliedbestimmung",
+        "Grammatik",
+        "Satzarten",
+        "Satzgliedfunktion",
+        "Satzgliedumstellung"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s! – Satzglieder erkennen, Wortarten und Satzglieder unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Satzglieder",
+            "Wortarten",
+            "Satzanalyse",
+            "Satzbau",
+            "Satzstruktur",
+            "Satzgliedbestimmung",
+            "Grammatik",
+            "Satzarten",
+            "Satzgliedfunktion",
+            "Satzgliedumstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Turmbau geplant – Die besondere Bedeutung des Prädikats und Subjekts bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Prädikat",
+            "Subjekt",
+            "Satzglieder",
+            "Satzanalyse",
+            "Satzbau",
+            "Satzstruktur",
+            "Grammatik",
+            "Satzarten",
+            "Satzgliedfunktion",
+            "Satzgliedumstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dschungelabenteuer – Dativ- und Akkusativobjekte erfassen",
+          "level": 1,
+          "keyterms": [
+            "Dativobjekt",
+            "Akkusativobjekt",
+            "Objekt",
+            "Satzglieder",
+            "Satzanalyse",
+            "Satzbau",
+            "Satzstruktur",
+            "Grammatik",
+            "Satzarten",
+            "Satzgliedfunktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vor 4.000 Jahren ... in Ägypten – Mit Adverbialbestimmungen genaue Angaben machen",
+          "level": 1,
+          "keyterms": [
+            "Adverbialbestimmung",
+            "Satzglieder",
+            "Satzanalyse",
+            "Satzbau",
+            "Satzstruktur",
+            "Grammatik",
+            "Satzarten",
+            "Satzgliedfunktion",
+            "Zeitangabe",
+            "Ortsangabe"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wie wir feiern? Und wie wir feiern! Sätze unterscheiden und Sätze richtig setzen",
+      "level": 0,
+      "keyterms": [
+        "Satzarten",
+        "Aussagesatz",
+        "Fragesatz",
+        "Ausrufesatz",
+        "Satzzeichen",
+        "Satzbau",
+        "Hauptsatz",
+        "Nebensatz",
+        "Kommasetzung",
+        "Satzstruktur",
+        "Satzstellung",
+        "Satzanalyse",
+        "Satzverbindung",
+        "Satzgliedstellung",
+        "Satzzeichenregeln"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s! – Satzarten erforschen und bestimmen durch Satzzeichen",
+          "level": 1,
+          "keyterms": [
+            "Satzarten",
+            "Satzzeichen",
+            "Aussagesatz",
+            "Fragesatz",
+            "Ausrufesatz",
+            "Satzbau",
+            "Satzstruktur",
+            "Satzanalyse",
+            "Satzstellung",
+            "Satzzeichenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Achtung, fertig, – komm herbei! – Sätze auffallen lassen",
+          "level": 1,
+          "keyterms": [
+            "Satzbau",
+            "Satzstruktur",
+            "Satzstellung",
+            "Satzzeichen",
+            "Satzarten",
+            "Satzanalyse",
+            "Satzverbindung",
+            "Satzgliedstellung",
+            "Satzzeichenregeln",
+            "Satzgestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kein Respekt! – Die Satzzeichen bei Fragesätzen, Kommas setzen",
+          "level": 1,
+          "keyterms": [
+            "Fragesatz",
+            "Kommasetzung",
+            "Satzzeichen",
+            "Satzarten",
+            "Satzbau",
+            "Satzstruktur",
+            "Satzanalyse",
+            "Satzverbindung",
+            "Satzgliedstellung",
+            "Satzzeichenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wenn wir auf die Straße ziehen ... – Haupt- und Nebensätze verknüpfen, Kommas setzen",
+          "level": 1,
+          "keyterms": [
+            "Hauptsatz",
+            "Nebensatz",
+            "Kommasetzung",
+            "Satzverbindung",
+            "Satzbau",
+            "Satzstruktur",
+            "Satzanalyse",
+            "Satzgliedstellung",
+            "Satzzeichenregeln",
+            "Satzgestaltung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf die Plätze, fertig, los ...: Regeln und Strategien der Rechtschreibung anwenden",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Großschreibung",
+        "Nomen",
+        "Nominalisierung",
+        "Lautunterscheidung",
+        "Vokale",
+        "Worttrennung",
+        "Wörterbuch",
+        "Rechtschreibregeln",
+        "Wortarten",
+        "Laut-Buchstaben-Zuordnung",
+        "Wortschatz",
+        "Rechtschreibstrategie",
+        "Fehlerkorrektur",
+        "Wortbildung"
+      ],
+      "children": [
+        {
+          "name": "Los geht’s – Rechtschreibproben nutzen",
+          "level": 1,
+          "keyterms": [
+            "Rechtschreibprobe",
+            "Rechtschreibregeln",
+            "Fehlerkorrektur",
+            "Wortschatz",
+            "Wortbildung",
+            "Rechtschreibstrategie",
+            "Wortarten",
+            "Laut-Buchstaben-Zuordnung",
+            "Wortanalyse",
+            "Rechtschreibkompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auf den Rollen nicht zu bremsen – Großschreibung beherrschen",
+          "level": 1,
+          "keyterms": [
+            "Großschreibung",
+            "Nomen",
+            "Nominalisierung",
+            "Rechtschreibregeln",
+            "Wortarten",
+            "Wortbildung",
+            "Rechtschreibstrategie",
+            "Fehlerkorrektur",
+            "Wortschatz",
+            "Rechtschreibkompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Im Höhenrausch – Wörter mit gleich und ähnlich klingenden Lauten schreiben",
+          "level": 1,
+          "keyterms": [
+            "Lautunterscheidung",
+            "Gleichklingende Laute",
+            "Rechtschreibregeln",
+            "Laut-Buchstaben-Zuordnung",
+            "Wortschatz",
+            "Fehlerkorrektur",
+            "Wortbildung",
+            "Rechtschreibstrategie",
+            "Wortanalyse",
+            "Rechtschreibkompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Qual der Wahl – Wörter mit kurzem Vokal schreiben",
+          "level": 1,
+          "keyterms": [
+            "Kurzer Vokal",
+            "Lautunterscheidung",
+            "Rechtschreibregeln",
+            "Laut-Buchstaben-Zuordnung",
+            "Wortschatz",
+            "Fehlerkorrektur",
+            "Wortbildung",
+            "Rechtschreibstrategie",
+            "Wortanalyse",
+            "Rechtschreibkompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schuss – Tor – Stil! – Wörter mit st-Lauten schreiben",
+          "level": 1,
+          "keyterms": [
+            "st-Laute",
+            "Lautunterscheidung",
+            "Rechtschreibregeln",
+            "Laut-Buchstaben-Zuordnung",
+            "Wortschatz",
+            "Fehlerkorrektur",
+            "Wortbildung",
+            "Rechtschreibstrategie",
+            "Wortanalyse",
+            "Rechtschreibkompetenz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auf, los, schwimm dich ... – Worttrennung am Zeilenende anwenden",
+          "level": 1,
+          "keyterms": [
+            "Worttrennung",
+            "Silbentrennung",
+            "Rechtschreibregeln",
+            "Wortbildung",
+            "Wortschatz",
+            "Fehlerkorrektur",
+            "Rechtschreibstrategie",
+            "Wortanalyse",
+            "Rechtschreibkompetenz",
+            "Zeilenende"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gewusst, wo ... – Wörter, wie Wörterbuch und Rechtschreibung am Computer nutzen",
+          "level": 1,
+          "keyterms": [
+            "Wörterbuch",
+            "Rechtschreibung",
+            "Computer",
+            "Rechtschreibprüfung",
+            "Wortsuche",
+            "Wortschatz",
+            "Fehlerkorrektur",
+            "Rechtschreibstrategie",
+            "Wortanalyse",
+            "Rechtschreibkompetenz"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

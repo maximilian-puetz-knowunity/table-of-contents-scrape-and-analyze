@@ -1,0 +1,756 @@
+{
+  "country": "DE",
+  "grade": "1_Fremdsprache_3",
+  "subject": "French",
+  "ISBN": "978-3-12-624031-4",
+  "taxonomy": [
+    {
+      "name": "Vive les échanges!",
+      "level": 0,
+      "keyterms": [
+        "Austausch",
+        "Schüleraustausch",
+        "Begrüßung",
+        "Vorstellung",
+        "Fragen stellen",
+        "Antworten geben",
+        "Freundschaft",
+        "Brief",
+        "E-Mail",
+        "Adjektivsteigerung",
+        "Demonstrativbegleiter",
+        "Wortschatz",
+        "Kommunikation",
+        "Kultur",
+        "Schule"
+      ],
+      "children": [
+        {
+          "name": "Les corres sont arrivés!",
+          "level": 1,
+          "keyterms": [
+            "Austauschpartner",
+            "Begrüßung",
+            "Vorstellung",
+            "Fragen",
+            "Antworten",
+            "erste Begegnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Trois mois, c'est trop court!",
+          "level": 1,
+          "keyterms": [
+            "Zeit",
+            "Dauer",
+            "Gefühle",
+            "Abschied",
+            "Erinnerungen",
+            "Freundschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Des rencontres franco-allemandes",
+          "level": 1,
+          "keyterms": [
+            "Begegnung",
+            "Frankreich",
+            "Deutschland",
+            "Kultur",
+            "Freundschaft",
+            "Austausch"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Steigerung des Adjektivs, Demonstrativbegleiter",
+          "level": 1,
+          "keyterms": [
+            "Adjektiv",
+            "Komparativ",
+            "Superlativ",
+            "Demonstrativbegleiter",
+            "Grammatik",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orthographe: Digitale Korrekturhilfen",
+          "level": 1,
+          "keyterms": [
+            "Rechtschreibung",
+            "Korrektur",
+            "digitale Hilfsmittel",
+            "Fehlerkorrektur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Une histoire d’amitié",
+      "level": 0,
+      "keyterms": [
+        "Freundschaft",
+        "Jugend",
+        "Kanada",
+        "Tagebuch",
+        "Erzählung",
+        "Vergangenheit",
+        "Imparfait",
+        "Passé composé",
+        "Gefühle",
+        "Erlebnisse",
+        "Interview",
+        "Textauswertung",
+        "Wortschatz",
+        "Freizeit",
+        "Freunde"
+      ],
+      "children": [
+        {
+          "name": "Une nouvelle pas facile",
+          "level": 1,
+          "keyterms": [
+            "Nachricht",
+            "Schwierigkeiten",
+            "Verständnis",
+            "Reaktion",
+            "Gefühle"
+          ],
+          "children": []
+        },
+        {
+          "name": "Corentin est-il un vrai ami?",
+          "level": 1,
+          "keyterms": [
+            "Freundschaft",
+            "Vertrauen",
+            "Konflikt",
+            "Loyalität",
+            "Entscheidung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Deux romans francophones",
+          "level": 1,
+          "keyterms": [
+            "Literatur",
+            "Roman",
+            "frankophone Welt",
+            "Lesen",
+            "Verstehen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Imparfait und Passé composé",
+          "level": 1,
+          "keyterms": [
+            "Vergangenheit",
+            "Imparfait",
+            "Passé composé",
+            "Unterschied",
+            "Verwendung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orthographe: Digitale Korrekturhilfen",
+          "level": 1,
+          "keyterms": [
+            "Rechtschreibung",
+            "Korrektur",
+            "digitale Hilfsmittel",
+            "Fehlerkorrektur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "S’engager, pourquoi pas?",
+      "level": 0,
+      "keyterms": [
+        "Engagement",
+        "Solidarität",
+        "Ehrenamt",
+        "Berufe",
+        "Tagesablauf",
+        "Interview",
+        "reflexive Verben",
+        "Präsens",
+        "Vergangenheit",
+        "Organisation",
+        "Geschenke",
+        "Weihnachten",
+        "Wortschatz",
+        "Hilfe",
+        "Freiwilligenarbeit"
+      ],
+      "children": [
+        {
+          "name": "Le petit boulot de Malik",
+          "level": 1,
+          "keyterms": [
+            "Job",
+            "Arbeit",
+            "Tagesablauf",
+            "Beruf",
+            "Erfahrung"
+          ],
+          "children": []
+        },
+        {
+          "name": "L’interview du bénévole",
+          "level": 1,
+          "keyterms": [
+            "Interview",
+            "Ehrenamt",
+            "Freiwilligenarbeit",
+            "Fragen",
+            "Antworten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Des cadeaux pour Noël solidaire",
+          "level": 1,
+          "keyterms": [
+            "Geschenke",
+            "Weihnachten",
+            "Solidarität",
+            "Organisation",
+            "Planung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: reflexive Verben im Präsens und in der Vergangenheit",
+          "level": 1,
+          "keyterms": [
+            "reflexive Verben",
+            "Präsens",
+            "Vergangenheit",
+            "Konjugation",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orthographe: Schreiben verbessern",
+          "level": 1,
+          "keyterms": [
+            "Schreiben",
+            "Verbesserung",
+            "Korrektur",
+            "Textproduktion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Voyage en Martinique",
+      "level": 0,
+      "keyterms": [
+        "Martinique",
+        "Reise",
+        "Insel",
+        "Kultur",
+        "Traditionen",
+        "Klima",
+        "Musik",
+        "Sprache",
+        "Beschreibung",
+        "Collage",
+        "Präsentation",
+        "Verben",
+        "Wortschatz",
+        "Chanson",
+        "Antillen"
+      ],
+      "children": [
+        {
+          "name": "Zoé part en Martinique",
+          "level": 1,
+          "keyterms": [
+            "Reise",
+            "Vorbereitung",
+            "Martinique",
+            "Beschreibung",
+            "Erwartungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Traditions et cuisine",
+          "level": 1,
+          "keyterms": [
+            "Traditionen",
+            "Küche",
+            "Gerichte",
+            "Rezepte",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Le climat",
+          "level": 1,
+          "keyterms": [
+            "Klima",
+            "Wetter",
+            "Temperatur",
+            "Jahreszeiten",
+            "Beschreibung"
+          ],
+          "children": []
+        },
+        {
+          "name": "La langue et la musique",
+          "level": 1,
+          "keyterms": [
+            "Sprache",
+            "Musik",
+            "Kreolisch",
+            "Chanson",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Énigme: Le vocabulaire antillais",
+          "level": 1,
+          "keyterms": [
+            "Antillen",
+            "Vokabular",
+            "Kultur",
+            "Sprache",
+            "Rätsel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Verben courir, décrire, recevoir",
+          "level": 1,
+          "keyterms": [
+            "Verben",
+            "Konjugation",
+            "laufen",
+            "beschreiben",
+            "erhalten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aioli Marseille!",
+      "level": 0,
+      "keyterms": [
+        "Marseille",
+        "Stadt",
+        "Kultur",
+        "Escape Game",
+        "Jugendmagazin",
+        "Authentizität",
+        "Stadtplan",
+        "Leben",
+        "Wortschatz",
+        "Relativpronomen",
+        "Adverb",
+        "Pronomen",
+        "Intonation",
+        "Betonung",
+        "Verben"
+      ],
+      "children": [
+        {
+          "name": "Un jeu d’évasion sur les traces de Monte-Cristo",
+          "level": 1,
+          "keyterms": [
+            "Escape Game",
+            "Monte-Cristo",
+            "Abenteuer",
+            "Rätsel",
+            "Geschichte"
+          ],
+          "children": []
+        },
+        {
+          "name": "AdoMag Spécial: Marseille, ville authentique",
+          "level": 1,
+          "keyterms": [
+            "Jugendmagazin",
+            "Marseille",
+            "Authentizität",
+            "Stadt",
+            "Leben"
+          ],
+          "children": []
+        },
+        {
+          "name": "AdoMag Spécial: Marseille, ville sportive",
+          "level": 1,
+          "keyterms": [
+            "Sport",
+            "Marseille",
+            "Jugend",
+            "Freizeit",
+            "Aktivitäten"
+          ],
+          "children": []
+        },
+        {
+          "name": "AdoMag Spécial: Marseille, ville créative",
+          "level": 1,
+          "keyterms": [
+            "Kreativität",
+            "Kultur",
+            "Marseille",
+            "Kunst",
+            "Jugend"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Relativpronomen, Adverb, Pronomen",
+          "level": 1,
+          "keyterms": [
+            "Relativpronomen",
+            "Adverb",
+            "Pronomen",
+            "Grammatik",
+            "Satzbau"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Petites histoires et grandes questions",
+      "level": 0,
+      "keyterms": [
+        "Geschichten",
+        "Fragen",
+        "Ereignisse",
+        "Berichte",
+        "Ratschläge",
+        "Tipps",
+        "Plusquamperfekt",
+        "Conditionnel présent",
+        "Bedingungssatz",
+        "Wortschatz",
+        "Erzählung",
+        "Vergangenheit",
+        "Zukunft",
+        "Empfehlung",
+        "Beratung"
+      ],
+      "children": [
+        {
+          "name": "Un événement à la maison",
+          "level": 1,
+          "keyterms": [
+            "Ereignis",
+            "Haus",
+            "Familie",
+            "Bericht",
+            "Erzählung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Conseils et astuces",
+          "level": 1,
+          "keyterms": [
+            "Ratschläge",
+            "Tipps",
+            "Empfehlungen",
+            "Problemlösung",
+            "Alltag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Plusquamperfekt, Conditionnel présent, Bedingungssatz",
+          "level": 1,
+          "keyterms": [
+            "Plusquamperfekt",
+            "Conditionnel présent",
+            "Bedingungssatz",
+            "Grammatik",
+            "Vergangenheit",
+            "Möglichkeit"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "C’est la fête!",
+      "level": 0,
+      "keyterms": [
+        "Feier",
+        "Planung",
+        "Organisation",
+        "Gefühle",
+        "Meinung",
+        "Subjonctif",
+        "Infinitivkonstruktionen",
+        "Wünsche",
+        "Feste",
+        "Emotionen",
+        "Ausdruck",
+        "Wortschatz",
+        "Kommunikation",
+        "Plan",
+        "Veranstaltung"
+      ],
+      "children": [
+        {
+          "name": "Une fête inoubliable!",
+          "level": 1,
+          "keyterms": [
+            "Feier",
+            "unvergesslich",
+            "Planung",
+            "Organisation",
+            "Erlebnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Subjonctif, Infinitivkonstruktionen",
+          "level": 1,
+          "keyterms": [
+            "Subjonctif",
+            "Infinitiv",
+            "Konstruktionen",
+            "Wünsche",
+            "Gefühle",
+            "Grammatik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "En plus / Différenciation",
+      "level": 0,
+      "keyterms": [
+        "Zusatzübungen",
+        "Differenzierung",
+        "Parallelübungen",
+        "Förderung",
+        "Vertiefung",
+        "Wiederholung",
+        "Kompetenz",
+        "Lernstrategien",
+        "Selbstkontrolle",
+        "Individuelles Lernen",
+        "Lernfortschritt",
+        "Selbstständigkeit",
+        "Lernhilfe",
+        "Erweiterung",
+        "Anpassung"
+      ],
+      "children": []
+    },
+    {
+      "name": "Stratégies",
+      "level": 0,
+      "keyterms": [
+        "Vokabeln",
+        "Wörterbuch",
+        "Hörverstehen",
+        "Leseverstehen",
+        "Sprechen",
+        "Informationen finden",
+        "Schreiben",
+        "Fehlerkorrektur",
+        "digitale Hilfsmittel",
+        "Sprachmittlung",
+        "Lernstrategien",
+        "Selbstkontrolle",
+        "Lerntechniken",
+        "Verstehen",
+        "Kommunikation"
+      ],
+      "children": [
+        {
+          "name": "Vokabeln lernen",
+          "level": 1,
+          "keyterms": [
+            "Vokabeln",
+            "Lernen",
+            "Wiederholung",
+            "Speicherung",
+            "Merktechniken"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wörterbuch nutzen",
+          "level": 1,
+          "keyterms": [
+            "Wörterbuch",
+            "Nachschlagen",
+            "Bedeutung",
+            "Aussprache",
+            "Verwendung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hörverstehen",
+          "level": 1,
+          "keyterms": [
+            "Hören",
+            "Verstehen",
+            "Audio",
+            "Informationen",
+            "Strategien"
+          ],
+          "children": []
+        },
+        {
+          "name": "Leseverstehen",
+          "level": 1,
+          "keyterms": [
+            "Lesen",
+            "Verstehen",
+            "Text",
+            "Informationen",
+            "Strategien"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprechen",
+          "level": 1,
+          "keyterms": [
+            "Sprechen",
+            "Aussprache",
+            "Kommunikation",
+            "Dialog",
+            "Interaktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Informationen finden und vermitteln",
+          "level": 1,
+          "keyterms": [
+            "Informationen",
+            "Suche",
+            "Vermittlung",
+            "Recherche",
+            "Präsentation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schreiben",
+          "level": 1,
+          "keyterms": [
+            "Schreiben",
+            "Textproduktion",
+            "Struktur",
+            "Korrektur",
+            "Verbesserung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Fehlerkorrektur",
+          "level": 1,
+          "keyterms": [
+            "Fehler",
+            "Korrektur",
+            "Verbesserung",
+            "Lernen",
+            "Selbstkontrolle"
+          ],
+          "children": []
+        },
+        {
+          "name": "Digitale Korrekturhilfen",
+          "level": 1,
+          "keyterms": [
+            "digital",
+            "Korrektur",
+            "Hilfsmittel",
+            "Rechtschreibung",
+            "Technologie"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vocabulaire",
+      "level": 0,
+      "keyterms": [
+        "Wortschatz",
+        "Vokabeln",
+        "Thematische Listen",
+        "Verben",
+        "Nomen",
+        "Adjektive",
+        "Französisch-Deutsch",
+        "Deutsch-Französisch",
+        "Klassenvokabular",
+        "Redewendungen",
+        "Alltag",
+        "Kultur",
+        "Kommunikation",
+        "Themenfelder",
+        "Lernwortschatz"
+      ],
+      "children": [
+        {
+          "name": "Thematischer Wortschatz",
+          "level": 1,
+          "keyterms": [
+            "Themen",
+            "Wortfelder",
+            "Vokabellisten",
+            "Alltag",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verben",
+          "level": 1,
+          "keyterms": [
+            "Verben",
+            "Konjugation",
+            "Zeitformen",
+            "Unregelmäßige Verben",
+            "Verwendung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klassenvokabular",
+          "level": 1,
+          "keyterms": [
+            "Klassenzimmer",
+            "Schule",
+            "Kommunikation",
+            "Anweisungen",
+            "Fragen"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

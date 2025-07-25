@@ -1,0 +1,734 @@
+{
+  "country": "DE",
+  "grade": "9",
+  "subject": "History",
+  "ISBN": "978-3-12-443035-9",
+  "taxonomy": [
+    {
+      "name": "Der industrialisierte Nationalstaat – Durchbruch der Moderne",
+      "level": 0,
+      "keyterms": [
+        "Reichsgründung",
+        "Deutsches Kaiserreich",
+        "Nationalismus",
+        "Militarismus",
+        "Industrialisierung",
+        "Soziale Frage",
+        "Minderheiten",
+        "England",
+        "Aufbruch",
+        "Deutschland",
+        "Moderne",
+        "Gesellschaft",
+        "Politik",
+        "Wirtschaft",
+        "Technik"
+      ],
+      "children": [
+        {
+          "name": "Reichsgründung, aber wofür? – endlich Einheit und Freiheit?",
+          "level": 1,
+          "keyterms": [
+            "Reichsgründung",
+            "Einheit",
+            "Freiheit",
+            "Deutsches Kaiserreich",
+            "Verfassung",
+            "Nationalstaat"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie wurde das Deutsche Kaiserreich regiert?",
+          "level": 1,
+          "keyterms": [
+            "Kaiser",
+            "Reichstag",
+            "Bundesrat",
+            "Verfassung",
+            "Regierung",
+            "Politische Strukturen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nationalismus und Militarismus",
+          "level": 1,
+          "keyterms": [
+            "Nationalismus",
+            "Militarismus",
+            "Patriotismus",
+            "Heer",
+            "Krieg",
+            "Identität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Umgang mit Andersdenkenden und Minderheiten",
+          "level": 1,
+          "keyterms": [
+            "Minderheiten",
+            "Andersdenkende",
+            "Diskriminierung",
+            "Integration",
+            "Religionsfreiheit",
+            "Soziale Gruppen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Warum beginnt die Industrialisierung in England?",
+          "level": 1,
+          "keyterms": [
+            "Industrialisierung",
+            "England",
+            "Technischer Fortschritt",
+            "Rohstoffe",
+            "Wirtschaft",
+            "Erfindungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verspäteter Aufbruch in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Industrialisierung",
+            "Deutschland",
+            "Nachzügler",
+            "Wirtschaftswachstum",
+            "Strukturwandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Neue Industrien, neue Städte",
+          "level": 1,
+          "keyterms": [
+            "Industrialisierung",
+            "Städtewachstum",
+            "Urbanisierung",
+            "Fabriken",
+            "Wohnverhältnisse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Industrialisierung verändert das Leben",
+          "level": 1,
+          "keyterms": [
+            "Arbeitswelt",
+            "Soziale Frage",
+            "Lebensbedingungen",
+            "Arbeiterbewegung",
+            "Familie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie kann die soziale Frage gelöst werden?",
+          "level": 1,
+          "keyterms": [
+            "Soziale Frage",
+            "Sozialgesetzgebung",
+            "Arbeiterrechte",
+            "Gewerkschaften",
+            "Sozialreformen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Imperialismus und Erster Weltkrieg",
+      "level": 0,
+      "keyterms": [
+        "Imperialismus",
+        "Kolonialismus",
+        "Weltkrieg",
+        "Europa",
+        "Kolonien",
+        "Balkan",
+        "Allianzen",
+        "Kriegsursachen",
+        "Front",
+        "USA",
+        "Russland",
+        "Demokratie",
+        "Friedensverträge",
+        "Völkerbund",
+        "Türkei"
+      ],
+      "children": [
+        {
+          "name": "Europa und die Welt: Digitale Sammlungen recherchieren",
+          "level": 1,
+          "keyterms": [
+            "Europa",
+            "Welt",
+            "Digitalisierung",
+            "Quellen",
+            "Recherche"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie Europäer die Welt teilen",
+          "level": 1,
+          "keyterms": [
+            "Kolonialismus",
+            "Imperialismus",
+            "Afrika",
+            "Asien",
+            "Machtverhältnisse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Afrika – ein hoffnungsloser Kontinent?",
+          "level": 1,
+          "keyterms": [
+            "Afrika",
+            "Kolonialismus",
+            "Ressourcen",
+            "Gesellschaft",
+            "Widerstand"
+          ],
+          "children": []
+        },
+        {
+          "name": "Braucht Deutschland einen „Platz an der Sonne“?",
+          "level": 1,
+          "keyterms": [
+            "Deutscher Imperialismus",
+            "Kolonien",
+            "Weltpolitik",
+            "Expansion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der deutsche Kolonialismus im Überblick",
+          "level": 1,
+          "keyterms": [
+            "Kolonialismus",
+            "Deutsche Kolonien",
+            "Afrika",
+            "Wirtschaft",
+            "Gesellschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Herrschaft und Widerstand: indigene Völker wehren sich",
+          "level": 1,
+          "keyterms": [
+            "Widerstand",
+            "Indigene Völker",
+            "Kolonialherrschaft",
+            "Aufstände",
+            "Unabhängigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie gehen wir heute mit dem Kolonialismus um?",
+          "level": 1,
+          "keyterms": [
+            "Kolonialismus",
+            "Erinnerungskultur",
+            "Museen",
+            "Restitution",
+            "Debatte"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Balkan – ein „Pulverfass“ für Europa?",
+          "level": 1,
+          "keyterms": [
+            "Balkan",
+            "Nationalismus",
+            "Konflikte",
+            "Kriegsursachen",
+            "Europa"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Weltkrieg entsteht",
+          "level": 1,
+          "keyterms": [
+            "Erster Weltkrieg",
+            "Kriegsbeginn",
+            "Allianzen",
+            "Mobilmachung",
+            "Attentat"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Jubel an die „Heimatfront“?",
+          "level": 1,
+          "keyterms": [
+            "Heimatfront",
+            "Kriegsbegeisterung",
+            "Propaganda",
+            "Zivilbevölkerung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Front: Alltag und Erfahrungen im Ersten Weltkrieg",
+          "level": 1,
+          "keyterms": [
+            "Front",
+            "Schützengraben",
+            "Soldatenleben",
+            "Kriegsalltag",
+            "Erfahrungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Alle Macht den Sowjets?",
+          "level": 1,
+          "keyterms": [
+            "Russland",
+            "Revolution",
+            "Sowjets",
+            "Kommunismus",
+            "Machtübernahme"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die USA auf dem Weg zur Demokratie?",
+          "level": 1,
+          "keyterms": [
+            "USA",
+            "Demokratie",
+            "Kriegseintritt",
+            "Weltmacht",
+            "Politik"
+          ],
+          "children": []
+        },
+        {
+          "name": "1917 – Beginn einer neuen Epoche?",
+          "level": 1,
+          "keyterms": [
+            "1917",
+            "Russische Revolution",
+            "Kriegswende",
+            "Folgen",
+            "Weltgeschichte"
+          ],
+          "children": []
+        },
+        {
+          "name": "1918 – Ende mit Schrecken?",
+          "level": 1,
+          "keyterms": [
+            "Kriegsende",
+            "Waffenstillstand",
+            "Revolution",
+            "Friedensverhandlungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Pariser Friedenskonferenz – ein Neuanfang?",
+          "level": 1,
+          "keyterms": [
+            "Pariser Friedenskonferenz",
+            "Versailler Vertrag",
+            "Friedensordnung",
+            "Völkerbund"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Ende des Osmanischen Reiches und die Gründung der Türkei",
+          "level": 1,
+          "keyterms": [
+            "Osmanisches Reich",
+            "Türkei",
+            "Gründung",
+            "Nationalstaat",
+            "Reformen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Opfer- oder Heldengedenken?",
+          "level": 1,
+          "keyterms": [
+            "Erinnerungskultur",
+            "Gedenken",
+            "Opfer",
+            "Helden",
+            "Denkmal"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Die Weimarer Republik – zwischen Erfolg und Scheitern",
+      "level": 0,
+      "keyterms": [
+        "Weimarer Republik",
+        "Revolution",
+        "Demokratie",
+        "Krisen",
+        "Stabilität",
+        "Weltwirtschaftskrise",
+        "Alltag",
+        "Verfassung",
+        "Parteien",
+        "Straßenkampf",
+        "Scheitern",
+        "Erfolg",
+        "Politik",
+        "Wirtschaft",
+        "Kultur"
+      ],
+      "children": [
+        {
+          "name": "Frieden durch Revolution?",
+          "level": 1,
+          "keyterms": [
+            "Revolution",
+            "Friedensschluss",
+            "Novemberrevolution",
+            "Kriegsende"
+          ],
+          "children": []
+        },
+        {
+          "name": "Republik ohne Demokraten?",
+          "level": 1,
+          "keyterms": [
+            "Demokratie",
+            "Republik",
+            "Parteien",
+            "Politische Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Krisenjahr 1923 – Zusammenarbeit mit ehemaligen Gegnern?",
+          "level": 1,
+          "keyterms": [
+            "Krisenjahr 1923",
+            "Ruhrbesetzung",
+            "Hyperinflation",
+            "Außenpolitik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kommt mit dem Aufschwung mehr Stabilität?",
+          "level": 1,
+          "keyterms": [
+            "Stabilisierung",
+            "Wirtschaft",
+            "Politik",
+            "Goldene Zwanziger"
+          ],
+          "children": []
+        },
+        {
+          "name": "Fortschritt im Alltag?",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Kultur",
+            "Frauenrechte",
+            "Technik",
+            "Lebensstil"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Ausweg aus der Weltwirtschaftskrise?",
+          "level": 1,
+          "keyterms": [
+            "Weltwirtschaftskrise",
+            "Arbeitslosigkeit",
+            "Sozialpolitik",
+            "Krisenmanagement"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Republik am Ende: Scheitern oder neue Chance?",
+          "level": 1,
+          "keyterms": [
+            "Scheitern",
+            "Machtergreifung",
+            "Nationalsozialismus",
+            "Demokratiekrise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Straßenkampf im frühen Geschichtsbewusstsein",
+          "level": 1,
+          "keyterms": [
+            "Straßenkampf",
+            "Politische Gewalt",
+            "Extremismus",
+            "Weimarer Republik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Nationalsozialismus und Zweiter Weltkrieg",
+      "level": 0,
+      "keyterms": [
+        "Nationalsozialismus",
+        "Diktatur",
+        "Propaganda",
+        "Jugend",
+        "Widerstand",
+        "Holocaust",
+        "Zweiter Weltkrieg",
+        "Kriegsverlauf",
+        "Vernichtungskrieg",
+        "NS-Politik",
+        "Flucht",
+        "Vertreibung",
+        "Erinnerung",
+        "Judenverfolgung",
+        "Kollaboration"
+      ],
+      "children": [
+        {
+          "name": "Nationalsozialismus – wie Macht und Würde die Demokratie zerstört?",
+          "level": 1,
+          "keyterms": [
+            "Machtergreifung",
+            "Demokratie",
+            "Diktatur",
+            "NSDAP"
+          ],
+          "children": []
+        },
+        {
+          "name": "Worauf gründet die NS-Weltanschauung?",
+          "level": 1,
+          "keyterms": [
+            "NS-Ideologie",
+            "Rassismus",
+            "Antisemitismus",
+            "Volksgemeinschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Propaganda im „Dritten Reich“",
+          "level": 1,
+          "keyterms": [
+            "Propaganda",
+            "Medien",
+            "Manipulation",
+            "NS-Staat"
+          ],
+          "children": []
+        },
+        {
+          "name": "Jugend im Hakenkreuz – Erziehung für das Regime",
+          "level": 1,
+          "keyterms": [
+            "Jugend",
+            "Erziehung",
+            "Hitlerjugend",
+            "Indoktrination"
+          ],
+          "children": []
+        },
+        {
+          "name": "Alltag unterm Hakenkreuz – wer stand außerhalb der „Volksgemeinschaft“?",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Ausgrenzung",
+            "Diskriminierung",
+            "Volksgemeinschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen Anpassung und Zustimmung – oder Mut zum Widerstand?",
+          "level": 1,
+          "keyterms": [
+            "Anpassung",
+            "Zustimmung",
+            "Widerstand",
+            "Opposition"
+          ],
+          "children": []
+        },
+        {
+          "name": "Friedensvertrag von Versailles – was steckt dahinter?",
+          "level": 1,
+          "keyterms": [
+            "Versailler Vertrag",
+            "Friedensvertrag",
+            "Folgen",
+            "Revisionismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Frieden – und der Weg in den Krieg",
+          "level": 1,
+          "keyterms": [
+            "Frieden",
+            "Kriegsbeginn",
+            "Expansion",
+            "Aggression"
+          ],
+          "children": []
+        },
+        {
+          "name": "Alltag im Krieg",
+          "level": 1,
+          "keyterms": [
+            "Kriegsalltag",
+            "Zivilbevölkerung",
+            "Mangel",
+            "Bombenkrieg"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die „Endlösung“ der Judenfrage",
+          "level": 1,
+          "keyterms": [
+            "Holocaust",
+            "Judenverfolgung",
+            "Vernichtungslager",
+            "Antisemitismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verfolgung und Ermordung von Sinti und Roma",
+          "level": 1,
+          "keyterms": [
+            "Sinti",
+            "Roma",
+            "Verfolgung",
+            "Völkermord"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die deutsche Bevölkerung und der Holocaust: Nichts gewusst?",
+          "level": 1,
+          "keyterms": [
+            "Holocaust",
+            "Bevölkerung",
+            "Mitwisserschaft",
+            "Verdrängung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwangsarbeit im Nationalsozialismus",
+          "level": 1,
+          "keyterms": [
+            "Zwangsarbeit",
+            "Arbeitslager",
+            "Fremdarbeiter",
+            "NS-Staat"
+          ],
+          "children": []
+        },
+        {
+          "name": "NS-Erinnerungskultur: Villa Emma Hompel",
+          "level": 1,
+          "keyterms": [
+            "Erinnerungskultur",
+            "NS-Zeit",
+            "Villa Emma",
+            "Gedenken"
+          ],
+          "children": []
+        },
+        {
+          "name": "Widerstand: NS-Polizei, heute Ort der Erinnerung",
+          "level": 1,
+          "keyterms": [
+            "Widerstand",
+            "NS-Polizei",
+            "Erinnerungsort",
+            "Opposition"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wer leistete Widerstand?",
+          "level": 1,
+          "keyterms": [
+            "Widerstand",
+            "Gruppen",
+            "Einzelpersonen",
+            "Motivation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Von der Kriegswende zur Kapitulation",
+          "level": 1,
+          "keyterms": [
+            "Kriegswende",
+            "Kapitulation",
+            "Kriegsverlauf",
+            "Alliierte"
+          ],
+          "children": []
+        },
+        {
+          "name": "War der Zweite Weltkrieg ein „totaler Krieg“?",
+          "level": 1,
+          "keyterms": [
+            "Totaler Krieg",
+            "Mobilisierung",
+            "Zivilbevölkerung",
+            "Kriegsführung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flucht und Vertreibung in Europa",
+          "level": 1,
+          "keyterms": [
+            "Flucht",
+            "Vertreibung",
+            "Nachkrieg",
+            "Migration"
+          ],
+          "children": []
+        },
+        {
+          "name": "NS-Erinnerungskultur: Umgang mit der Geschichte",
+          "level": 1,
+          "keyterms": [
+            "Erinnerungskultur",
+            "Vergangenheitsbewältigung",
+            "Gedenkstätten",
+            "Aufarbeitung"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

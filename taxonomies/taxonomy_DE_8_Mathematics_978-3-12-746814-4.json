@@ -1,0 +1,927 @@
+{
+  "country": "DE",
+  "grade": "8",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-746814-4",
+  "taxonomy": [
+    {
+      "name": "Zahlen und Größen",
+      "level": 0,
+      "keyterms": [
+        "Brüche",
+        "Dezimalzahlen",
+        "Größen",
+        "Erweitern",
+        "Kürzen",
+        "Vergleichen",
+        "Rechnen",
+        "Umwandeln",
+        "Maßeinheiten",
+        "Grundrechenarten",
+        "Bruchrechnung",
+        "Dezimalbruch",
+        "Vergleich",
+        "Umrechnung",
+        "Zahlenstrahl",
+        "Zahlenmengen"
+      ],
+      "children": [
+        {
+          "name": "Brüche erweitern, kürzen und vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Bruch",
+            "Erweitern",
+            "Kürzen",
+            "Vergleich",
+            "Zähler",
+            "Nenner",
+            "Bruchgleichheit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Brüchen rechnen",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Multiplikation",
+            "Division",
+            "Bruchrechnung",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Brüche und Dezimalzahlen",
+          "level": 1,
+          "keyterms": [
+            "Dezimalbruch",
+            "Umwandlung",
+            "Kommazahlen",
+            "Bruch zu Dezimalzahl",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Dezimalzahlen rechnen",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Multiplikation",
+            "Division",
+            "Dezimalzahlen",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen umrechnen",
+          "level": 1,
+          "keyterms": [
+            "Längen",
+            "Flächen",
+            "Volumen",
+            "Gewicht",
+            "Zeit",
+            "Maßeinheiten",
+            "Umrechnung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Prozentrechnung",
+      "level": 0,
+      "keyterms": [
+        "Prozent",
+        "Prozentsatz",
+        "Grundwert",
+        "Prozentwert",
+        "Zinsrechnung",
+        "Rabatt",
+        "Skonto",
+        "Diagramm",
+        "Prozentdiagramm",
+        "Prozentuale Veränderung",
+        "Prozentformel",
+        "Prozentrechnung",
+        "Anteil",
+        "Erhöhung",
+        "Verminderung"
+      ],
+      "children": [
+        {
+          "name": "Prozente bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Prozentwert",
+            "Prozentsatz",
+            "Grundwert",
+            "Berechnung",
+            "Anteil"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grundaufgaben der Prozentrechnung",
+          "level": 1,
+          "keyterms": [
+            "Prozentformel",
+            "Grundwert",
+            "Prozentwert",
+            "Prozentsatz",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Promille rechnen",
+          "level": 1,
+          "keyterms": [
+            "Promille",
+            "Promillewert",
+            "Promillesatz",
+            "Berechnung",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vermehrten und verminderten Grundwert berechnen",
+          "level": 1,
+          "keyterms": [
+            "Erhöhung",
+            "Verminderung",
+            "Prozentuale Veränderung",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mehrwertsteuer, Rabatt und Skonto rechnen",
+          "level": 1,
+          "keyterms": [
+            "Mehrwertsteuer",
+            "Rabatt",
+            "Skonto",
+            "Preisnachlass",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Diagramme mit Prozentangaben",
+          "level": 1,
+          "keyterms": [
+            "Diagramm",
+            "Prozentdiagramm",
+            "Kreisdiagramm",
+            "Säulendiagramm",
+            "Dateninterpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zur Prozentrechnung",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Anwendung",
+            "Prozentrechnung",
+            "Alltag",
+            "Problemlösen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zinsrechnung",
+      "level": 0,
+      "keyterms": [
+        "Zinsen",
+        "Zinssatz",
+        "Kapital",
+        "Zinsformel",
+        "Monatszinsen",
+        "Tageszinsen",
+        "Zinsrechnung",
+        "Berechnung",
+        "Zinseszins",
+        "Zinsperiode",
+        "Zinsaufgaben",
+        "Zinsberechnung",
+        "Zinsrechnung im Alltag"
+      ],
+      "children": [
+        {
+          "name": "Zinsrechnen und Zinsformel",
+          "level": 1,
+          "keyterms": [
+            "Zinsen",
+            "Zinssatz",
+            "Kapital",
+            "Zinsformel",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Monatszinsen und Tageszinsen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Monatszinsen",
+            "Tageszinsen",
+            "Berechnung",
+            "Zinsperiode"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zinsaufgaben im Alltag",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Zinsrechnung",
+            "Anwendung",
+            "Textaufgaben"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zuordnungen",
+      "level": 0,
+      "keyterms": [
+        "Zuordnung",
+        "Proportional",
+        "Antiproportional",
+        "Tabellen",
+        "Diagramme",
+        "Funktionen",
+        "Graphen",
+        "Vergleich",
+        "Berechnung",
+        "Darstellung",
+        "Verhältnis",
+        "Proportionalitätsfaktor"
+      ],
+      "children": [
+        {
+          "name": "Proportionale Zuordnungen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Proportional",
+            "Zuordnung",
+            "Berechnung",
+            "Tabellen",
+            "Diagramme"
+          ],
+          "children": []
+        },
+        {
+          "name": "Antiproportionale Zuordnungen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Antiproportional",
+            "Zuordnung",
+            "Berechnung",
+            "Tabellen",
+            "Diagramme"
+          ],
+          "children": []
+        },
+        {
+          "name": "Proportionalitätsfaktor berechnen",
+          "level": 1,
+          "keyterms": [
+            "Proportionalitätsfaktor",
+            "Berechnung",
+            "Verhältnis",
+            "Konstante"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Zuordnungen",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Anwendung",
+            "Zuordnung",
+            "Problemlösen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Flächeninhalt und Umfang",
+      "level": 0,
+      "keyterms": [
+        "Flächeninhalt",
+        "Umfang",
+        "Rechteck",
+        "Quadrat",
+        "Dreieck",
+        "Parallelogramm",
+        "Trapez",
+        "Vielecke",
+        "Formeln",
+        "Berechnung",
+        "Zusammengesetzte Figuren",
+        "Maßeinheiten",
+        "Geometrie"
+      ],
+      "children": [
+        {
+          "name": "Flächeninhalt und Umfang von Rechtecken und Quadraten",
+          "level": 1,
+          "keyterms": [
+            "Rechteck",
+            "Quadrat",
+            "Flächeninhalt",
+            "Umfang",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt und Umfang von Dreiecken und Parallelogrammen",
+          "level": 1,
+          "keyterms": [
+            "Dreieck",
+            "Parallelogramm",
+            "Flächeninhalt",
+            "Umfang",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt und Umfang von Trapezen",
+          "level": 1,
+          "keyterms": [
+            "Trapez",
+            "Flächeninhalt",
+            "Umfang",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt zusammengesetzter Figuren",
+          "level": 1,
+          "keyterms": [
+            "Zusammengesetzte Figuren",
+            "Flächeninhalt",
+            "Berechnung",
+            "Zerlegung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rationale Zahlen",
+      "level": 0,
+      "keyterms": [
+        "Rationale Zahlen",
+        "Brüche",
+        "Dezimalzahlen",
+        "Zahlenstrahl",
+        "Vergleich",
+        "Addition",
+        "Subtraktion",
+        "Multiplikation",
+        "Division",
+        "Vorzeichen",
+        "Betrag",
+        "Rechenregeln",
+        "Negative Zahlen"
+      ],
+      "children": [
+        {
+          "name": "Rationale Zahlen ablesen und notieren",
+          "level": 1,
+          "keyterms": [
+            "Zahlenstrahl",
+            "Ablesen",
+            "Notieren",
+            "Rationale Zahlen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rationale Zahlen vergleichen und ordnen",
+          "level": 1,
+          "keyterms": [
+            "Vergleich",
+            "Ordnen",
+            "Rationale Zahlen",
+            "Zahlenstrahl"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rationale Zahlen addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Rationale Zahlen",
+            "Vorzeichen",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rationale Zahlen multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Rationale Zahlen",
+            "Vorzeichen",
+            "Betrag"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kreise",
+      "level": 0,
+      "keyterms": [
+        "Kreis",
+        "Radius",
+        "Durchmesser",
+        "Umfang",
+        "Flächeninhalt",
+        "Kreiszahl Pi",
+        "Tangente",
+        "Sekante",
+        "Sehne",
+        "Passante",
+        "Kreisabschnitt",
+        "Kreisbogen",
+        "Kreisring",
+        "Kreisfläche",
+        "Geometrie"
+      ],
+      "children": [
+        {
+          "name": "Kreise zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Kreis",
+            "Zirkel",
+            "Radius",
+            "Durchmesser",
+            "Zeichnen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tangenten, Sekanten, Sehnen und Passanten",
+          "level": 1,
+          "keyterms": [
+            "Tangente",
+            "Sekante",
+            "Sehne",
+            "Passante",
+            "Kreis",
+            "Geometrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umfang von Kreisen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Umfang",
+            "Kreis",
+            "Pi",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flächeninhalt von Kreisen berechnen",
+          "level": 1,
+          "keyterms": [
+            "Flächeninhalt",
+            "Kreis",
+            "Pi",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Kreisen",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Kreis",
+            "Anwendung",
+            "Problemlösen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Terme",
+      "level": 0,
+      "keyterms": [
+        "Term",
+        "Variable",
+        "Summe",
+        "Differenz",
+        "Produkt",
+        "Faktor",
+        "Ausmultiplizieren",
+        "Ausklammern",
+        "Vereinfachen",
+        "Klammern",
+        "Rechengesetze",
+        "Terme umformen",
+        "Terme berechnen"
+      ],
+      "children": [
+        {
+          "name": "Terme mit Variablen aufstellen und berechnen",
+          "level": 1,
+          "keyterms": [
+            "Variable",
+            "Term",
+            "Aufstellen",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme mit Summen und Differenzen vereinfachen",
+          "level": 1,
+          "keyterms": [
+            "Summe",
+            "Differenz",
+            "Vereinfachen",
+            "Term",
+            "Klammern"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme mit Produkten vereinfachen",
+          "level": 1,
+          "keyterms": [
+            "Produkt",
+            "Faktor",
+            "Ausmultiplizieren",
+            "Vereinfachen",
+            "Term"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme ausmultiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Ausmultiplizieren",
+            "Distributivgesetz",
+            "Term",
+            "Klammern"
+          ],
+          "children": []
+        },
+        {
+          "name": "Terme ausklammern",
+          "level": 1,
+          "keyterms": [
+            "Ausklammern",
+            "Faktor",
+            "Term",
+            "Klammern"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Funktionen",
+      "level": 0,
+      "keyterms": [
+        "Funktion",
+        "Funktionsgleichung",
+        "Graph",
+        "Proportional",
+        "Linear",
+        "y = m·x + c",
+        "Steigung",
+        "y-Achsenabschnitt",
+        "Funktionswert",
+        "Funktionsgraph",
+        "Darstellung",
+        "Ablesen",
+        "Interpretation"
+      ],
+      "children": [
+        {
+          "name": "Funktionen und lineare Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Funktion",
+            "Linear",
+            "Funktionsgleichung",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Graphen proportionaler Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Proportional",
+            "Graph",
+            "Funktion",
+            "Darstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Graphen linearer Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Linear",
+            "Graph",
+            "Funktion",
+            "y = m·x + c"
+          ],
+          "children": []
+        },
+        {
+          "name": "Besondere Lagen von Graphen",
+          "level": 1,
+          "keyterms": [
+            "Graph",
+            "Parallel",
+            "Schnittpunkt",
+            "Steigung",
+            "y-Achsenabschnitt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Gleichungen",
+      "level": 0,
+      "keyterms": [
+        "Gleichung",
+        "Ungleichung",
+        "Lösung",
+        "Äquivalenzumformung",
+        "Formelumstellung",
+        "Variable",
+        "Gleichungssystem",
+        "Lösungsmenge",
+        "Textaufgaben",
+        "Gleichungen mit Klammern",
+        "Gleichungen mit Brüchen"
+      ],
+      "children": [
+        {
+          "name": "Gleichungen und Ungleichungen durch Umformen lösen",
+          "level": 1,
+          "keyterms": [
+            "Gleichung",
+            "Ungleichung",
+            "Umformen",
+            "Lösung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Textaufgaben mit Gleichungen lösen",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Gleichung",
+            "Anwendung",
+            "Problemlösen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gleichungen mit Formeln lösen",
+          "level": 1,
+          "keyterms": [
+            "Formelumstellung",
+            "Gleichung",
+            "Variable",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben mit Gleichungen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Gleichung",
+            "Anwendung",
+            "Problemlösen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Körper",
+      "level": 0,
+      "keyterms": [
+        "Körper",
+        "Prisma",
+        "Zylinder",
+        "Netz",
+        "Oberfläche",
+        "Volumen",
+        "Quader",
+        "Würfel",
+        "Kreiszylinder",
+        "Prismennetz",
+        "Oberflächeninhalt",
+        "Berechnung",
+        "Geometrie"
+      ],
+      "children": [
+        {
+          "name": "Oberflächen von Prismen",
+          "level": 1,
+          "keyterms": [
+            "Prisma",
+            "Oberfläche",
+            "Berechnung",
+            "Netz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Netze von Prismen zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Prisma",
+            "Netz",
+            "Zeichnen",
+            "Geometrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Oberflächen und Netze von Zylindern",
+          "level": 1,
+          "keyterms": [
+            "Zylinder",
+            "Oberfläche",
+            "Netz",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Prismen und Zylindern",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Prisma",
+            "Zylinder",
+            "Anwendung",
+            "Problemlösen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Oberflächeninhalt von Zylindern berechnen",
+          "level": 1,
+          "keyterms": [
+            "Zylinder",
+            "Oberflächeninhalt",
+            "Berechnung",
+            "Formel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Körpern",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Körper",
+            "Anwendung",
+            "Problemlösen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Zufall",
+      "level": 0,
+      "keyterms": [
+        "Daten",
+        "Statistik",
+        "Diagramm",
+        "Mittelwert",
+        "Median",
+        "Modus",
+        "Wahrscheinlichkeit",
+        "Zufallsexperiment",
+        "Ergebnis",
+        "Ereignis",
+        "Baumdiagramm",
+        "Laplace-Experiment",
+        "Datenanalyse",
+        "Schätzen",
+        "Häufigkeit"
+      ],
+      "children": [
+        {
+          "name": "Mittelwerte bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Mittelwert",
+            "Durchschnitt",
+            "Berechnung",
+            "Daten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeiten bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Wahrscheinlichkeit",
+            "Berechnung",
+            "Zufallsexperiment",
+            "Ereignis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeiten zweistufiger Zufallsexperimente",
+          "level": 1,
+          "keyterms": [
+            "Zweistufig",
+            "Zufallsexperiment",
+            "Baumdiagramm",
+            "Berechnung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Risiko bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Risiko",
+            "Wahrscheinlichkeit",
+            "Berechnung",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wahrscheinlichkeiten schätzen",
+          "level": 1,
+          "keyterms": [
+            "Schätzen",
+            "Wahrscheinlichkeit",
+            "Daten",
+            "Experiment"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Daten und Zufall",
+          "level": 1,
+          "keyterms": [
+            "Textaufgaben",
+            "Daten",
+            "Zufall",
+            "Anwendung",
+            "Problemlösen"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

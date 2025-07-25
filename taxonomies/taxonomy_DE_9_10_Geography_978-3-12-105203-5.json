@@ -1,0 +1,1073 @@
+{
+  "country": "DE",
+  "grade": "9_10",
+  "subject": "Geography",
+  "ISBN": "978-3-12-105203-5",
+  "taxonomy": [
+    {
+      "name": "Geographie – die Welt nachhaltig mitgestalten",
+      "level": 0,
+      "keyterms": [
+        "geographische Perspektive",
+        "Nachhaltigkeit",
+        "globale Herausforderungen",
+        "vernetztes Denken",
+        "Zukunft",
+        "Umwelt",
+        "Ressourcen",
+        "Handlungskompetenz",
+        "Klimawandel",
+        "Bevölkerung",
+        "Entwicklung",
+        "Raum",
+        "Region",
+        "Landschaft",
+        "Karten",
+        "Systemdenken"
+      ],
+      "children": [
+        {
+          "name": "Die Welt mit geografischen Augen sehen",
+          "level": 1,
+          "keyterms": [
+            "Wahrnehmung",
+            "Raumverständnis",
+            "Kartenlesen",
+            "Orientierung",
+            "Landschaftsanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geographisch denken vernetzt",
+          "level": 1,
+          "keyterms": [
+            "Systeme",
+            "Vernetzung",
+            "Wechselwirkungen",
+            "globale Prozesse",
+            "Zusammenhänge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geographische Sachverhalte beurteilen und nachhaltig handeln",
+          "level": 1,
+          "keyterms": [
+            "Bewertung",
+            "Handlungsoptionen",
+            "Nachhaltigkeit",
+            "Entscheidungsfindung",
+            "Verantwortung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Zukunft, die wir wollen",
+          "level": 1,
+          "keyterms": [
+            "Zukunftsvisionen",
+            "Nachhaltige Entwicklung",
+            "Ziele",
+            "Handlungsmöglichkeiten",
+            "Gestaltung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Eine Welt – ungleiche Welt?!",
+      "level": 0,
+      "keyterms": [
+        "Entwicklung",
+        "Ungleichheit",
+        "Lebensbedingungen",
+        "Wirtschaft",
+        "Gesundheit",
+        "Hunger",
+        "Bildung",
+        "HDI",
+        "Messung",
+        "Kinderarbeit",
+        "Welthandel",
+        "Botswana",
+        "Hilfe",
+        "Armut",
+        "Soziale Disparitäten",
+        "Indikatoren"
+      ],
+      "children": [
+        {
+          "name": "Ist Entwicklung messbar?",
+          "level": 1,
+          "keyterms": [
+            "Entwicklungsindikatoren",
+            "Vergleich",
+            "Messmethoden",
+            "HDI",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wirtschaftsleistung – das große Ziel?",
+          "level": 1,
+          "keyterms": [
+            "Bruttoinlandsprodukt",
+            "Wirtschaftswachstum",
+            "Vergleich",
+            "Industrieländer",
+            "Entwicklungsländer"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gesundheit – Vitalität für ein langes Leben",
+          "level": 1,
+          "keyterms": [
+            "Lebenserwartung",
+            "Gesundheitsversorgung",
+            "Krankheiten",
+            "Medizin",
+            "Sterblichkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hunger – trotz Überfluss im Land?",
+          "level": 1,
+          "keyterms": [
+            "Ernährung",
+            "Mangelernährung",
+            "Nahrungsmittelverteilung",
+            "Landwirtschaft",
+            "Hungerursachen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bildung – der Schlüssel?",
+          "level": 1,
+          "keyterms": [
+            "Bildungssystem",
+            "Alphabetisierung",
+            "Schulbesuch",
+            "Chancengleichheit",
+            "Bildungszugang"
+          ],
+          "children": []
+        },
+        {
+          "name": "HDI und differenzierte Indikatoren zur Messung von Entwicklung",
+          "level": 1,
+          "keyterms": [
+            "Human Development Index",
+            "Indikatoren",
+            "Vergleich",
+            "Entwicklungsstand",
+            "Soziale Faktoren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kinderarbeit – Schicksal vieler Kinder",
+          "level": 1,
+          "keyterms": [
+            "Kinderarbeit",
+            "Arbeitsbedingungen",
+            "Armut",
+            "Rechte",
+            "Entwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Welthandel – Partner oder Hindernis?",
+          "level": 1,
+          "keyterms": [
+            "Welthandel",
+            "Handelsbeziehungen",
+            "Globalisierung",
+            "Import",
+            "Export"
+          ],
+          "children": []
+        },
+        {
+          "name": "Botswana – auf dem Weg aus der Armut",
+          "level": 1,
+          "keyterms": [
+            "Botswana",
+            "Entwicklungserfolg",
+            "Ressourcen",
+            "Wirtschaft",
+            "Soziale Entwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Arten zu helfen",
+          "level": 1,
+          "keyterms": [
+            "Entwicklungshilfe",
+            "NGOs",
+            "Projekte",
+            "Hilfe zur Selbsthilfe",
+            "Internationale Zusammenarbeit"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Disparitäten in Europa",
+      "level": 0,
+      "keyterms": [
+        "Europa",
+        "Disparitäten",
+        "Regionen",
+        "Europäische Union",
+        "Wirtschaft",
+        "Strukturwandel",
+        "Bulgarien",
+        "Norwegen",
+        "Italien",
+        "Herz Europas",
+        "Brexit",
+        "Regionalentwicklung",
+        "Digitalisierung",
+        "Industrie",
+        "Landwirtschaft",
+        "Vergleich"
+      ],
+      "children": [
+        {
+          "name": "Europa – gar nicht so einfach",
+          "level": 1,
+          "keyterms": [
+            "Vielfalt",
+            "Regionen",
+            "Kulturen",
+            "Sprachen",
+            "Grenzen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Europäische Union – für uns",
+          "level": 1,
+          "keyterms": [
+            "EU",
+            "Mitgliedsstaaten",
+            "Politik",
+            "Wirtschaft",
+            "Zusammenarbeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bulgarien und Norwegen – zwei Länder am Rande Europas",
+          "level": 1,
+          "keyterms": [
+            "Bulgarien",
+            "Norwegen",
+            "Vergleich",
+            "Lebensstandard",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Disparitäten in Italien – eine Infografik erstellen",
+          "level": 1,
+          "keyterms": [
+            "Italien",
+            "Nord-Süd-Gefälle",
+            "Wirtschaft",
+            "Infografik",
+            "Regionen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wirtschaftsstarke und wirtschaftsschwache Räume Europas",
+          "level": 1,
+          "keyterms": [
+            "Wirtschaftsstärke",
+            "Wirtschaftsschwäche",
+            "Regionen",
+            "Vergleich",
+            "Strukturwandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das auslaufende Herz Europas",
+          "level": 1,
+          "keyterms": [
+            "Industrie",
+            "Strukturwandel",
+            "Arbeitsplätze",
+            "Regionen",
+            "Wandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Regionen – regional – digital – international",
+          "level": 1,
+          "keyterms": [
+            "Regionen",
+            "Digitalisierung",
+            "Internationalisierung",
+            "Vernetzung",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Vereinigte Königreich und die EU nach dem Brexit",
+          "level": 1,
+          "keyterms": [
+            "Brexit",
+            "Großbritannien",
+            "EU",
+            "Folgen",
+            "Politik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Immer mehr Menschen",
+      "level": 0,
+      "keyterms": [
+        "Bevölkerung",
+        "Wachstum",
+        "Demografie",
+        "Bevölkerungsentwicklung",
+        "Indien",
+        "China",
+        "Bevölkerungsprognosen",
+        "Migration",
+        "Bevölkerungsdichte",
+        "Verteilung",
+        "Alterung",
+        "Stadt-Land",
+        "Fertilität",
+        "Sterblichkeit",
+        "Bevölkerungsstruktur",
+        "Demographischer Übergang"
+      ],
+      "children": [
+        {
+          "name": "Immer mehr, immer schneller, überall?",
+          "level": 1,
+          "keyterms": [
+            "Bevölkerungswachstum",
+            "Urbanisierung",
+            "Verstädterung",
+            "Trends",
+            "Prognosen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die werden mehr, die anderen älter",
+          "level": 1,
+          "keyterms": [
+            "Alterung",
+            "Demografischer Wandel",
+            "Jugendquotient",
+            "Altenquotient",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Modell des demografischen Übergangs",
+          "level": 1,
+          "keyterms": [
+            "Demografischer Übergang",
+            "Phasen",
+            "Bevölkerungsentwicklung",
+            "Geburtenrate",
+            "Sterberate"
+          ],
+          "children": []
+        },
+        {
+          "name": "Weltbevölkerung – der Wettlauf",
+          "level": 1,
+          "keyterms": [
+            "Weltbevölkerung",
+            "Wachstum",
+            "Prognosen",
+            "Regionen",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Indien – bald Nummer 1!",
+          "level": 1,
+          "keyterms": [
+            "Indien",
+            "Bevölkerungswachstum",
+            "Vergleich",
+            "China",
+            "Entwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bevölkerungsdiagramme interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Bevölkerungspyramide",
+            "Diagramm",
+            "Interpretation",
+            "Altersstruktur",
+            "Visualisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Chinas Bevölkerungspolitik",
+          "level": 1,
+          "keyterms": [
+            "China",
+            "Ein-Kind-Politik",
+            "Bevölkerungspolitik",
+            "Folgen",
+            "Maßnahmen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bevölkerungsentwicklung in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Deutschland",
+            "Bevölkerungsentwicklung",
+            "Alterung",
+            "Migration",
+            "Prognosen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Migration – auf der Suche nach Zukunft",
+      "level": 0,
+      "keyterms": [
+        "Migration",
+        "Flucht",
+        "Ursachen",
+        "Folgen",
+        "Integration",
+        "Statistik",
+        "Herkunft",
+        "Ziel",
+        "Asyl",
+        "Arbeitsmigration",
+        "Demografie",
+        "Heimat",
+        "Diaspora",
+        "Migrationspolitik",
+        "Weltweite Migration",
+        "Zuwanderung"
+      ],
+      "children": [
+        {
+          "name": "Migration – immer aktuell",
+          "level": 1,
+          "keyterms": [
+            "Migration",
+            "Aktualität",
+            "Trends",
+            "Bewegungen",
+            "Statistik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Flucht – warum eigentlich?",
+          "level": 1,
+          "keyterms": [
+            "Fluchtursachen",
+            "Kriege",
+            "Verfolgung",
+            "Armut",
+            "Naturkatastrophen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Neue Mittler",
+          "level": 1,
+          "keyterms": [
+            "Integration",
+            "Vermittler",
+            "Kultur",
+            "Sprache",
+            "Soziale Netzwerke"
+          ],
+          "children": []
+        },
+        {
+          "name": "Migration absolut und relativ – Statistiken in Diagrammen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Statistik",
+            "Diagramm",
+            "Absolut",
+            "Relativ",
+            "Visualisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gruppliert statt integriert – die ganze Welt in unseren Viertel",
+          "level": 1,
+          "keyterms": [
+            "Integration",
+            "Segregation",
+            "Stadtviertel",
+            "Multikulturalität",
+            "Zusammenleben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auf der Suche nach einem Zuhause",
+          "level": 1,
+          "keyterms": [
+            "Heimat",
+            "Wohnort",
+            "Identität",
+            "Ankommen",
+            "Zugehörigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Migration weltweit",
+          "level": 1,
+          "keyterms": [
+            "Globale Migration",
+            "Trends",
+            "Regionen",
+            "Vergleich",
+            "Ursachen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Folgen für Herkunfts- und Zielländer",
+          "level": 1,
+          "keyterms": [
+            "Herkunftsland",
+            "Zielland",
+            "Folgen",
+            "Wirtschaft",
+            "Gesellschaft"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Verstädterung und Stadtentwicklung",
+      "level": 0,
+      "keyterms": [
+        "Stadt",
+        "Verstädterung",
+        "Stadtentwicklung",
+        "Urbanisierung",
+        "Megastädte",
+        "Stadtmodelle",
+        "Köln",
+        "Lagos",
+        "Stadtklima",
+        "Stadtstruktur",
+        "Stadtplanung",
+        "SWOT-Analyse",
+        "Stadtvergleich",
+        "Smart City",
+        "Stadt der Zukunft",
+        "Stadtregionen"
+      ],
+      "children": [
+        {
+          "name": "Köln wächst",
+          "level": 1,
+          "keyterms": [
+            "Köln",
+            "Wachstum",
+            "Stadtentwicklung",
+            "Bevölkerung",
+            "Infrastruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Modell der west- und mitteleuropäischen Stadt",
+          "level": 1,
+          "keyterms": [
+            "Stadtmodell",
+            "Mitteleuropa",
+            "Struktur",
+            "Funktionen",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lagos – groß, größer, am größten ...",
+          "level": 1,
+          "keyterms": [
+            "Lagos",
+            "Megastadt",
+            "Wachstum",
+            "Herausforderungen",
+            "Stadtentwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie entwickelt sich Detroit?",
+          "level": 1,
+          "keyterms": [
+            "Detroit",
+            "Strukturwandel",
+            "Industrie",
+            "Stadtentwicklung",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "SWOT-Analyse Entscheidungen vorbereiten",
+          "level": 1,
+          "keyterms": [
+            "SWOT-Analyse",
+            "Stärken",
+            "Schwächen",
+            "Chancen",
+            "Risiken"
+          ],
+          "children": []
+        },
+        {
+          "name": "São Paulo – Gegensätze direkt nebeneinander",
+          "level": 1,
+          "keyterms": [
+            "São Paulo",
+            "Ungleichheit",
+            "Stadtstruktur",
+            "Favelas",
+            "Stadtentwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Klima in der Stadt ist anders",
+          "level": 1,
+          "keyterms": [
+            "Stadtklima",
+            "Wärmeinsel",
+            "Luftverschmutzung",
+            "Klimaanpassung",
+            "Umwelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Smart City – das Stadt­konzept der Zukunft?",
+          "level": 1,
+          "keyterms": [
+            "Smart City",
+            "Technologie",
+            "Nachhaltigkeit",
+            "Innovation",
+            "Stadtplanung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Millionenstädte und Megacities",
+          "level": 1,
+          "keyterms": [
+            "Megastadt",
+            "Millionenstadt",
+            "Urbanisierung",
+            "Weltstädte",
+            "Vergleich"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Globalisierung – die ganze Welt, ein Markt",
+      "level": 0,
+      "keyterms": [
+        "Globalisierung",
+        "Weltmarkt",
+        "Landwirtschaft",
+        "Dienstleistungen",
+        "Industrie",
+        "Strukturwandel",
+        "Welthandelsströme",
+        "Global Cities",
+        "Tomaten",
+        "Luftfracht",
+        "Wettbewerb",
+        "Wirtschaft",
+        "Produktion",
+        "Konsum",
+        "Internationale Arbeitsteilung",
+        "Global Citizenship"
+      ],
+      "children": [
+        {
+          "name": "Globalisierung: Was ist das?",
+          "level": 1,
+          "keyterms": [
+            "Definition",
+            "Merkmale",
+            "Prozesse",
+            "Vernetzung",
+            "Auswirkungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Globalisierte Landwirtschaft",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Globalisierung",
+            "Handel",
+            "Produktion",
+            "Export"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tomaten: Ein Ghaner",
+          "level": 1,
+          "keyterms": [
+            "Tomaten",
+            "Handelswege",
+            "Ghana",
+            "Import",
+            "Export"
+          ],
+          "children": []
+        },
+        {
+          "name": "Welthandelsströme",
+          "level": 1,
+          "keyterms": [
+            "Handelsströme",
+            "Warenverkehr",
+            "Transport",
+            "Logistik",
+            "Weltwirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Luftfracht",
+          "level": 1,
+          "keyterms": [
+            "Luftfracht",
+            "Transport",
+            "Logistik",
+            "Warenverkehr",
+            "Globalisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Strukturwandel im Dienstleistungssektor",
+          "level": 1,
+          "keyterms": [
+            "Dienstleistungen",
+            "Strukturwandel",
+            "Arbeitsmarkt",
+            "Globalisierung",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Global Cities – Manager mit Nerven aus Stahl",
+          "level": 1,
+          "keyterms": [
+            "Global Cities",
+            "Weltstädte",
+            "Management",
+            "Wirtschaft",
+            "Vernetzung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Digitalisierung – alles nur noch virtuell?",
+      "level": 0,
+      "keyterms": [
+        "Digitalisierung",
+        "Technologie",
+        "Industrie 4.0",
+        "Landwirtschaft",
+        "Handel",
+        "Arbeitswelt",
+        "Daten",
+        "Internet",
+        "Virtuelle Welt",
+        "Automatisierung",
+        "Smart Farming",
+        "Big Data",
+        "Digitaler Wandel",
+        "Lebensraum",
+        "Kommunikation"
+      ],
+      "children": [
+        {
+          "name": "Digitalisierung im Wandel",
+          "level": 1,
+          "keyterms": [
+            "Digitalisierung",
+            "Wandel",
+            "Technologie",
+            "Entwicklung",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Digitalisierung in der Landwirtschaft und im Handel",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Handel",
+            "Digitalisierung",
+            "Technologie",
+            "Smart Farming"
+          ],
+          "children": []
+        },
+        {
+          "name": "Auswirkungen auf unseren Lebensraum",
+          "level": 1,
+          "keyterms": [
+            "Lebensraum",
+            "Veränderung",
+            "Digitalisierung",
+            "Alltag",
+            "Gesellschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Industrie 4.0 – die Industrie im digitalen Zeitalter",
+          "level": 1,
+          "keyterms": [
+            "Industrie 4.0",
+            "Automatisierung",
+            "Digitalisierung",
+            "Produktion",
+            "Arbeitswelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Digitalisierung in der Landwirtschaft",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Digitalisierung",
+            "Technologie",
+            "Smart Farming",
+            "Effizienz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten, Daten, Daten",
+          "level": 1,
+          "keyterms": [
+            "Daten",
+            "Big Data",
+            "Datenschutz",
+            "Analyse",
+            "Digitalisierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Raumanalyse Australien – ein Raum unter der Lupe",
+      "level": 0,
+      "keyterms": [
+        "Australien",
+        "Raumanalyse",
+        "Kontinent",
+        "Beziehung",
+        "Raumwahrnehmung",
+        "Geographie",
+        "Regionen",
+        "Vergleich",
+        "Perspektiven",
+        "Naturraum",
+        "Wirtschaftsraum",
+        "Siedlungsraum",
+        "Kulturraum",
+        "Verflechtung",
+        "Analyse"
+      ],
+      "children": [
+        {
+          "name": "Australien als Kontinentraum",
+          "level": 1,
+          "keyterms": [
+            "Kontinent",
+            "Australien",
+            "Lage",
+            "Größe",
+            "Naturraum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Australien als Beziehungsraum",
+          "level": 1,
+          "keyterms": [
+            "Beziehungen",
+            "Handel",
+            "Vernetzung",
+            "Australien",
+            "Globalisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Australien als wahrgenommener Raum",
+          "level": 1,
+          "keyterms": [
+            "Wahrnehmung",
+            "Bilder",
+            "Vorstellungen",
+            "Australien",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Australien als 'gemachter' Raum",
+          "level": 1,
+          "keyterms": [
+            "Gestaltung",
+            "Siedlung",
+            "Wirtschaft",
+            "Australien",
+            "Entwicklung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Perspektiven vernetzen",
+          "level": 1,
+          "keyterms": [
+            "Vernetzung",
+            "Perspektiven",
+            "Vergleich",
+            "Analyse",
+            "Australien"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Unsere Welt – fit für die Zukunft?",
+      "level": 0,
+      "keyterms": [
+        "Ressourcen",
+        "Nachhaltigkeit",
+        "Zukunft",
+        "Ressourcenverschwendung",
+        "Handlungskriterien",
+        "Bewertung",
+        "Umwelt",
+        "Klimawandel",
+        "Globale Herausforderungen",
+        "Entscheidungen",
+        "Verantwortung",
+        "Handlungsoptionen",
+        "Ziele",
+        "Gemeinschaft",
+        "Zukunftsvisionen"
+      ],
+      "children": [
+        {
+          "name": "Ressourcen – so oder so?",
+          "level": 1,
+          "keyterms": [
+            "Ressourcen",
+            "Nutzung",
+            "Verfügbarkeit",
+            "Nachhaltigkeit",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Aktiv gegen Ressourcenverschwendung",
+          "level": 1,
+          "keyterms": [
+            "Ressourcenverschwendung",
+            "Vermeidung",
+            "Recycling",
+            "Nachhaltigkeit",
+            "Handlungsoptionen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit einem Wirkungsgefüge Handlungskriterien bewerten",
+          "level": 1,
+          "keyterms": [
+            "Bewertung",
+            "Handlungskriterien",
+            "Wirkungsgefüge",
+            "Entscheidungsfindung",
+            "Nachhaltigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zukunft geht nur gemeinsam",
+          "level": 1,
+          "keyterms": [
+            "Gemeinschaft",
+            "Zusammenarbeit",
+            "Zukunft",
+            "Globale Verantwortung",
+            "Nachhaltigkeit"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1496 @@
+{
+  "country": "DE",
+  "grade": "7_8",
+  "subject": "Geography",
+  "ISBN": "978-3-12-105202-8",
+  "taxonomy": [
+    {
+      "name": "Geographie – die Welt erforschen und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Geographie",
+        "Weltentdeckung",
+        "Alexander von Humboldt",
+        "Expedition",
+        "Geographen",
+        "Forschung",
+        "Kartographie",
+        "nachhaltige Entwicklung",
+        "Umwelt",
+        "Ressourcen",
+        "Mensch-Umwelt-Beziehung",
+        "Raum",
+        "Landschaft",
+        "Natur",
+        "Gesellschaft"
+      ],
+      "children": [
+        {
+          "name": "Die Welt wird entdeckt",
+          "level": 1,
+          "keyterms": [
+            "Entdecker",
+            "Weltkarte",
+            "Erkundung",
+            "Navigation",
+            "Seefahrt",
+            "Kolonialismus",
+            "Handelswege",
+            "Karten",
+            "Weltbild",
+            "Geographische Entdeckungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Expeditionen des Alexander von Humboldt",
+          "level": 1,
+          "keyterms": [
+            "Alexander von Humboldt",
+            "Expedition",
+            "Südamerika",
+            "Forschung",
+            "Naturbeobachtung",
+            "Pflanzen",
+            "Klima",
+            "Reiseberichte",
+            "Kartierung",
+            "Wissenschaftsgeschichte"
+          ],
+          "children": []
+        },
+        {
+          "name": "So arbeiten Geographen heute",
+          "level": 1,
+          "keyterms": [
+            "Geographische Methoden",
+            "Feldforschung",
+            "Satellitenbilder",
+            "GIS",
+            "Datenanalyse",
+            "Kartenlesen",
+            "Umweltbeobachtung",
+            "Statistik",
+            "Modellierung",
+            "Raumanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Leitbild: nachhaltige Entwicklung",
+          "level": 1,
+          "keyterms": [
+            "Nachhaltigkeit",
+            "Umweltschutz",
+            "Ressourcenschonung",
+            "Zukunftsfähigkeit",
+            "Globale Ziele",
+            "Agenda 2030",
+            "Ökologie",
+            "Soziale Gerechtigkeit",
+            "Wirtschaft",
+            "Klimaschutz"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf das Klima kommt es an",
+      "level": 0,
+      "keyterms": [
+        "Klima",
+        "Wetter",
+        "Atmosphäre",
+        "Jahreszeiten",
+        "Licht",
+        "Wärme",
+        "Lebensgrundlagen",
+        "Wolken",
+        "Niederschlag",
+        "Klimazonen",
+        "Pol",
+        "Äquator",
+        "Klimadiagramm",
+        "Klimawandel",
+        "Temperatur"
+      ],
+      "children": [
+        {
+          "name": "Die Erde im Weltall",
+          "level": 1,
+          "keyterms": [
+            "Erde",
+            "Weltall",
+            "Sonnensystem",
+            "Planeten",
+            "Rotation",
+            "Revolution",
+            "Tag-Nacht",
+            "Jahreszeiten",
+            "Gravitation",
+            "Sonnenstrahlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tageslängen und Jahreszeiten",
+          "level": 1,
+          "keyterms": [
+            "Tageslänge",
+            "Jahreszeiten",
+            "Neigung der Erdachse",
+            "Sonnenstand",
+            "Äquator",
+            "Polarkreis",
+            "Sonnenwende",
+            "Tagundnachtgleiche",
+            "Klimazonen",
+            "Temperaturunterschiede"
+          ],
+          "children": []
+        },
+        {
+          "name": "Licht und Wärme",
+          "level": 1,
+          "keyterms": [
+            "Licht",
+            "Wärme",
+            "Sonnenenergie",
+            "Strahlung",
+            "Absorption",
+            "Reflexion",
+            "Erwärmung",
+            "Kühlung",
+            "Albedo",
+            "Energiehaushalt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lebensgrundlage Atmosphäre",
+          "level": 1,
+          "keyterms": [
+            "Atmosphäre",
+            "Luftschichten",
+            "Sauerstoff",
+            "Kohlenstoffdioxid",
+            "Wasserdampf",
+            "Treibhausgase",
+            "Schutzfunktion",
+            "Wettergeschehen",
+            "Klimaregulation",
+            "Ozonschicht"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wetter mal rund und mal eckig",
+          "level": 1,
+          "keyterms": [
+            "Wetter",
+            "Wetterelemente",
+            "Temperatur",
+            "Niederschlag",
+            "Wind",
+            "Luftdruck",
+            "Wetterbeobachtung",
+            "Wetterkarten",
+            "Wettervorhersage",
+            "Klimadiagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Was bewegt die Luft?",
+          "level": 1,
+          "keyterms": [
+            "Luftbewegung",
+            "Wind",
+            "Luftdruckunterschiede",
+            "Hochdruckgebiet",
+            "Tiefdruckgebiet",
+            "Passatwinde",
+            "Jetstream",
+            "Konvektion",
+            "Corioliskraft",
+            "Luftmassen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wolken – Gebilde in Zeit",
+          "level": 1,
+          "keyterms": [
+            "Wolken",
+            "Wolkenarten",
+            "Kondensation",
+            "Niederschlag",
+            "Wasserkreislauf",
+            "Wolkenbildung",
+            "Wetterprognose",
+            "Cumulus",
+            "Stratus",
+            "Cirrus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Aus der Wüste ins Glas",
+          "level": 1,
+          "keyterms": [
+            "Wasser",
+            "Wüsten",
+            "Wasserknappheit",
+            "Trinkwasser",
+            "Wassergewinnung",
+            "Entsalzung",
+            "Oasen",
+            "Bewässerung",
+            "Wasserverbrauch",
+            "Wasserressourcen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wind – ein ständiger Begleiter",
+          "level": 1,
+          "keyterms": [
+            "Wind",
+            "Windrichtung",
+            "Windstärke",
+            "Beaufortskala",
+            "Windmessung",
+            "Windenergie",
+            "Luftdruck",
+            "Wetter",
+            "Sturm",
+            "Brise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klima und Temperaturunterschied zwischen Pol und Äquator",
+          "level": 1,
+          "keyterms": [
+            "Klima",
+            "Temperaturunterschiede",
+            "Polargebiete",
+            "Äquator",
+            "Sonnenstrahlung",
+            "Klimazonen",
+            "Wärmeverteilung",
+            "Klimafaktoren",
+            "Breitengrade",
+            "Jahresmitteltemperatur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tropischer Regenwald – ein besonderer Lebensraum in Gefahr",
+      "level": 0,
+      "keyterms": [
+        "Tropischer Regenwald",
+        "Biodiversität",
+        "Ökosystem",
+        "Abholzung",
+        "Palmöl",
+        "Klimaschutz",
+        "Regenwaldzerstörung",
+        "Plantagen",
+        "Wanderfeldbau",
+        "Naturschutz",
+        "Ressourcen",
+        "Lebensraum",
+        "Artenvielfalt",
+        "Nachhaltigkeit",
+        "Umweltprobleme"
+      ],
+      "children": [
+        {
+          "name": "Aus für ein Wald!",
+          "level": 1,
+          "keyterms": [
+            "Waldverlust",
+            "Abholzung",
+            "Rodung",
+            "Holzgewinnung",
+            "Landwirtschaft",
+            "Regenwald",
+            "Klimawandel",
+            "Lebensraumverlust",
+            "Umweltzerstörung",
+            "Tropen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wanderfeldbau von gestern ...",
+          "level": 1,
+          "keyterms": [
+            "Wanderfeldbau",
+            "Traditionelle Landwirtschaft",
+            "Brandrodung",
+            "Bodenfruchtbarkeit",
+            "Nährstoffkreislauf",
+            "Subsistenzwirtschaft",
+            "Regenwald",
+            "Landnutzung",
+            "Anbauzyklen",
+            "Bodenerschöpfung"
+          ],
+          "children": []
+        },
+        {
+          "name": "... Plantage ist heute",
+          "level": 1,
+          "keyterms": [
+            "Plantagenwirtschaft",
+            "Monokultur",
+            "Exportprodukte",
+            "Kautschuk",
+            "Palmöl",
+            "Soja",
+            "Kaffee",
+            "Landwirtschaft",
+            "Arbeitsbedingungen",
+            "Umweltfolgen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Regenwald wird zurückgedrängt",
+          "level": 1,
+          "keyterms": [
+            "Regenwaldverlust",
+            "Landnutzungswandel",
+            "Abholzung",
+            "Siedlungsbau",
+            "Straßenbau",
+            "Holzindustrie",
+            "Viehzucht",
+            "Klimawandel",
+            "Biodiversitätsverlust",
+            "Umweltzerstörung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Abgeholzt ist schnell, aber dann ...",
+          "level": 1,
+          "keyterms": [
+            "Folgen der Abholzung",
+            "Bodenerosion",
+            "Wasserkreislauf",
+            "Klimaveränderung",
+            "Lebensraumverlust",
+            "Artensterben",
+            "Bodenverschlechterung",
+            "Wiederaufforstung",
+            "Nachhaltigkeit",
+            "Umweltschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mehr aus dem Wald",
+          "level": 1,
+          "keyterms": [
+            "Waldnutzung",
+            "Rohstoffe",
+            "Medizinpflanzen",
+            "Nahrungsmittel",
+            "Ökosystemdienstleistungen",
+            "Tourismus",
+            "Kultur",
+            "Tradition",
+            "Waldprodukte",
+            "Nachhaltige Nutzung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Palmöl – Fluch und Segen des grünen Golds",
+          "level": 1,
+          "keyterms": [
+            "Palmöl",
+            "Plantagen",
+            "Regenwaldzerstörung",
+            "Wirtschaft",
+            "Umweltprobleme",
+            "Biodiversität",
+            "Konsum",
+            "Lebensmittelindustrie",
+            "Nachhaltigkeit",
+            "Zertifizierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Regenwald und ich",
+          "level": 1,
+          "keyterms": [
+            "Konsumverhalten",
+            "Umweltschutz",
+            "Nachhaltigkeit",
+            "Regenwaldprodukte",
+            "Verantwortung",
+            "Handlungsmöglichkeiten",
+            "Bewusstsein",
+            "Globalisierung",
+            "Fairer Handel",
+            "Umweltbildung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Palmöl – braucht die Welt ein neues Öl?",
+          "level": 1,
+          "keyterms": [
+            "Palmöl",
+            "Alternativen",
+            "Nachhaltige Produktion",
+            "Umweltfolgen",
+            "Wirtschaft",
+            "Konsum",
+            "Biodiversität",
+            "Soziale Aspekte",
+            "Zertifizierung",
+            "Ernährung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Trockenheit – ein Problem? In der Wüste",
+      "level": 0,
+      "keyterms": [
+        "Wüste",
+        "Trockenheit",
+        "Wasserknappheit",
+        "Dürren",
+        "Oasen",
+        "Wüstenbildung",
+        "Klimawandel",
+        "Lebensbedingungen",
+        "Anpassung",
+        "Wüstenarten",
+        "Sand",
+        "Vegetation",
+        "Nomaden",
+        "Überleben",
+        "Wasserressourcen"
+      ],
+      "children": [
+        {
+          "name": "Unser Bild von der Wüste",
+          "level": 1,
+          "keyterms": [
+            "Wüstenbild",
+            "Vorstellungen",
+            "Kultur",
+            "Mythen",
+            "Realität",
+            "Lebensraum",
+            "Klimazonen",
+            "Geographie",
+            "Natur",
+            "Menschen in der Wüste"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wüsten bei dreiundzwanzigeinhalb",
+          "level": 1,
+          "keyterms": [
+            "Wendekreise",
+            "Geographische Breite",
+            "Wüstenentstehung",
+            "Sonneneinstrahlung",
+            "Klimazonen",
+            "Subtropen",
+            "Trockengebiete",
+            "Sahara",
+            "Kalahari",
+            "Atacama"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wüsten am Wasser",
+          "level": 1,
+          "keyterms": [
+            "Küstenwüsten",
+            "Nebelwüsten",
+            "Kaltwasserströmungen",
+            "Atacama",
+            "Namib",
+            "Klimafaktoren",
+            "Wasserverfügbarkeit",
+            "Vegetation",
+            "Lebensbedingungen",
+            "Anpassung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wüsten mitten im Berg",
+          "level": 1,
+          "keyterms": [
+            "Gebirgswüsten",
+            "Hochgebirge",
+            "Regenarmut",
+            "Klimazonen",
+            "Vegetation",
+            "Lebensbedingungen",
+            "Anpassung",
+            "Anden",
+            "Himalaya",
+            "Trockengebiete"
+          ],
+          "children": []
+        },
+        {
+          "name": "Großbotschafter",
+          "level": 1,
+          "keyterms": [
+            "Botschafter",
+            "Wüstenbewohner",
+            "Nomaden",
+            "Kamele",
+            "Traditionen",
+            "Kultur",
+            "Überleben",
+            "Anpassung",
+            "Lebensweise",
+            "Handel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die längste Düne der Welt",
+          "level": 1,
+          "keyterms": [
+            "Dünen",
+            "Sand",
+            "Wüstenlandschaft",
+            "Wind",
+            "Erosion",
+            "Namib",
+            "Geographie",
+            "Naturphänomene",
+            "Landschaftsformen",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wüstenwissen",
+          "level": 1,
+          "keyterms": [
+            "Wüstenforschung",
+            "Fakten",
+            "Klimadaten",
+            "Lebensbedingungen",
+            "Anpassung",
+            "Wüstenarten",
+            "Vegetation",
+            "Tierwelt",
+            "Überleben",
+            "Wüstenbildung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wüsten als Beispiel für Klimaextreme",
+          "level": 1,
+          "keyterms": [
+            "Klimaextreme",
+            "Wüstenklima",
+            "Temperaturschwankungen",
+            "Dürren",
+            "Niederschlag",
+            "Überleben",
+            "Anpassung",
+            "Klimawandel",
+            "Extremstandorte",
+            "Lebensraum"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Trockenheit – ein Problem? In den Savannen",
+      "level": 0,
+      "keyterms": [
+        "Savanne",
+        "Trockenheit",
+        "Wechselklima",
+        "Vegetation",
+        "Tierwelt",
+        "Landwirtschaft",
+        "Nutzungsprobleme",
+        "Überweidung",
+        "Boden",
+        "Klimawandel",
+        "Feuer",
+        "Wasserknappheit",
+        "Ackerbau",
+        "Viehzucht",
+        "Anpassung"
+      ],
+      "children": [
+        {
+          "name": "Savannen – nicht gleich Savanne",
+          "level": 1,
+          "keyterms": [
+            "Savannentypen",
+            "Feuchtsavanne",
+            "Trockensavanne",
+            "Dornsavanne",
+            "Vegetation",
+            "Klimazonen",
+            "Afrika",
+            "Jahreszeiten",
+            "Niederschlag",
+            "Biodiversität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Im Schatten der Wüste",
+          "level": 1,
+          "keyterms": [
+            "Übergangszone",
+            "Sahel",
+            "Desertifikation",
+            "Klimawandel",
+            "Wüstenbildung",
+            "Niederschlag",
+            "Vegetation",
+            "Landnutzung",
+            "Bevölkerung",
+            "Anpassung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zu wenig Niederschlag? Zu viele Tiere?",
+          "level": 1,
+          "keyterms": [
+            "Niederschlagsmangel",
+            "Überweidung",
+            "Viehzucht",
+            "Bodenverschlechterung",
+            "Landwirtschaft",
+            "Klimawandel",
+            "Savanne",
+            "Umweltprobleme",
+            "Anpassung",
+            "Ernährungssicherung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mehr Vieh oder mehr Ackerbau?",
+          "level": 1,
+          "keyterms": [
+            "Viehzucht",
+            "Ackerbau",
+            "Landnutzung",
+            "Konflikte",
+            "Ernährung",
+            "Bodenfruchtbarkeit",
+            "Savanne",
+            "Wirtschaft",
+            "Tradition",
+            "Nachhaltigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit einfachen Mitteln gegen die Wüste",
+          "level": 1,
+          "keyterms": [
+            "Wüstenbekämpfung",
+            "Aufforstung",
+            "Bodenverbesserung",
+            "Wassergewinnung",
+            "Nachhaltige Landwirtschaft",
+            "Technologien",
+            "Savanne",
+            "Klimaanpassung",
+            "Ernährungssicherung",
+            "Umweltschutz"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Leben in der Gemäßigten Zone – Leben in einem Gunstraum?",
+      "level": 0,
+      "keyterms": [
+        "Gemäßigte Zone",
+        "Klima",
+        "Wetter",
+        "Vegetation",
+        "Landwirtschaft",
+        "Kultur",
+        "Nutzung",
+        "Siedlungen",
+        "Extremereignisse",
+        "Naturräume",
+        "Wirtschaft",
+        "Städte",
+        "Böden",
+        "Klimawandel",
+        "Lebensbedingungen"
+      ],
+      "children": [
+        {
+          "name": "In der Gemäßigten Zone",
+          "level": 1,
+          "keyterms": [
+            "Gemäßigte Zone",
+            "Klimazonen",
+            "Vegetation",
+            "Jahreszeiten",
+            "Niederschlag",
+            "Temperatur",
+            "Landwirtschaft",
+            "Siedlungen",
+            "Wirtschaft",
+            "Lebensbedingungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tiefdruckgebiete prägen unser Wetter",
+          "level": 1,
+          "keyterms": [
+            "Tiefdruckgebiete",
+            "Wetter",
+            "Luftdruck",
+            "Niederschlag",
+            "Stürme",
+            "Wetterlagen",
+            "Klimafaktoren",
+            "Gemäßigte Zone",
+            "Wetterprognose",
+            "Jahreszeiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Von der Wildnis zum Kulturland",
+          "level": 1,
+          "keyterms": [
+            "Kulturland",
+            "Landnutzung",
+            "Siedlungsentwicklung",
+            "Landwirtschaft",
+            "Waldrodung",
+            "Urbanisierung",
+            "Gemäßigte Zone",
+            "Böden",
+            "Wirtschaft",
+            "Kulturlandschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kulturland – intensiv genutzt",
+          "level": 1,
+          "keyterms": [
+            "Intensive Nutzung",
+            "Landwirtschaft",
+            "Industrie",
+            "Siedlungen",
+            "Verkehr",
+            "Böden",
+            "Umweltbelastung",
+            "Gemäßigte Zone",
+            "Ernährung",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Probleme und Möglichkeiten der Nutzung der Gemäßigten Zone",
+          "level": 1,
+          "keyterms": [
+            "Nutzungsprobleme",
+            "Umweltbelastung",
+            "Bodenerosion",
+            "Klimawandel",
+            "Landwirtschaft",
+            "Städte",
+            "Verkehr",
+            "Naturschutz",
+            "Gemäßigte Zone",
+            "Nachhaltigkeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Natürliche Nutzung – Probleme",
+          "level": 1,
+          "keyterms": [
+            "Naturnutzung",
+            "Umweltprobleme",
+            "Bodendegradation",
+            "Wasserverschmutzung",
+            "Klimawandel",
+            "Gemäßigte Zone",
+            "Landwirtschaft",
+            "Forstwirtschaft",
+            "Siedlungen",
+            "Naturschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Natürliche Grenzen überwinden?",
+          "level": 1,
+          "keyterms": [
+            "Natürliche Grenzen",
+            "Gebirge",
+            "Flüsse",
+            "Verkehr",
+            "Infrastruktur",
+            "Siedlungsentwicklung",
+            "Gemäßigte Zone",
+            "Technik",
+            "Wirtschaft",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schutz vor Extremereignissen",
+          "level": 1,
+          "keyterms": [
+            "Extremereignisse",
+            "Sturm",
+            "Hochwasser",
+            "Dürre",
+            "Klimawandel",
+            "Katastrophenschutz",
+            "Gemäßigte Zone",
+            "Vorsorge",
+            "Infrastruktur",
+            "Risiko"
+          ],
+          "children": []
+        },
+        {
+          "name": "Hochwasservorsorge",
+          "level": 1,
+          "keyterms": [
+            "Hochwasser",
+            "Vorsorge",
+            "Deiche",
+            "Flussregulierung",
+            "Klimawandel",
+            "Gemäßigte Zone",
+            "Katastrophenschutz",
+            "Siedlungen",
+            "Wasserwirtschaft",
+            "Risiko"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Gemäßigte Zone im Labor",
+          "level": 1,
+          "keyterms": [
+            "Experiment",
+            "Klimasimulation",
+            "Bodenuntersuchung",
+            "Wetterbeobachtung",
+            "Gemäßigte Zone",
+            "Forschung",
+            "Schülerlabor",
+            "Naturwissenschaften",
+            "Datenanalyse",
+            "Modellierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Gemäßigte Zone digital erkunden",
+          "level": 1,
+          "keyterms": [
+            "Digitale Erkundung",
+            "GIS",
+            "Satellitenbilder",
+            "Online-Karten",
+            "Datenanalyse",
+            "Gemäßigte Zone",
+            "Geoinformation",
+            "Virtuelle Exkursion",
+            "Forschung",
+            "Technologie"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "In der Kalten Zone",
+      "level": 0,
+      "keyterms": [
+        "Kalte Zone",
+        "Polargebiete",
+        "Arktis",
+        "Antarktis",
+        "Polarnacht",
+        "Polartag",
+        "Klimawandel",
+        "Tradition",
+        "Moderne",
+        "Rohstoffe",
+        "Eis",
+        "Kälte",
+        "Lebensbedingungen",
+        "Anpassung",
+        "Naturraum"
+      ],
+      "children": [
+        {
+          "name": "Jenseits der Polarkreise",
+          "level": 1,
+          "keyterms": [
+            "Polarkreis",
+            "Arktis",
+            "Antarktis",
+            "Geographie",
+            "Klimazonen",
+            "Eis",
+            "Kälte",
+            "Lebensbedingungen",
+            "Tiere",
+            "Forschung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Helle Nächte, dunkle Tage",
+          "level": 1,
+          "keyterms": [
+            "Polartag",
+            "Polarnacht",
+            "Tageslänge",
+            "Sonnenstand",
+            "Jahreszeiten",
+            "Kalte Zone",
+            "Lichtverhältnisse",
+            "Lebensrhythmus",
+            "Anpassung",
+            "Naturphänomene"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Leben zwischen Tradition und Moderne",
+          "level": 1,
+          "keyterms": [
+            "Tradition",
+            "Moderne",
+            "Indigene Völker",
+            "Lebensweise",
+            "Anpassung",
+            "Kultur",
+            "Technik",
+            "Kalte Zone",
+            "Wandel",
+            "Ressourcen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Pipeline quer durch Alaska",
+          "level": 1,
+          "keyterms": [
+            "Pipeline",
+            "Alaska",
+            "Rohstoffe",
+            "Öl",
+            "Infrastruktur",
+            "Umweltfolgen",
+            "Kalte Zone",
+            "Wirtschaft",
+            "Technik",
+            "Naturschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Klimawandel macht's möglich",
+          "level": 1,
+          "keyterms": [
+            "Klimawandel",
+            "Eisschmelze",
+            "Rohstoffabbau",
+            "Schifffahrt",
+            "Kalte Zone",
+            "Veränderungen",
+            "Umweltfolgen",
+            "Wirtschaft",
+            "Naturraum",
+            "Anpassung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das grüne Gold sichern",
+          "level": 1,
+          "keyterms": [
+            "Ressourcen",
+            "Naturschutz",
+            "Kalte Zone",
+            "Fischerei",
+            "Wirtschaft",
+            "Klimawandel",
+            "Nachhaltigkeit",
+            "Lebensgrundlagen",
+            "Umwelt",
+            "Politik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Landschaftszonen im Überblick",
+      "level": 0,
+      "keyterms": [
+        "Landschaftszonen",
+        "Klima",
+        "Vegetation",
+        "Böden",
+        "Höhenstufen",
+        "Geographie",
+        "Grenzen",
+        "Landnutzung",
+        "Naturraum",
+        "Klimazonen",
+        "Ökosysteme",
+        "Biodiversität",
+        "Karten",
+        "Orientierung",
+        "Vergleich"
+      ],
+      "children": [
+        {
+          "name": "Landschaften und Landschaftszonen",
+          "level": 1,
+          "keyterms": [
+            "Landschaft",
+            "Landschaftszonen",
+            "Klimazonen",
+            "Vegetation",
+            "Böden",
+            "Geographie",
+            "Naturraum",
+            "Karten",
+            "Vergleich",
+            "Merkmale"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orientierung: Landschaftszonen der Erde",
+          "level": 1,
+          "keyterms": [
+            "Landschaftszonen",
+            "Karten",
+            "Orientierung",
+            "Geographie",
+            "Klimazonen",
+            "Vegetation",
+            "Böden",
+            "Vergleich",
+            "Globale Verteilung",
+            "Merkmale"
+          ],
+          "children": []
+        },
+        {
+          "name": "Höhenstufen der Vegetation",
+          "level": 1,
+          "keyterms": [
+            "Höhenstufen",
+            "Vegetation",
+            "Gebirge",
+            "Klima",
+            "Pflanzen",
+            "Böden",
+            "Landschaftszonen",
+            "Geographie",
+            "Anpassung",
+            "Naturraum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grenzen landwirtschaftlicher Nutzung und deren Überwindung",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Nutzungsgrenzen",
+            "Klimafaktoren",
+            "Böden",
+            "Technik",
+            "Bewässerung",
+            "Düngung",
+            "Klimawandel",
+            "Anpassung",
+            "Ernährungssicherung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Naturkräfte: Risiko oder Potenzial?",
+      "level": 0,
+      "keyterms": [
+        "Naturkräfte",
+        "Risiko",
+        "Potenzial",
+        "Erdbeben",
+        "Vulkane",
+        "Plattentektonik",
+        "Naturkatastrophen",
+        "Kalkstein",
+        "Sturm",
+        "Schäden",
+        "Vorsorge",
+        "Gefahren",
+        "Chancen",
+        "Naturphänomene",
+        "Katastrophenschutz"
+      ],
+      "children": [
+        {
+          "name": "Wenn sich die Erde rührt ...",
+          "level": 1,
+          "keyterms": [
+            "Erdbeben",
+            "Plattentektonik",
+            "Seismologie",
+            "Naturkatastrophen",
+            "Schäden",
+            "Vorsorge",
+            "Gefahren",
+            "Erdbebenwellen",
+            "Messung",
+            "Risikogebiete"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Erde bebt, das Meer macht mit",
+          "level": 1,
+          "keyterms": [
+            "Tsunami",
+            "Erdbeben",
+            "Meer",
+            "Wellen",
+            "Naturkatastrophen",
+            "Schäden",
+            "Vorsorge",
+            "Gefahren",
+            "Küsten",
+            "Plattentektonik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Den Ursachen auf der Spur",
+          "level": 1,
+          "keyterms": [
+            "Ursachen",
+            "Erdbeben",
+            "Vulkane",
+            "Plattentektonik",
+            "Naturkräfte",
+            "Geologie",
+            "Forschung",
+            "Risikofaktoren",
+            "Naturphänomene",
+            "Vorsorge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Plattentektonik",
+          "level": 1,
+          "keyterms": [
+            "Plattentektonik",
+            "Erdplatten",
+            "Kontinente",
+            "Vulkane",
+            "Erdbeben",
+            "Gebirgsbildung",
+            "Geologie",
+            "Naturkräfte",
+            "Risikogebiete",
+            "Bewegung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vulkane: das Unvorhersehbare finden",
+          "level": 1,
+          "keyterms": [
+            "Vulkane",
+            "Ausbruch",
+            "Lava",
+            "Asche",
+            "Gefahren",
+            "Vorsorge",
+            "Naturkatastrophen",
+            "Plattentektonik",
+            "Risiko",
+            "Forschung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kalkstein oder Riesen?",
+          "level": 1,
+          "keyterms": [
+            "Kalkstein",
+            "Karst",
+            "Höhlen",
+            "Erosion",
+            "Naturphänomene",
+            "Landschaftsformen",
+            "Geologie",
+            "Risiko",
+            "Potenzial",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das gleiche Ereignis – zwei unterschiedliche Auswirkungen",
+          "level": 1,
+          "keyterms": [
+            "Naturkatastrophen",
+            "Auswirkungen",
+            "Vergleich",
+            "Vorsorge",
+            "Schäden",
+            "Risikomanagement",
+            "Bevölkerung",
+            "Infrastruktur",
+            "Wirtschaft",
+            "Anpassung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sturm ist nicht gleich Sturm",
+          "level": 1,
+          "keyterms": [
+            "Sturm",
+            "Wind",
+            "Orkan",
+            "Tornado",
+            "Naturkatastrophen",
+            "Schäden",
+            "Vorsorge",
+            "Gefahren",
+            "Klimawandel",
+            "Wetter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Naturkräfte: Risiko und Potenzial",
+          "level": 1,
+          "keyterms": [
+            "Risiko",
+            "Potenzial",
+            "Naturkräfte",
+            "Gefahren",
+            "Chancen",
+            "Nutzung",
+            "Vorsorge",
+            "Katastrophenschutz",
+            "Wirtschaft",
+            "Forschung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Herausforderung Klimawandel",
+      "level": 0,
+      "keyterms": [
+        "Klimawandel",
+        "Treibhauseffekt",
+        "Klimaschutz",
+        "Erneuerbare Energien",
+        "Globale Erwärmung",
+        "Kohlendioxid",
+        "Klimafolgen",
+        "Klimapolitik",
+        "Nachhaltigkeit",
+        "Klimadiagramm",
+        "NRW",
+        "Windkraft",
+        "Energie",
+        "Umwelt",
+        "Zukunft"
+      ],
+      "children": [
+        {
+          "name": "Indizien für den Klimawandel",
+          "level": 1,
+          "keyterms": [
+            "Klimawandel",
+            "Beweise",
+            "Temperaturanstieg",
+            "Gletscherschmelze",
+            "Meeresspiegel",
+            "Wetterextreme",
+            "Klimadaten",
+            "Forschung",
+            "Beobachtung",
+            "Veränderungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dem Klima auf der Spur",
+          "level": 1,
+          "keyterms": [
+            "Klimaforschung",
+            "Messungen",
+            "Daten",
+            "Klimadiagramm",
+            "Beobachtung",
+            "Satelliten",
+            "Wetterstationen",
+            "Klimamodelle",
+            "Analyse",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der natürliche Treibhauseffekt",
+          "level": 1,
+          "keyterms": [
+            "Treibhauseffekt",
+            "Atmosphäre",
+            "Wasserdampf",
+            "Kohlendioxid",
+            "Methan",
+            "Wärmestrahlung",
+            "Klimaregulation",
+            "Erderwärmung",
+            "Klimasystem",
+            "Naturphänomen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der anthropogene Treibhauseffekt",
+          "level": 1,
+          "keyterms": [
+            "Anthropogener Treibhauseffekt",
+            "Kohlendioxid",
+            "Industrialisierung",
+            "Fossile Brennstoffe",
+            "Klimawandel",
+            "Emissionen",
+            "Erderwärmung",
+            "Klimapolitik",
+            "Umwelt",
+            "Menschlicher Einfluss"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Eis schmilzt – der Pegel steigt",
+          "level": 1,
+          "keyterms": [
+            "Gletscherschmelze",
+            "Meeresspiegelanstieg",
+            "Klimawandel",
+            "Polargebiete",
+            "Folgen",
+            "Küsten",
+            "Überflutung",
+            "Eis",
+            "Temperaturanstieg",
+            "Umwelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Klimawandel bei uns in NRW",
+          "level": 1,
+          "keyterms": [
+            "NRW",
+            "Klimawandel",
+            "Regionale Folgen",
+            "Wetterextreme",
+            "Anpassung",
+            "Klimaschutz",
+            "Umwelt",
+            "Landwirtschaft",
+            "Städte",
+            "Wasser"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klimaschutz – eine Aufgabe für alle!",
+          "level": 1,
+          "keyterms": [
+            "Klimaschutz",
+            "Maßnahmen",
+            "Energie",
+            "Verkehr",
+            "Ernährung",
+            "Politik",
+            "Individuelles Handeln",
+            "Nachhaltigkeit",
+            "Erneuerbare Energien",
+            "Umweltschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Windkraft – regenerative Energieträger der Zukunft?",
+          "level": 1,
+          "keyterms": [
+            "Windkraft",
+            "Erneuerbare Energien",
+            "Energiegewinnung",
+            "Klimaschutz",
+            "Technik",
+            "Umwelt",
+            "Zukunft",
+            "Strom",
+            "Nachhaltigkeit",
+            "NRW"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

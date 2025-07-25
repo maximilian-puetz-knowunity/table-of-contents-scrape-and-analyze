@@ -1,0 +1,735 @@
+{
+  "country": "DE",
+  "grade": "1_Fremdsprache_1",
+  "subject": "French",
+  "ISBN": "978-3-12-624011-6",
+  "taxonomy": [
+    {
+      "name": "Au début",
+      "level": 0,
+      "keyterms": [
+        "Begrüßung",
+        "Verabschiedung",
+        "Französisch in der Welt",
+        "Vorstellen",
+        "Vokabular",
+        "Aussprache",
+        "Namen",
+        "Bonjour",
+        "Au revoir",
+        "Sich vorstellen",
+        "Französisch sprechen",
+        "Kommunikation",
+        "Kennenlernen",
+        "Französische Sprache",
+        "Französischunterricht"
+      ],
+      "children": [
+        {
+          "name": "Bienvenue",
+          "level": 1,
+          "keyterms": [
+            "Begrüßung",
+            "Verabschiedung",
+            "Französisch weltweit",
+            "Vorstellen",
+            "Namen",
+            "Bonjour",
+            "Au revoir",
+            "Französisch sprechen",
+            "Kommunikation",
+            "Kennenlernen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bonjour Paris!",
+      "level": 0,
+      "keyterms": [
+        "Kennenlernen",
+        "Freunde",
+        "Stadt",
+        "Vorstellen",
+        "Fragen",
+        "Antworten",
+        "Sich vorstellen",
+        "Französische Namen",
+        "Artikel",
+        "Unbestimmter Artikel",
+        "Satzmelodie",
+        "Vokabular Stadt",
+        "Aussprache",
+        "Grammatik",
+        "Dialog"
+      ],
+      "children": [
+        {
+          "name": "Découvertes",
+          "level": 1,
+          "keyterms": [
+            "Verstehen",
+            "Stadt",
+            "Orte",
+            "Französische Städte",
+            "Vokabular",
+            "Aussprache",
+            "Satzmelodie",
+            "Artikel",
+            "Unbestimmter Artikel",
+            "Kommunikation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Un quartier cool",
+          "level": 1,
+          "keyterms": [
+            "Stadtviertel",
+            "Wohnort",
+            "Freunde",
+            "Vorstellen",
+            "Fragen",
+            "Antworten",
+            "Vokabular Stadt",
+            "Aussprache",
+            "Satzmelodie",
+            "Artikel",
+            "Unbestimmter Artikel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Le copain, la copine et le perroquet",
+          "level": 1,
+          "keyterms": [
+            "Freunde",
+            "Vorstellen",
+            "Tiere",
+            "Papagei",
+            "Sich vorstellen",
+            "Fragen",
+            "Antworten",
+            "Vokabular Freunde",
+            "Aussprache",
+            "Artikel",
+            "Unbestimmter Artikel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: En France, on aime ...",
+          "level": 1,
+          "keyterms": [
+            "Frankreich",
+            "Kultur",
+            "Freizeit",
+            "Vorlieben",
+            "Französische Kultur",
+            "Freizeitaktivitäten",
+            "Vokabular",
+            "Aussprache",
+            "Kommunikation",
+            "Kennenlernen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bilan / Grammaire G1-G3",
+          "level": 1,
+          "keyterms": [
+            "Grammatik",
+            "Artikel",
+            "Unbestimmter Artikel",
+            "Satzmelodie",
+            "Selbstkontrolle",
+            "Grammatikübersicht",
+            "Kommunikation",
+            "Kennenlernen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Les copains et les activités",
+      "level": 0,
+      "keyterms": [
+        "Freunde",
+        "Aktivitäten",
+        "Freizeit",
+        "Schule",
+        "Informationen",
+        "Vorstellen",
+        "Plural",
+        "Vokabular Schule",
+        "Freizeitangebote",
+        "Satzstellung",
+        "Fragen",
+        "Antworten",
+        "Kommunikation",
+        "Mediation",
+        "Grammatik"
+      ],
+      "children": [
+        {
+          "name": "Découvertes",
+          "level": 1,
+          "keyterms": [
+            "Freizeitangebote",
+            "Schule",
+            "Vokabular",
+            "Plural",
+            "Kommunikation",
+            "Fragen",
+            "Antworten",
+            "Freizeitaktivitäten",
+            "Freunde",
+            "Vorstellen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Chez les Bertucat",
+          "level": 1,
+          "keyterms": [
+            "Familie",
+            "Fußball",
+            "Freizeit",
+            "Vorstellen",
+            "Fragen",
+            "Antworten",
+            "Vokabular Familie",
+            "Satzstellung",
+            "Plural",
+            "Kommunikation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Une activité pour Jules",
+          "level": 1,
+          "keyterms": [
+            "Freizeitaktivitäten",
+            "Informationen",
+            "Vorstellen",
+            "Fragen",
+            "Antworten",
+            "Vokabular Freizeit",
+            "Plural",
+            "Kommunikation",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: En France, on aime ...",
+          "level": 1,
+          "keyterms": [
+            "Freizeitaktivitäten",
+            "Frankreich",
+            "Kultur",
+            "Freizeit",
+            "Vokabular",
+            "Kommunikation",
+            "Videos",
+            "Französische Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bilan / Grammaire G4-G7",
+          "level": 1,
+          "keyterms": [
+            "Grammatik",
+            "Plural",
+            "Artikel",
+            "Selbstkontrolle",
+            "Grammatikübersicht",
+            "Kommunikation",
+            "Freizeitaktivitäten"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "L'anniversaire de Jules",
+      "level": 0,
+      "keyterms": [
+        "Geburtstag",
+        "Familie",
+        "Feiern",
+        "Monatsnamen",
+        "Zahlen",
+        "Possessivbegleiter",
+        "Vokabular Geburtstag",
+        "Geschenke",
+        "Einladung",
+        "E-Mail",
+        "Liaison",
+        "Aussprache",
+        "Grammatik",
+        "Kommunikation",
+        "Feste"
+      ],
+      "children": [
+        {
+          "name": "Découvertes",
+          "level": 1,
+          "keyterms": [
+            "Geburtstag",
+            "Frankreich",
+            "Feiern",
+            "Vokabular",
+            "Familie",
+            "Monatsnamen",
+            "Zahlen",
+            "Kommunikation",
+            "Feste"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Jour de fête",
+          "level": 1,
+          "keyterms": [
+            "Geburtstag",
+            "Familie",
+            "Sprechen",
+            "Kurzmitteilungen",
+            "Personenvorstellung",
+            "Vokabular Familie",
+            "Monatsnamen",
+            "Zahlen",
+            "Kommunikation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Super, c'est la fête!",
+          "level": 1,
+          "keyterms": [
+            "Geburtstag",
+            "Geschenke",
+            "Sprechen",
+            "E-Mail",
+            "Vokabular Geschenke",
+            "Kommunikation",
+            "Feiern",
+            "Einladung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: Les fêtes en France",
+          "level": 1,
+          "keyterms": [
+            "Feste",
+            "Frankreich",
+            "Feiern",
+            "Vokabular Feste",
+            "Musik",
+            "Internet",
+            "Kommunikation",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bilan / Grammaire G8-G9",
+          "level": 1,
+          "keyterms": [
+            "Grammatik",
+            "Possessivbegleiter",
+            "avoir",
+            "Selbstkontrolle",
+            "Grammatikübersicht",
+            "Kommunikation",
+            "Geburtstag"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Une journée et des surprises",
+      "level": 0,
+      "keyterms": [
+        "Tagesablauf",
+        "Überraschungen",
+        "Schule",
+        "Veranstaltungen",
+        "Freunde",
+        "Freizeit",
+        "Quartier",
+        "Theater",
+        "Imperativ",
+        "Zahlen",
+        "Vokabular Tagesablauf",
+        "Aussprache",
+        "Grammatik",
+        "Kommunikation",
+        "Wochenende"
+      ],
+      "children": [
+        {
+          "name": "Découvertes",
+          "level": 1,
+          "keyterms": [
+            "Schule",
+            "Frankreich",
+            "Tagesablauf",
+            "Vokabular",
+            "Kommunikation",
+            "Veranstaltungen",
+            "Freunde"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: On va aux Halles?",
+          "level": 1,
+          "keyterms": [
+            "Veranstaltungen",
+            "Freunde",
+            "Verabredung",
+            "Vokabular Veranstaltungen",
+            "Kommunikation",
+            "YouTube",
+            "Internet"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Un mercredi pas comme les autres",
+          "level": 1,
+          "keyterms": [
+            "Tagesablauf",
+            "Begegnung",
+            "Freunde",
+            "Vokabular Tagesablauf",
+            "Kommunikation",
+            "Aussprache",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: Les activités dans le quartier",
+          "level": 1,
+          "keyterms": [
+            "Quartier",
+            "Freizeit",
+            "Aktivitäten",
+            "Vokabular Quartier",
+            "Wochenende",
+            "Kommunikation",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bilan / Grammaire G10-G14",
+          "level": 1,
+          "keyterms": [
+            "Grammatik",
+            "Imperativ",
+            "prendre",
+            "Zahlen bis 100",
+            "Selbstkontrolle",
+            "Grammatikübersicht",
+            "Kommunikation",
+            "Tagesablauf"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Sur scène!",
+          "level": 1,
+          "keyterms": [
+            "Theater",
+            "Schlüsselwörter",
+            "Textarbeit",
+            "Eintrittskarten",
+            "Vokabular Theater",
+            "Imperativ",
+            "Grammatik",
+            "Kommunikation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Le spectacle va commencer!",
+      "level": 0,
+      "keyterms": [
+        "Theater",
+        "Vorhaben",
+        "Fragen",
+        "Interview",
+        "Futur composé",
+        "Grammatik",
+        "Kommunikation",
+        "Selbstständigkeit",
+        "Aussprache",
+        "Vokabular Theater",
+        "Planung",
+        "Sprechen",
+        "Fragen stellen",
+        "Antworten",
+        "Selbstständiges Handeln"
+      ],
+      "children": [
+        {
+          "name": "Découvertes",
+          "level": 1,
+          "keyterms": [
+            "Theater",
+            "Frankreich",
+            "Vokabular Theater",
+            "Kommunikation",
+            "Fragen",
+            "Antworten",
+            "Planung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Au théâtre, l'heure, c'est l'heure!",
+          "level": 1,
+          "keyterms": [
+            "Theater",
+            "Vorhaben",
+            "Fragen",
+            "Interview",
+            "Futur composé",
+            "Grammatik",
+            "Kommunikation",
+            "Planung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Trois jours à Nice",
+      "level": 0,
+      "keyterms": [
+        "Stadt",
+        "Nice",
+        "Vorstellen",
+        "Projekt",
+        "Beschreibung",
+        "Wetter",
+        "Fahrten",
+        "Region",
+        "Adjektive",
+        "voir",
+        "Vokabular Stadt",
+        "Präpositionen",
+        "Grammatik",
+        "Kommunikation",
+        "Reise"
+      ],
+      "children": [
+        {
+          "name": "Découvertes",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Nice",
+            "Vorstellen",
+            "Projekt",
+            "Vokabular Stadt",
+            "Kommunikation",
+            "Beschreibung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Bonjour de Nice",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Nice",
+            "Informationen",
+            "Projekt",
+            "Vokabular Stadt",
+            "Kommunikation",
+            "Beschreibung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Un journée avec grande brise et des nuages",
+          "level": 1,
+          "keyterms": [
+            "Stadt",
+            "Beschreibung",
+            "Wetter",
+            "Vokabular Wetter",
+            "Kommunikation",
+            "Adjektive",
+            "voir"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: Promenade à Nice",
+          "level": 1,
+          "keyterms": [
+            "Nice",
+            "Umgebung",
+            "Region",
+            "Vokabular Region",
+            "Kommunikation",
+            "Fahrten",
+            "Präpositionen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bilan / Grammaire G19-G21",
+          "level": 1,
+          "keyterms": [
+            "Grammatik",
+            "montrer qc à qn",
+            "voir",
+            "Adjektive",
+            "Präpositionen",
+            "Selbstkontrolle",
+            "Grammatikübersicht",
+            "Kommunikation",
+            "Stadt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Module: À la découverte de Paris",
+      "level": 0,
+      "keyterms": [
+        "Paris",
+        "Stadtbeschreibung",
+        "Wegbeschreibung",
+        "Präsentation",
+        "Vokabular Stadt",
+        "Kommunikation",
+        "Grammatik",
+        "Interaktive Übungen",
+        "Digitale Medien",
+        "Stadtplan",
+        "Sehenswürdigkeiten",
+        "Kultur",
+        "Frankreich",
+        "Reise",
+        "Vorstellen"
+      ],
+      "children": [
+        {
+          "name": "Atelier: Clément à Paris",
+          "level": 1,
+          "keyterms": [
+            "Paris",
+            "Stadtbeschreibung",
+            "Wegbeschreibung",
+            "Präsentation",
+            "Vokabular Stadt",
+            "Kommunikation",
+            "Sehenswürdigkeiten",
+            "Kultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier numérique",
+          "level": 1,
+          "keyterms": [
+            "Interaktive Übungen",
+            "Digitale Medien",
+            "Kommunikation",
+            "Grammatik",
+            "Stadtbeschreibung",
+            "Wegbeschreibung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire G22-G23",
+          "level": 1,
+          "keyterms": [
+            "Grammatik",
+            "Stadtbeschreibung",
+            "Wegbeschreibung",
+            "Selbstkontrolle",
+            "Grammatikübersicht",
+            "Kommunikation",
+            "Paris"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "En plus / Différenciation",
+      "level": 0,
+      "keyterms": [
+        "Strategien",
+        "Vokabular",
+        "Lerntechniken",
+        "Hören",
+        "Lesen",
+        "Verstehen",
+        "Sprechen",
+        "Schreiben",
+        "Computer",
+        "Sprachmittlung",
+        "Internet",
+        "Wortlisten",
+        "Alphabet",
+        "Französisch-Deutsch",
+        "Deutsch-Französisch"
+      ],
+      "children": [
+        {
+          "name": "Stratégies",
+          "level": 1,
+          "keyterms": [
+            "Fremdsprachen lernen",
+            "Vokabeln",
+            "Hören",
+            "Lesen",
+            "Verstehen",
+            "Sprechen",
+            "Schreiben",
+            "Computer",
+            "Sprachmittlung",
+            "Internet",
+            "Lerntechniken"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vocabulaire",
+          "level": 1,
+          "keyterms": [
+            "Wortschatz",
+            "Vokabular",
+            "Alphabetisch",
+            "Französisch-Deutsch",
+            "Deutsch-Französisch",
+            "Wortlisten",
+            "En classe",
+            "Thematischer Wortschatz",
+            "Lernwortschatz"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "country": "DE",
+  "grade": "10_G9",
+  "subject": "History",
+  "ISBN": "978-3-12-443045-8",
+  "taxonomy": [
+    {
+      "name": "Deutschland nach dem Krieg",
+      "level": 0,
+      "keyterms": [
+        "Stunde Null",
+        "Neubeginn",
+        "Demokratie",
+        "Anti-Hitler-Koalition",
+        "Besatzungszonen",
+        "Gründung",
+        "zwei deutsche Staaten",
+        "Wiederaufbau",
+        "Wirtschaft",
+        "Politik",
+        "Gesellschaft",
+        "Alliierte",
+        "Kriegsfolgen",
+        "Entnazifizierung",
+        "Demokratisierung"
+      ],
+      "children": [
+        {
+          "name": "Deutschland 1945 – die „Stunde Null“?",
+          "level": 1,
+          "keyterms": [
+            "Kriegsende",
+            "Zerstörung",
+            "Neuanfang",
+            "Lebensbedingungen",
+            "Flüchtlinge",
+            "Heimatverlust",
+            "Versorgung",
+            "Wohnungsnot",
+            "Hunger",
+            "Trümmerfrauen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Potsdamer Konferenz – neue Ordnung nach dem Krieg?",
+          "level": 1,
+          "keyterms": [
+            "Potsdamer Abkommen",
+            "Besatzungszonen",
+            "Reparationen",
+            "Gebietsverluste",
+            "Alliierte",
+            "Grenzen",
+            "Vertreibung",
+            "Demilitarisierung",
+            "Demontage",
+            "Sowjetunion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Neubeginn für Deutschland? Entnazifizierung und Demokratie",
+          "level": 1,
+          "keyterms": [
+            "Entnazifizierung",
+            "Demokratisierung",
+            "Reeducation",
+            "Parteien",
+            "Verfassung",
+            "Grundrechte",
+            "Wahlen",
+            "Politische Neuordnung",
+            "Alliierte Kontrolle",
+            "Widerstand"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Anti-Hitler-Koalition bricht auseinander",
+          "level": 1,
+          "keyterms": [
+            "Anti-Hitler-Koalition",
+            "USA",
+            "Sowjetunion",
+            "Großbritannien",
+            "Konflikte",
+            "Kalter Krieg",
+            "Ideologien",
+            "Westen",
+            "Osten",
+            "Spaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Gründung von zwei deutschen Staaten",
+          "level": 1,
+          "keyterms": [
+            "BRD",
+            "DDR",
+            "Gründung",
+            "Verfassungen",
+            "Wahlen",
+            "Staatsgründung",
+            "Westintegration",
+            "Ostblock",
+            "Souveränität",
+            "Teilung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Geteilte Welt und Kalter Krieg",
+      "level": 0,
+      "keyterms": [
+        "Kalter Krieg",
+        "Supermächte",
+        "Konflikte",
+        "Blockbildung",
+        "Wettrüsten",
+        "Bilder",
+        "Entspannungspolitik",
+        "Koreakrieg",
+        "Vietnamkrieg",
+        "Kuba-Krise",
+        "Mauerbau",
+        "Ost-West-Konflikt",
+        "Dekolonisierung",
+        "Namibia",
+        "Bipolare Welt"
+      ],
+      "children": [
+        {
+          "name": "Die Entstehung des Kalten Krieges",
+          "level": 1,
+          "keyterms": [
+            "Ursachen",
+            "Ideologien",
+            "Westen",
+            "Osten",
+            "Konfliktlinien",
+            "Truman-Doktrin",
+            "Marshallplan",
+            "Sowjetische Expansion",
+            "Eiserner Vorhang",
+            "Misstrauen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Warum wurden die Alliierten Feinde?",
+          "level": 1,
+          "keyterms": [
+            "Alliierte",
+            "Feindschaft",
+            "Interessengegensätze",
+            "Machtpolitik",
+            "Wirtschaftssysteme",
+            "Kommunismus",
+            "Kapitalismus",
+            "Spionage",
+            "Propaganda",
+            "Blockbildung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwei Welten unter Druck – wie konnte der Konflikt global werden?",
+          "level": 1,
+          "keyterms": [
+            "Globalisierung des Konflikts",
+            "Bündnissysteme",
+            "NATO",
+            "Warschauer Pakt",
+            "Stellvertreterkriege",
+            "Koreakrieg",
+            "Vietnamkrieg",
+            "Kuba-Krise",
+            "Rüstungswettlauf",
+            "Atomwaffen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Aufstände in Europa",
+          "level": 1,
+          "keyterms": [
+            "Ungarnaufstand",
+            "Prager Frühling",
+            "Volksaufstände",
+            "Repression",
+            "Sowjetische Intervention",
+            "Freiheitsbewegungen",
+            "Ostblock",
+            "Solidarność",
+            "Polen",
+            "Demokratiebewegung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Kuba-Krise – drohte der dritte Weltkrieg?",
+          "level": 1,
+          "keyterms": [
+            "Kuba-Krise",
+            "Atomwaffen",
+            "USA",
+            "Sowjetunion",
+            "Blockade",
+            "Krisenmanagement",
+            "Verhandlungen",
+            "Fidel Castro",
+            "John F. Kennedy",
+            "Nikita Chruschtschow"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Wettlauf um die Macht der Bilder",
+          "level": 1,
+          "keyterms": [
+            "Propaganda",
+            "Medien",
+            "Bilderkrieg",
+            "Öffentliche Meinung",
+            "Fernsehen",
+            "Fotografie",
+            "Informationspolitik",
+            "Symbolik",
+            "Wahrnehmung",
+            "Manipulation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen Aufrüstung und Entspannungspolitik",
+          "level": 1,
+          "keyterms": [
+            "Wettrüsten",
+            "Rüstungskontrolle",
+            "Entspannungspolitik",
+            "Ostpolitik",
+            "Helsinki-Konferenz",
+            "Abrüstung",
+            "Friedensbewegung",
+            "Verträge",
+            "Dialog",
+            "Détente"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Ende des Kalten Krieges – eine Epochenwende?",
+          "level": 1,
+          "keyterms": [
+            "Mauerfall",
+            "Perestroika",
+            "Glasnost",
+            "Gorbatschow",
+            "Reformen",
+            "Systemwandel",
+            "Wiedervereinigung",
+            "Ostblock",
+            "Demokratisierung",
+            "Epochenwende"
+          ],
+          "children": []
+        },
+        {
+          "name": "Entkolonialisierung und postkoloniale Konflikte: Das Beispiel Namibia",
+          "level": 1,
+          "keyterms": [
+            "Entkolonialisierung",
+            "Namibia",
+            "Kolonialismus",
+            "Unabhängigkeit",
+            "Befreiungsbewegung",
+            "Apartheid",
+            "Südwestafrika",
+            "UNO",
+            "Dekolonisierung",
+            "Postkoloniale Konflikte"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "BRD und DDR – zwei Staaten, zwei Systeme in der geteilten Welt",
+      "level": 0,
+      "keyterms": [
+        "BRD",
+        "DDR",
+        "Sozialismus",
+        "Kapitalismus",
+        "Mauerbau",
+        "Adenauer",
+        "Brandt",
+        "Wirtschaft",
+        "Gesellschaft",
+        "Opposition",
+        "Friedliche Revolution",
+        "Wiedervereinigung",
+        "Stasi",
+        "Alltag",
+        "Freiheit"
+      ],
+      "children": [
+        {
+          "name": "Sozialistischer Neubeginn in der DDR?",
+          "level": 1,
+          "keyterms": [
+            "Sozialismus",
+            "SED",
+            "Planwirtschaft",
+            "Staatssicherheit",
+            "Kollektivierung",
+            "Propaganda",
+            "Jugendorganisationen",
+            "Einheitspartei",
+            "Repression",
+            "Neubeginn"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vom Volksaufstand zum Mauerbau",
+          "level": 1,
+          "keyterms": [
+            "Volksaufstand 1953",
+            "Mauerbau 1961",
+            "Flucht",
+            "Grenze",
+            "Repression",
+            "Staatsmacht",
+            "Berlin",
+            "Teilung",
+            "Grenzsicherung",
+            "Opposition"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Bundesrepublik in der Ära Adenauer – wie gelingt der Neubeginn?",
+          "level": 1,
+          "keyterms": [
+            "Adenauer",
+            "Westintegration",
+            "Wirtschaftswunder",
+            "Demokratie",
+            "Grundgesetz",
+            "NATO",
+            "Europäische Integration",
+            "Außenpolitik",
+            "Soziale Marktwirtschaft",
+            "Neubeginn"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wirtschaft zwischen Wohlstand und politischer Wende in der Bundesrepublik",
+          "level": 1,
+          "keyterms": [
+            "Wirtschaftswunder",
+            "Krise",
+            "Ölkrise",
+            "Arbeitslosigkeit",
+            "Sozialstaat",
+            "Strukturwandel",
+            "Industrie",
+            "Dienstleistungsgesellschaft",
+            "Wohlstand",
+            "Wirtschaftspolitik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Ära Brandt: gesellschaftlicher und politischer Wandel in der Bundesrepublik",
+          "level": 1,
+          "keyterms": [
+            "Willy Brandt",
+            "Ostpolitik",
+            "Reformen",
+            "Bildung",
+            "Sozialpolitik",
+            "Demokratisierung",
+            "Jugendbewegung",
+            "Frauenbewegung",
+            "Proteste",
+            "Wandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Jüdisches Leben in Deutschland nach 1945",
+          "level": 1,
+          "keyterms": [
+            "Judentum",
+            "Wiedergutmachung",
+            "Antisemitismus",
+            "Integration",
+            "Gemeinden",
+            "Holocaust",
+            "Erinnerungskultur",
+            "Migration",
+            "Religionsfreiheit",
+            "Identität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schwierige deutsch-deutsche Beziehungen",
+          "level": 1,
+          "keyterms": [
+            "Ostpolitik",
+            "Annäherung",
+            "Staatsbesuche",
+            "Verträge",
+            "Grenzverkehr",
+            "Familien",
+            "Spionage",
+            "Stasi",
+            "Mauer",
+            "Beziehungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wirtschaft in der Krise? Der Ölpreisschock 1973",
+          "level": 1,
+          "keyterms": [
+            "Ölkrise",
+            "1973",
+            "Wirtschaftskrise",
+            "Arbeitslosigkeit",
+            "Inflation",
+            "Energiepolitik",
+            "Wirtschaftspolitik",
+            "Rezession",
+            "Preisschock",
+            "Industrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gesellschaft in der Bundesrepublik",
+          "level": 1,
+          "keyterms": [
+            "Gesellschaft",
+            "Sozialer Wandel",
+            "Migration",
+            "Gastarbeiter",
+            "Frauenrechte",
+            "Jugendkultur",
+            "Bildung",
+            "Familie",
+            "Lebensstile",
+            "Pluralismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gesellschaft in der DDR",
+          "level": 1,
+          "keyterms": [
+            "Sozialismus",
+            "Alltag",
+            "Staatssicherheit",
+            "Jugend",
+            "Frauen",
+            "Wohnungsbau",
+            "Mangelwirtschaft",
+            "Überwachung",
+            "Kultur",
+            "Opposition"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Friedliche Revolution",
+          "level": 1,
+          "keyterms": [
+            "Friedliche Revolution",
+            "Montagsdemonstrationen",
+            "Opposition",
+            "Reformen",
+            "Mauerfall",
+            "Bürgerbewegung",
+            "Demokratie",
+            "Stasi-Auflösung",
+            "Wende",
+            "Protest"
+          ],
+          "children": []
+        },
+        {
+          "name": "Weg zur deutschen Einheit",
+          "level": 1,
+          "keyterms": [
+            "Wiedervereinigung",
+            "Zwei-plus-Vier-Vertrag",
+            "Einheitsprozess",
+            "Verhandlungen",
+            "Integration",
+            "Ostdeutschland",
+            "Westdeutschland",
+            "Politik",
+            "Gesellschaft",
+            "Herausforderungen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geschichte begegnen: Das Brandenburger Tor – Symbol für Freiheit und Einheit",
+          "level": 1,
+          "keyterms": [
+            "Brandenburger Tor",
+            "Symbol",
+            "Freiheit",
+            "Einheit",
+            "Mauerfall",
+            "Geschichte",
+            "Wahrzeichen",
+            "Wiedervereinigung",
+            "Berlin",
+            "Identität"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Europa und die globalisierte Welt",
+      "level": 0,
+      "keyterms": [
+        "Europäische Union",
+        "Globalisierung",
+        "Herausforderungen",
+        "Chancen",
+        "Zukunft",
+        "Digitalisierung",
+        "Fake News",
+        "Wandel",
+        "Integration",
+        "Zusammenarbeit",
+        "Krisen",
+        "Migration",
+        "Klimawandel",
+        "Werte",
+        "Identität"
+      ],
+      "children": [
+        {
+          "name": "Die Europäische Union: Lernen aus der Geschichte?",
+          "level": 1,
+          "keyterms": [
+            "Europäische Union",
+            "Integration",
+            "Frieden",
+            "Zusammenarbeit",
+            "Institutionen",
+            "Erweiterung",
+            "Werte",
+            "Geschichte",
+            "Mitgliedsstaaten",
+            "Politik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Europa im 21. Jahrhundert – Herausforderungen und Chancen",
+          "level": 1,
+          "keyterms": [
+            "Herausforderungen",
+            "Chancen",
+            "Krisen",
+            "Migration",
+            "Klimawandel",
+            "Wirtschaft",
+            "Politik",
+            "Zusammenhalt",
+            "Populismus",
+            "Solidarität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Leben in Zeiten der Globalisierung",
+          "level": 1,
+          "keyterms": [
+            "Globalisierung",
+            "Wirtschaft",
+            "Kultur",
+            "Kommunikation",
+            "Mobilität",
+            "Handel",
+            "Technologie",
+            "Arbeitsmarkt",
+            "Veränderung",
+            "Vernetzung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Unsere Zukunft in der globalisierten Welt",
+          "level": 1,
+          "keyterms": [
+            "Zukunft",
+            "Globalisierung",
+            "Nachhaltigkeit",
+            "Umwelt",
+            "Technologie",
+            "Bildung",
+            "Arbeitswelt",
+            "Innovation",
+            "Herausforderungen",
+            "Chancen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geschichte begegnen: Das Haus der Geschichte der Bundesrepublik Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Haus der Geschichte",
+            "Museum",
+            "Zeitgeschichte",
+            "Ausstellung",
+            "Erinnerung",
+            "Bundesrepublik",
+            "Demokratie",
+            "Kultur",
+            "Identität",
+            "Geschichtsbewusstsein"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Welt im digitalen Wandel",
+          "level": 1,
+          "keyterms": [
+            "Digitalisierung",
+            "Internet",
+            "Soziale Medien",
+            "Kommunikation",
+            "Arbeitswelt",
+            "Technologie",
+            "Veränderung",
+            "Chancen",
+            "Risiken",
+            "Informationsgesellschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen Fakten und „Fake News“ unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Fake News",
+            "Fakten",
+            "Medienkompetenz",
+            "Informationsbewertung",
+            "Desinformation",
+            "Kritisches Denken",
+            "Manipulation",
+            "Soziale Medien",
+            "Nachrichten",
+            "Wahrheit"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

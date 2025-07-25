@@ -1,0 +1,786 @@
+{
+  "country": "DE",
+  "grade": "1_Fremdsprache_2",
+  "subject": "French",
+  "ISBN": "978-3-12-624021-5",
+  "taxonomy": [
+    {
+      "name": "La rentrée des amis",
+      "level": 0,
+      "keyterms": [
+        "Schulanfang",
+        "Freunde",
+        "Vorstellung",
+        "Gefühle",
+        "Schulalltag",
+        "Kleidung",
+        "Austausch",
+        "Relativsätze",
+        "Aussprache",
+        "Grammatik",
+        "Vokabular",
+        "Kommunikation",
+        "Nachrichten",
+        "Berichten",
+        "Pronomen"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: La rentrée",
+          "level": 1,
+          "keyterms": [
+            "Schulanfang",
+            "Gefühle",
+            "Freunde",
+            "Begrüßung",
+            "Vorstellung",
+            "Emotionen",
+            "Schulalltag",
+            "Vokabular",
+            "Kommunikation",
+            "Austausch",
+            "Fragen",
+            "Antworten",
+            "Dialog",
+            "Beziehungen",
+            "Schule"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Conversations en ligne",
+          "level": 1,
+          "keyterms": [
+            "Online-Gespräche",
+            "Chat",
+            "Nachrichten",
+            "Gefühle",
+            "Neuigkeiten",
+            "Austausch",
+            "Kommunikation",
+            "Fragen",
+            "Antworten",
+            "Freundschaft",
+            "Internet",
+            "Dialog",
+            "Schreiben",
+            "Lesen",
+            "Verstehen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Un nouveau professeur",
+          "level": 1,
+          "keyterms": [
+            "Lehrer",
+            "Vorstellung",
+            "Schule",
+            "Fragen",
+            "Antworten",
+            "Beschreibung",
+            "Personen",
+            "Eigenschaften",
+            "Kommunikation",
+            "Dialog",
+            "Austausch",
+            "Schulalltag",
+            "Vokabular",
+            "Grammatik",
+            "Relativsätze"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: Des films qui parlent de l'école",
+          "level": 1,
+          "keyterms": [
+            "Filme",
+            "Schule",
+            "Kino",
+            "Themen",
+            "Handlung",
+            "Verstehen",
+            "Meinung",
+            "Austausch",
+            "Kultur",
+            "Französisch",
+            "Vokabular",
+            "Filmbeschreibung",
+            "Diskussion",
+            "Sehen",
+            "Hören"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammaire: Die Aussprache verbessern",
+          "level": 1,
+          "keyterms": [
+            "Aussprache",
+            "Phonetik",
+            "Betonung",
+            "Lautbildung",
+            "Silben",
+            "Intonation",
+            "Verbesserung",
+            "Übung",
+            "Hören",
+            "Sprechen",
+            "Wortschatz",
+            "Korrektur",
+            "Französisch",
+            "Laute",
+            "Sprachtraining"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Aventures à Paris",
+      "level": 0,
+      "keyterms": [
+        "Paris",
+        "Abenteuer",
+        "Kultur",
+        "Stadt",
+        "Sehenswürdigkeiten",
+        "Geschichte",
+        "Erzählung",
+        "Mysteriöse Orte",
+        "Vergangenheit",
+        "Comic",
+        "Fotoreportage",
+        "Kooperatives Schreiben",
+        "Vokabular",
+        "Grammatik",
+        "Erlebnis"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Les journées du patrimoine",
+          "level": 1,
+          "keyterms": [
+            "Kulturerbe",
+            "Paris",
+            "Sehenswürdigkeiten",
+            "Geschichte",
+            "Stadtbesichtigung",
+            "Vokabular",
+            "Kultur",
+            "Erlebnis",
+            "Veranstaltungen",
+            "Besuch",
+            "Französisch",
+            "Traditionen",
+            "Erzählung",
+            "Bericht",
+            "Erfahrung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Du rêve au cauchemar",
+          "level": 1,
+          "keyterms": [
+            "Traum",
+            "Albtraum",
+            "Geschichte",
+            "Erzählung",
+            "Schreiben",
+            "Kooperation",
+            "Vergangenheit",
+            "Passé composé",
+            "Vokabular",
+            "Mysteriöse Orte",
+            "Kreativität",
+            "Erlebnis",
+            "Spannung",
+            "Handlung",
+            "Erfindung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "En famille à Grenoble",
+      "level": 0,
+      "keyterms": [
+        "Familie",
+        "Grenoble",
+        "Urlaub",
+        "Ferien",
+        "Familienleben",
+        "Wohnung",
+        "Schnee",
+        "Reise",
+        "Blog",
+        "Erzählung",
+        "Vokabular",
+        "Grammatik",
+        "Verben",
+        "Wohnung",
+        "Bewegung"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Les vacances à Grenoble",
+          "level": 1,
+          "keyterms": [
+            "Grenoble",
+            "Urlaub",
+            "Ferien",
+            "Familie",
+            "Reise",
+            "Erlebnis",
+            "Vokabular",
+            "Stadt",
+            "Aktivitäten",
+            "Kultur",
+            "Erzählung",
+            "Bericht",
+            "Planung",
+            "Vorbereitung",
+            "Erfahrung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: En route pour Grenoble",
+          "level": 1,
+          "keyterms": [
+            "Reise",
+            "Vorbereitung",
+            "Familie",
+            "Urlaub",
+            "Planung",
+            "Verstehen",
+            "Schreiben",
+            "Familienbesuch",
+            "Erzählung",
+            "Vokabular",
+            "Grammatik",
+            "Verben",
+            "Wohnung",
+            "Aktivitäten",
+            "Erlebnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Raconter et rencontrer",
+          "level": 1,
+          "keyterms": [
+            "Erzählung",
+            "Begegnung",
+            "Erlebnis",
+            "Schnee",
+            "Winter",
+            "Aktivitäten",
+            "Ferien",
+            "Vokabular",
+            "Grammatik",
+            "Verben",
+            "Bewegung",
+            "Passé composé",
+            "Bericht",
+            "Schreiben",
+            "Verstehen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: Un prospectus sur Grenoble",
+          "level": 1,
+          "keyterms": [
+            "Prospekt",
+            "Grenoble",
+            "Stadt",
+            "Sehenswürdigkeiten",
+            "Reise",
+            "Urlaub",
+            "Informationen",
+            "Vokabular",
+            "Kultur",
+            "Planung",
+            "Vorbereitung",
+            "Schreiben",
+            "Lesen",
+            "Verstehen",
+            "Blog"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "À table! On mange!",
+      "level": 0,
+      "keyterms": [
+        "Essen",
+        "Mahlzeiten",
+        "Frankreich",
+        "Küche",
+        "Rezepte",
+        "Lebensmittel",
+        "Umwelt",
+        "Koch-Tutorial",
+        "Vokabular",
+        "Grammatik",
+        "Fragen",
+        "Antworten",
+        "Kochanleitung",
+        "Kultur",
+        "Nachhaltigkeit"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Les repas en France",
+          "level": 1,
+          "keyterms": [
+            "Mahlzeiten",
+            "Frankreich",
+            "Essgewohnheiten",
+            "Kultur",
+            "Vokabular",
+            "Frühstück",
+            "Mittagessen",
+            "Abendessen",
+            "Traditionen",
+            "Familie",
+            "Tischsitten",
+            "Lebensmittel",
+            "Getränke",
+            "Gerichte",
+            "Ernährung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Qu'est-ce que tu mets dans ton assiette?",
+          "level": 1,
+          "keyterms": [
+            "Lebensmittel",
+            "Essen",
+            "Teller",
+            "Fragen",
+            "Antworten",
+            "Vokabular",
+            "Küche",
+            "Zutaten",
+            "Gerichte",
+            "Vorlieben",
+            "Geschmack",
+            "Kochanleitung",
+            "Kochrezepte",
+            "Kochvokabular",
+            "Kochkultur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Arrêtez le gaspillage!",
+          "level": 1,
+          "keyterms": [
+            "Umwelt",
+            "Lebensmittelverschwendung",
+            "Nachhaltigkeit",
+            "Rezepte",
+            "Küche",
+            "Fragen",
+            "Antworten",
+            "Vokabular",
+            "Ökologie",
+            "Kochanleitung",
+            "Kochrezepte",
+            "Kochvokabular",
+            "Kochkultur",
+            "Vermeidung",
+            "Bewusstsein"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sur place: À table!",
+          "level": 1,
+          "keyterms": [
+            "Küche",
+            "Essen",
+            "Koch-Tutorial",
+            "Kochanleitung",
+            "Rezepte",
+            "Vokabular",
+            "Kochvokabular",
+            "Kochkultur",
+            "Kochrezepte",
+            "Kochtechniken",
+            "Kochutensilien",
+            "Kochvorbereitung",
+            "Kochprozess",
+            "Kochschritte",
+            "Kochpraxis"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Degemer mat e Breizh!",
+      "level": 0,
+      "keyterms": [
+        "Bretagne",
+        "Reise",
+        "Kultur",
+        "Blog",
+        "Wetter",
+        "Region",
+        "Interessen",
+        "Vorstellung",
+        "Vokabular",
+        "Grammatik",
+        "Erzählung",
+        "Bericht",
+        "Traditionen",
+        "Landschaft",
+        "Erfahrung"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Die Bretagne und das Bretonische",
+          "level": 1,
+          "keyterms": [
+            "Bretagne",
+            "Region",
+            "Kultur",
+            "Sprache",
+            "Bretonisch",
+            "Vokabular",
+            "Traditionen",
+            "Landschaft",
+            "Erfahrung",
+            "Vorstellung",
+            "Reise",
+            "Wetter",
+            "Küste",
+            "Meer",
+            "Erzählung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Le blog de Bretagne des 4e",
+          "level": 1,
+          "keyterms": [
+            "Blog",
+            "Bretagne",
+            "Reise",
+            "Interessen",
+            "Schreiben",
+            "Vokabular",
+            "Wetter",
+            "Region",
+            "Vorstellung",
+            "Erzählung",
+            "Bericht",
+            "Traditionen",
+            "Landschaft",
+            "Kultur",
+            "Erfahrung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Les médias et moi",
+      "level": 0,
+      "keyterms": [
+        "Medien",
+        "Apps",
+        "Kommunikation",
+        "Podcast",
+        "Statistik",
+        "Umfrage",
+        "Nutzung",
+        "Information",
+        "Meinung",
+        "Bericht",
+        "Vokabular",
+        "Grammatik",
+        "Inversionsfrage",
+        "Verben",
+        "Kommunikationsmittel"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Les médias",
+          "level": 1,
+          "keyterms": [
+            "Medien",
+            "Vokabular",
+            "Statistik",
+            "Umfrage",
+            "Nutzung",
+            "Apps",
+            "Kommunikation",
+            "Information",
+            "Technologie",
+            "Fragen",
+            "Antworten",
+            "Meinung",
+            "Bericht",
+            "Erfahrung",
+            "Verstehen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Consommer",
+          "level": 1,
+          "keyterms": [
+            "Apps",
+            "Nutzung",
+            "Konsum",
+            "Technologie",
+            "Jugendliche",
+            "Vokabular",
+            "Fragen",
+            "Antworten",
+            "Meinung",
+            "Bericht",
+            "Erfahrung",
+            "Verstehen",
+            "Kommunikation",
+            "Statistik",
+            "Umfrage"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: Informer",
+          "level": 1,
+          "keyterms": [
+            "Podcast",
+            "Information",
+            "Kommunikation",
+            "Bericht",
+            "Vokabular",
+            "Verstehen",
+            "Sprechen",
+            "Meinung",
+            "Austausch",
+            "Medienprodukte",
+            "Nachrichten",
+            "Erfahrung",
+            "Technologie",
+            "Apps",
+            "Nutzung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier C: Communiquer",
+          "level": 1,
+          "keyterms": [
+            "Kommunikation",
+            "Chat",
+            "Veranstaltung",
+            "Austausch",
+            "Jugendliche",
+            "Meinung",
+            "Bericht",
+            "Medienprodukte",
+            "Vokabular",
+            "Fragen",
+            "Antworten",
+            "Erfahrung",
+            "Verstehen",
+            "Technologie",
+            "Apps"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Le sport, c'est fort!",
+      "level": 0,
+      "keyterms": [
+        "Sport",
+        "Frankreich",
+        "Sportarten",
+        "Vergleich",
+        "Lieblingssport",
+        "Surfen",
+        "Senegal",
+        "Ziele",
+        "Vokabular",
+        "Grammatik",
+        "Reflexive Verben",
+        "Steigerung",
+        "Erzählung",
+        "Bericht",
+        "Erfahrung"
+      ],
+      "children": [
+        {
+          "name": "Découvertes: Vive le sport!",
+          "level": 1,
+          "keyterms": [
+            "Sport",
+            "Frankreich",
+            "Beliebte Sportarten",
+            "Vokabular",
+            "Vergleich",
+            "Lieblingssport",
+            "Aktivitäten",
+            "Kultur",
+            "Erfahrung",
+            "Erzählung",
+            "Bericht",
+            "Sportarten",
+            "Freizeit",
+            "Bewegung",
+            "Gesundheit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier A: Le rugby, un sport pour tous",
+          "level": 1,
+          "keyterms": [
+            "Rugby",
+            "Sportarten",
+            "Vergleich",
+            "Lieblingssport",
+            "Vokabular",
+            "Kultur",
+            "Frankreich",
+            "Aktivitäten",
+            "Erfahrung",
+            "Erzählung",
+            "Bericht",
+            "Sport",
+            "Freizeit",
+            "Bewegung",
+            "Gesundheit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Atelier B: La première surfeuse du Sénégal",
+          "level": 1,
+          "keyterms": [
+            "Surfen",
+            "Senegal",
+            "Sport",
+            "Ziele",
+            "Erzählung",
+            "Bericht",
+            "Vokabular",
+            "Kultur",
+            "Aktivitäten",
+            "Erfahrung",
+            "Sportarten",
+            "Freizeit",
+            "Bewegung",
+            "Gesundheit",
+            "Reflexive Verben"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "En plus / Différenciation",
+      "level": 0,
+      "keyterms": [
+        "Zusatzübungen",
+        "Parallelübungen",
+        "Differenzierung",
+        "Strategien",
+        "Vokabular",
+        "Lernmethoden",
+        "Aussprache",
+        "Rechtschreibung",
+        "Selbstkontrolle",
+        "Wiederholung",
+        "Checkliste",
+        "Internet",
+        "Recherche",
+        "Kommunikation",
+        "Schreiben"
+      ],
+      "children": [
+        {
+          "name": "Zoom: Die Aussprache verbessern",
+          "level": 1,
+          "keyterms": [
+            "Aussprache",
+            "Phonetik",
+            "Betonung",
+            "Lautbildung",
+            "Silben",
+            "Intonation",
+            "Verbesserung",
+            "Übung",
+            "Hören",
+            "Sprechen",
+            "Wortschatz",
+            "Korrektur",
+            "Französisch",
+            "Laute",
+            "Sprachtraining"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zoom: Die Rechtschreibung verbessern",
+          "level": 1,
+          "keyterms": [
+            "Rechtschreibung",
+            "Schreibweise",
+            "Korrektur",
+            "Fehler",
+            "Verbesserung",
+            "Übung",
+            "Wortschatz",
+            "Grammatik",
+            "Französisch",
+            "Schreiben",
+            "Selbstkontrolle",
+            "Regeln",
+            "Strategien",
+            "Lernen",
+            "Training"
+          ],
+          "children": []
+        },
+        {
+          "name": "Strategien",
+          "level": 1,
+          "keyterms": [
+            "Vokabeln",
+            "Wörterbuch",
+            "Nachschlagen",
+            "Hörverstehen",
+            "Leseverstehen",
+            "Sprechen",
+            "Informationen",
+            "Schreiben",
+            "Checkliste",
+            "Computer",
+            "Internet",
+            "Recherche",
+            "Sprachmittlung",
+            "Kommunikation",
+            "Lernmethoden"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

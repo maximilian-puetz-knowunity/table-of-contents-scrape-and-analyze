@@ -1,0 +1,879 @@
+{
+  "country": "DE",
+  "grade": "7",
+  "subject": "German Language",
+  "ISBN": "978-3-12-316303-6",
+  "taxonomy": [
+    {
+      "name": "Geniale Erfindungen der Natur – Sich und andere informieren",
+      "level": 0,
+      "keyterms": [
+        "Sachtext",
+        "Recherche",
+        "Bionik",
+        "Präsentation",
+        "Information",
+        "Bewertung",
+        "Auswahl",
+        "Referat",
+        "Medien",
+        "Textsorten",
+        "Struktur",
+        "Wiedergabe",
+        "Schreiben",
+        "Themenfindung",
+        "Gliederung"
+      ],
+      "children": [
+        {
+          "name": "Texte recherchieren und erschließen",
+          "level": 1,
+          "keyterms": [
+            "Recherche",
+            "Informationsquellen",
+            "Lesetechniken",
+            "Sachtexte",
+            "Textverständnis",
+            "Schlüsselbegriffe"
+          ],
+          "children": []
+        },
+        {
+          "name": "Informationen recherchieren, bewerten und auswählen",
+          "level": 1,
+          "keyterms": [
+            "Informationsauswahl",
+            "Bewertung",
+            "Quellenkritik",
+            "Vergleich",
+            "Sachbuch",
+            "Bionik",
+            "Inhaltsverzeichnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Sachtext erschließen und schriftlich wiedergeben",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Wiedergabe",
+            "Zusammenfassung",
+            "Struktur",
+            "Schreiben",
+            "Kernaussagen",
+            "Textgliederung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Referat vorbereiten und mediengestützt präsentieren",
+          "level": 1,
+          "keyterms": [
+            "Referat",
+            "Präsentation",
+            "Medien",
+            "Vorbereitung",
+            "Präsentationsfolien",
+            "Vortrag",
+            "Visualisierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Reden, debattieren, diskutieren – Sprachlicher Umgang mit anderen",
+      "level": 0,
+      "keyterms": [
+        "Gespräch",
+        "Diskussion",
+        "Argumentation",
+        "Kommunikation",
+        "Digitale Medien",
+        "Online-Kommunikation",
+        "Sprachgebrauch",
+        "Ursachen",
+        "Missverständnisse",
+        "Gefahren",
+        "Chancen",
+        "Überzeugung",
+        "Meinung",
+        "Dialog",
+        "Rhetorik"
+      ],
+      "children": [
+        {
+          "name": "Gesprächsstörungen erkennen und vermeiden",
+          "level": 1,
+          "keyterms": [
+            "Gesprächsstörung",
+            "Missverständnis",
+            "Kommunikationsregeln",
+            "Ursachen",
+            "Vermeidung",
+            "Gesprächsführung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mündliche Kommunikation untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Digitale Kommunikation",
+            "Chancen",
+            "Gefahren",
+            "Soziale Medien",
+            "Sprachwandel",
+            "Kommunikationsformen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Überzeugend argumentieren",
+          "level": 1,
+          "keyterms": [
+            "Argumentation",
+            "Überzeugung",
+            "Begründung",
+            "Meinung",
+            "Rhetorik",
+            "Diskussion"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ich mache, was ich will?! – Schriftlich argumentieren",
+      "level": 0,
+      "keyterms": [
+        "Argumentation",
+        "Meinung",
+        "Begründung",
+        "Textsorten",
+        "Adressaten",
+        "Überzeugung",
+        "Schreiben",
+        "Struktur",
+        "Planung",
+        "Überarbeitung",
+        "Textanalyse",
+        "Argumentationsstruktur",
+        "Adressatenbezug",
+        "Medienkompetenz",
+        "Textvergleich"
+      ],
+      "children": [
+        {
+          "name": "Meinungen äußern und begründen",
+          "level": 1,
+          "keyterms": [
+            "Meinung",
+            "Begründung",
+            "Argument",
+            "Schriftliche Argumentation",
+            "Textanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine schriftliche Argumentation verfassen und überarbeiten",
+          "level": 1,
+          "keyterms": [
+            "Argumentation",
+            "Text verfassen",
+            "Überarbeitung",
+            "Struktur",
+            "Planung",
+            "Argumentationskette"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verschiedene Textsorten nutzen, um Adressaten zu überzeugen",
+          "level": 1,
+          "keyterms": [
+            "Textsorten",
+            "Adressatenbezug",
+            "Überzeugung",
+            "Vergleich",
+            "Medien",
+            "Adressatengerechtes Schreiben"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Preisgekrönt – Ausgezeichnete Kinder- und Jugendliteratur – Auf Materialbasis einen informierenden Text schreiben",
+      "level": 0,
+      "keyterms": [
+        "Informierender Text",
+        "Materialauswertung",
+        "Schriftstellerin",
+        "Textplanung",
+        "Textüberarbeitung",
+        "Quellen",
+        "Information",
+        "Struktur",
+        "Lesekompetenz",
+        "Jugendliteratur",
+        "Textsorten",
+        "Medienkompetenz",
+        "Textgestaltung",
+        "Präsentation",
+        "UNESCO"
+      ],
+      "children": [
+        {
+          "name": "Auf Materialbasis einen informierenden Text planen und schreiben",
+          "level": 1,
+          "keyterms": [
+            "Materialauswertung",
+            "Textplanung",
+            "Informierender Text",
+            "Schreiben",
+            "Struktur",
+            "Quellen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen informierenden Text überarbeiten",
+          "level": 1,
+          "keyterms": [
+            "Überarbeitung",
+            "Textstruktur",
+            "Korrektur",
+            "Verbesserung",
+            "Informationsgehalt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Verkehrte Welt – Eine Inhaltsangabe zu einem literarischen Text schreiben",
+      "level": 0,
+      "keyterms": [
+        "Inhaltsangabe",
+        "Literarischer Text",
+        "Merkmale",
+        "Wiedergabe",
+        "Wörtliche Rede",
+        "Struktur",
+        "Kernaussage",
+        "Zusammenfassung",
+        "Überarbeitung",
+        "Textverständnis",
+        "Planung",
+        "Schreiben",
+        "Kurzfassung",
+        "Handlung",
+        "Figuren"
+      ],
+      "children": [
+        {
+          "name": "Eine Inhaltsangabe planen",
+          "level": 1,
+          "keyterms": [
+            "Planung",
+            "Struktur",
+            "Kernaussage",
+            "Handlung",
+            "Figuren",
+            "Textgliederung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Merkmale einer Inhaltsangabe kennenlernen und schreiben",
+          "level": 1,
+          "keyterms": [
+            "Merkmale",
+            "Inhaltsangabe",
+            "Wörtliche Rede",
+            "Zusammenfassung",
+            "Schreiben"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Inhaltsangabe überarbeiten",
+          "level": 1,
+          "keyterms": [
+            "Überarbeitung",
+            "Korrektur",
+            "Verbesserung",
+            "Struktur",
+            "Kernaussage"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Besondere Begegnungen – Erzählende Texte untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Erzählender Text",
+        "Handlung",
+        "Kurzgeschichte",
+        "Jugendbuch",
+        "Figuren",
+        "Erzählhaltung",
+        "Erzählperspektive",
+        "Textanalyse",
+        "Struktur",
+        "Themen",
+        "Produktion",
+        "Untersuchung",
+        "Handlungsverlauf",
+        "Erzähltechnik",
+        "Textsorten"
+      ],
+      "children": [
+        {
+          "name": "Die Äußerung einer Handlung untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Handlung",
+            "Erzählstruktur",
+            "Handlungsverlauf",
+            "Erzähltechnik",
+            "Textanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kurzgeschichten untersuchen und schreiben",
+          "level": 1,
+          "keyterms": [
+            "Kurzgeschichte",
+            "Untersuchung",
+            "Schreiben",
+            "Handlung",
+            "Figuren",
+            "Erzählperspektive"
+          ],
+          "children": []
+        },
+        {
+          "name": "Jugendbuchausschnitte untersuchen und erzählen",
+          "level": 1,
+          "keyterms": [
+            "Jugendbuch",
+            "Ausschnitt",
+            "Handlung",
+            "Figuren",
+            "Erzählhaltung",
+            "Erzählperspektive"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Avatare – Reisen durch Raum und Zeit – Filme und Computerspiele untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Film",
+        "Computerspiel",
+        "Virtuelle Welten",
+        "Montagetechniken",
+        "Rollenanalyse",
+        "Bildsprache",
+        "Gestaltung",
+        "Handlung",
+        "Charaktere",
+        "Medienkompetenz",
+        "Analyse",
+        "Vergleich",
+        "Zeitreise",
+        "Raum",
+        "Fiktion"
+      ],
+      "children": [
+        {
+          "name": "Virtuelle Welten – Montagetechniken in einem Film untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Virtuelle Welt",
+            "Montagetechnik",
+            "Film",
+            "Analyse",
+            "Bildsprache",
+            "Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Computerspiele untersuchen – Rollenanalysen",
+          "level": 1,
+          "keyterms": [
+            "Computerspiel",
+            "Rollenanalyse",
+            "Charaktere",
+            "Handlung",
+            "Analyse"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Bewährungsproben – Balladen untersuchen und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Ballade",
+        "Untersuchung",
+        "Gestaltung",
+        "Helden",
+        "Natur",
+        "Form",
+        "Sprache",
+        "Wirkung",
+        "Rezitation",
+        "Inhalt",
+        "Struktur",
+        "Themen",
+        "Analyse",
+        "Dichtung",
+        "Literatur"
+      ],
+      "children": [
+        {
+          "name": "Merkmale von Balladen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Ballade",
+            "Merkmale",
+            "Form",
+            "Sprache",
+            "Inhalt",
+            "Untersuchung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Balladen rezitieren",
+          "level": 1,
+          "keyterms": [
+            "Rezitation",
+            "Vortrag",
+            "Ballade",
+            "Sprache",
+            "Wirkung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Balladen gestalten",
+          "level": 1,
+          "keyterms": [
+            "Gestaltung",
+            "Ballade",
+            "Inhalt",
+            "Form",
+            "Sprache",
+            "Kreativität"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Nur ein Spiel?! – Ein Theaterstück untersuchen und Szenen spielen",
+      "level": 0,
+      "keyterms": [
+        "Theaterstück",
+        "Szenen",
+        "Figurenbeziehungen",
+        "Konflikte",
+        "Untersuchung",
+        "Spiel",
+        "Handlung",
+        "Dramatik",
+        "Charaktere",
+        "Inszenierung",
+        "Bühne",
+        "Dialog",
+        "Drehbuch",
+        "Interpretation",
+        "Rollenspiel"
+      ],
+      "children": [
+        {
+          "name": "Figurenbeziehungen und mögliche Konflikte erkennen",
+          "level": 1,
+          "keyterms": [
+            "Figurenbeziehung",
+            "Konflikt",
+            "Charaktere",
+            "Handlung",
+            "Untersuchung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Entwicklung von Figurenbeziehungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Figurenentwicklung",
+            "Beziehung",
+            "Handlung",
+            "Untersuchung",
+            "Charaktere"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Szene spielen",
+          "level": 1,
+          "keyterms": [
+            "Szene",
+            "Spiel",
+            "Inszenierung",
+            "Bühne",
+            "Interpretation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Macht Werbung! – Werbung untersuchen und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Werbung",
+        "Analyse",
+        "Gestaltung",
+        "Werbeanzeige",
+        "Sprache",
+        "Bild",
+        "Internet",
+        "Soziale Medien",
+        "Influencer",
+        "Werbewirkung",
+        "Text-Bild-Kombination",
+        "Werbestrategie",
+        "Produkt",
+        "Kampagne",
+        "Zielgruppe"
+      ],
+      "children": [
+        {
+          "name": "Werbeanzeigen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Werbeanzeige",
+            "Analyse",
+            "Bild",
+            "Text",
+            "Sprache",
+            "Wirkung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Werbespots im Fernsehen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Werbespot",
+            "Fernsehen",
+            "Analyse",
+            "Gestaltung",
+            "Wirkung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Werbung im Internet und in sozialen Medien untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Internet",
+            "Soziale Medien",
+            "Influencer",
+            "Werbung",
+            "Analyse",
+            "Wirkung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Immer up to date?! – Sprachen und aktuelle Sprachtrends untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Sprachtrends",
+        "Sprachwandel",
+        "Anglizismen",
+        "Mehrsprachigkeit",
+        "Wortbedeutung",
+        "Sprache",
+        "Untersuchung",
+        "Grammatik",
+        "Strukturen",
+        "Vergleich",
+        "Sprachgebrauch",
+        "Jugendsprache",
+        "Neologismen",
+        "Kommunikation",
+        "Sprachentwicklung"
+      ],
+      "children": [
+        {
+          "name": "Wortbedeutungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Wortbedeutung",
+            "Untersuchung",
+            "Sprachgebrauch",
+            "Lexik",
+            "Bedeutungswandel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprachwandel durch Anglizismen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sprachwandel",
+            "Anglizismen",
+            "Untersuchung",
+            "Einfluss",
+            "Sprache"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mehrsprachigkeit untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Mehrsprachigkeit",
+            "Vergleich",
+            "Grammatik",
+            "Strukturen",
+            "Sprachgebrauch"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Das gibt's wirklich?! – Wortarten unterscheiden und verwenden",
+      "level": 0,
+      "keyterms": [
+        "Wortarten",
+        "Tempusformen",
+        "Passiv",
+        "Pronomen",
+        "Numerale",
+        "Adverbien",
+        "Konjunktionen",
+        "Unterscheidung",
+        "Verwendung",
+        "Grammatik",
+        "Satzbau",
+        "Sprachstruktur",
+        "Beispiele",
+        "Regeln",
+        "Anwendung"
+      ],
+      "children": [
+        {
+          "name": "Tempusformen unterscheiden und verwenden",
+          "level": 1,
+          "keyterms": [
+            "Tempus",
+            "Zeitform",
+            "Unterscheidung",
+            "Verwendung",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Passiv beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Passiv",
+            "Beschreibung",
+            "Handlung",
+            "Vorgang",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Pronomen und Numerale unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Pronomen",
+            "Numerale",
+            "Unterscheidung",
+            "Grammatik",
+            "Beispiele"
+          ],
+          "children": []
+        },
+        {
+          "name": "Adverbien und Konjunktionen gezielt verwenden",
+          "level": 1,
+          "keyterms": [
+            "Adverb",
+            "Konjunktion",
+            "Verwendung",
+            "Satzbau",
+            "Grammatik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Dem Täter auf der Spur – Satzglieder untersuchen und Satzzeichen setzen",
+      "level": 0,
+      "keyterms": [
+        "Satzglieder",
+        "Satzbau",
+        "Satzzeichen",
+        "Attribute",
+        "Nebensatz",
+        "Kommasetzung",
+        "Erklärung",
+        "Untersuchung",
+        "Struktur",
+        "Grammatik",
+        "Satzanalyse",
+        "Hauptsatz",
+        "Beispiel",
+        "Ergänzung",
+        "Satzstruktur"
+      ],
+      "children": [
+        {
+          "name": "Satzglieder und Satzzüge unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Satzglied",
+            "Satzzug",
+            "Unterscheidung",
+            "Satzbau",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Attribute und deren Funktion erkennen",
+          "level": 1,
+          "keyterms": [
+            "Attribut",
+            "Funktion",
+            "Erkennung",
+            "Satzbau",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Satzzeichen richtig setzen",
+          "level": 1,
+          "keyterms": [
+            "Satzzeichen",
+            "Komma",
+            "Setzung",
+            "Regeln",
+            "Grammatik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kommas bei Infinitivgruppen setzen",
+          "level": 1,
+          "keyterms": [
+            "Komma",
+            "Infinitivgruppe",
+            "Setzung",
+            "Regeln",
+            "Grammatik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rekordverdächtig – Regeln und Strategien der Rechtschreibung anwenden",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Großschreibung",
+        "Kleinschreibung",
+        "Fehlerkorrektur",
+        "Verben",
+        "Getrenntschreibung",
+        "Zusammenschreibung",
+        "Adjektiv-Verb-Verbindung",
+        "Nomen-Verb-Verbindung",
+        "Regeln",
+        "Strategien",
+        "Fehleranalyse",
+        "Korrektur",
+        "Schreibweise",
+        "Wortarten"
+      ],
+      "children": [
+        {
+          "name": "Groß- und Kleinschreibung anwenden",
+          "level": 1,
+          "keyterms": [
+            "Großschreibung",
+            "Kleinschreibung",
+            "Regeln",
+            "Anwendung",
+            "Rechtschreibung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zeit- und Ortsangaben schreiben",
+          "level": 1,
+          "keyterms": [
+            "Zeitangabe",
+            "Ortsangabe",
+            "Schreibweise",
+            "Rechtschreibung",
+            "Regeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eigene Fehler aufspüren und korrigieren",
+          "level": 1,
+          "keyterms": [
+            "Fehler",
+            "Korrektur",
+            "Fehleranalyse",
+            "Rechtschreibung",
+            "Verbesserung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Verben getrennt und zusammen schreiben",
+          "level": 1,
+          "keyterms": [
+            "Verben",
+            "Getrenntschreibung",
+            "Zusammenschreibung",
+            "Adjektiv-Verb-Verbindung",
+            "Nomen-Verb-Verbindung"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

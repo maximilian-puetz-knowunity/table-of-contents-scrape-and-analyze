@@ -1,0 +1,762 @@
+{
+  "country": "DE",
+  "grade": "5_6",
+  "subject": "Geography",
+  "ISBN": "978-3-12-105204-2",
+  "taxonomy": [
+    {
+      "name": "Sich orientieren",
+      "level": 0,
+      "keyterms": [
+        "Geografie",
+        "Nachhaltigkeit",
+        "Atlas",
+        "Karten",
+        "Orientierung",
+        "Grundriss",
+        "Deutschland",
+        "Bundesländer",
+        "Europa",
+        "Regionen",
+        "Maßstab",
+        "Legende",
+        "Himmelsrichtungen",
+        "Längen- und Breitengrade",
+        "Relief"
+      ],
+      "children": [
+        {
+          "name": "Was ist Geografie?",
+          "level": 1,
+          "keyterms": [
+            "Geografie",
+            "Erde",
+            "Lebensräume",
+            "Natur",
+            "Mensch",
+            "Umwelt",
+            "Raum",
+            "Landschaft",
+            "Kultur",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Was ist nachhaltig?",
+          "level": 1,
+          "keyterms": [
+            "Nachhaltigkeit",
+            "Ressourcen",
+            "Umweltschutz",
+            "Zukunft",
+            "Verantwortung",
+            "Ökologie",
+            "Soziales",
+            "Wirtschaft",
+            "Klimaschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie und warum Karten entstehen",
+          "level": 1,
+          "keyterms": [
+            "Karten",
+            "Kartenarten",
+            "Maßstab",
+            "Legende",
+            "Symbol",
+            "Orientierung",
+            "Darstellung",
+            "Vermessung",
+            "Landschaft",
+            "Raum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie hilft mir ein Atlas?",
+          "level": 1,
+          "keyterms": [
+            "Atlas",
+            "Karten",
+            "Register",
+            "Inhaltsverzeichnis",
+            "Suchfunktion",
+            "Themenkarten",
+            "Physische Karten",
+            "Politische Karten",
+            "Orientierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wie kann ich mit dem Atlas arbeiten?",
+          "level": 1,
+          "keyterms": [
+            "Atlasarbeit",
+            "Register",
+            "Kartenlesen",
+            "Maßstab",
+            "Legende",
+            "Koordinaten",
+            "Suchen",
+            "Vergleichen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Orientierung im Gelände",
+          "level": 1,
+          "keyterms": [
+            "Gelände",
+            "Orientierung",
+            "Himmelsrichtungen",
+            "Kompass",
+            "Karten",
+            "Landschaftsmerkmale",
+            "Standortbestimmung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Karten lesen – kleine Hexerei",
+          "level": 1,
+          "keyterms": [
+            "Kartenlesen",
+            "Maßstab",
+            "Legende",
+            "Symbole",
+            "Höhenlinien",
+            "Farben",
+            "Orientierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grundriss und Grundrisszeichnen",
+          "level": 1,
+          "keyterms": [
+            "Grundriss",
+            "Zeichnen",
+            "Maßstab",
+            "Gebäude",
+            "Räume",
+            "Darstellung",
+            "Plan"
+          ],
+          "children": []
+        },
+        {
+          "name": "Deutschland und Bundesländer",
+          "level": 1,
+          "keyterms": [
+            "Deutschland",
+            "Bundesländer",
+            "Hauptstädte",
+            "Grenzen",
+            "Lage",
+            "Karte",
+            "Regionen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Haupthimmelsrichtungen und Regionen Europas",
+          "level": 1,
+          "keyterms": [
+            "Himmelsrichtungen",
+            "Europa",
+            "Regionen",
+            "Lage",
+            "Karte",
+            "Länder",
+            "Orientierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Leben auf dem Land, Leben in der Stadt",
+      "level": 0,
+      "keyterms": [
+        "Land",
+        "Stadt",
+        "Dorf",
+        "Stadtentwicklung",
+        "Infrastruktur",
+        "Wohnformen",
+        "Stadtteile",
+        "Stadtplan",
+        "Verkehr",
+        "Freizeit",
+        "Arbeitsplätze",
+        "Bevölkerung",
+        "Stadt-Land-Vergleich",
+        "Karten",
+        "Umwelt"
+      ],
+      "children": [
+        {
+          "name": "Wie leben wir?",
+          "level": 1,
+          "keyterms": [
+            "Lebensweise",
+            "Wohnformen",
+            "Familie",
+            "Gemeinschaft",
+            "Alltag",
+            "Freizeit",
+            "Arbeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Dorf oder Stadt?",
+          "level": 1,
+          "keyterms": [
+            "Dorf",
+            "Stadt",
+            "Unterschiede",
+            "Merkmale",
+            "Bevölkerung",
+            "Infrastruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadt und Land im Unterschied",
+          "level": 1,
+          "keyterms": [
+            "Stadt-Land-Vergleich",
+            "Lebensbedingungen",
+            "Arbeitsplätze",
+            "Freizeit",
+            "Verkehr",
+            "Umwelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadtteile und Innenstadt kartieren",
+          "level": 1,
+          "keyterms": [
+            "Stadtteile",
+            "Innenstadt",
+            "Karten",
+            "Kartieren",
+            "Stadtplan",
+            "Orientierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadtentwicklung",
+          "level": 1,
+          "keyterms": [
+            "Stadtentwicklung",
+            "Wachstum",
+            "Veränderung",
+            "Bebauung",
+            "Infrastruktur",
+            "Wohnraum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadtpläne lesen",
+          "level": 1,
+          "keyterms": [
+            "Stadtplan",
+            "Lesen",
+            "Orientierung",
+            "Symbole",
+            "Legende",
+            "Straßen",
+            "Gebäude"
+          ],
+          "children": []
+        },
+        {
+          "name": "Stadtteile vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Stadtteile",
+            "Vergleich",
+            "Merkmale",
+            "Funktionen",
+            "Bevölkerung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eigene Umfrage erstellen",
+          "level": 1,
+          "keyterms": [
+            "Umfrage",
+            "Fragebogen",
+            "Befragung",
+            "Auswertung",
+            "Ergebnisse",
+            "Präsentation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Landwirte versorgen uns",
+      "level": 0,
+      "keyterms": [
+        "Landwirtschaft",
+        "Börde",
+        "Strukturwandel",
+        "Ernte",
+        "Produkte",
+        "Temperatur",
+        "Niederschlag",
+        "Klimadiagramm",
+        "Konventionelle Landwirtschaft",
+        "Ökologische Landwirtschaft",
+        "Tierhaltung",
+        "Erzeugnisse",
+        "Regionen",
+        "Produktionsweisen",
+        "Nachhaltigkeit"
+      ],
+      "children": [
+        {
+          "name": "Getreideanbau in der Börde",
+          "level": 1,
+          "keyterms": [
+            "Getreide",
+            "Börde",
+            "Anbau",
+            "Boden",
+            "Ernte",
+            "Landwirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Der Strukturwandel in der Landwirtschaft",
+          "level": 1,
+          "keyterms": [
+            "Strukturwandel",
+            "Landwirtschaft",
+            "Technik",
+            "Betriebe",
+            "Arbeitsplätze",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Salat ist nicht gleich Salat",
+          "level": 1,
+          "keyterms": [
+            "Salat",
+            "Sorten",
+            "Anbau",
+            "Ernte",
+            "Vermarktung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Temperatur und Niederschlag messen",
+          "level": 1,
+          "keyterms": [
+            "Temperatur",
+            "Niederschlag",
+            "Messung",
+            "Klimadiagramm",
+            "Wetter",
+            "Klima"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klimadiagramme auswerten",
+          "level": 1,
+          "keyterms": [
+            "Klimadiagramm",
+            "Auswertung",
+            "Klima",
+            "Wetter",
+            "Jahreszeiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Konventionelle Landwirtschaft und Tierhaltung",
+          "level": 1,
+          "keyterms": [
+            "Konventionelle Landwirtschaft",
+            "Tierhaltung",
+            "Produktionsweisen",
+            "Erzeugnisse",
+            "Betriebe"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ökologische Landwirtschaft und Tierhaltung",
+          "level": 1,
+          "keyterms": [
+            "Ökologische Landwirtschaft",
+            "Tierhaltung",
+            "Bio",
+            "Nachhaltigkeit",
+            "Umweltschutz"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vom Landwirt zum Energieprofi",
+          "level": 1,
+          "keyterms": [
+            "Landwirt",
+            "Energie",
+            "Erneuerbare Energien",
+            "Biogas",
+            "Photovoltaik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Landwirtschaft in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Landwirtschaft",
+            "Deutschland",
+            "Regionen",
+            "Produkte",
+            "Betriebe"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auf den Standort kommt es an",
+      "level": 0,
+      "keyterms": [
+        "Standort",
+        "Industrie",
+        "BASF",
+        "Oberweserwerk",
+        "UPS",
+        "Verkehr",
+        "Arbeitsplätze",
+        "Wirtschaft",
+        "Standortfaktoren",
+        "Industriegebiete",
+        "Handel",
+        "Dienstleistungen",
+        "Strukturwandel",
+        "Bildung",
+        "Regionen"
+      ],
+      "children": [
+        {
+          "name": "Warum hier und nicht woanders?",
+          "level": 1,
+          "keyterms": [
+            "Standortwahl",
+            "Faktoren",
+            "Lage",
+            "Verkehr",
+            "Rohstoffe",
+            "Arbeitskräfte"
+          ],
+          "children": []
+        },
+        {
+          "name": "BASF – das größte Chemiewerk",
+          "level": 1,
+          "keyterms": [
+            "BASF",
+            "Chemieindustrie",
+            "Industrie",
+            "Arbeitsplätze",
+            "Produktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das Oberweserwerk",
+          "level": 1,
+          "keyterms": [
+            "Oberweserwerk",
+            "Industrie",
+            "Produktion",
+            "Standort",
+            "Arbeitsplätze"
+          ],
+          "children": []
+        },
+        {
+          "name": "Logistikzentrum der Welt – UPS",
+          "level": 1,
+          "keyterms": [
+            "Logistik",
+            "UPS",
+            "Transport",
+            "Verkehr",
+            "Waren",
+            "Standort"
+          ],
+          "children": []
+        },
+        {
+          "name": "Industriegebiet",
+          "level": 1,
+          "keyterms": [
+            "Industriegebiet",
+            "Betriebe",
+            "Standort",
+            "Verkehr",
+            "Arbeitsplätze"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bildung sorgt für Arbeitsplätze",
+          "level": 1,
+          "keyterms": [
+            "Bildung",
+            "Arbeitsplätze",
+            "Qualifikation",
+            "Berufe",
+            "Wirtschaft"
+          ],
+          "children": []
+        },
+        {
+          "name": "Strukturwandel: Das Ruhrgebiet im Wandel",
+          "level": 1,
+          "keyterms": [
+            "Strukturwandel",
+            "Ruhrgebiet",
+            "Industrie",
+            "Dienstleistungen",
+            "Arbeitsplätze",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Handel (Wandel! Shoppen, aber wo?)",
+          "level": 1,
+          "keyterms": [
+            "Handel",
+            "Einkaufen",
+            "Geschäfte",
+            "Onlinehandel",
+            "Innenstadt",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Rückzugsgebiet: Handel im Wandel",
+          "level": 1,
+          "keyterms": [
+            "Handel",
+            "Wandel",
+            "Strukturwandel",
+            "Geschäfte",
+            "Veränderung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wirtschaftsstandorte in Deutschland",
+          "level": 1,
+          "keyterms": [
+            "Wirtschaftsstandorte",
+            "Deutschland",
+            "Regionen",
+            "Industrie",
+            "Dienstleistungen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wohin in Ferien und Freizeit",
+      "level": 0,
+      "keyterms": [
+        "Ferien",
+        "Freizeit",
+        "Reiseziele",
+        "Nordsee",
+        "Ostsee",
+        "Tourismus",
+        "Wattwanderung",
+        "Inseln",
+        "Küste",
+        "Berge",
+        "Tourismusregionen",
+        "Europa",
+        "Mallorca",
+        "Wasser",
+        "Freizeitaktivitäten"
+      ],
+      "children": [
+        {
+          "name": "Die Befragung durchführen: Wohin die Reise geht",
+          "level": 1,
+          "keyterms": [
+            "Befragung",
+            "Reiseziele",
+            "Ferien",
+            "Freizeit",
+            "Umfrage"
+          ],
+          "children": []
+        },
+        {
+          "name": "Diagramme zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Diagramme",
+            "Zeichnen",
+            "Auswertung",
+            "Daten",
+            "Präsentation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Urlaub an der Nordsee",
+          "level": 1,
+          "keyterms": [
+            "Nordsee",
+            "Urlaub",
+            "Küste",
+            "Inseln",
+            "Watt",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wattwanderung",
+          "level": 1,
+          "keyterms": [
+            "Watt",
+            "Wattwanderung",
+            "Nordsee",
+            "Natur",
+            "Erlebnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Unterschiede an der Ostsee und an der Nordsee",
+          "level": 1,
+          "keyterms": [
+            "Ostsee",
+            "Nordsee",
+            "Unterschiede",
+            "Küste",
+            "Inseln",
+            "Tourismus"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tourismus an der Ostsee und an der Nordsee – Segen und Fluch?",
+          "level": 1,
+          "keyterms": [
+            "Tourismus",
+            "Ostsee",
+            "Nordsee",
+            "Vorteile",
+            "Nachteile",
+            "Umwelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tourismusregionen in Europa",
+          "level": 1,
+          "keyterms": [
+            "Tourismusregionen",
+            "Europa",
+            "Reiseziele",
+            "Länder",
+            "Freizeit"
+          ],
+          "children": []
+        },
+        {
+          "name": "Beispiel: Tourismus auf Mallorca ausbauen?",
+          "level": 1,
+          "keyterms": [
+            "Mallorca",
+            "Tourismus",
+            "Ausbau",
+            "Entwicklung",
+            "Umwelt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tourismus auf und am Wasser",
+          "level": 1,
+          "keyterms": [
+            "Tourismus",
+            "Wasser",
+            "Seen",
+            "Flüsse",
+            "Freizeit",
+            "Sport"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit dem Fahrrad auf einer Tour",
+          "level": 1,
+          "keyterms": [
+            "Fahrrad",
+            "Tour",
+            "Freizeit",
+            "Bewegung",
+            "Natur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Karten und Stadtplänen sich orientieren und informieren",
+          "level": 1,
+          "keyterms": [
+            "Karten",
+            "Stadtpläne",
+            "Orientierung",
+            "Information",
+            "Reise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tourismusregionen in Europa",
+          "level": 1,
+          "keyterms": [
+            "Tourismusregionen",
+            "Europa",
+            "Reiseziele",
+            "Länder",
+            "Freizeit"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

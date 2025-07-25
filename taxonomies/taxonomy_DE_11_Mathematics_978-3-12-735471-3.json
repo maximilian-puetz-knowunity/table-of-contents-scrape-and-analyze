@@ -1,0 +1,454 @@
+{
+  "country": "DE",
+  "grade": "11",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-735471-3",
+  "taxonomy": [
+    {
+      "name": "Funktionen – Bekanntes und Neues",
+      "level": 0,
+      "keyterms": [
+        "Funktion",
+        "Funktionsgleichung",
+        "Definitionsmenge",
+        "Wertebereich",
+        "Graph",
+        "lineare Funktion",
+        "quadratische Funktion",
+        "Potenzfunktion",
+        "Exponenten",
+        "Transformation",
+        "Verschiebung",
+        "Streckung",
+        "trigonometrische Funktion",
+        "Sinusfunktion",
+        "Kosinusfunktion"
+      ],
+      "children": [
+        {
+          "name": "Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Funktion",
+            "Funktionsvorschrift",
+            "Graph",
+            "Definitionsmenge",
+            "Wertebereich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lineare und quadratische Funktionen",
+          "level": 1,
+          "keyterms": [
+            "lineare Funktion",
+            "Steigung",
+            "y-Achsenabschnitt",
+            "quadratische Funktion",
+            "Parabel",
+            "Scheitelpunkt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzfunktionen mit natürlichen Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Potenzfunktion",
+            "natürlicher Exponent",
+            "Graph",
+            "Symmetrie",
+            "Nullstelle"
+          ],
+          "children": []
+        },
+        {
+          "name": "Potenzfunktionen mit negativen Exponenten",
+          "level": 1,
+          "keyterms": [
+            "Potenzfunktion",
+            "negativer Exponent",
+            "Asymptote",
+            "Definitionslücke",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Transformationen",
+          "level": 1,
+          "keyterms": [
+            "Verschiebung",
+            "Streckung",
+            "Spiegelung",
+            "Transformation",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Trigonometrische Funktionen",
+          "level": 1,
+          "keyterms": [
+            "trigonometrische Funktion",
+            "Sinusfunktion",
+            "Kosinusfunktion",
+            "Periode",
+            "Amplitude",
+            "Phasenverschiebung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ganzrationale Funktionen",
+      "level": 0,
+      "keyterms": [
+        "ganzrationale Funktion",
+        "Polynom",
+        "Grad",
+        "Symmetrie",
+        "Nullstelle",
+        "Grenzverhalten",
+        "Achsenabschnitt",
+        "Graph",
+        "Polynomdivision",
+        "Rest",
+        "Faktorisierung",
+        "Vielfachheit",
+        "Schnittpunkt"
+      ],
+      "children": [
+        {
+          "name": "Ganzrationale Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Polynom",
+            "ganzrationale Funktion",
+            "Grad",
+            "Koeffizient"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grenzverhalten ganzrationaler Funktionen",
+          "level": 1,
+          "keyterms": [
+            "Grenzverhalten",
+            "Unendlichkeit",
+            "Graph",
+            "Polynom"
+          ],
+          "children": []
+        },
+        {
+          "name": "Symmetrie von Graphen",
+          "level": 1,
+          "keyterms": [
+            "Symmetrie",
+            "Achsensymmetrie",
+            "Punktsymmetrie",
+            "Graph"
+          ],
+          "children": []
+        },
+        {
+          "name": "Nullstellen einer ganzrationalen Funktion",
+          "level": 1,
+          "keyterms": [
+            "Nullstelle",
+            "Polynomdivision",
+            "Faktorisierung",
+            "Rest",
+            "Vielfachheit"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ableitung",
+      "level": 0,
+      "keyterms": [
+        "Ableitung",
+        "Differenzenquotient",
+        "Differentialquotient",
+        "Steigung",
+        "Tangente",
+        "Normale",
+        "Ableitungsregel",
+        "Produktregel",
+        "Kettenregel",
+        "Ableitungsfunktion",
+        "Graph",
+        "Parabel",
+        "Brennpunkt"
+      ],
+      "children": [
+        {
+          "name": "Mit dem Änderungs- und Differenzenquotienten",
+          "level": 1,
+          "keyterms": [
+            "Änderungsrate",
+            "Differenzenquotient",
+            "Steigung",
+            "Sekante"
+          ],
+          "children": []
+        },
+        {
+          "name": "Momentane Änderungsrate – Ableitung",
+          "level": 1,
+          "keyterms": [
+            "momentane Änderungsrate",
+            "Differentialquotient",
+            "Ableitung",
+            "Grenzwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Ableitungsfunktion",
+          "level": 1,
+          "keyterms": [
+            "Ableitungsfunktion",
+            "Graph",
+            "Steigung",
+            "Funktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ableitungsregeln",
+          "level": 1,
+          "keyterms": [
+            "Ableitungsregel",
+            "Summenregel",
+            "Produktregel",
+            "Kettenregel",
+            "Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tangenten und Normale",
+          "level": 1,
+          "keyterms": [
+            "Tangente",
+            "Normale",
+            "Steigung",
+            "Berührpunkt",
+            "Gleichung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Untersuchung von Funktionen",
+      "level": 0,
+      "keyterms": [
+        "Monotonie",
+        "Extremstelle",
+        "Vorzeichenwechselkriterium",
+        "Krümmungsverhalten",
+        "Wendepunkt",
+        "Sattelpunkt",
+        "Newton-Verfahren",
+        "Funktionsuntersuchung",
+        "Ableitung",
+        "Graph",
+        "Steigung",
+        "Krümmung"
+      ],
+      "children": [
+        {
+          "name": "Monotonie",
+          "level": 1,
+          "keyterms": [
+            "Monotonie",
+            "monoton steigend",
+            "monoton fallend",
+            "Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Extremstellen – Vorzeichenwechselkriterium",
+          "level": 1,
+          "keyterms": [
+            "Extremstelle",
+            "Maximum",
+            "Minimum",
+            "Vorzeichenwechsel",
+            "Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Extremstellen und zweite Ableitung",
+          "level": 1,
+          "keyterms": [
+            "Extremstelle",
+            "zweite Ableitung",
+            "Krümmung",
+            "Testkriterium"
+          ],
+          "children": []
+        },
+        {
+          "name": "Krümmungsverhalten",
+          "level": 1,
+          "keyterms": [
+            "Krümmung",
+            "konvex",
+            "konkav",
+            "zweite Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wendestellen",
+          "level": 1,
+          "keyterms": [
+            "Wendepunkt",
+            "Sattelpunkt",
+            "Krümmungswechsel",
+            "dritte Ableitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Klausur im Sachzusammenhang",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgabe",
+            "Anwendungsbeispiel",
+            "Funktionsuntersuchung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vektoren",
+      "level": 0,
+      "keyterms": [
+        "Vektor",
+        "Punkt",
+        "Raum",
+        "Vektoraddition",
+        "Vektorsubtraktion",
+        "Skalar",
+        "Skalarmultiplikation",
+        "Betrag",
+        "Richtung",
+        "Koordinaten",
+        "Gerade",
+        "Ebene",
+        "Ortsvektor",
+        "Vektorprodukt"
+      ],
+      "children": [
+        {
+          "name": "Punkte und Figuren im Raum",
+          "level": 1,
+          "keyterms": [
+            "Punkt",
+            "Raum",
+            "Koordinaten",
+            "Figur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Vektoren",
+          "level": 1,
+          "keyterms": [
+            "Vektor",
+            "Ortsvektor",
+            "Richtung",
+            "Betrag"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rechnen mit Vektoren",
+          "level": 1,
+          "keyterms": [
+            "Vektoraddition",
+            "Vektorsubtraktion",
+            "Skalarmultiplikation",
+            "Vektorprodukt"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Geraden im Raum",
+      "level": 0,
+      "keyterms": [
+        "Gerade",
+        "Raum",
+        "Parameterform",
+        "Schnittpunkt",
+        "Lagebeziehung",
+        "Modellierung",
+        "Bewegung",
+        "Vektor",
+        "Koordinaten",
+        "Richtungsvektor",
+        "Stützvektor",
+        "Gleichung"
+      ],
+      "children": [
+        {
+          "name": "Geraden im Raum",
+          "level": 1,
+          "keyterms": [
+            "Gerade",
+            "Raum",
+            "Koordinaten",
+            "Vektor"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Gerade – mehrere Parameterdarstellungen",
+          "level": 1,
+          "keyterms": [
+            "Parameterform",
+            "Koordinatenform",
+            "Vektorform",
+            "Geradengleichung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gegenseitige Lage von Geraden",
+          "level": 1,
+          "keyterms": [
+            "Lagebeziehung",
+            "Schnittpunkt",
+            "parallel",
+            "windschief"
+          ],
+          "children": []
+        },
+        {
+          "name": "Modellieren von Bewegungen auf Geraden",
+          "level": 1,
+          "keyterms": [
+            "Modellierung",
+            "Bewegung",
+            "Gerade",
+            "Vektor"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

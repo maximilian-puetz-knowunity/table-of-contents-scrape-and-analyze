@@ -1,0 +1,832 @@
+{
+  "country": "DE",
+  "grade": "5",
+  "subject": "Mathematics",
+  "ISBN": "978-3-12-746811-3",
+  "taxonomy": [
+    {
+      "name": "Grundlagen",
+      "level": 0,
+      "keyterms": [
+        "Zahlen",
+        "Zahlenschreibweise",
+        "Addition",
+        "Subtraktion",
+        "Multiplikation",
+        "Division",
+        "Zahlenfolgen",
+        "Muster",
+        "Zahlen ordnen",
+        "Zahlen darstellen",
+        "Grundrechenarten",
+        "Zahlensystem",
+        "Zahlen vergleichen",
+        "Zahlen schreiben",
+        "Zahlen lesen"
+      ],
+      "children": [
+        {
+          "name": "Zahlen schreiben",
+          "level": 1,
+          "keyterms": [
+            "Zahlenschreibweise",
+            "Ziffern",
+            "Zahlen lesen",
+            "Zahlen darstellen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlen vergleichen",
+          "level": 1,
+          "keyterms": [
+            "Größer als",
+            "Kleiner als",
+            "Gleich",
+            "Vergleichszeichen",
+            "Zahlen ordnen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Summand",
+            "Differenz",
+            "Rechenzeichen",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Malzeichen",
+            "Geteiltzeichen",
+            "Produkt",
+            "Quotient"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlenfolgen und Muster",
+          "level": 1,
+          "keyterms": [
+            "Zahlenfolgen",
+            "Muster",
+            "Regelmäßigkeit",
+            "Fortsetzung",
+            "Zahlenreihen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Geordnete schreiben und darstellen",
+          "level": 1,
+          "keyterms": [
+            "Zahlen ordnen",
+            "Zahlen darstellen",
+            "Zahlenstrahl",
+            "Tabellen",
+            "Diagramme"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zahlen darstellen",
+      "level": 0,
+      "keyterms": [
+        "Zahlenstrahl",
+        "Schätzen",
+        "Negative Zahlen",
+        "Zahlen ablesen",
+        "Zahlen vergleichen",
+        "Zahlen ordnen",
+        "Größen",
+        "Kommazahlen",
+        "Zahlen darstellen",
+        "Zahlen schreiben",
+        "Zahlen runden",
+        "Zahlenbereich",
+        "Zahlenwert",
+        "Zahlenmenge",
+        "Zahlenfolge"
+      ],
+      "children": [
+        {
+          "name": "Schätzen",
+          "level": 1,
+          "keyterms": [
+            "Schätzung",
+            "Annäherung",
+            "Überschlag",
+            "Runden",
+            "Zahlenbereich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlen auf dem Zahlenstrahl ablesen und darstellen",
+          "level": 1,
+          "keyterms": [
+            "Zahlenstrahl",
+            "Ablesen",
+            "Darstellung",
+            "Position",
+            "Zahlenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Negative Zahlen ablesen und darstellen",
+          "level": 1,
+          "keyterms": [
+            "Negative Zahlen",
+            "Minus",
+            "Zahlenstrahl",
+            "Temperatur",
+            "Schulden"
+          ],
+          "children": []
+        },
+        {
+          "name": "Große Zahlen schreiben",
+          "level": 1,
+          "keyterms": [
+            "Große Zahlen",
+            "Million",
+            "Milliarde",
+            "Zahlenschreibweise",
+            "Stellenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Große Zahlen vergleichen und ordnen",
+          "level": 1,
+          "keyterms": [
+            "Vergleich",
+            "Ordnen",
+            "Größenvergleich",
+            "Zahlenfolge",
+            "Zahlenwert"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zahlen runden",
+          "level": 1,
+          "keyterms": [
+            "Runden",
+            "Stellenwert",
+            "Zehner",
+            "Hunderter",
+            "Tausender"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Zeichen und messen",
+      "level": 0,
+      "keyterms": [
+        "Gerade Linien",
+        "Strecken",
+        "Längen",
+        "Messen",
+        "Lineal",
+        "Maßeinheiten",
+        "Parallele Linien",
+        "Senkrechte Linien",
+        "Winkel",
+        "Geometrische Figuren",
+        "Zeichnen",
+        "Abmessen",
+        "Geodreieck",
+        "Maßstab"
+      ],
+      "children": [
+        {
+          "name": "Gerade Linien unterscheiden und zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Gerade",
+            "Strecke",
+            "Strahl",
+            "Zeichnen",
+            "Unterscheiden"
+          ],
+          "children": []
+        },
+        {
+          "name": "Strecken messen und zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Strecke",
+            "Messen",
+            "Zeichnen",
+            "Lineal",
+            "Länge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Parallele und senkrechte Linien erkennen und zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Parallele Linien",
+            "Senkrechte Linien",
+            "Geodreieck",
+            "Zeichnen",
+            "Geometrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Winkel messen und zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Winkel",
+            "Messen",
+            "Zeichnen",
+            "Grad",
+            "Geodreieck"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Addieren und subtrahieren",
+      "level": 0,
+      "keyterms": [
+        "Addition",
+        "Subtraktion",
+        "Klammern",
+        "Rechenregeln",
+        "Schriftlich addieren",
+        "Schriftlich subtrahieren",
+        "Zahlenfolgen",
+        "Rechenwege",
+        "Summand",
+        "Differenz",
+        "Übertrag",
+        "Stellenwert",
+        "Zahlenraum",
+        "Rechenoperationen"
+      ],
+      "children": [
+        {
+          "name": "Addieren und subtrahieren mit Klammern",
+          "level": 1,
+          "keyterms": [
+            "Klammern",
+            "Reihenfolge",
+            "Rechenregeln",
+            "Addition",
+            "Subtraktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schriftlich addieren",
+          "level": 1,
+          "keyterms": [
+            "Schriftliche Addition",
+            "Übertrag",
+            "Stellenwert",
+            "Summand",
+            "Zahlenraum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schriftlich subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Schriftliche Subtraktion",
+            "Übertrag",
+            "Stellenwert",
+            "Differenz",
+            "Zahlenraum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Addition und Subtraktion",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Textaufgaben",
+            "Addition",
+            "Subtraktion",
+            "Anwendung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Multiplizieren und dividieren",
+      "level": 0,
+      "keyterms": [
+        "Multiplikation",
+        "Division",
+        "Schriftlich multiplizieren",
+        "Schriftlich dividieren",
+        "Klammern",
+        "Rechenregeln",
+        "Sachaufgaben",
+        "Zahlenraum",
+        "Produkt",
+        "Quotient",
+        "Teiler",
+        "Vielfache",
+        "Multiplikationsaufgaben",
+        "Divisionsaufgaben"
+      ],
+      "children": [
+        {
+          "name": "Halbschriftlich multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Halbschriftlich",
+            "Multiplikation",
+            "Division",
+            "Rechenwege",
+            "Zahlenraum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schriftlich multiplizieren",
+          "level": 1,
+          "keyterms": [
+            "Schriftliche Multiplikation",
+            "Übertrag",
+            "Stellenwert",
+            "Produkt",
+            "Multiplikationsverfahren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schriftlich dividieren",
+          "level": 1,
+          "keyterms": [
+            "Schriftliche Division",
+            "Rest",
+            "Quotient",
+            "Teiler",
+            "Divisionsverfahren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Schriftlich dividieren mit großen Zahlen",
+          "level": 1,
+          "keyterms": [
+            "Große Zahlen",
+            "Schriftliche Division",
+            "Rest",
+            "Quotient",
+            "Divisionsverfahren"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Multiplikation und Division",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Textaufgaben",
+            "Multiplikation",
+            "Division",
+            "Anwendung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ebene Figuren",
+      "level": 0,
+      "keyterms": [
+        "Vierecke",
+        "Achsensymmetrie",
+        "Rechtecke",
+        "Quadrate",
+        "Mittellinien",
+        "Geometrische Figuren",
+        "Symmetrie",
+        "Figuren zeichnen",
+        "Eigenschaften",
+        "Formen",
+        "Geometrie",
+        "Flächen",
+        "Kanten",
+        "Ecken"
+      ],
+      "children": [
+        {
+          "name": "Vierecke",
+          "level": 1,
+          "keyterms": [
+            "Viereck",
+            "Eigenschaften",
+            "Seiten",
+            "Winkel",
+            "Formen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Achsensymmetrische Figuren",
+          "level": 1,
+          "keyterms": [
+            "Achsensymmetrie",
+            "Symmetrieachse",
+            "Spiegelung",
+            "Figuren",
+            "Geometrie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rechtecke zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Rechteck",
+            "Zeichnen",
+            "Eigenschaften",
+            "Winkel",
+            "Seiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadrate zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Quadrat",
+            "Zeichnen",
+            "Eigenschaften",
+            "Winkel",
+            "Seiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Diagonalen und Mittellinien",
+          "level": 1,
+          "keyterms": [
+            "Diagonale",
+            "Mittellinie",
+            "Viereck",
+            "Geometrie",
+            "Eigenschaften"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Körper",
+      "level": 0,
+      "keyterms": [
+        "Geometrische Körper",
+        "Würfel",
+        "Quader",
+        "Netze",
+        "Kanten",
+        "Ecken",
+        "Flächen",
+        "Körper zeichnen",
+        "Körper darstellen",
+        "Eigenschaften",
+        "Körperformen",
+        "Geometrie",
+        "Raum",
+        "Volumen"
+      ],
+      "children": [
+        {
+          "name": "Geometrische Körper",
+          "level": 1,
+          "keyterms": [
+            "Körper",
+            "Eigenschaften",
+            "Formen",
+            "Geometrie",
+            "Raum"
+          ],
+          "children": []
+        },
+        {
+          "name": "Würfelnetze zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Würfel",
+            "Netz",
+            "Zeichnen",
+            "Flächen",
+            "Kanten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Quadernetze zeichnen",
+          "level": 1,
+          "keyterms": [
+            "Quader",
+            "Netz",
+            "Zeichnen",
+            "Flächen",
+            "Kanten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Körper darstellen",
+          "level": 1,
+          "keyterms": [
+            "Körper",
+            "Darstellung",
+            "Zeichnen",
+            "Eigenschaften",
+            "Geometrie"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mit Größen rechnen",
+      "level": 0,
+      "keyterms": [
+        "Größen",
+        "Maßeinheiten",
+        "Umrechnen",
+        "Vergleichen",
+        "Addition",
+        "Subtraktion",
+        "Multiplikation",
+        "Division",
+        "Sachaufgaben",
+        "Längen",
+        "Gewichte",
+        "Zeit",
+        "Umwandlung",
+        "Rechnen mit Größen"
+      ],
+      "children": [
+        {
+          "name": "Größen vergleichen und ordnen",
+          "level": 1,
+          "keyterms": [
+            "Vergleich",
+            "Ordnen",
+            "Größen",
+            "Maßeinheiten",
+            "Reihenfolge"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen addieren und subtrahieren",
+          "level": 1,
+          "keyterms": [
+            "Addition",
+            "Subtraktion",
+            "Größen",
+            "Maßeinheiten",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Größen multiplizieren und dividieren",
+          "level": 1,
+          "keyterms": [
+            "Multiplikation",
+            "Division",
+            "Größen",
+            "Maßeinheiten",
+            "Rechenregeln"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Größen",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Textaufgaben",
+            "Größen",
+            "Anwendung",
+            "Rechnen"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Flächeninhalt und Umfang",
+      "level": 0,
+      "keyterms": [
+        "Flächeninhalt",
+        "Umfang",
+        "Rechteck",
+        "Quadrat",
+        "Berechnung",
+        "Formeln",
+        "Sachaufgaben",
+        "Maßeinheiten",
+        "Geometrie",
+        "Länge",
+        "Breite",
+        "Seiten",
+        "Fläche",
+        "Rechnen mit Flächen",
+        "Umfangsberechnung"
+      ],
+      "children": [
+        {
+          "name": "Flächeninhalt bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Flächeninhalt",
+            "Berechnung",
+            "Formel",
+            "Quadrat",
+            "Rechteck"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umfang eines Rechtecks berechnen",
+          "level": 1,
+          "keyterms": [
+            "Umfang",
+            "Rechteck",
+            "Berechnung",
+            "Formel",
+            "Seiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Flächeninhalt und Umfang",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Textaufgaben",
+            "Flächeninhalt",
+            "Umfang",
+            "Anwendung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rauminhalt",
+      "level": 0,
+      "keyterms": [
+        "Rauminhalt",
+        "Volumen",
+        "Quader",
+        "Würfel",
+        "Berechnung",
+        "Formeln",
+        "Maßeinheiten",
+        "Geometrie",
+        "Länge",
+        "Breite",
+        "Höhe",
+        "Kubikzentimeter",
+        "Kubikmeter",
+        "Raum",
+        "Volumenberechnung"
+      ],
+      "children": [
+        {
+          "name": "Rauminhalt bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Rauminhalt",
+            "Volumen",
+            "Berechnung",
+            "Formel",
+            "Quader"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rauminhalt eines Quaders berechnen",
+          "level": 1,
+          "keyterms": [
+            "Quader",
+            "Volumen",
+            "Berechnung",
+            "Formel",
+            "Maßeinheiten"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sachaufgaben zu Rauminhalten",
+          "level": 1,
+          "keyterms": [
+            "Sachaufgaben",
+            "Textaufgaben",
+            "Rauminhalt",
+            "Volumen",
+            "Anwendung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Daten und Zufall",
+      "level": 0,
+      "keyterms": [
+        "Statistik",
+        "Diagramme",
+        "Daten",
+        "Auswertung",
+        "Stabdiagramm",
+        "Säulendiagramm",
+        "Daten lesen",
+        "Daten darstellen",
+        "Mittelwert",
+        "Häufigkeit",
+        "Zufall",
+        "Wahrscheinlichkeit",
+        "Datenanalyse",
+        "Ergebnisse",
+        "Dateninterpretation"
+      ],
+      "children": [
+        {
+          "name": "Statistiken",
+          "level": 1,
+          "keyterms": [
+            "Statistik",
+            "Daten",
+            "Auswertung",
+            "Erhebung",
+            "Darstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten aus Diagrammen ablesen",
+          "level": 1,
+          "keyterms": [
+            "Diagramme",
+            "Ablesen",
+            "Daten",
+            "Säulendiagramm",
+            "Stabdiagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten in Diagrammen darstellen",
+          "level": 1,
+          "keyterms": [
+            "Diagramme",
+            "Darstellung",
+            "Daten",
+            "Säulendiagramm",
+            "Stabdiagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Daten auswerten",
+          "level": 1,
+          "keyterms": [
+            "Auswertung",
+            "Daten",
+            "Mittelwert",
+            "Häufigkeit",
+            "Interpretation"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

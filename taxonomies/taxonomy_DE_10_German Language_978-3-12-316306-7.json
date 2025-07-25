@@ -1,0 +1,731 @@
+{
+  "country": "DE",
+  "grade": "10",
+  "subject": "German Language",
+  "ISBN": "978-3-12-316306-7",
+  "taxonomy": [
+    {
+      "name": "Lesen 2.0 – Sich und andere informieren",
+      "level": 0,
+      "keyterms": [
+        "informierende Texte",
+        "Sachtextanalyse",
+        "Textplanung",
+        "Textüberarbeitung",
+        "digitale Medien",
+        "Informationsbeschaffung",
+        "Lesestrategien",
+        "Textsorten",
+        "Materialauswertung",
+        "Referat",
+        "schriftliche Analyse",
+        "Zukunftsthemen",
+        "Wasserressourcen"
+      ],
+      "children": [
+        {
+          "name": "Lesen im digitalen Zeitalter – Auf Materialbasis einen informierenden Text schreiben",
+          "level": 1,
+          "keyterms": [
+            "digitale Texte",
+            "Informationsquellen",
+            "Textstruktur",
+            "Materialauswertung",
+            "Schreibprozess"
+          ],
+          "children": [
+            {
+              "name": "Einen informierenden Text planen",
+              "level": 2,
+              "keyterms": [
+                "Gliederung",
+                "Themenfindung",
+                "Recherche",
+                "Zielgruppenorientierung"
+              ],
+              "children": []
+            },
+            {
+              "name": "Einen informierenden Text schreiben und überarbeiten",
+              "level": 2,
+              "keyterms": [
+                "Rohfassung",
+                "Überarbeitung",
+                "Kohärenz",
+                "Sprachstil"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Mehr als nur Lesen – Einen Sachtext schriftlich analysieren",
+          "level": 1,
+          "keyterms": [
+            "Sachtextanalyse",
+            "Argumentationsstruktur",
+            "Textverständnis",
+            "Analyseverfahren"
+          ],
+          "children": [
+            {
+              "name": "Eine Sachtextanalyse planen",
+              "level": 2,
+              "keyterms": [
+                "Analyseaufbau",
+                "Fragestellung",
+                "Textmerkmale"
+              ],
+              "children": []
+            },
+            {
+              "name": "Eine Sachtextanalyse schreiben und überarbeiten",
+              "level": 2,
+              "keyterms": [
+                "Analyseformulierung",
+                "Textbelege",
+                "Überarbeitung"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wasserorte der Zukunft – Ein Referat vorbereiten und halten",
+          "level": 1,
+          "keyterms": [
+            "Referat",
+            "Präsentation",
+            "Vorbereitung",
+            "Themenrecherche",
+            "Visualisierung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Lasst uns reden! – Sprachlicher Umgang miteinander",
+      "level": 0,
+      "keyterms": [
+        "Kommunikation",
+        "Sprachgebrauch",
+        "Reden analysieren",
+        "literarische Kommunikation",
+        "Rhetorik",
+        "Redestrategien",
+        "Sprachwirkung",
+        "Argumentation",
+        "Redeanalyse"
+      ],
+      "children": [
+        {
+          "name": "Man kann nicht nicht kommunizieren – Kommunikationssituationen unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Kommunikationsmodelle",
+            "Sender-Empfänger-Modell",
+            "nonverbale Kommunikation",
+            "Missverständnisse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Das macht doch nichts ... Kommunikation in literarischen Texten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "literarische Kommunikation",
+            "Dialoganalyse",
+            "Charakterdarstellung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Macht der Worte – Reden analysieren",
+          "level": 1,
+          "keyterms": [
+            "Redestrategien",
+            "Sprachbilder",
+            "Überzeugungskraft",
+            "Rhetorische Mittel"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wege zum Glück? – Mündlich und schriftlich argumentieren",
+      "level": 0,
+      "keyterms": [
+        "Argumentation",
+        "Diskussion",
+        "Erörterung",
+        "Pro-und-Kontra",
+        "Glück",
+        "Selbstbestimmung",
+        "Argumentationsstruktur",
+        "Meinungsbildung",
+        "Diskussionsleitung"
+      ],
+      "children": [
+        {
+          "name": "Los geht's – Argumente ordnen",
+          "level": 1,
+          "keyterms": [
+            "Argumentationsaufbau",
+            "Begründung",
+            "Beispiel",
+            "Schlussfolgerung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Glück auf dem Stundenplan? – Eine Diskussion planen und durchführen",
+          "level": 1,
+          "keyterms": [
+            "Diskussionsregeln",
+            "Moderation",
+            "Redebeiträge",
+            "Diskussionsleitung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Durch Selbstbestimmung glücklich? – Auf Grundlage eines Textes eine Pro- und Kontra-Erörterung verfassen",
+          "level": 1,
+          "keyterms": [
+            "Erörterung",
+            "Textgrundlage",
+            "Pro-Argumente",
+            "Kontra-Argumente",
+            "Schluss"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sprache und Diskriminierung – Auf Materialbasis einen argumentierenden Text schreiben",
+      "level": 0,
+      "keyterms": [
+        "Diskriminierung",
+        "Sprache",
+        "Argumentation",
+        "Kommentaranalyse",
+        "Informationsauswertung",
+        "Textgliederung",
+        "Meinungsäußerung",
+        "Sprachkritik"
+      ],
+      "children": [
+        {
+          "name": "Sprache und Verantwortung – Auf Materialbasis einen argumentierenden Text schreiben",
+          "level": 1,
+          "keyterms": [
+            "Verantwortung",
+            "Sprachgebrauch",
+            "Argumentationsstruktur"
+          ],
+          "children": [
+            {
+              "name": "Die Aufgabenstellung erfassen und die Materialien auswerten",
+              "level": 2,
+              "keyterms": [
+                "Materialauswertung",
+                "Aufgabenverständnis"
+              ],
+              "children": []
+            },
+            {
+              "name": "Die Informationen ordnen und gliedern",
+              "level": 2,
+              "keyterms": [
+                "Textgliederung",
+                "Strukturierung"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Informiert schreiben? – Auf Materialbasis einen Kommentar schreiben und überarbeiten",
+          "level": 1,
+          "keyterms": [
+            "Kommentar",
+            "Überarbeitung",
+            "Meinungsäußerung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Wandlungen – Erzählende Texte untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Erzählende Texte",
+        "Interpretation",
+        "Parabel",
+        "Fremdheitserfahrung",
+        "Liebesgeschichte",
+        "Textanalyse",
+        "Erzählperspektive",
+        "Handlung",
+        "Podcast",
+        "Gestaltung"
+      ],
+      "children": [
+        {
+          "name": "Fremdheitserfahrungen – Erzählende Texte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Fremdheit",
+            "Erzählstruktur",
+            "Textverständnis"
+          ],
+          "children": []
+        },
+        {
+          "name": "Liebeswege – Erzählende Texte interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Liebesgeschichte",
+            "Interpretation",
+            "Textbelege"
+          ],
+          "children": []
+        },
+        {
+          "name": "Irrwege – Parabeln untersuchen und interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Parabel",
+            "Interpretation",
+            "Lehrgehalt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Haltung zeigen – Einen Podcast zu einer Parabel gestalten",
+          "level": 1,
+          "keyterms": [
+            "Podcast",
+            "Gestaltung",
+            "Präsentation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Auerhaus – Wir blicken auf uns! Einen Roman und seine Verfilmung untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Roman",
+        "Verfilmung",
+        "Interpretation",
+        "Figurenanalyse",
+        "Intertextualität",
+        "Filmvergleich",
+        "Handlung",
+        "Themen",
+        "Filmgestaltung"
+      ],
+      "children": [
+        {
+          "name": "Vom Glück und Unglück – Einen Roman untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Romananalyse",
+            "Handlung",
+            "Themen",
+            "Intertextualität"
+          ],
+          "children": []
+        },
+        {
+          "name": "Zwischen Freund und Geborgenheit – Die Figuren und ihre Darstellung im Film untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Figurenanalyse",
+            "Filmcharaktere",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Freundschaft, Flucht ... – Aspekte des Romans medial gestalten",
+          "level": 1,
+          "keyterms": [
+            "Mediengestaltung",
+            "Romanaspekte",
+            "Präsentation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rebellion – Gedichte untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Gedichtanalyse",
+        "Interpretation",
+        "Lyrik",
+        "Gesellschaftskritik",
+        "Zensur",
+        "Unterdrückung",
+        "Sprachkritik",
+        "Lebenswirklichkeit",
+        "Rebellion",
+        "lyrische Texte"
+      ],
+      "children": [
+        {
+          "name": "Gegen Fanatismus und Missstände in der Gesellschaft – Gedichte untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Fanatismus",
+            "Missstände",
+            "Gesellschaftskritik",
+            "Gedichtinterpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gegen Zensur und Unterdrückung – Gedichte interpretieren und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Zensur",
+            "Unterdrückung",
+            "Interpretation",
+            "Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gegen Oberflächlichkeit und Verschwendung – Lyrische Texte sprachkritisch gestalten",
+          "level": 1,
+          "keyterms": [
+            "Oberflächlichkeit",
+            "Verschwendung",
+            "Sprachkritik",
+            "Lyrik"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ungleiche Brüder – Ein Drama untersuchen, interpretieren und gestalten",
+      "level": 0,
+      "keyterms": [
+        "Drama",
+        "Dramenanalyse",
+        "Sturm und Drang",
+        "Konflikte",
+        "Szenenanalyse",
+        "Hauptmann",
+        "Räuber",
+        "Dramenstruktur",
+        "Interpretation"
+      ],
+      "children": [
+        {
+          "name": "Motive und Konflikte – Die Räuber und ihr Aufbau untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Motivanalyse",
+            "Konfliktanalyse",
+            "Dramenaufbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Welt und Menschen – Die Epoche des Sturm und Drang untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sturm und Drang",
+            "Epoche",
+            "Menschenbild"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wer wird Hauptmann? – Eine Dramenszene untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Szenenanalyse",
+            "Charaktere",
+            "Dramenhandlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein ehrlicher Räuber? – Eine Dramenszene interpretieren",
+          "level": 1,
+          "keyterms": [
+            "Interpretation",
+            "Moral",
+            "Dramenszene"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Die Welt, das Internet und ich – Mediale Prozesse der Meinungsbildung und das virtuelle Ich untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Medienkompetenz",
+        "Meinungsbildung",
+        "digitale Medien",
+        "Nachrichten",
+        "Informationsvermittlung",
+        "Hate Speech",
+        "Filterblasen",
+        "Echokammern",
+        "soziale Medien",
+        "virtuelle Identität"
+      ],
+      "children": [
+        {
+          "name": "Nachrichten im digitalen Zeitalter – Informationsvermittlung in Medienformaten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Nachrichtenformate",
+            "Informationsvermittlung",
+            "Medienvergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Lenkung und Hass im Netz – Meinungsbildung und Äußerung in Medienformaten untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Hate Speech",
+            "Meinungsäußerung",
+            "Filterblasen",
+            "Echokammern"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ich poste, also bin ich? – Das virtuelle Ich in sozialen Medien untersuchen",
+          "level": 1,
+          "keyterms": [
+            "virtuelle Identität",
+            "Selbstdarstellung",
+            "soziale Netzwerke"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sprache(n) als Schlüssel zur Welt – Sprache betrachten",
+      "level": 0,
+      "keyterms": [
+        "Mehrsprachigkeit",
+        "Sprachwandel",
+        "Sprachentwicklung",
+        "Wortschatz",
+        "Sprachvergleich",
+        "Sprachgeschichte",
+        "Gegenwartssprache",
+        "Sprachgebrauch",
+        "Sprachreflexion"
+      ],
+      "children": [
+        {
+          "name": "Mehrsprachig – mehr Chancen?",
+          "level": 1,
+          "keyterms": [
+            "Mehrsprachigkeit",
+            "Wortschatz",
+            "Sprachkompetenz"
+          ],
+          "children": [
+            {
+              "name": "Äußere Mehrsprachigkeit und innere Mehrsprachigkeit",
+              "level": 2,
+              "keyterms": [
+                "Sprachenvielfalt",
+                "Sprachbewusstsein"
+              ],
+              "children": []
+            },
+            {
+              "name": "Wörter und ihre Verwendungen vergleichen",
+              "level": 2,
+              "keyterms": [
+                "Wortbedeutung",
+                "Vergleich"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Sprache im Wandel – Entwicklungsstufen der Gegenwartssprache beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Sprachwandel",
+            "Sprachentwicklung",
+            "Gegenwartssprache"
+          ],
+          "children": [
+            {
+              "name": "Den Ursprung und Verlauf von Sprachwandel untersuchen",
+              "level": 2,
+              "keyterms": [
+                "Sprachgeschichte",
+                "Ursprünge"
+              ],
+              "children": []
+            },
+            {
+              "name": "Die Bedeutung von Sprachwandel erkennen",
+              "level": 2,
+              "keyterms": [
+                "Sprachveränderung",
+                "Bedeutungswandel"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lerninseln",
+      "level": 0,
+      "keyterms": [
+        "Sachtexte",
+        "Referat",
+        "Argumentation",
+        "Erzählende Texte",
+        "Gedichte",
+        "Dramatische Texte",
+        "Medienkompetenz",
+        "Grammatik",
+        "Rechtschreibung",
+        "Arbeitstechniken"
+      ],
+      "children": [
+        {
+          "name": "Umgang mit Sachtexten",
+          "level": 1,
+          "keyterms": [
+            "orientierendes Lesen",
+            "selektives Lesen",
+            "erschließendes Lesen",
+            "vergleichendes Lesen",
+            "Schaubilder",
+            "Diagramme",
+            "Sachtextanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Referieren, präsentieren und diskutieren",
+          "level": 1,
+          "keyterms": [
+            "Referat",
+            "Präsentation",
+            "Diskussion",
+            "Standpunkt"
+          ],
+          "children": []
+        },
+        {
+          "name": "Informieren und argumentieren",
+          "level": 1,
+          "keyterms": [
+            "informierender Text",
+            "argumentierender Text",
+            "Erörterung",
+            "Textstruktur"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umgang mit erzählenden Texten",
+          "level": 1,
+          "keyterms": [
+            "Erzähltext",
+            "Parabel",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umgang mit Gedichten",
+          "level": 1,
+          "keyterms": [
+            "Gedicht",
+            "Fachbegriffe",
+            "Interpretation"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umgang mit dramatischen Texten",
+          "level": 1,
+          "keyterms": [
+            "Drama",
+            "Dramenszene",
+            "Interpretation",
+            "Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Umgang mit Medien",
+          "level": 1,
+          "keyterms": [
+            "Internetrecherche",
+            "Medienbewertung",
+            "Filmanalyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Grammatik",
+          "level": 1,
+          "keyterms": [
+            "Wortarten",
+            "Satzglieder",
+            "Nebensätze",
+            "Satzzeichen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Rechtschreibung",
+          "level": 1,
+          "keyterms": [
+            "Großschreibung",
+            "Kleinschreibung",
+            "Getrennt- und Zusammenschreibung",
+            "Fremdwörter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Arbeitstechniken",
+          "level": 1,
+          "keyterms": [
+            "Plan",
+            "Mindmap",
+            "Exzerpt",
+            "Textquellen",
+            "Plakat",
+            "Textwiedergabe"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "country": "DE",
+  "grade": "6",
+  "subject": "German Language",
+  "ISBN": "978-3-12-316302-9",
+  "taxonomy": [
+    {
+      "name": "Erfindungen: sehr patent! Sich und andere informieren",
+      "level": 0,
+      "keyterms": [
+        "Sachtext",
+        "Informationen",
+        "Diagramm",
+        "Tabellen",
+        "Zeitstrahl",
+        "Internetrecherche",
+        "Suchmaschine",
+        "Suchergebnisse",
+        "Erfindungen",
+        "Bewertung",
+        "Präsentation",
+        "Recherche",
+        "Medienkompetenz"
+      ],
+      "children": [
+        {
+          "name": "Einen Sachtext verstehen",
+          "level": 1,
+          "keyterms": [
+            "Sachtext",
+            "Verstehen",
+            "Lesetechnik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Informationen verstehen, ordnen und auswerten",
+          "level": 1,
+          "keyterms": [
+            "Informationen",
+            "Ordnen",
+            "Auswerten",
+            "Tabellen",
+            "Zeitstrahl",
+            "Diagramm"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sich im Internet gezielt informieren",
+          "level": 1,
+          "keyterms": [
+            "Internet",
+            "Recherche",
+            "Suchmaschine",
+            "Suchergebnisse",
+            "Bewertung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Bericht zu Erfindungen verfassen und halten",
+          "level": 1,
+          "keyterms": [
+            "Bericht",
+            "Erfindungen",
+            "Präsentation",
+            "Vortrag"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Das sehe ich anders! Sprachlicher Umgang mit anderen",
+      "level": 0,
+      "keyterms": [
+        "Argumente",
+        "Meinung",
+        "Diskussion",
+        "Standpunkt",
+        "Begründung",
+        "E-Mail",
+        "Gespräch",
+        "Kommunikation",
+        "Überzeugen",
+        "Gegenargument",
+        "Dialog",
+        "Austausch"
+      ],
+      "children": [
+        {
+          "name": "Meinungen äußern und begründen",
+          "level": 1,
+          "keyterms": [
+            "Meinung",
+            "Begründung",
+            "Argumente"
+          ],
+          "children": []
+        },
+        {
+          "name": "Diskussionen führen",
+          "level": 1,
+          "keyterms": [
+            "Diskussion",
+            "Standpunkt",
+            "Gegenargument",
+            "Gesprächsleitung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Nachtgestalten und andere unheimliche Geschöpfe – Mündlich und schriftlich erzählen",
+      "level": 0,
+      "keyterms": [
+        "Erzählen",
+        "Spannung",
+        "Handlung",
+        "Erzählstruktur",
+        "Unheimliches",
+        "Dialog",
+        "Erzählperspektive",
+        "Charaktere",
+        "Erzählzeit",
+        "Erzähltechnik",
+        "Literarischer Text"
+      ],
+      "children": [
+        {
+          "name": "Anschaulich erzählen",
+          "level": 1,
+          "keyterms": [
+            "Anschaulichkeit",
+            "Beschreibung",
+            "Erzählung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Von einem Film mündlich erzählen",
+          "level": 1,
+          "keyterms": [
+            "Film",
+            "Mündliche Erzählung",
+            "Handlungsablauf"
+          ],
+          "children": []
+        },
+        {
+          "name": "Mit Sprache Spannung erzeugen",
+          "level": 1,
+          "keyterms": [
+            "Spannung",
+            "Sprachmittel",
+            "Erzähltechnik"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Erzählen im Alltag",
+          "level": 1,
+          "keyterms": [
+            "Alltag",
+            "Erzählung",
+            "Handlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Erzählen ausgestalten",
+          "level": 1,
+          "keyterms": [
+            "Erzählstruktur",
+            "Ausgestaltung",
+            "Erzählperspektive"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Natur erleben und herichten – Beschreiben und berichten",
+      "level": 0,
+      "keyterms": [
+        "Beschreibung",
+        "Bericht",
+        "Personenbeschreibung",
+        "Vorgangsbeschreibung",
+        "Ereignis",
+        "Unfall",
+        "Struktur",
+        "Merkmale",
+        "Sachtext",
+        "Beobachtung"
+      ],
+      "children": [
+        {
+          "name": "Eine Person beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Personenbeschreibung",
+            "Merkmale",
+            "Charakterisierung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Vorgang beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Vorgangsbeschreibung",
+            "Ablauf",
+            "Handlung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Bericht schreiben",
+          "level": 1,
+          "keyterms": [
+            "Bericht",
+            "Ereignis",
+            "Unfall",
+            "Struktur"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mit allen Sinnen erleben – Bücher, Hörspiele und Filme entdecken",
+      "level": 0,
+      "keyterms": [
+        "Buchvorstellung",
+        "Handlung",
+        "Hörspiel",
+        "Film",
+        "Graphic Novel",
+        "Figuren",
+        "Innere Handlung",
+        "Äußere Handlung",
+        "Produktion",
+        "Analyse",
+        "Jugendbuch"
+      ],
+      "children": [
+        {
+          "name": "Ein Buch vorstellen",
+          "level": 1,
+          "keyterms": [
+            "Buchvorstellung",
+            "Handlung",
+            "Charaktere"
+          ],
+          "children": []
+        },
+        {
+          "name": "Bücher und Hörspiele untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Hörspiel",
+            "Merkmale",
+            "Produktion"
+          ],
+          "children": []
+        },
+        {
+          "name": "Merkmale von Graphic Novels erkennen",
+          "level": 1,
+          "keyterms": [
+            "Graphic Novel",
+            "Bildsprache",
+            "Erzählweise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Einen Film untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Film",
+            "Analyse",
+            "Figuren"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Kleine und große Hüte – Lügen und schlaue Geschichten, Fabeln, Heldensagen und Göttersagen entdecken",
+      "level": 0,
+      "keyterms": [
+        "Fabel",
+        "Sage",
+        "Göttersage",
+        "Lügen",
+        "Schwänke",
+        "Helden",
+        "Untersuchung",
+        "Gestaltung",
+        "Motive",
+        "Struktur",
+        "Charaktere"
+      ],
+      "children": [
+        {
+          "name": "Lügen und Schwänke untersuchen und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Lügen",
+            "Schwank",
+            "Gestaltung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Fabeln untersuchen und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Fabel",
+            "Aufbau",
+            "Moral"
+          ],
+          "children": []
+        },
+        {
+          "name": "Helden- und Göttersagen untersuchen und gestalten",
+          "level": 1,
+          "keyterms": [
+            "Sage",
+            "Göttersage",
+            "Helden",
+            "Motive"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ich fühl mich so ... – Gedichte entdecken",
+      "level": 0,
+      "keyterms": [
+        "Gedicht",
+        "Stimmung",
+        "Inhalt",
+        "Traum",
+        "Wünsche",
+        "Form",
+        "Vortrag",
+        "Interpretation",
+        "Bilder",
+        "Analyse"
+      ],
+      "children": [
+        {
+          "name": "Den Inhalt, die Stimmung und das lyrische Ich untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Inhalt",
+            "Stimmung",
+            "Lyrisches Ich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Metaphorische Bilder untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Metapher",
+            "Bildsprache",
+            "Vergleich"
+          ],
+          "children": []
+        },
+        {
+          "name": "Die Form untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Form",
+            "Versmaß",
+            "Reim"
+          ],
+          "children": []
+        },
+        {
+          "name": "Ein Gedicht vortragen und auswendig lernen",
+          "level": 1,
+          "keyterms": [
+            "Vortrag",
+            "Auswendiglernen",
+            "Präsentation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Tierisch menschlich – Szenisch spielen",
+      "level": 0,
+      "keyterms": [
+        "Szenisches Spiel",
+        "Dialog",
+        "Bühne",
+        "Aufführung",
+        "Rolle",
+        "Gestaltung",
+        "Improvisation",
+        "Skript",
+        "Charaktere"
+      ],
+      "children": [
+        {
+          "name": "Szenen spielen",
+          "level": 1,
+          "keyterms": [
+            "Szene",
+            "Spiel",
+            "Rolle"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Szene für die Bühne schreiben",
+          "level": 1,
+          "keyterms": [
+            "Bühne",
+            "Skript",
+            "Dialog"
+          ],
+          "children": []
+        },
+        {
+          "name": "Eine Aufführung gestalten",
+          "level": 1,
+          "keyterms": [
+            "Aufführung",
+            "Gestaltung",
+            "Improvisation"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Welt auf Knopfdruck – Das Fernsehen untersuchen",
+      "level": 0,
+      "keyterms": [
+        "Fernsehen",
+        "Sendung",
+        "Programm",
+        "Wissenssendung",
+        "Casting",
+        "Medienanalyse",
+        "Unterhaltung",
+        "Information",
+        "Medienkompetenz"
+      ],
+      "children": [
+        {
+          "name": "Sich im Programmangebot orientieren",
+          "level": 1,
+          "keyterms": [
+            "Programm",
+            "Orientierung",
+            "Sendung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wissenssendungen und Unterhaltungssendungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Wissenssendung",
+            "Unterhaltungssendung",
+            "Analyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Castingformate untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Casting",
+            "Format",
+            "Bewertung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Unsere Sprache im Visier – Wörter, Sprichwörter und Redewendungen erkunden",
+      "level": 0,
+      "keyterms": [
+        "Wörter",
+        "Sprichwörter",
+        "Redewendungen",
+        "Synonyme",
+        "Antonyme",
+        "Erbwörter",
+        "Lehnwörter",
+        "Fremdwörter",
+        "Wortbedeutung",
+        "Wortschatz"
+      ],
+      "children": [
+        {
+          "name": "Erb-, Lehn- und Fremdwörter untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Erbwörter",
+            "Lehnwörter",
+            "Fremdwörter"
+          ],
+          "children": []
+        },
+        {
+          "name": "Sprichwörter und Redewendungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Sprichwörter",
+            "Redewendungen",
+            "Bedeutung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wortbedeutungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Wortbedeutung",
+            "Synonyme",
+            "Antonyme"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Typisch sie, typisch er? – Wortarten unterscheiden und verwenden",
+      "level": 0,
+      "keyterms": [
+        "Wortarten",
+        "Nomen",
+        "Verben",
+        "Adjektive",
+        "Pronomen",
+        "Demonstrativpronomen",
+        "Relativpronomen",
+        "Konjunktionen",
+        "Adverbien",
+        "Satzbau"
+      ],
+      "children": [
+        {
+          "name": "Wichtige Wortarten unterscheiden",
+          "level": 1,
+          "keyterms": [
+            "Nomen",
+            "Verben",
+            "Adjektive"
+          ],
+          "children": []
+        },
+        {
+          "name": "Tempusformen und Verwendung",
+          "level": 1,
+          "keyterms": [
+            "Tempus",
+            "Zeitformen",
+            "Verwendung"
+          ],
+          "children": []
+        },
+        {
+          "name": "Demonstrativ- und Relativpronomen verwenden",
+          "level": 1,
+          "keyterms": [
+            "Demonstrativpronomen",
+            "Relativpronomen",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wörter und Sätze mit Konjunktionen verknüpfen",
+          "level": 1,
+          "keyterms": [
+            "Konjunktionen",
+            "Satzverbindung",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Adverbien zur Veranschaulichung verwenden",
+          "level": 1,
+          "keyterms": [
+            "Adverbien",
+            "Umstände",
+            "Veranschaulichung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Versunkene Welten – Satzglieder untersuchen und verwenden",
+      "level": 0,
+      "keyterms": [
+        "Satzglieder",
+        "Prädikat",
+        "Subjekt",
+        "Objekt",
+        "Adverbialbestimmung",
+        "Attribut",
+        "Satzbau",
+        "Grammatik",
+        "Analyse"
+      ],
+      "children": [
+        {
+          "name": "Satzglieder erkennen und bestimmen",
+          "level": 1,
+          "keyterms": [
+            "Satzglieder",
+            "Bestimmung",
+            "Analyse"
+          ],
+          "children": []
+        },
+        {
+          "name": "Prädikative Ergänzungen",
+          "level": 1,
+          "keyterms": [
+            "Prädikat",
+            "Ergänzung",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Adverbialbestimmungen untersuchen",
+          "level": 1,
+          "keyterms": [
+            "Adverbialbestimmung",
+            "Umstandsangabe",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Attribute genau beschreiben",
+          "level": 1,
+          "keyterms": [
+            "Attribut",
+            "Beschreibung",
+            "Satzbau"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Geheimnisvolle Zeichen – Satzzeichen setzen",
+      "level": 0,
+      "keyterms": [
+        "Satzzeichen",
+        "Komma",
+        "Punkt",
+        "Ausrufezeichen",
+        "Fragezeichen",
+        "Apposition",
+        "Satzgefüge",
+        "Hauptsatz",
+        "Nebensatz"
+      ],
+      "children": [
+        {
+          "name": "Satzzeichen im Hauptsatz und Nebensatz",
+          "level": 1,
+          "keyterms": [
+            "Hauptsatz",
+            "Nebensatz",
+            "Satzzeichen"
+          ],
+          "children": []
+        },
+        {
+          "name": "Kommasetzung bei Satzgefügen",
+          "level": 1,
+          "keyterms": [
+            "Komma",
+            "Satzgefüge",
+            "Satzbau"
+          ],
+          "children": []
+        },
+        {
+          "name": "Appositionen erkennen und trennen",
+          "level": 1,
+          "keyterms": [
+            "Apposition",
+            "Komma",
+            "Trennung"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Rund um den Globus – Regeln und Strategien der Rechtschreibung anwenden",
+      "level": 0,
+      "keyterms": [
+        "Rechtschreibung",
+        "Großschreibung",
+        "Nominalisierung",
+        "Vokal",
+        "Konsonant",
+        "Laut",
+        "Wörterbuch",
+        "Computer",
+        "Schreibstrategie"
+      ],
+      "children": [
+        {
+          "name": "Rechtschreibproben nutzen",
+          "level": 1,
+          "keyterms": [
+            "Rechtschreibprobe",
+            "Überprüfung",
+            "Strategie"
+          ],
+          "children": []
+        },
+        {
+          "name": "Großschreibung beherrschen",
+          "level": 1,
+          "keyterms": [
+            "Großschreibung",
+            "Nominalisierung",
+            "Regel"
+          ],
+          "children": []
+        },
+        {
+          "name": "Gleich und ähnlich klingende Laute schreiben",
+          "level": 1,
+          "keyterms": [
+            "Vokal",
+            "Konsonant",
+            "Laut",
+            "Schreibweise"
+          ],
+          "children": []
+        },
+        {
+          "name": "Wörterbuch und digitale Rechtschreibprüfung nutzen",
+          "level": 1,
+          "keyterms": [
+            "Wörterbuch",
+            "Computer",
+            "Rechtschreibprüfung"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
